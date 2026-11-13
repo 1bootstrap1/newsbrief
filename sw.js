@@ -1,10 +1,11 @@
 /* Network-first service worker: always tries the live site so new editions show immediately,
    and falls back to the last copy it saw when you're offline. */
-const CACHE = "newsbrief-v1";
-const SHELL = ["./", "index.html", "edition.json", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
+const CACHE = "newsbrief-v2";
+const SHELL = ["./", "index.html", "edition.json", "headlines.json", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  // add files one by one so a missing optional file (e.g. headlines.json before the first run) doesn't block install
+  e.waitUntil(caches.open(CACHE).then((c) => Promise.all(SHELL.map((u) => c.add(u).catch(() => {})))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (e) => {

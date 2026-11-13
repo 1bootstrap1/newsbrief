@@ -85,7 +85,7 @@
   .tab { font: inherit; font-size: 14px; font-weight: 600; padding: 8px 20px; cursor: pointer; background: #e7e9e1; color: var(--accent); border: 1px solid var(--line); border-bottom: 0; border-radius: 8px 8px 0 0; }
   .tab[aria-selected="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
   .tab:focus-visible { outline: 2px solid #f0a500; outline-offset: 2px; }
-  #panel-news .paper, #panel-analysis .paper { border-top-left-radius: 0; border-top-right-radius: 0; border-top: 0; }
+  #panel-headlines .paper, #panel-news .paper, #panel-analysis .paper { border-top-left-radius: 0; border-top-right-radius: 0; border-top: 0; }
 
   /* Analysis */
   .lead { font-size: 13.5px; color: var(--muted); margin: 12px 0 2px; }
@@ -255,10 +255,10 @@
     <div class="kicker">Cabarrus County · North Carolina · U.S. · World</div>
     <h1 id="title">News Brief</h1>
     <div class="dateline" id="dateline"></div>
-    <p class="purpose" id="purpose"></p>
+    <p class="purpose" id="purpose">Headlines refresh automatically from public news feeds. The Summary and Analysis tabs are a hand-built edition that blends several sources per story. Every story links to its sources, each with a subjective perspective rating.</p>
   </header>
 
-  <section class="ticker" id="ticker" aria-label="Market snapshot">
+  <section class="ticker" id="ticker" aria-label="Market snapshot" hidden>
     <div class="tk-viewport"><div class="tk-track" id="tkTrack"></div></div>
     <div class="tk-bar">
       <div class="tk-info"><b id="tkAsof"></b><span id="tkNote"></span></div>
@@ -268,31 +268,34 @@
 
   <form class="controls" id="controls" aria-label="Refresh">
     <button type="submit" class="btn getnews" id="getNews">Reload</button>
-    <span class="btn-desc" id="getDesc"></span>
+    <span class="btn-desc" id="getDesc">Reload to fetch the newest saved files.</span>
     <span class="spacer"></span>
     <button type="button" class="btn secondary" id="exportPdf">Export PDF</button>
   </form>
-  <div class="status" id="status" role="status" aria-live="polite"></div>
 
-  <div class="tabs" role="tablist" aria-label="Brief sections">
-    <button type="button" role="tab" class="tab" id="tab-news" aria-selected="true" aria-controls="panel-news">News</button>
-    <button type="button" role="tab" class="tab" id="tab-analysis" aria-selected="false" aria-controls="panel-analysis" tabindex="-1">Analysis</button>
+  <div class="tabs" id="tabbar" role="tablist" aria-label="Brief sections">
+    <button type="button" role="tab" class="tab" id="tab-headlines" aria-selected="false" aria-controls="panel-headlines" tabindex="-1" hidden>Headlines</button>
+    <button type="button" role="tab" class="tab" id="tab-news" aria-selected="false" aria-controls="panel-news" tabindex="-1" hidden>Summary</button>
+    <button type="button" role="tab" class="tab" id="tab-analysis" aria-selected="false" aria-controls="panel-analysis" tabindex="-1" hidden>Analysis</button>
   </div>
-  <div id="panel-news" role="tabpanel" aria-labelledby="tab-news"><div class="paper" id="paper"></div></div>
+  <div id="panel-headlines" role="tabpanel" aria-labelledby="tab-headlines" hidden><div class="paper" id="headlines"><div class="empty">Loading…</div></div></div>
+  <div id="panel-news" role="tabpanel" aria-labelledby="tab-news" hidden><div class="paper" id="paper"></div></div>
   <div id="panel-analysis" role="tabpanel" aria-labelledby="tab-analysis" hidden><div class="paper" id="analysis"></div></div>
 
   <div class="legend" id="legend">
     <strong>Source perspective</strong>: the editor’s subjective rating of each outlet’s typical framing, not of a specific article. It does not change any summary.
     Left <span class="track wide"></span> Right. The marker shows where each outlet sits (Left · Lean Left · Balanced · Lean Right · Right).
   </div>
-  <div class="foot" id="foot"></div>
 </main>
 
 <script>
 /* ------------------------------------------------------------------
-   News Brief: rendering logic.
-   The content lives in edition.json (same folder). To publish a new edition,
-   replace only that file; no code changes are needed.
+   News Brief: rendering logic. Three independent, optional tabs:
+     Headlines  <- headlines.json  (rebuilt automatically by the GitHub Action)
+     Summary    <- edition.json    (hand-built blended summaries; you replace this file)
+     Analysis   <- edition.json    (the "analysis" part of the same file)
+   A tab appears only if its data loads, so any piece can be dropped later
+   by deleting its file; nothing else needs to change.
 ------------------------------------------------------------------- */
 (function () {
   "use strict";
@@ -303,12 +306,13 @@
   const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   const MONTHS_LONG = ["January","February","March","April","May","June","July","August","September","October","November","December"];
   const DAYS = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  const STALE_HOURS = 36;
 
   const $ = (id) => document.getElementById(id);
   const parseISO = (s) => { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); };
   const shortDate = (s) => { const d = parseISO(s); return MONTHS[d.getMonth()] + " " + d.getDate(); };
   const longDate = (s) => { const d = parseISO(s); return DAYS[d.getDay()] + ", " + MONTHS_LONG[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear(); };
-  const todayISO = () => { const d = new Date(), p = (n) => String(n).padStart(2, "0"); return d.getFullYear() + "-" + p(d.getMonth() + 1) + "-" + p(d.getDate()); };
+  const ET_FULL = new Intl.DateTimeFormat("en-US", { timeZone: "America/New_York", weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
 
   function el(tag, cls, text) {
     const n = document.createElement(tag);
@@ -344,30 +348,56 @@
     return row;
   }
 
-  /* ---------- News tab ---------- */
-  function renderNews(ed) {
-    const paper = $("paper");
-    paper.textContent = "";
+  /* Shared by the Headlines and Summary tabs: sections of story items. */
+  function renderSections(box, ed, withTime) {
     let total = 0;
     ed.sections.forEach((sec) => {
-      if (!sec.items.length) return;
+      if (!sec.items || !sec.items.length) return;
       total += sec.items.length;
       const s = el("section");
       s.appendChild(el("h2", null, sec.name));
       sec.items.forEach((it) => {
         const art = el("article", "item");
         const h = el("h3", null, it.headline);
-        h.appendChild(el("span", "when", shortDate(it.date)));
+        h.appendChild(el("span", "when", shortDate(it.date) + (withTime && it.time ? ", " + it.time : "")));
         art.appendChild(h);
         if (it.summary) art.appendChild(el("p", null, it.summary));
         if (it.note) art.appendChild(el("p", "note", it.note));
         art.appendChild(sourceRow(it.sources));
         s.appendChild(art);
       });
-      paper.appendChild(s);
+      box.appendChild(s);
     });
-    if (!total) paper.appendChild(el("div", "empty", "No items in this edition."));
+    if (!total) box.appendChild(el("div", "empty", "No stories right now."));
     return total;
+  }
+
+  /* ---------- Headlines tab ---------- */
+  function renderHeadlines(hl) {
+    const box = $("headlines");
+    box.textContent = "";
+    const gen = new Date(hl.generated_at);
+    const ageH = (Date.now() - gen.getTime()) / 36e5;
+    const fs = hl.feed_status || {};
+    let meta = "Updated automatically " + ET_FULL.format(gen) + " ET";
+    if (fs.total) meta += " · " + fs.ok + " of " + fs.total + " feeds";
+    meta += ". Last " + (hl.window_days || 3) + " days; each blurb is the outlet’s own.";
+    box.appendChild(el("p", "lead", meta));
+    if (ageH > STALE_HOURS) box.appendChild(el("p", "note", "These headlines are over " + Math.floor(ageH / 24 || 1) + " day(s) old; the automatic update may have stopped (check the repository’s Actions tab)."));
+    if (fs.failed && fs.failed.length) box.appendChild(el("p", "note", "Feeds that did not load: " + fs.failed.map((f) => f.split(" (")[0]).join(", ") + "."));
+    const n = renderSections(box, hl, true);
+    box.appendChild(el("div", "foot", "Headlines and blurbs come from each outlet’s public RSS feed, grouped automatically by similar wording; they are not edited or fact-checked. Source-perspective ratings are the editor’s subjective view."));
+    return n;
+  }
+
+  /* ---------- Summary tab ---------- */
+  function renderSummary(ed) {
+    const box = $("paper");
+    box.textContent = "";
+    box.appendChild(el("p", "lead", "Edition of " + longDate(ed.edition_date) + " · Coverage: " + shortDate(ed.range.start) + " – " + shortDate(ed.range.end) + ". Blended summaries written from several sources per story."));
+    const n = renderSections(box, ed, false);
+    if (ed.footer) box.appendChild(el("div", "foot", ed.footer));
+    return n;
   }
 
   /* ---------- Analysis tab ---------- */
@@ -375,7 +405,6 @@
     const box = $("analysis");
     box.textContent = "";
     const an = ed.analysis;
-    if (!an) { box.appendChild(el("div", "empty", "No analysis in this edition.")); return; }
     box.appendChild(el("p", "lead", an.lead));
     an.chains.forEach((c) => {
       const sec = el("section", "chain");
@@ -416,7 +445,7 @@
     }
   }
 
-  /* ---------- Market ticker (saved snapshot) ---------- */
+  /* ---------- Market ticker (saved snapshot from the Summary edition) ---------- */
   function renderTicker(m) {
     const track = $("tkTrack");
     track.textContent = "";
@@ -453,9 +482,10 @@
     track.style.setProperty("--tk-dur", Math.max(40, count * 5) + "s");
   }
 
-  /* ---------- Tabs & status ---------- */
+  /* ---------- Tabs ---------- */
+  let tabs = [];                                   // names of the tabs that have data
   function selectTab(name, focus) {
-    ["news", "analysis"].forEach((n) => {
+    tabs.forEach((n) => {
       const on = n === name;
       $("tab-" + n).setAttribute("aria-selected", on ? "true" : "false");
       $("tab-" + n).tabIndex = on ? 0 : -1;
@@ -464,59 +494,70 @@
     $("controls").classList.toggle("dim", name === "analysis");
     if (focus) $("tab-" + name).focus();
   }
-  const setStatus = (msg) => { $("status").textContent = msg || ""; };
 
-  /* ---------- Init ---------- */
-  function init(ed) {
-    const rangeText = shortDate(ed.range.start) + " – " + shortDate(ed.range.end);
+  const getJSON = (url) => fetch(url, { cache: "no-cache" }).then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); });
+  const valid = (hl, ed) => ({
+    hl: !!(hl && Array.isArray(hl.sections) && hl.generated_at),
+    sum: !!(ed && Array.isArray(ed.sections) && ed.range && ed.edition_date),
+    ana: !!(ed && ed.analysis && Array.isArray(ed.analysis.chains))
+  });
 
-    $("title").textContent = ed.title || "News Brief";
-    $("dateline").textContent = "Edition of " + longDate(ed.edition_date) + "  ·  Coverage: " + rangeText + ", " + parseISO(ed.range.end).getFullYear();
-    $("purpose").textContent = ed.purpose || "";
-    $("foot").textContent = ed.footer || "";
-    $("getDesc").textContent = "Headlines for " + rangeText + ": world, national, local and sports. Tap Reload to pick up a newer edition.";
-    document.title = (ed.title || "News Brief") + " — " + ed.edition_date;
+  function show(hl, ed, errs) {
+    const ok = valid(hl, ed);
+    const want = [["headlines", ok.hl], ["news", ok.sum], ["analysis", ok.ana]];
+    tabs = want.filter((w) => w[1]).map((w) => w[0]);
 
-    const n = renderNews(ed);
-    renderAnalysis(ed);
-    renderTicker(ed.markets);
+    want.forEach((w) => { $("tab-" + w[0]).hidden = !w[1]; $("panel-" + w[0]).hidden = true; });
 
-    setStatus(todayISO() > ed.edition_date
-      ? "Today is " + longDate(todayISO()) + ". This brief was compiled " + longDate(ed.edition_date) + "; ask for a refreshed edition for newer news."
-      : n + " items, compiled " + longDate(ed.edition_date) + ".");
+    if (ok.sum) $("title").textContent = ed.title || "News Brief";
+    $("dateline").textContent = ok.hl ? "Headlines updated " + ET_FULL.format(new Date(hl.generated_at)) + " ET"
+      : ok.sum ? "Edition of " + longDate(ed.edition_date) : "";
 
+    if (!tabs.length) {
+      $("tabbar").hidden = true;
+      $("ticker").hidden = true;
+      const p = $("headlines"); $("panel-headlines").hidden = false; p.textContent = "";
+      p.appendChild(el("div", "empty", "Nothing to show yet. " + (errs.length ? "Couldn’t load: " + errs.join("; ") + ". " : "") +
+        (location.protocol === "file:" ? "This page was opened straight from disk; browsers block that, so open the hosted address instead." : "If the repository is new, run the “Update headlines” action once, or add edition.json. Then tap Reload.")));
+      return;
+    }
+
+    if (ok.hl) renderHeadlines(hl);
+    if (ok.sum) renderSummary(ed);
+    if (ok.ana) renderAnalysis(ed);
+    renderTicker(ok.sum ? ed.markets : null);
+    $("tabbar").hidden = tabs.length < 2;           // a single tab needs no tab bar
+    selectTab(tabs[0]);
+  }
+
+  function init() {
+    $("tab-headlines").addEventListener("click", () => selectTab("headlines"));
     $("tab-news").addEventListener("click", () => selectTab("news"));
     $("tab-analysis").addEventListener("click", () => selectTab("analysis"));
-    [$("tab-news"), $("tab-analysis")].forEach((b) => b.addEventListener("keydown", (ev) => {
-      if (ev.key === "ArrowRight" || ev.key === "ArrowLeft") selectTab(b.id === "tab-news" ? "analysis" : "news", true);
+    ["headlines", "news", "analysis"].forEach((n) => $("tab-" + n).addEventListener("keydown", (ev) => {
+      if (ev.key !== "ArrowRight" && ev.key !== "ArrowLeft") return;
+      const i = tabs.indexOf(n), d = ev.key === "ArrowRight" ? 1 : -1;
+      selectTab(tabs[(i + d + tabs.length) % tabs.length], true);
     }));
     $("tkPause").addEventListener("click", () => {
       const p = $("ticker").classList.toggle("paused");
       $("tkPause").textContent = p ? "Play" : "Pause";
       $("tkPause").setAttribute("aria-pressed", p ? "true" : "false");
     });
-
     $("controls").addEventListener("submit", (ev) => { ev.preventDefault(); window.location.reload(); });
     $("exportPdf").addEventListener("click", () => window.print());
     // window.print() is blocked inside sandboxed viewers (shared links in apps), so hide the button there
     try { if (window.self !== window.top) $("exportPdf").hidden = true; } catch (e) { $("exportPdf").hidden = true; }
+
+    Promise.allSettled([getJSON("headlines.json"), getJSON("edition.json")]).then(([h, e]) => {
+      const errs = [];
+      if (h.status === "rejected") errs.push("headlines.json (" + h.reason.message + ")");
+      if (e.status === "rejected") errs.push("edition.json (" + e.reason.message + ")");
+      show(h.status === "fulfilled" ? h.value : null, e.status === "fulfilled" ? e.value : null, errs);
+    });
   }
 
-  function showLoadError(err) {
-    $("tkAsof").textContent = "";
-    $("ticker").hidden = true;
-    const p = $("paper");
-    p.textContent = "";
-    p.appendChild(el("div", "empty",
-      "Couldn’t load edition.json (" + (err && err.message ? err.message : err) + "). " +
-      (location.protocol === "file:" ? "This page was opened straight from disk; browsers block that. Open it from the hosted address instead." : "Check your connection and tap Reload.")));
-    $("controls").addEventListener("submit", (ev) => { ev.preventDefault(); window.location.reload(); });
-  }
-
-  fetch("edition.json", { cache: "no-cache" })
-    .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-    .then(init)
-    .catch(showLoadError);
+  init();
 
   /* Offline support + "Add to Home Screen" (only when served over http/https) */
   if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {

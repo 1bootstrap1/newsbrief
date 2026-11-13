@@ -1,35 +1,43 @@
 # News Brief
 
-A small static site: a weekly multi-source news brief (world, national, local, sports), a market snapshot, and an analysis tab. No build step, no dependencies.
+A static site with three optional tabs:
+
+| Tab | Data file | How it updates |
+|---|---|---|
+| **Headlines** | `headlines.json` | Automatically, 3 times a day, by a free GitHub Action that reads public RSS feeds. |
+| **Summary** | `edition.json` | By hand: replace the file with a new blended-summary edition. |
+| **Analysis** | `edition.json` | Same file as Summary (its `analysis` section). |
+
+A tab shows only if its data loads. To drop a piece later, just delete its file (or the `analysis` block). No code changes needed.
 
 ## Files
 
-| File | Purpose |
-|---|---|
-| `index.html` | Layout, styling and rendering code. Rarely changes. |
-| `edition.json` | **The content.** Replace this file to publish a new edition. |
-| `sw.js` | Service worker: loads fresh content when online, last saved copy when offline. |
-| `manifest.webmanifest`, `icon-*.png` | Let you "Add to Home Screen" so it opens like an app. |
+- `index.html`: layout, styling and rendering code. Rarely changes.
+- `feeds.json`: the list of news feeds (outlet, address, section, perspective rating). **Edit this to add or remove outlets.**
+- `scripts/build_headlines.py`: reads the feeds and writes `headlines.json`. Standard library only, no keys, no cost.
+- `.github/workflows/headlines.yml`: the schedule (about 6 AM, 11 AM and 5 PM Eastern).
+- `sw.js`, `manifest.webmanifest`, `icon-*.png`: offline support and "Add to Home Screen".
 
-## Host it on GitHub Pages
+## Setup (one time)
 
-1. Create a new repository on GitHub (e.g. `newsbrief`). Public is simplest; Pages on a private repo needs a paid plan.
-2. Upload all files in this folder to the repository root (**Add file → Upload files**), then commit.
-3. Go to **Settings → Pages**. Under **Build and deployment**, set **Source: Deploy from a branch**, branch **main**, folder **/ (root)**, and save.
-4. After a minute the site is live at `https://<your-username>.github.io/<repo-name>/`.
+1. Upload everything in this folder to the repository root, **including the `.github` and `scripts` folders**. The repo must be public for free GitHub Pages.
+2. **Settings → Pages**: Source = *Deploy from a branch*, branch `main`, folder `/ (root)`.
+3. **Run the first update by hand**: **Actions** tab → *Update headlines* → **Run workflow**. (If Actions is disabled, click the green button to enable it.) After about a minute `headlines.json` appears in the repo and the Headlines tab shows up on the site.
+4. If the run fails with a permissions error: **Settings → Actions → General → Workflow permissions → Read and write permissions**, save, and run it again.
 
-## Put it on your phone
+## Checking and fixing feeds
 
-- **iPhone (Safari):** open the address, tap Share, then **Add to Home Screen**.
-- **Android (Chrome):** open the address, tap the menu, then **Install app** / **Add to Home screen**.
+The feed addresses in `feeds.json` were written from memory and some may be wrong or may block automated requests. After the first run, the Headlines tab lists any feeds that did not load. To fix one, open `feeds.json` on GitHub, correct or delete that line, and commit. The next run picks it up. The full log is under **Actions → the run → Build headlines.json**.
 
-## Publish a new edition
+To find a feed address for an outlet, search the web for "<outlet name> RSS feed".
 
-Replace `edition.json` (on GitHub: open the file, pencil icon, paste, commit; or upload over it). The page picks it up on the next load. The **Reload** button forces a refresh.
+## New Summary/Analysis edition
 
-`edition.json` shape: `title`, `edition_date`, `range{start,end}`, `purpose`, `footer`, `sections[]` (each with `items[]` of `date`, `headline`, `summary`, optional `note`, and `sources[]` with `outlet`, `title`, `url`, `bias`), `markets`, and `analysis`. Source `bias` is -2 Left, -1 Lean Left, 0 Balanced, 1 Lean Right, 2 Right, or `null` for Unrated.
+Replace `edition.json` (on GitHub: open the file, pencil icon, paste, commit). Shape: `title`, `edition_date`, `range{start,end}`, `purpose`, `footer`, `sections[]` (items with `date`, `headline`, `summary`, optional `note`, `sources[]` with `outlet`, `title`, `url`, `bias`), `markets` (the scrolling ticker, optional), and `analysis` (optional). Perspective `bias`: -2 Left, -1 Lean Left, 0 Balanced, 1 Lean Right, 2 Right, `null` = Unrated.
 
 ## Notes
 
-- Opening `index.html` directly from disk will not work, because browsers block `fetch` on `file://`. Use the hosted address, or run `python3 -m http.server` in this folder and visit `http://localhost:8000`.
-- Everything on the page is public once hosted on a public repo.
+- Opening `index.html` straight from disk will not work (browsers block it). Use the hosted address, or run `python3 -m http.server` here and visit `http://localhost:8000`.
+- The Headlines blurbs are each outlet's own feed text, trimmed. They are not rewritten or fact-checked.
+- GitHub pauses scheduled workflows in repositories with no activity for 60 days. The automatic commits should count, but if Headlines goes stale, look at the Actions tab and re-enable it.
+- Everything is public when the repository is public.
