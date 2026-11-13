@@ -1,0 +1,902 @@
+{
+ "generated_at": "2026-11-13T18:56:54Z",
+ "window_days": 3,
+ "feed_status": {
+  "ok": 18,
+  "total": 20,
+  "failed": [
+   "WFAE (local): HTTP Error 404: Not Found",
+   "ESPN (sports): no element found: line 1, column 0"
+  ]
+ },
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "items": [
+    {
+     "date": "2026-11-13",
+     "time": "1:51 PM",
+     "headline": "U.N. watchdog agency pushes for access to key Iran nuclear site",
+     "summary": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.N. watchdog agency pushes for access to key Iran nuclear site",
+       "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:42 PM",
+     "headline": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
+     "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:36 PM",
+     "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+     "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:34 PM",
+     "headline": "The Peruvian city that has embraced Pope Leo as one of its own",
+     "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+       "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:28 PM",
+     "headline": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+     "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:20 PM",
+     "headline": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
+     "summary": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens Andy Burnham has instructed the Labour party to “re-arm” to fight the Conservatives at the next election amid concern inside government that they…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
+       "url": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:16 PM",
+     "headline": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
+     "summary": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’ If Andy Burnham has been accused of being a people pleaser by his critics, the same most certainly cannot be said of his chief whip.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
+       "url": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:14 PM",
+     "headline": "Police launch investigation into David Walliams over alleged serious sexual offences",
+     "summary": "Met police say allegations are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual offences.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:10 PM",
+     "headline": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+     "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:09 PM",
+     "headline": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+     "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:04 PM",
+     "headline": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+     "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+       "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:55 PM",
+     "headline": "No emails, no problem? Workers joke about Microsoft outage",
+     "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "No emails, no problem? Workers joke about Microsoft outage",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:43 PM",
+     "headline": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+     "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults Downing Street is considering whether plans to replace key disability benefits with work and training for people under-25 should be expanded to…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+       "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:41 PM",
+     "headline": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+     "summary": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage?",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:20 PM",
+     "headline": "Home sales hit 16-year low in October amid soaring mortgage rates",
+     "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+       "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+       "bias": -1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "national",
+   "name": "Regional & National",
+   "items": [
+    {
+     "date": "2026-11-13",
+     "time": "12:47 PM",
+     "headline": "Van Hollen challenges Schumer for Senate majority leader",
+     "summary": "Democratic Sen. Chris Van Hollen of Maryland said Thursday that he will run for Senate Majority Leader in the next Congress, setting up a challenge to Democratic Leader Chuck Schumer after the party swept to power in the midterm elections.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Van Hollen challenges Schumer for Senate majority leader",
+       "url": "https://www.cbsnews.com/video/van-hollen-challenges-schumer-for-senate/",
+       "bias": 0
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+       "url": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
+       "url": "https://www.today.com/video/van-hollen-challenges-schumer-for-senate-majority-leader-273441349510",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:21 PM",
+     "headline": "Bigger and more-frequent wildfires threaten water supplies across the U.S.",
+     "summary": "Wildfires leave behind charred trees and scorched vegetation that impact the streams and rivers providing drinking water to much of the country, and new studies show that contamination could remain for more than a decade.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Bigger and more-frequent wildfires threaten water supplies across the U.S.",
+       "url": "https://www.pbs.org/newshour/nation/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-u-s",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Bigger and more-frequent wildfires threaten water supplies across the US",
+       "url": "https://abcnews.com/US/wireStory/bigger-frequent-wildfires-threaten-water-supplies-us-138103805",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "11:50 AM",
+     "headline": "Alex Murdaugh wants murder indictments tossed, saying agent lied",
+     "summary": "Alex Murdaugh's attorneys are going back to court, this time trying to get his original murder indictments dismissed.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Alex Murdaugh wants murder indictments tossed, saying agent lied",
+       "url": "https://www.cbsnews.com/news/alex-murdaugh-wants-murder-indictments-dismissed/",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury",
+       "url": "https://abcnews.com/US/wireStory/alex-murdaugh-murder-indictments-dismissed-agent-lied-grand-138101527",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:51 PM",
+     "headline": "U.N. watchdog agency pushes for access to key Iran nuclear site",
+     "summary": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.N. watchdog agency pushes for access to key Iran nuclear site",
+       "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:49 PM",
+     "headline": "Supreme Court to rule on Trump’s asylum ban",
+     "summary": "Taking up another key aspect of President Donald Trump’s hard-line immigration agenda, the Supreme Court on Friday agreed to decide whether the administration has the authority to ban asylum claims at the southern border.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Supreme Court to rule on Trump’s asylum ban",
+       "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-takes-trumps-asylum-ban-case-rcna608564",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:40 PM",
+     "headline": "'TrumpCare' and commemorative plaques — how Democrats are pitching deal-making with the president",
+     "summary": "Democrats who swept into power by riding voter backlash to Trump are now pitching ways to collaborate with the president, playing to his vanity and his love of making deals to propel their own agenda.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "'TrumpCare' and commemorative plaques — how Democrats are pitching deal-making with the president",
+       "url": "https://www.pbs.org/newshour/politics/trumpcare-and-commemorative-plaques-how-democrats-are-pitching-deal-making-with-the-president",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:34 PM",
+     "headline": "Top doctor for Congress resigns amid misconduct allegations",
+     "summary": "Dr. Brian Monahan, the attending physician of the U.S. Capitol, has resigned from his post as lawmakers' top doctor.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Top doctor for Congress resigns amid misconduct allegations",
+       "url": "https://www.cbsnews.com/news/brian-monahan-resigns-congress-doctor-misconduct-allegations/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:26 PM",
+     "headline": "Brother of Mexican cartel leader sentenced to 22 years for drug trafficking plot",
+     "summary": "A man whose brother led one of Mexico’s most violent drug cartels has been sentenced to more than 22 years in U.S. prison for his role in a sprawling drug trafficking conspiracy that brought cocaine and methamphetamine to American streets",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "Brother of Mexican cartel leader sentenced to 22 years for drug trafficking plot",
+       "url": "https://abcnews.com/US/wireStory/brother-slain-mexican-cartel-leader-sentenced-22-years-138115626",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:23 PM",
+     "headline": "Schumer's former ally mounts leadership challenge as Democrats face rare internal power struggle",
+     "summary": "Senate Democrats face their first contested leadership race since 1994 as Chris Van Hollen challenges Chuck Schumer with Bernie Sanders' backing.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Schumer's former ally mounts leadership challenge as Democrats face rare internal power struggle",
+       "url": "https://www.foxnews.com/politics/schumers-former-ally-mounts-leadership-challenge-democrats-face-rare-internal-power-struggle",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:22 PM",
+     "headline": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+     "summary": "European Council President Antonio Costa said the continent will be represented by the EU and five members of the \"coalition of the willing\" that backs Ukraine: the U.K., France, Germany, Italy and Poland.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+       "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:22 PM",
+     "headline": "World Food Programme director on Gaza's worsening food crisis",
+     "summary": "Nearly a million displaced people are enduring flooding and food shortages in Gaza. This comes amid a devastating food crisis. Ross Smith, the director of emergency preparedness and response for the World Food Programme, comments on the deteriorating…",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "World Food Programme director on Gaza's worsening food crisis",
+       "url": "https://www.cbsnews.com/video/world-food-programme-director-gaza-worsening-food-crisis/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:16 PM",
+     "headline": "St. Patrick’s Day parade canceled in Florida thanks to state’s anti-DEI law",
+     "summary": "A new anti-DEI law championed by Florida Gov.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "St. Patrick’s Day parade canceled in Florida thanks to state’s anti-DEI law",
+       "url": "https://www.nbcnews.com/news/us-news/st-patricks-day-parade-canceled-florida-thanks-states-anti-dei-law-rcna609175",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:15 PM",
+     "headline": "SpaceX chases rocket reusability with upcoming Starship Flight 15 launch",
+     "summary": "SpaceX looks to make history with its upcoming Starship Flight 15 launch. CBS News' Jason Allen explains more.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "SpaceX chases rocket reusability with upcoming Starship Flight 15 launch",
+       "url": "https://www.cbsnews.com/video/spacex-chases-rocket-reusability-with-upcoming-starship-flight-5-launch/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:00 PM",
+     "headline": "The best carving boards for serving turkey, ham and more this year",
+     "summary": "I rounded up some of the best and most highly rated carving boards to use this holiday season for turkey, ham and more.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "The best carving boards for serving turkey, ham and more this year",
+       "url": "https://www.nbcnews.com/select/shopping/best-carving-boards-rcna609184",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:58 PM",
+     "headline": "What men need to know after a major update to prostate cancer guidelines",
+     "summary": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "What men need to know after a major update to prostate cancer guidelines",
+       "url": "https://www.pbs.org/newshour/health/what-men-need-to-know-after-a-major-update-to-prostate-cancer-guidelines",
+       "bias": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "local",
+   "name": "Local: Cabarrus County & North Carolina",
+   "items": [
+    {
+     "date": "2026-11-13",
+     "time": "1:51 PM",
+     "headline": "Man pleads guilty in murder of 17-year-old employee leaving Jack in the Box",
+     "summary": "Fate Brannon, 17, was shot and killed while trying to leave his shift at the Jack in the Box on North Hoskins Road in 2024.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Man pleads guilty in murder of 17-year-old employee leaving Jack in the Box",
+       "url": "https://www.wsoctv.com/news/local/man-pleads-guilty-murder-17-year-old-employee-leaving-jack-box/3KZ25FGTWBAFJP74BQC6NUXVKA/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:45 PM",
+     "headline": "Former officer to be castrated after child rape conviction: ‘We will take his manhood’",
+     "summary": "A former police officer and volunteer firefighter will be castrated following a conviction for raping multiple children.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Former officer to be castrated after child rape conviction: ‘We will take his manhood’",
+       "url": "https://www.wbtv.com/2026/11/13/former-officer-be-castrated-after-child-rape-conviction-we-will-take-his-manhood/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:35 PM",
+     "headline": "Darth Vader’s lightsaber sells for $4.875M at auction",
+     "summary": "Heritage Auctions broke the \"Star Wars\" collectible record when Darth Vader's hero lightsaber sold for $4.875 million.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Darth Vader’s lightsaber sells for $4.875M at auction",
+       "url": "https://www.wsoctv.com/news/trending/darth-vaders-lightsaber-sells-4875m-auction/R2UR44WXXJAI5GBLTTTN53KJKE/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:25 PM",
+     "headline": "Decoding hidden meanings behind some emojis and acronyms",
+     "summary": "Certain emojis and acronyms carry meanings that parents and grandparents may not know. We explain the double meanings behind some messages and steps parents can take to keep kids safe online.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Decoding hidden meanings behind some emojis and acronyms",
+       "url": "https://www.wbtv.com/2026/11/13/decoding-hidden-meanings-behind-some-emojis-acronyms/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:16 PM",
+     "headline": "Coldest temps of season reach Charlotte region this weekend: Latest forecast",
+     "summary": "3 First Alerts coming up due to cold morning temperatures",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Coldest temps of season reach Charlotte region this weekend: Latest forecast",
+       "url": "https://www.wbtv.com/2026/11/13/coldest-temps-season-reach-charlotte-region-this-weekend-latest-forecast/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:50 PM",
+     "headline": "Ketamine infusion therapy could offer hope for chronic pain patients",
+     "summary": "",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Ketamine infusion therapy could offer hope for chronic pain patients",
+       "url": "https://www.wbtv.com/2026/11/13/ketamine-infusion-therapy-could-offer-hope-chronic-pain-patients/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:47 PM",
+     "headline": "Truck driver accused of killing mom, 2 young sons in crash as they were heading to airport",
+     "summary": "A truck driver in Missouri is accused of killing a mother and her two young sons in a crash as they were heading to the airport.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Truck driver accused of killing mom, 2 young sons in crash as they were heading to airport",
+       "url": "https://www.wbtv.com/2026/11/13/truck-driver-accused-killing-mom-2-young-sons-crash-they-were-heading-airport/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:38 PM",
+     "headline": "‘Below Deck’ star João Franco arrested after teen dies after fight",
+     "summary": "Reality TV star Joao Franco was arrested in Turkey following a fatal altercation involving a shop employee.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "‘Below Deck’ star João Franco arrested after teen dies after fight",
+       "url": "https://www.wsoctv.com/news/trending/below-deck-star-joo-franco-arrested-after-teen-dies-after-fight/5TDQPOJTJFFZ7AQYFK7NOXSQFY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:32 PM",
+     "headline": "Cost of living is the top obstacle to financial security, survey finds",
+     "summary": "A ConsumerAffairs survey of adults ages 18 to 64 found over half define financial security as not living paycheck to paycheck. Here is what else it found.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Cost of living is the top obstacle to financial security, survey finds",
+       "url": "https://www.wbtv.com/2026/11/13/cost-living-is-top-obstacle-financial-security-survey-finds/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:32 PM",
+     "headline": "Charlotte woman sentenced to federal prison after confrontation with ICE agents",
+     "summary": "Morrow must surrender to federal authorities on or shortly after Jan. 13.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Charlotte woman sentenced to federal prison after confrontation with ICE agents",
+       "url": "https://www.wbtv.com/2026/11/13/charlotte-woman-sentenced-federal-prison-after-confrontation-with-ice-agents/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:31 PM",
+     "headline": "School police officer tells officer he was responding to a fight when he was pulled over for speeding",
+     "summary": "A school police officer told the officer that he was responding to a fight when he was pulled over for speeding, but the school district said that is not the case.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "School police officer tells officer he was responding to a fight when he was pulled over for speeding",
+       "url": "https://www.wbtv.com/2026/11/13/school-police-officer-tells-officer-he-was-responding-fight-when-he-was-pulled-over-speeding/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:30 PM",
+     "headline": "Measles antibody test: What to know about checking your immunity",
+     "summary": "Measles is highly contagious. A simple antibody test, also known as a titer test, can show whether a person is likely protected.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Measles antibody test: What to know about checking your immunity",
+       "url": "https://www.wbtv.com/2026/11/13/measles-antibody-test-what-know-about-checking-your-immunity/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:26 PM",
+     "headline": "Charlotte Marathon will impact dozens of roads around Uptown",
+     "summary": "The Charlotte Marathon gets underway Saturday, Nov. 14, in Uptown Charlotte, with a half marathon and 5K also on the schedule for runners of all levels.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Charlotte Marathon will impact dozens of roads around Uptown",
+       "url": "https://www.wsoctv.com/news/local/charlotte-marathon-will-impact-dozens-roads-around-uptown/CMP652B42ZHVJIDBYPYAF3DV4M/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:24 PM",
+     "headline": "Judge sentences Charlotte woman for assaulting ICE officer",
+     "summary": "In September, a jury found Heather Morrow guilty of “obstructing the entrance of federal property” and assaulting, resisting, and intimidating law enforcement.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Judge sentences Charlotte woman for assaulting ICE officer",
+       "url": "https://www.wsoctv.com/news/local/woman-convicted-assaulting-ice-officer-be-sentenced-friday/UWCZ4CEVHZHBBBLXCXTLC4O44Q/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:17 PM",
+     "headline": "Woman who crashed into soccer game, killing 2, won’t be charged",
+     "summary": "No charges will be filed in the deaths of two people caused by a vehicle accident at a Kansas soccer game.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Woman who crashed into soccer game, killing 2, won’t be charged",
+       "url": "https://www.wsoctv.com/news/trending/woman-who-crashed-into-soccer-game-killing-2-wont-be-charged/3KFQNRWBONBPBFKOYVHWCJQ4XA/",
+       "bias": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sports",
+   "name": "Sports",
+   "items": [
+    {
+     "date": "2026-11-13",
+     "time": "1:39 PM",
+     "headline": "Is Polymarket Legal in California? November 2026 Status",
+     "summary": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Is Polymarket Legal in California? November 2026 Status",
+       "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:32 PM",
+     "headline": "Houston vs. Colorado prediction, odds, time: Week 11 Friday college football picks from proven model",
+     "summary": "SportsLine's model revealed its best bets for Friday's Big 12 college football matchup of the Houston Cougars vs. Deion Sanders and the Colorado Buffaloes",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Houston vs. Colorado prediction, odds, time: Week 11 Friday college football picks from proven model",
+       "url": "https://www.cbssports.com/betting/news/houston-colorado-prediction-odds-time-2026-week-11-friday-college-football-picks-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:26 PM",
+     "headline": "Mauricio Pochettino leads USMNT in two-game farewell against Haiti after taking Manchester United job",
+     "summary": "A spot in the Concacaf Nations League finals is on the line as the manager kicks off an unconventional farewell tour before departing for Old Trafford",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Mauricio Pochettino leads USMNT in two-game farewell against Haiti after taking Manchester United job",
+       "url": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-in-two-game-farewell-haiti-manchester-united/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:20 PM",
+     "headline": "EFL warns clubs over social media posts",
+     "summary": "The English Football League (EFL) warns its members about their usage of posts on social media.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "EFL warns clubs over social media posts",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:17 PM",
+     "headline": "Jake Bauers reportedly agrees to $58 million deal with Red Sox after helping lead Brewers to World Series",
+     "summary": "Bauers broke out this past season, slugging 26 home runs that more than doubled his previous career high",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Jake Bauers reportedly agrees to $58 million deal with Red Sox after helping lead Brewers to World Series",
+       "url": "https://www.cbssports.com/mlb/news/jake-bauers-contract-red-sox-brewers-mlb-free-agency/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:16 PM",
+     "headline": "College football schedule 2026: What to watch in Week 11, TV channels, streaming, Saturday kickoff times",
+     "summary": "Week 11 is full of matchups with CFP and conference championship implications",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College football schedule 2026: What to watch in Week 11, TV channels, streaming, Saturday kickoff times",
+       "url": "https://www.cbssports.com/college-football/news/college-football-schedule-2026-week-11-tv-channels-streaming-saturday-kickoff-times/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:09 PM",
+     "headline": "Knicks vs. Pacers prediction, odds, time: 2026 NBA Cup picks for Friday, Nov. 13 from proven model",
+     "summary": "SportsLine's model reveals its New York Knicks vs. Indiana Pacers best bets for NBA Cup 2026 action on Friday night",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Knicks vs. Pacers prediction, odds, time: 2026 NBA Cup picks for Friday, Nov. 13 from proven model",
+       "url": "https://www.cbssports.com/betting/news/knicks-pacers-prediction-odds-time-2026-nba-cup-picks-bets-friday-november-13/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:08 PM",
+     "headline": "Pelicans' Dejounte Murray vents on social media and his now-deleted posts could accelerate a trade",
+     "summary": "'You have no f---ing clue what we dealing with,' Murray posted this week after a blowout loss",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Pelicans' Dejounte Murray vents on social media and his now-deleted posts could accelerate a trade",
+       "url": "https://www.cbssports.com/nba/news/pelicans-dejounte-murraysocial-media-now-deleted-posts-trade/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:08 PM",
+     "headline": "NFL Week 10 picks: Our experts face off on Vikings at Packers, Steelers at Bengals and more",
+     "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL Week 10 picks: Our experts face off on Vikings at Packers, Steelers at Bengals and more",
+       "url": "https://www.cbssports.com/nfl/news/nfl-week-10-picks-experts-face-off-commanders-giants-vikings-packers/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:03 PM",
+     "headline": "Prisco's Week 10 NFL picks: Lions top Patriots in Munich, Cowboys upset 49ers",
+     "summary": "Pete Prisco reveals all of his Week 10 picks, including the Packers to spoil Kirk Cousins' return with the Vikings",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Prisco's Week 10 NFL picks: Lions top Patriots in Munich, Cowboys upset 49ers",
+       "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-10-expert-nfl-picks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "1:01 PM",
+     "headline": "How Wales can win without making history v All Blacks",
+     "summary": "Wales aim to make the rest of the world sit up and take notice when taking on resurgent New Zealand in the Nations Championship.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "How Wales can win without making history v All Blacks",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c50md0pgw8dlo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:59 PM",
+     "headline": "NC State hires Philip Rivers as next coach: Legendary Wolfpack QB aims to turn around alma mater",
+     "summary": "Rivers, who starred in the NFL and for four years as NC State's quarterback, will return to his alma mater",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NC State hires Philip Rivers as next coach: Legendary Wolfpack QB aims to turn around alma mater",
+       "url": "https://www.cbssports.com/college-football/news/nc-state-hires-philip-rivers-coach/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:59 PM",
+     "headline": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+     "summary": "Who will land a new frontline ace or top slugger? Follow along as we keep track of all the moves",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:55 PM",
+     "headline": "Amanda Nunes vows to reclaim her throne at UFC 334 and fight until her body quits: 'I'm here to stay'",
+     "summary": "After three years away from the Octagon, Nunes is ready to challenge her former teammate Kayla Harrison on Saturday night",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Amanda Nunes vows to reclaim her throne at UFC 334 and fight until her body quits: 'I'm here to stay'",
+       "url": "https://www.cbssports.com/ufc/news/ufc-334-amanda-nunes-ufc-bantamweight-title-fight-until-her-body-quits/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "time": "12:54 PM",
+     "headline": "Estonia latest country to ban Russian athletes",
+     "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Estonia latest country to ban Russian athletes",
+       "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
