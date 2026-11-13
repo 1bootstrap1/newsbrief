@@ -26,7 +26,7 @@
 
     { "name": "WBTV", "url": "https://www.wbtv.com/arc/outboundfeeds/rss/?outputType=xml", "section": "local", "bias": 0 },
     { "name": "WSOC", "url": "https://www.wsoctv.com/arc/outboundfeeds/rss/?outputType=xml", "section": "local", "bias": 0 },
-    { "name": "WFAE", "url": "https://www.wfae.org/rss.xml", "section": "local", "bias": -1 },
+    { "name": "WFAE", "url": "https://www.wfae.org/news.rss", "section": "local", "bias": -1 },
     { "name": "NC Newsline", "url": "https://ncnewsline.com/feed/", "section": "local", "bias": -1 },
 
     { "name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "section": "sports", "bias": 0 },

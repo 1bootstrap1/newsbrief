@@ -19,17 +19,29 @@ from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 ET_TZ = ZoneInfo("America/New_York")
-UA = "Mozilla/5.0 (compatible; NewsBriefBot/1.0)"
+# Some sites (e.g. ESPN) return an empty page to unfamiliar clients, so try a few common identities.
+UAS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Mozilla/5.0 (compatible; NewsBriefBot/1.0)",
+    "Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)",
+]
 STOP = set("the and for with from that this are was were has have will after over into about says say new its his her their how why what who you your out not but can may more than".split())
 
 
-def fetch(url, tries=2):
+def fetch(url):
     last = None
-    for _ in range(tries):
+    for ua in UAS:
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
+            req = urllib.request.Request(url, headers={
+                "User-Agent": ua,
+                "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, */*;q=0.5",
+                "Accept-Language": "en-US,en;q=0.9",
+            })
             with urllib.request.urlopen(req, timeout=20) as r:
-                return r.read()
+                data = r.read()
+            if data.strip():
+                return data
+            last = ValueError("empty response")
         except Exception as e:  # network errors, HTTP errors, timeouts
             last = e
     raise last
