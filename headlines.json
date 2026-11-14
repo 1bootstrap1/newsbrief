@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-11-14T11:46:16Z",
+ "generated_at": "2026-11-14T11:49:27Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
@@ -56,20 +58,6 @@
        "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
        "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:14 AM",
-     "headline": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
-     "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
-       "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
-       "bias": -1
       }
      ]
     },
@@ -224,6 +212,20 @@
        "title": "U.N. watchdog agency pushes for access to key Iran nuclear site",
        "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "5:14 AM",
+     "headline": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
+     "summary": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s The Great British Bake Off presenter Noel Fielding has said he was “horrified and deeply disturbed to learn of Russell Brand’s crimes” and has had no contact…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
+       "url": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
+       "bias": -1
       }
      ]
     }
@@ -777,20 +779,6 @@
     },
     {
      "date": "2026-11-14",
-     "time": "3:59 AM",
-     "headline": "Transfer rumors, news: Como's Paz to be Pochettino's first Man United summer signing?",
-     "summary": "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer. Transfer Talk has the latest.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Transfer rumors, news: Como's Paz to be Pochettino's first Man United summer signing?",
-       "url": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
      "time": "3:57 AM",
      "headline": "Who would make your England-Spain combined XI?",
      "summary": "How many England players do you think would make the Spain team?",
@@ -833,20 +821,6 @@
     },
     {
      "date": "2026-11-14",
-     "time": "3:11 AM",
-     "headline": "Pochettino's USMNT tenure had ups, downs and an ever-present mercenary feel",
-     "summary": "Mauricio Pochettino delivered some highs during his time in charge of the USMNT, but his focus never appeared to stray too far from a return to Europe.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Pochettino's USMNT tenure had ups, downs and an ever-present mercenary feel",
-       "url": "https://www.espn.com/soccer/story/_/id/50462254/pochettino-usmnt-tenure-mercenary-feel",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
      "time": "2:49 AM",
      "headline": "Six goals to go - will McGinn catch Dalglish & Law?",
      "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
@@ -875,14 +849,42 @@
     },
     {
      "date": "2026-11-14",
-     "time": "2:38 AM",
-     "headline": "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-     "summary": "Oklahoma AD Roger Denny was critical of the SEC's decision to move the Sooners' home game against Ole Miss to Sunday following Friday's nationwide ground stop.",
+     "time": "2:20 AM",
+     "headline": "Warner accuses Cricket Australia of 'cover-up'",
+     "summary": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-       "url": "https://www.espn.com/college-football/story/_/id/50478281/ole-miss-oklahoma-bumped-sunday-sooners-ad-rips-decision",
+       "outlet": "BBC Sport",
+       "title": "Warner accuses Cricket Australia of 'cover-up'",
+       "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "2:11 AM",
+     "headline": "Oklahoma AD Roger Denny blasts SEC after game vs. Ole Miss pushed to Sunday under threat of forfeit",
+     "summary": "The FAA groundstop on Friday caused travel issues for many teams, including the Rebels, who were facing issues getting to Oklahoma",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Oklahoma AD Roger Denny blasts SEC after game vs. Ole Miss pushed to Sunday under threat of forfeit",
+       "url": "https://www.cbssports.com/college-football/news/oklahoma-ad-roger-denny-blasts-sec-ole-miss-sunday-faa-groundstop/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "2:00 AM",
+     "headline": "The challenge that brought Nunes out of retirement",
+     "summary": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "The challenge that brought Nunes out of retirement",
+       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
