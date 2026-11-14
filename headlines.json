@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T16:46:58Z",
+ "generated_at": "2026-11-14T16:50:53Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,6 +13,20 @@
    "id": "world",
    "name": "World",
    "items": [
+    {
+     "date": "2026-11-14",
+     "time": "11:42 AM",
+     "headline": "Cold weather health alerts issued for parts of UK on Sunday night",
+     "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-14",
      "time": "11:29 AM",
@@ -208,20 +222,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "10:06 AM",
-     "headline": "Canada’s Stelco to recall 175 workers after government pressure",
-     "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Canada’s Stelco to recall 175 workers after government pressure",
-       "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -297,6 +297,20 @@
     },
     {
      "date": "2026-11-14",
+     "time": "11:48 AM",
+     "headline": "Travelers stranded, flights canceled after ground stop. Here's what we know",
+     "summary": "More than 3,800 flights were canceled Saturday, according to flight tracking website FlightAware, while around 2,000 others were delayed.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Travelers stranded, flights canceled after ground stop. Here's what we know",
+       "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
      "time": "11:42 AM",
      "headline": "FAA ground stop throws college football into chaos, while the NFL is safe",
      "summary": "A Federal Aviation Administration ground stop that lasted more than four hours and canceled over 7,000 flights Friday affected the travel plans for several pro and college teams across multiple sports.",
@@ -319,20 +333,6 @@
        "outlet": "CBS News",
        "title": "U.S. loses measles elimination status as cases surge nationwide",
        "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "11:39 AM",
-     "headline": "Travelers stranded, flights canceled after ground stop. Here's what we know",
-     "summary": "More than 3,800 flights were canceled Saturday, according to flight tracking website FlightAware, while around 2,000 others were delayed.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Travelers stranded, flights canceled after ground stop. Here's what we know",
-       "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
        "bias": 0
       }
      ]
@@ -362,6 +362,20 @@
        "title": "Travel expert shares top destinations for an amazing vacation",
        "url": "https://www.cbsnews.com/video/travel-expert-shares-top-destinations-for-an-amazing-vacation/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:36 AM",
+     "headline": "Dems seize on midterm rout to demand ICE reform but polls reveal a twist in who prioritized immigration",
+     "summary": "Rep.-elect Bobby Pulido and Texas Democrats push 2028 candidates to prioritize immigration reform after flipping Republican-leaning districts.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Dems seize on midterm rout to demand ICE reform but polls reveal a twist in who prioritized immigration",
+       "url": "https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration",
+       "bias": 1
       }
      ]
     },
@@ -445,20 +459,6 @@
        "outlet": "CBS News",
        "title": "Investigators probe cause of deadly NYC building collapse",
        "url": "https://www.cbsnews.com/video/investigators-probe-cause-of-deadly-nyc-building-collapse/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "11:06 AM",
-     "headline": "New Orleans river cruise collision sounded like \"tons of steel crunching,\" witness says",
-     "summary": "Shocking video shows the moment when a tanker and a paddlewheel river cruise collided in New Orleans. Luckily, no one died. Skyler Henry has more.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "New Orleans river cruise collision sounded like \"tons of steel crunching,\" witness says",
-       "url": "https://www.cbsnews.com/video/new-orleans-river-cruise-collision-sounded-like-tons-of-steel-crunching-witness-says/",
        "bias": 0
       }
      ]
