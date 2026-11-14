@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:44:17Z",
+ "generated_at": "2026-11-14T22:47:08Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -699,6 +699,20 @@
    "items": [
     {
      "date": "2026-11-14",
+     "time": "5:42 PM",
+     "headline": "Sabalenka apologises & says viral comment 'not directed at Svitolina'",
+     "summary": "Aryna Sabalenka apologises and denies claims she insulted opponent Elina Svitolina after a viral clip showed her swearing during her WTA Finals defeat by the Ukrainian.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Sabalenka apologises & says viral comment 'not directed at Svitolina'",
+       "url": "https://www.bbc.co.uk/sport/tennis/articles/ck62p9ge4d76o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
      "time": "5:38 PM",
      "headline": "Devlin nets winner as NI top Nations League group",
      "summary": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
@@ -889,20 +903,6 @@
        "outlet": "BBC Sport",
        "title": "What Wales need to stay in Nations League top tier",
        "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "3:43 PM",
-     "headline": "'No racism in Spain' – De la Fuente message for Tuchel",
-     "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "'No racism in Spain' – De la Fuente message for Tuchel",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
