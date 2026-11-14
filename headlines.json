@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T11:49:27Z",
+ "generated_at": "2026-11-14T16:46:58Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -15,27 +15,175 @@
    "items": [
     {
      "date": "2026-11-14",
-     "time": "6:07 AM",
-     "headline": "Microsoft says services fully restored after day-long global outage",
-     "summary": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years Microsoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public…",
+     "time": "11:29 AM",
+     "headline": "Italy fines Meta €805m over accessing users' photos",
+     "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "Microsoft says services fully restored after global outage",
-       "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-       "bias": -1
-      },
-      {
        "outlet": "BBC News",
-       "title": "Microsoft says services fully restored after day-long global outage",
-       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+       "title": "Italy fines Meta €805m over accessing users' photos",
+       "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "6:41 AM",
+     "time": "11:26 AM",
+     "headline": "2 Americans die in suspected drowning incident in the Bahamas",
+     "summary": "Police said the Americans were part of a group swimming beyond an area marked with a warning sign cautioning against strong currents.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "2 Americans die in suspected drowning incident in the Bahamas",
+       "url": "https://www.cbsnews.com/news/americans-die-suspected-drowning-bimini-bahamas/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:16 AM",
+     "headline": "Italy fines Meta $880m over photo privacy",
+     "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Italy fines Meta $880m over photo privacy",
+       "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:13 AM",
+     "headline": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+     "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:05 AM",
+     "headline": "Fuel crisis and protests pressure Chile's far-right president",
+     "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+     "sources": [
+      {
+       "outlet": "NPR World",
+       "title": "Fuel crisis and protests pressure Chile's far-right president",
+       "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:00 AM",
+     "headline": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+     "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+       "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:59 AM",
+     "headline": "3 oil tankers hit mines in Strait of Hormuz, Iran says",
+     "summary": "Fires had broken out on a total of three oil tankers that struck mines in the Strait of Hormuz overnight and into the morning, Iran's military said Saturday.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "3 oil tankers hit mines in Strait of Hormuz, Iran says",
+       "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:57 AM",
+     "headline": "EU calls for immediate humanitarian access to Gaza",
+     "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "EU calls for immediate humanitarian access to Gaza",
+       "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:53 AM",
+     "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:42 AM",
+     "headline": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+     "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+       "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:36 AM",
+     "headline": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+     "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:34 AM",
+     "headline": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+     "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:15 AM",
      "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
      "sources": [
@@ -49,182 +197,28 @@
     },
     {
      "date": "2026-11-14",
-     "time": "6:30 AM",
-     "headline": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-     "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-       "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:11 AM",
-     "headline": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-     "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-       "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:05 AM",
-     "headline": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
-     "summary": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president Volodymyr Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s Starshield satellite system , saying that the decision…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
-       "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:00 AM",
-     "headline": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
-     "summary": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats?",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
-       "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:00 AM",
-     "headline": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
-     "summary": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawling The giant offshore windfarms backed by Andy Burnham this week may face unexpected stumbling blocks after Greenpeace activists unwittingly dumped…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
-       "url": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:00 AM",
-     "headline": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-     "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King Asylum seekers accommodated at a controversial military base in East Sussex have been subjected to inadequate welfare checks, and…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-       "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:00 AM",
-     "headline": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
-     "summary": "Midterm elections have defanged the US president – leaving critics to worry about his next move in his ‘fat Elvis’ stage It was just before 3am when Donald Trump entered a crowded Manhattan ballroom, greeted by chants of “USA!",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
-       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:00 AM",
-     "headline": "Ukraine, Russia race to build military satellite networks as war rages on",
-     "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+     "time": "10:14 AM",
+     "headline": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+     "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-       "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+       "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+       "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "5:59 AM",
-     "headline": "Trump, Putin, Xi Jinping to meet in first trilateral of its kind",
-     "summary": "President Trump is looking to talk about reducing nuclear arsenals in the first formal trilateral between the leaders of U.S., China and Russia.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump, Putin, Xi Jinping to meet in first trilateral of its kind",
-       "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:42 AM",
-     "headline": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-     "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-       "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:30 AM",
-     "headline": "South Sudan postpones first-ever national elections until February",
-     "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+     "time": "10:06 AM",
+     "headline": "Canada’s Stelco to recall 175 workers after government pressure",
+     "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "South Sudan postpones first-ever national elections until February",
-       "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:29 AM",
-     "headline": "U.N. watchdog agency pushes for access to key Iran nuclear site",
-     "summary": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "U.N. watchdog agency pushes for access to key Iran nuclear site",
-       "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:14 AM",
-     "headline": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
-     "summary": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s The Great British Bake Off presenter Noel Fielding has said he was “horrified and deeply disturbed to learn of Russell Brand’s crimes” and has had no contact…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
-       "url": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
+       "title": "Canada’s Stelco to recall 175 workers after government pressure",
+       "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -235,6 +229,32 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-14",
+     "time": "11:10 AM",
+     "headline": "Thousands of flights canceled as airlines work to recover from nationwide ground stop",
+     "summary": "The nationwide stop was the first since January 2023, when another key Federal Aviation Administration computer system that sends notices to pilots malfunctioned, and the second since the Sept. 11, 2001, attacks.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Thousands of flights canceled as airlines work to recover from nationwide ground stop",
+       "url": "https://www.pbs.org/newshour/nation/thousands-of-flights-canceled-as-airlines-work-to-recover-from-nationwide-ground-stop",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+       "url": "https://abcnews.com/US/wireStory/thousands-flights-canceled-airlines-work-dig-nationwide-ground-138137419",
+       "bias": -1
+      },
+      {
+       "outlet": "NBC News",
+       "title": "FAA lifts nationwide ground stop as thousands of flights canceled",
+       "url": "https://www.nbcnews.com/video/faa-lifts-nationwide-ground-stop-as-thousands-of-flights-canceled-273497669740",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-14",
      "time": "12:49 AM",
@@ -277,183 +297,169 @@
     },
     {
      "date": "2026-11-14",
-     "time": "6:00 AM",
-     "headline": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
-     "summary": "Tom Emmer says House Republicans will use committee hearings and floor votes to hold Democrats accountable as the GOP shifts to minority status.",
+     "time": "11:42 AM",
+     "headline": "FAA ground stop throws college football into chaos, while the NFL is safe",
+     "summary": "A Federal Aviation Administration ground stop that lasted more than four hours and canceled over 7,000 flights Friday affected the travel plans for several pro and college teams across multiple sports.",
      "sources": [
       {
-       "outlet": "Fox News",
-       "title": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
-       "url": "https://www.foxnews.com/politics/inside-house-gop-strategy-capitalize-democrats-warring-factions-new-congress",
-       "bias": 1
+       "outlet": "NBC News",
+       "title": "FAA ground stop throws college football into chaos, while the NFL is safe",
+       "url": "https://www.nbcnews.com/sports/college-football/faa-ground-stop-college-football-nfl-nba-nhl-rcna609309",
+       "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "6:00 AM",
-     "headline": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
-     "summary": "President Donald Trump declared on Truth Social the U.S. no longer needs a deal with Iran, one day after proclaiming victory at Arlington.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
-       "url": "https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:59 AM",
-     "headline": "Trump, Putin, Xi Jinping to meet in first trilateral of its kind",
-     "summary": "President Trump is looking to talk about reducing nuclear arsenals in the first formal trilateral between the leaders of U.S., China and Russia.",
+     "time": "11:42 AM",
+     "headline": "U.S. loses measles elimination status as cases surge nationwide",
+     "summary": "The United States has lost its official measles elimination status for the first time in 26 years. Here's what to know.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Trump, Putin, Xi Jinping to meet in first trilateral of its kind",
-       "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/",
+       "title": "U.S. loses measles elimination status as cases surge nationwide",
+       "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "5:31 AM",
-     "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
-     "summary": "President Donald Trump has been all over the map as he's articulated his thinking about the Iran war since last week's midterm elections",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
-       "url": "https://abcnews.com/US/wireStory/shifting-iran-rhetoric-us-elections-trump-leaves-mideast-138136269",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:31 AM",
-     "headline": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia",
-     "summary": "Canadian Prime Minister Mark Carney says Canada and the U.S. are making progress on a trade deal after talks collapsed in August",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "Canada’s Carney reports progress in trade talks with Trump as he expands ties with Asia",
-       "url": "https://abcnews.com/US/wireStory/canadas-carney-reports-progress-trade-talks-trump-expands-138136808",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:31 AM",
-     "headline": "Memorial opens honoring victims of the 2015 Charleston church massacre",
-     "summary": "Eleven years after a white gunman killed nine Black parishioners inside the South’s oldest African Methodist Episcopal Church, a long planned memorial is opening to honor their lives",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "Memorial opens honoring victims of the 2015 Charleston church massacre",
-       "url": "https://abcnews.com/US/wireStory/memorial-opens-honoring-victims-2015-charleston-church-massacre-138137389",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:31 AM",
-     "headline": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
-     "summary": "Airlines across the U.S. are working to dig out from the longest nationwide ground stop in 25 years",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
-       "url": "https://abcnews.com/US/wireStory/thousands-flights-canceled-airlines-work-dig-nationwide-ground-138137419",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:30 AM",
-     "headline": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
-     "summary": "Los Angeles mayor-elect Nithya Raman pledges to halve homeless encampments before the 2028 Olympics, but a local activist warns it won't work.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
-       "url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "5:29 AM",
-     "headline": "U.N. watchdog agency pushes for access to key Iran nuclear site",
-     "summary": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
+     "time": "11:39 AM",
+     "headline": "Travelers stranded, flights canceled after ground stop. Here's what we know",
+     "summary": "More than 3,800 flights were canceled Saturday, according to flight tracking website FlightAware, while around 2,000 others were delayed.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "U.N. watchdog agency pushes for access to key Iran nuclear site",
-       "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+       "title": "Travelers stranded, flights canceled after ground stop. Here's what we know",
+       "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "5:25 AM",
-     "headline": "Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois",
-     "summary": "A suspicious device at an ethanol plant in Peoria, Illinois, triggered evacuations within a one-mile radius, with local events forced to cancel as investigations continue.",
+     "time": "11:38 AM",
+     "headline": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+     "summary": "His victory means Democrats will control the governor's office in 30 states, including several they flipped after years of Republican control in places such as Iowa, Georgia, Ohio and Texas.",
      "sources": [
       {
-       "outlet": "NBC News",
-       "title": "Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois",
-       "url": "https://www.nbcnews.com/news/us-news/evacuation-order-ethanol-plant-peoria-illinois-suspicious-device-rcna609287",
-       "bias": -1
+       "outlet": "PBS NewsHour",
+       "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+       "url": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "5:15 AM",
-     "headline": "A seismic shakeup at Nvidia, and a Senate flip for the ages: The news quiz",
-     "summary": "The FDA issues a warning about GLP-1s, a soccer behemoth dumps its head coach, and this year’s Booker prize winner makes history.",
+     "time": "11:38 AM",
+     "headline": "Travel expert shares top destinations for an amazing vacation",
+     "summary": "Condé Nast Traveler just released a list of the top travel destinations for 2027.",
      "sources": [
       {
-       "outlet": "NBC News",
-       "title": "A seismic shakeup at Nvidia, and a Senate flip for the ages: The news quiz",
-       "url": "https://www.nbcnews.com/news/news-quiz/nvidia-news-quiz-rcna609023",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "Travel expert shares top destinations for an amazing vacation",
+       "url": "https://www.cbsnews.com/video/travel-expert-shares-top-destinations-for-an-amazing-vacation/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "5:00 AM",
-     "headline": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
-     "summary": "Josh Shapiro says he wants to more than double Pennsylvania's minimum wage and codify abortion rights with the new Democratic trifecta.",
+     "time": "11:27 AM",
+     "headline": "Lady Gaga's family restaurant Joanne Trattoria celebrates singers on the rise",
+     "summary": "Joanne Trattoria empowers young singers to lift their voices. The cozy restuarant in New York City's Upper West Side is run by Joe and Cynthia Germanotta, the parents of Stefani Germanotta — also known as Lady Gaga.",
      "sources": [
       {
-       "outlet": "Fox News",
-       "title": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
-       "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
-       "bias": 1
+       "outlet": "CBS News",
+       "title": "Lady Gaga's family restaurant Joanne Trattoria celebrates singers on the rise",
+       "url": "https://www.cbsnews.com/video/lady-gagas-family-restaurant-joanne-trattoria-celebrates-singers-on-the-rise/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "5:00 AM",
-     "headline": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-     "summary": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
+     "time": "11:26 AM",
+     "headline": "2 Americans die in suspected drowning incident in the Bahamas",
+     "summary": "Police said the Americans were part of a group swimming beyond an area marked with a warning sign cautioning against strong currents.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-       "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "2 Americans die in suspected drowning incident in the Bahamas",
+       "url": "https://www.cbsnews.com/news/americans-die-suspected-drowning-bimini-bahamas/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:24 AM",
+     "headline": "Drone delivers Gatorade, bananas to chimp stranded by Florida floodwaters",
+     "summary": "After floodwaters left a rescue chimpanzee stranded on a small island at Save the Chimps sanctuary in Florida, caretakers used a drone to deliver food and drinks to the ape.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Drone delivers Gatorade, bananas to chimp stranded by Florida floodwaters",
+       "url": "https://www.cbsnews.com/video/drone-delivers-gatorade-bananas-to-chimp-stranded-by-florida-floodwaters/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:23 AM",
+     "headline": "Microsoft says services fully restored after global outage",
+     "summary": "The outage affected governments, courts, healthcare services, businesses, airlines and banks in many places. Governments including those of Japan, Singapore and Australia reported that the hourslong episode had impacted some of their operations.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Microsoft says services fully restored after global outage",
+       "url": "https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:14 AM",
+     "headline": "Exclusive discounts from CBS Mornings Deals",
+     "summary": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Exclusive discounts from CBS Mornings Deals",
+       "url": "https://www.cbsnews.com/video/cbs-mornings-deals-111426/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:10 AM",
+     "headline": "Investigators probe cause of deadly NYC building collapse",
+     "summary": "New York City investigators are looking into whether anything criminal contributed to the deadly collapse of a building in Brooklyn.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Investigators probe cause of deadly NYC building collapse",
+       "url": "https://www.cbsnews.com/video/investigators-probe-cause-of-deadly-nyc-building-collapse/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:06 AM",
+     "headline": "New Orleans river cruise collision sounded like \"tons of steel crunching,\" witness says",
+     "summary": "Shocking video shows the moment when a tanker and a paddlewheel river cruise collided in New Orleans. Luckily, no one died. Skyler Henry has more.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "New Orleans river cruise collision sounded like \"tons of steel crunching,\" witness says",
+       "url": "https://www.cbsnews.com/video/new-orleans-river-cruise-collision-sounded-like-tons-of-steel-crunching-witness-says/",
+       "bias": 0
       }
      ]
     }
@@ -465,13 +471,167 @@
    "items": [
     {
      "date": "2026-11-14",
-     "time": "6:28 AM",
-     "headline": "First Alert: Freezing temperatures ahead before a warmup in the Carolinas",
+     "time": "11:39 AM",
+     "headline": "Charlotte Marathon race bibs honor runner killed in hit-and-run",
+     "summary": "Lance Sotelo was killed in east Charlotte in January 2026",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Charlotte Marathon race bibs honor runner killed in hit-and-run",
+       "url": "https://www.wbtv.com/2026/11/14/charlotte-marathon-race-bibs-honor-runner-killed-hit-and-run/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:27 AM",
+     "headline": "Mother and daughter found dead in home; suspect shot hours later, police say",
+     "summary": "Two women were found dead inside a Mississippi home Friday, and a suspect was later shot by deputies in Florida, authorities said.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Mother and daughter found dead in home; suspect shot hours later, police say",
+       "url": "https://www.wbtv.com/2026/11/14/mother-daughter-found-dead-home-suspect-shot-hours-later-police-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:53 AM",
+     "headline": "International travel likely to lead to new CLT concourse, $4B total investment",
+     "summary": "Charlotte Douglas International Airport’s newly approved, 10.5-year lease includes an agreement to invest $2.1 billion in expansion and renovation projects inside the terminal and on the airfield.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "International travel likely to lead to new CLT concourse, $4B total investment",
+       "url": "https://www.wsoctv.com/news/local/international-travel-likely-lead-new-clt-concourse-4b-total-investment/XNWK4RPORVA7NBETGGMD5DNTHE/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:47 AM",
+     "headline": "Man sentenced after argument leads to deadly north Charlotte shooting back in 2024",
+     "summary": "A man charged in a deadly North Carolina shooting was sentenced to almost a year and a half in prison.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Man sentenced after argument leads to deadly north Charlotte shooting back in 2024",
+       "url": "https://www.wsoctv.com/news/local/man-sentenced-after-argument-leads-deadly-north-charlotte-shooting-back-2024/OXTJHGFLBBGC7KN2Q5TCAURHHU/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:15 AM",
+     "headline": "Fire destroys two-story home in Concord early Saturday morning",
+     "summary": "The Concord Fire Department responded to a two-story house fire early Saturday morning at 7403 Millstone Circle SW.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Fire destroys two-story home in Concord early Saturday morning",
+       "url": "https://www.wsoctv.com/news/local/fire-destroys-two-story-home-concord-early-saturday-morning/IC44HKKFSRAS5CCEMF7MS5ET7U/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:07 AM",
+     "headline": "First-ever ‘Pride in the Park’ in Matthews to feature local vendors amid planned protest",
+     "summary": "Both sides called for Sunday, Nov. 15 event to remain peaceful",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "First-ever ‘Pride in the Park’ in Matthews to feature local vendors amid planned protest",
+       "url": "https://www.wbtv.com/2026/11/14/first-ever-pride-park-matthews-feature-local-vendors-amid-planned-protest/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:07 AM",
+     "headline": "Why a state rep. wants to break up Charlotte-Mecklenburg Schools",
+     "summary": "Rep. exploring break-up, recall votes for board members",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Why a state rep. wants to break up Charlotte-Mecklenburg Schools",
+       "url": "https://www.wbtv.com/2026/11/14/why-state-rep-wants-break-up-charlotte-mecklenburg-schools/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:02 AM",
+     "headline": "South Carolina Spotlight: Souls for Their Feet drive -- and other news across the state",
+     "summary": "Three stories happening across South Carolina heading into the weekend.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "South Carolina Spotlight: Souls for Their Feet drive -- and other news across the state",
+       "url": "https://www.wbtv.com/2026/11/14/south-carolina-spotlight-souls-their-feet-drive-other-news-across-state/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:02 AM",
+     "headline": "Consumer Reports tests kids’ vitamins for heavy metals, label accuracy",
+     "summary": "Approximately 1 in 3 kids under age 19 regularly take a dietary supplement, according to the Centers for Disease Control and Prevention. But do kids’ vitamins actually contain what they say on the label?",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Consumer Reports tests kids’ vitamins for heavy metals, label accuracy",
+       "url": "https://www.wsoctv.com/news/local/consumer-reports-tests-kids-vitamins-heavy-metals-label-accuracy/COBAVEK7UZAJ7LTZUSVO6GCQSM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "10:00 AM",
+     "headline": "High Point University students bring period poverty advocacy to Capitol Hill",
+     "summary": "Their project is one of three focused on health-related advocacy as part of a strategic communications course at the private university. Previous projects have led to bills being introduced in Congress and federal lawmakers signing on to legislation.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "High Point University students bring period poverty advocacy to Capitol Hill",
+       "url": "https://www.wfae.org/health/2026-11-14/high-point-university-students-bring-period-poverty-advocacy-to-capitol-hill",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "9:32 AM",
+     "headline": "‘A fiasco’: Exhaustion, frustration at Charlotte airport amid impacts from nationwide ground stop",
+     "summary": "Travelers wrangle with upset plans in ground stop's aftermath",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "‘A fiasco’: Exhaustion, frustration at Charlotte airport amid impacts from nationwide ground stop",
+       "url": "https://www.wbtv.com/2026/11/14/fiasco-exhaustion-frustration-charlotte-airport-amid-impacts-nationwide-ground-stop/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "9:28 AM",
+     "headline": "First Alert: Freezing temperatures, mountain snow in Charlotte region",
      "summary": "3 First Alerts coming up due to cold morning temperatures",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "First Alert: Freezing temperatures ahead before a warmup in the Carolinas",
+       "title": "First Alert: Freezing temperatures, mountain snow in Charlotte region",
        "url": "https://www.wbtv.com/2026/11/14/first-alert-freezing-temperatures-ahead-before-warmup-carolinas/",
        "bias": 0
       }
@@ -479,196 +639,42 @@
     },
     {
      "date": "2026-11-14",
-     "time": "6:27 AM",
-     "headline": "FBI part of investigation into credible bomb threat at Illinois ethanol plant",
-     "summary": "A bomb threat at an Illinois ethanol plant triggered an evacuation.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "FBI part of investigation into credible bomb threat at Illinois ethanol plant",
-       "url": "https://www.wbtv.com/2026/11/14/fbi-part-investigation-into-credible-bomb-threat-illinois-ethanol-plant/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "6:16 AM",
-     "headline": "FORECAST: Cold start, highs below normal",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "time": "9:24 AM",
+     "headline": "Man receives consecutive prison sentences for deadly west Charlotte hit-and-run",
+     "summary": "A man has been sentenced to prison after pleading guilty to felony hit-and-run causing death and driving while impaired.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Cold start, highs below normal",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-cold-start-highs-below-normal/L6HBTIGW4JDH3FRZZMLDZRC5RI/",
+       "title": "Man receives consecutive prison sentences for deadly west Charlotte hit-and-run",
+       "url": "https://www.wsoctv.com/news/local/man-receives-consecutive-prison-sentences-deadly-west-charlotte-hit-and-run/QZTJ3ANTJFGZVJOKZIE33SVE6Q/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "4:14 AM",
-     "headline": "Family of high school freshman who died after collapsing in class remembers ‘a good kid’",
-     "summary": "A boy's family and his coach shared memories of the freshman football player who died after collapsing in gym class.",
+     "time": "9:15 AM",
+     "headline": "Man sentenced after stealing packages from apartment in 2024",
+     "summary": "A man is headed to prison for stealing packages from an apartment mailroom in SouthPark.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Family of high school freshman who died after collapsing in class remembers ‘a good kid’",
-       "url": "https://www.wbtv.com/2026/11/14/family-high-school-freshman-who-died-after-collapsing-class-remembers-good-kid/",
+       "outlet": "WSOC",
+       "title": "Man sentenced after stealing packages from apartment in 2024",
+       "url": "https://www.wsoctv.com/news/local/man-sentenced-after-stealing-packages-apartment-2024/CI2OOLWDLNBHJPQK4OBQZHALIQ/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "3:59 AM",
-     "headline": "Fire department mourns firefighter who died while hiking in park",
-     "summary": "Sarah Longest had worked for the Independence Fire Department since March 10, 2025.",
+     "time": "8:50 AM",
+     "headline": "Charlotte Marathon takes over Queen City streets",
+     "summary": "The 22nd annual Novant Health Charlotte Marathon takes place on Saturday, Nov. 14.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Fire department mourns firefighter who died while hiking in park",
-       "url": "https://www.wbtv.com/2026/11/14/fire-department-mourns-firefighter-who-died-while-hiking-park/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "1:08 AM",
-     "headline": "Chambers overcomes slow start to survive West Charlotte 25-20 in NCHSAA 8A second round",
-     "summary": "Chambers will get a rematch against Mallard Creek in the third round on Nov. 20.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Chambers overcomes slow start to survive West Charlotte 25-20 in NCHSAA 8A second round",
-       "url": "https://www.wbtv.com/2026/11/14/chambers-overcomes-slow-start-survive-west-charlotte-25-20-nchsaa-8a-second-round/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "1:06 AM",
-     "headline": "East Lincoln cruises past Forest Hills 49-16 in second round of NCHSAA 5A playoffs",
-     "summary": "The Mustangs will travel to 2-seed Franklin in the third round on Nov. 20.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "East Lincoln cruises past Forest Hills 49-16 in second round of NCHSAA 5A playoffs",
-       "url": "https://www.wbtv.com/2026/11/14/east-lincoln-cruises-past-forest-hills-49-16-second-round-nchsaa-5a-playoffs/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "1:03 AM",
-     "headline": "Mallard Creek blows past Pinecrest 37-0 in second round of NCHSAA 8A playoffs",
-     "summary": "This win sets up a rematch with conference rival Chambers in the third round on Nov. 20.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Mallard Creek blows past Pinecrest 37-0 in second round of NCHSAA 8A playoffs",
-       "url": "https://www.wbtv.com/2026/11/14/mallard-creek-blows-past-pinecrest-37-0-second-round-nchsaa-8a-playoffs/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "1:01 AM",
-     "headline": "Kings Mountain shuts out Watauga 42-0 in third round of NCHSAA 6A playoffs",
-     "summary": "The Mountaineers will host Ashbrook in the third round on Nov. 20.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Kings Mountain shuts out Watauga 42-0 in third round of NCHSAA 6A playoffs",
-       "url": "https://www.wbtv.com/2026/11/14/kings-mountain-shuts-out-watauga-42-0-third-round-nchsaa-6a-playoffs/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "12:59 AM",
-     "headline": "Burns dominates Bunker Hill 49-14 in NCHSAA 4A second round",
-     "summary": "The Bulldogs will host Wilkes Central in the third round on Nov. 20 at Ron Green Stadium in Lawndale.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Burns dominates Bunker Hill 49-14 in NCHSAA 4A second round",
-       "url": "https://www.wbtv.com/2026/11/14/burns-dominates-bunker-hill-49-14-nchsaa-4a-second-round/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "12:57 AM",
-     "headline": "Mountain Island Charter falls to Mitchell 14-7 in NCHSAA 2A second round",
-     "summary": "The Raptors end the season with an 8-3 record, the program’s most wins since 2023.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Mountain Island Charter falls to Mitchell 14-7 in NCHSAA 2A second round",
-       "url": "https://www.wbtv.com/2026/11/14/mountain-island-charter-falls-mitchell-14-7-nchsaa-2a-second-round/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "12:54 AM",
-     "headline": "South Point steamrolls Smoky Mountain 40-0 in NCHSAA 5A second round",
-     "summary": "The Red Raiders will host Monroe in the third round on Nov. 20.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "South Point steamrolls Smoky Mountain 40-0 in NCHSAA 5A second round",
-       "url": "https://www.wbtv.com/2026/11/14/south-point-steamrolls-smoky-mountain-40-0-nchsaa-5a-second-round/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "12:52 AM",
-     "headline": "Lake Norman stays undefeated with 50-13 win over Richmond Senior in NCHSAA 7A second round",
-     "summary": "The Wildcats will host Marvin Ridge in the third round on Nov. 20.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Lake Norman stays undefeated with 50-13 win over Richmond Senior in NCHSAA 7A second round",
-       "url": "https://www.wbtv.com/2026/11/14/lake-norman-stays-undefeated-with-50-13-win-over-richmond-senior-nchsaa-7a-second-round/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "12:50 AM",
-     "headline": "West Rowan holds off Enka 41-33 in NCHSAA 5A second round",
-     "summary": "Next up the Falcons get conference rival Robinson in the third round on Nov. 20.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "West Rowan holds off Enka 41-33 in NCHSAA 5A second round",
-       "url": "https://www.wbtv.com/2026/11/14/west-rowan-holds-off-enka-41-33-nchsaa-5a-second-round/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "12:48 AM",
-     "headline": "Northwestern pulls away late to beat Rock Hill 42-17 in SCHSL 5A second round",
-     "summary": "The Trojans will host Dorman in the third round next Friday night.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Northwestern pulls away late to beat Rock Hill 42-17 in SCHSL 5A second round",
-       "url": "https://www.wbtv.com/2026/11/14/northwestern-pulls-away-late-beat-rock-hill-42-17-schsl-5a-second-round/",
+       "outlet": "WSOC",
+       "title": "Charlotte Marathon takes over Queen City streets",
+       "url": "https://www.wsoctv.com/news/local/charlotte-marathon-takes-over-queen-city-streets/ESCJKY4JOJAJRPYXU2JYXMZEDE/",
        "bias": 0
       }
      ]
@@ -681,210 +687,210 @@
    "items": [
     {
      "date": "2026-11-14",
-     "time": "6:36 AM",
-     "headline": "College football odds, picks, predictions for Week 11, 2026: Computer likes Oregon, Wake Forest",
-     "summary": "SportsLine's model has revealed its 2026 Week 11 college football picks today after a ground stoppage caused flight delays for several teams on Friday",
+     "time": "11:44 AM",
+     "headline": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for USC-Indiana, LSU-Texas, college football predictions",
+     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on all of Saturday's Week 11 college football action",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "College football odds, picks, predictions for Week 11, 2026: Computer likes Oregon, Wake Forest",
-       "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-betting-lines-spreads-for-week-11-2026/",
+       "title": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for USC-Indiana, LSU-Texas, college football predictions",
+       "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-receive-55-bonus-usc-indiana-lsu-texas-college-football-predictions/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "5:32 AM",
-     "headline": "Taylor-Brown wins in Dubai to top T100 standings",
-     "summary": "British triathlete Georgia Taylor-Brown moves top of the overall standings in the women's T100 series with her second victory of the season in Dubai.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Taylor-Brown wins in Dubai to top T100 standings",
-       "url": "https://www.bbc.co.uk/sport/triathlon/articles/c6930qpvq207o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "4:59 AM",
-     "headline": "'Exciting' Moylan flourishing for club and country",
-     "summary": "BBC Sport NI looks as Jack Moylan's terrific form for Cardiff City and Republic of Ireland ahead of the Irish's final two Nations League games.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "'Exciting' Moylan flourishing for club and country",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "4:57 AM",
-     "headline": "NI target challenge of Nations League promotion",
-     "summary": "A win against Ukraine on Saturday night would leave Northern Ireland needing only a point away to Hungary next week to secure promotion to Nations League A for the first time.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "NI target challenge of Nations League promotion",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "4:53 AM",
-     "headline": "Sooryavanshi becomes youngest captain in men's T20s",
-     "summary": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Sooryavanshi becomes youngest captain in men's T20s",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "4:52 AM",
-     "headline": "Menzies sheds weight & embraces fitness after health issues",
-     "summary": "Cameron Menzies has lost five stone and embraced fitness and different forms of therapy after medical issues threatened to upend his darts careers.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Menzies sheds weight & embraces fitness after health issues",
-       "url": "https://www.bbc.co.uk/sport/darts/articles/c9p83m48e7g1o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "4:13 AM",
-     "headline": "Tuchel to remind England of anti-racism protocols before Spain game",
-     "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Tuchel to remind England of anti-racism protocols before Spain game",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "3:57 AM",
-     "headline": "Who would make your England-Spain combined XI?",
-     "summary": "How many England players do you think would make the Spain team?",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Who would make your England-Spain combined XI?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "3:35 AM",
-     "headline": "Clough's longevity: landmark achievement or indictment on football?",
-     "summary": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Clough's longevity: landmark achievement or indictment on football?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "3:22 AM",
-     "headline": "Japan's unlikely leader who turned down the All Blacks",
-     "summary": "Warner Dearns did not want to go to Japan as a teenager. Now he is determined to stay and do his adopted country proud.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Japan's unlikely leader who turned down the All Blacks",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq74297dvnygo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "2:49 AM",
-     "headline": "Six goals to go - will McGinn catch Dalglish & Law?",
-     "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "2:43 AM",
-     "headline": "England boxer missed Worlds over sex-test mix-up",
-     "summary": "George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "England boxer missed Worlds over sex-test mix-up",
-       "url": "https://www.bbc.co.uk/sport/boxing/articles/c9ly4lerj8m3o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "2:20 AM",
-     "headline": "Warner accuses Cricket Australia of 'cover-up'",
-     "summary": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Warner accuses Cricket Australia of 'cover-up'",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "2:11 AM",
-     "headline": "Oklahoma AD Roger Denny blasts SEC after game vs. Ole Miss pushed to Sunday under threat of forfeit",
-     "summary": "The FAA groundstop on Friday caused travel issues for many teams, including the Rebels, who were facing issues getting to Oklahoma",
+     "time": "11:39 AM",
+     "headline": "'Our game needs her': Dawn Staley praises JuJu Watkins ahead of top-three clash between South Carolina and USC",
+     "summary": "The two marquee programs will face off in the battle of 'The Real SC' on Sunday",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Oklahoma AD Roger Denny blasts SEC after game vs. Ole Miss pushed to Sunday under threat of forfeit",
-       "url": "https://www.cbssports.com/college-football/news/oklahoma-ad-roger-denny-blasts-sec-ole-miss-sunday-faa-groundstop/",
+       "title": "'Our game needs her': Dawn Staley praises JuJu Watkins ahead of top-three clash between South Carolina and USC",
+       "url": "https://www.cbssports.com/womens-college-basketball/news/staley-praises-juju-watkins-usc-and-south-carolina-clash/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-14",
-     "time": "2:00 AM",
-     "headline": "The challenge that brought Nunes out of retirement",
-     "summary": "Amanda Nunes says the prospect of fighting Kayla Harrison and putting women's MMA back in the spotlight convinced her to come out of retirement to fight at UFC 334 on Saturday.",
+     "time": "11:38 AM",
+     "headline": "Magnificent Wales beat New Zealand for first time since 1953",
+     "summary": "Wales celebrate a first victory against New Zealand in 73 years with a brilliant 35-28 win to provide astonishing scenes in Cardiff. Wales celebrate a first victory against New Zealand in 73 years with a brilliant performance to provide astonishing scenes in…",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "The challenge that brought Nunes out of retirement",
-       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6e3dw87pyjeo?at_medium=RSS&at_campaign=rss",
+       "title": "Magnificent Wales beat New Zealand for first time since 1953",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:33 AM",
+     "headline": "NFL Week 10 injury report: Chiefs' Kenneth Walker III ruled out, Patriots' A.J. Brown questionable",
+     "summary": "The final injury reports for every NFL team playing on Sunday in Week 10",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker III ruled out, Patriots' A.J. Brown questionable",
+       "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:30 AM",
+     "headline": "UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in main event",
+     "summary": "A pair of title fights are set to headline at Madison Square Garden in New York City",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in main event",
+       "url": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-date-odds-location-guide/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:26 AM",
+     "headline": "Tenerife boss says Owono's 12-match ban 'feels light'",
+     "summary": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:17 AM",
+     "headline": "'I just play where the manager tells me to play!' - Walsh",
+     "summary": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "'I just play where the manager tells me to play!' - Walsh",
+       "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:16 AM",
+     "headline": "Mark Pope says he hopes Kentucky fans 'had fun' after near historic upset as a 34.5-point favorite vs. NAU",
+     "summary": "Kentucky guard Alex Wilkins knocked down a go-ahead 3-pointer with 2.2 seconds remaining to avoid a historic loss",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Mark Pope says he hopes Kentucky fans 'had fun' after near historic upset as a 34.5-point favorite vs. NAU",
+       "url": "https://www.cbssports.com/college-basketball/news/mark-pope-kentucky-postgame-quotes-northern-arizona/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:16 AM",
+     "headline": "College football score predictions for Week 11, 2026: Model backs South Carolina (-7.5) at Arkansas",
+     "summary": "SportsLine's model has revealed its Week 11 college football score predictions for matchups such as Texas vs. LSU, Utah vs. Arizona and USC vs. Indiana",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College football score predictions for Week 11, 2026: Model backs South Carolina (-7.5) at Arkansas",
+       "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-lines-picks-best-bets-for-week-11-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:14 AM",
+     "headline": "College basketball rankings: Braylon Mullins leads UConn past Ohio State as Huskies begin tough stretch",
+     "summary": "UConn remains at No. 2 in Saturday's updated Top 25 And 1 rankings, while Texas A&M moves in and North Carolina drops out",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College basketball rankings: Braylon Mullins leads UConn past Ohio State as Huskies begin tough stretch",
+       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-top-25-and-1-uconn-braylon-mullins-ohio-state/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:13 AM",
+     "headline": "College football teams scrambling to find alternate travel plans after FAA lifts ground-stop order",
+     "summary": "The nationwide ground stoppage could have a major impact on Week 11 in college football",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College football teams scrambling to find alternate travel plans after FAA lifts ground-stop order",
+       "url": "https://www.cbssports.com/college-football/news/faa-ground-stoppage-college-football-teams-travel-plans/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:13 AM",
+     "headline": "Fantasy football rankings, projections, lineups, sleepers for Week 10 from proven model",
+     "summary": "SportsLine's model reveals its Week 10 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy football rankings, projections, lineups, sleepers for Week 10 from proven model",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineups-sleepers-streamers-start-sit-advice-for-week-10-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:10 AM",
+     "headline": "Zuffa Boxing 13 start time, fight card, predictions and where to watch Carlos Adames vs. Gerome Warburton",
+     "summary": "The middleweight champion makes his debut at 168 pounds on Saturday in Saudi Arabia",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Zuffa Boxing 13 start time, fight card, predictions and where to watch Carlos Adames vs. Gerome Warburton",
+       "url": "https://www.cbssports.com/boxing/news/zuffa-boxing-13-start-time-fight-card-date-predictions/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:04 AM",
+     "headline": "NFL DFS, Week 10: Top daily Fantasy picks, lineup advice for the Sunday main slate",
+     "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for the Week 10 NFL DFS main slate",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL DFS, Week 10: Top daily Fantasy picks, lineup advice for the Sunday main slate",
+       "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-10-daily-fantasy-picks-fanduel-draftkings-lineups-advice-sunday-main-slate/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "time": "11:01 AM",
+     "headline": "NFL picks against the spread, Week 10 2026: Expert ATS picks, predictions, best bets, player props for Nov. 15",
+     "summary": "The SportsLine experts have locked in their top Week 10 picks from this week's NFL schedule, see who they are backing and fading here",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL picks against the spread, Week 10 2026: Expert ATS picks, predictions, best bets, player props for Nov. 15",
+       "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-10-2026-expert-ats-picks-predictions-best-bets-player-props-for-nov-15/",
        "bias": 0
       }
      ]
