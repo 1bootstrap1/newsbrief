@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:45:25Z",
+ "generated_at": "2026-11-15T22:49:32Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -335,6 +335,20 @@
     },
     {
      "date": "2026-11-15",
+     "time": "5:43 PM",
+     "headline": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+     "summary": "The emerging fight, which will shape the 2028 presidential nominating contest, represents a rare challenge to Trump's dominance, even after the party's worst midterm performance in a generation.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+       "url": "https://www.pbs.org/newshour/politics/trumps-handpicked-party-chair-faces-a-rebellion-as-midterm-losses-challenge-presidents-grip-on-gop",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
      "time": "5:31 PM",
      "headline": "White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting",
      "summary": "A 19-year-old who prosecutors said fired more than 20 rounds into a D.C. neighborhood got probation, prompting the White House to slam the city's crime policies.",
@@ -469,20 +483,6 @@
        "outlet": "CBS News",
        "title": "Cassidy slams RFK Jr. for \"series of failures\" as HHS secretary",
        "url": "https://www.cbsnews.com/news/rfjk-series-of-failures-hhs-bill-cassidy-face-the-nation/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "3:04 PM",
-     "headline": "Vulcan rocket fails in major setback for United Launch Alliance",
-     "summary": "The loss of its new Vulcan rocket was the first outright failure for United Launch Alliance, a major setback in the commercial launch industry.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Vulcan rocket fails in major setback for United Launch Alliance",
-       "url": "https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/",
        "bias": 0
       }
      ]
