@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:48:52Z",
+ "generated_at": "2026-11-15T16:51:22Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -75,13 +75,27 @@
     },
     {
      "date": "2026-11-15",
-     "time": "11:39 AM",
-     "headline": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
-     "summary": "Hundreds of thousands rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom.",
+     "time": "11:47 AM",
+     "headline": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+     "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells A Home Office plan to build asylum seeker detention facilities next to a sewage pump is facing objections after water company officials warned…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+       "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "time": "11:40 AM",
+     "headline": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+     "summary": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
        "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
        "bias": -1
       }
@@ -223,20 +237,6 @@
        "outlet": "Al Jazeera",
        "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
        "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "10:21 AM",
-     "headline": "20 years of Al Jazeera English: Our story is still being written",
-     "summary": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "20 years of Al Jazeera English: Our story is still being written",
-       "url": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -713,6 +713,48 @@
     },
     {
      "date": "2026-11-15",
+     "time": "11:46 AM",
+     "headline": "NFL picks against the spread, Week 10 2026: Expert ATS picks, best bets, predictions, player props for Nov. 15",
+     "summary": "The SportsLine experts have locked in their top Week 10 picks from this week's NFL schedule, see who they are backing and fading here",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL picks against the spread, Week 10 2026: Expert ATS picks, best bets, predictions, player props for Nov. 15",
+       "url": "https://www.cbssports.com/betting/news/nfl-picks-against-the-spread-week-10-2026-expert-ats-picks-best-bets-predictions-player-props-nov-15/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "time": "11:45 AM",
+     "headline": "Ole Miss vs. Oklahoma prediction, odds, time: Week 11 college football Sunday picks from advanced model",
+     "summary": "SportsLine's model revealed its best bets for Oklahoma Sooners vs. Ole Miss Rebels on Sunday after the game was delayed due to travel issues on Friday",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Ole Miss vs. Oklahoma prediction, odds, time: Week 11 college football Sunday picks from advanced model",
+       "url": "https://www.cbssports.com/betting/news/ole-miss-oklahoma-prediction-odds-time-spread-week-11-college-football-sunday-picks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "time": "11:45 AM",
+     "headline": "Vikings vs. Packers odds, picks, prediction, spread: Start time, NFL Week 10 betting preview, best bets",
+     "summary": "Here's everything bettors need to know for Vikings vs. Packers in NFL Week 10",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Vikings vs. Packers odds, picks, prediction, spread: Start time, NFL Week 10 betting preview, best bets",
+       "url": "https://www.cbssports.com/betting/news/vikings-vs-packers-odds-picks-prediction-spread-start-time-nfl-week-10-betting-preview-best-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
      "time": "11:41 AM",
      "headline": "Vikings vs. Packers prediction, odds, time: 2026 NFL Week 10 picks from advanced model",
      "summary": "SportsLine's model has revealed its Minnesota Vikings vs. Green Bay Packers picks as Kirk Cousins returns to the Vikings",
@@ -861,48 +903,6 @@
        "outlet": "CBS Sports",
        "title": "Week 10 Fantasy Football rankings update",
        "url": "https://www.cbssports.com/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "11:22 AM",
-     "headline": "Panthers vs. Saints odds, picks, prediction, spread: Start time, NFL Week 10 betting preview, best bets",
-     "summary": "Here's everything bettors need to know for Panthers vs. Saints in NFL Week 10",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Panthers vs. Saints odds, picks, prediction, spread: Start time, NFL Week 10 betting preview, best bets",
-       "url": "https://www.cbssports.com/betting/news/panthers-vs-saints-odds-picks-prediction-spread-start-time-nfl-week-10-betting-preview-best-bets/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "11:20 AM",
-     "headline": "Fantasy football rankings, projections, lineups, sleepers for Week 10 from proven model",
-     "summary": "SportsLine's model reveals its Week 10 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Fantasy football rankings, projections, lineups, sleepers for Week 10 from proven model",
-       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineups-sleepers-streamer-picks-start-sit-week-10-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "11:08 AM",
-     "headline": "MLB rumors: Mets targeting first-base help; Padres look wide for pitching; new Ketel Marte suitor emerges",
-     "summary": "Here are the latest news and rumors from the MLB hot stove on Sunday, Nov. 15",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "MLB rumors: Mets targeting first-base help; Padres look wide for pitching; new Ketel Marte suitor emerges",
-       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mets-ty-france-padres-starting-pitching-orioles-ketel-marte-trade-diamondbacks-jonathan-loaisiga/",
        "bias": 0
       }
      ]
