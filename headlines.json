@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T11:47:56Z",
+ "generated_at": "2026-11-15T11:50:53Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -49,7 +49,7 @@
     },
     {
      "date": "2026-11-15",
-     "time": "6:26 AM",
+     "time": "6:30 AM",
      "headline": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
      "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet The US thinks Iran still has between 1,500-2,500 missiles in its arsenal despite the US-Israeli damage done this year to its production facilities, reports the Wall St…",
      "sources": [
@@ -237,6 +237,20 @@
    "items": [
     {
      "date": "2026-11-15",
+     "time": "6:47 AM",
+     "headline": "Georgia O'Keeffe painting buried in NY apartment closet is going up for auction",
+     "summary": "Christie's estimates its value at $3 to $5 million.",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "Georgia O'Keeffe painting buried in NY apartment closet is going up for auction",
+       "url": "https://abcnews.com/US/wireStory/georgia-okeeffe-painting-buried-new-york-apartment-closet-138155231",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
      "time": "6:46 AM",
      "headline": "UPS plane, passenger jet collide on Miami airport taxiway",
      "summary": "A UPS cargo plane and a Copa Airlines jet carrying 172 people collided while taxiing at Miami International Airport, leaving two passengers with minor injuries.",
@@ -294,6 +308,20 @@
     {
      "date": "2026-11-15",
      "time": "5:00 AM",
+     "headline": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+     "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+       "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "time": "5:00 AM",
      "headline": "Midterm voters ended the long-running GOP dominance in state legislatures",
      "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
      "sources": [
@@ -315,20 +343,6 @@
        "outlet": "NPR",
        "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
        "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "5:00 AM",
-     "headline": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-     "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-       "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
        "bias": -1
       }
      ]
@@ -439,26 +453,6 @@
        "outlet": "ABC News",
        "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
        "url": "https://abcnews.com/US/wireStory/shifting-iran-rhetoric-us-elections-trump-leaves-mideast-138136269",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "time": "1:19 PM",
-     "headline": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
-     "summary": "Democrats spent two days chewing over their future at the What's Next conference and trying to deal with the fact that it looks, for a moment at least, quite bright.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
-       "url": "https://www.pbs.org/newshour/politics/democrats-try-out-a-strange-new-emotion-at-post-midterms-whats-next-conference-hope",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "Democrats try out a strange new emotion at post-midterms What's Next conference — hope",
-       "url": "https://abcnews.com/US/wireStory/democrats-strange-new-emotion-post-midterms-conference-hope-138135230",
        "bias": -1
       }
      ]
