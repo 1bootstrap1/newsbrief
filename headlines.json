@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:23:26Z",
+ "generated_at": "2026-11-16T22:53:21Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,26 +13,6 @@
    "id": "world",
    "name": "World",
    "items": [
-    {
-     "date": "2026-11-16",
-     "time": "10:26 AM",
-     "headline": "Two mass shootings in South Africa leave 17 dead",
-     "summary": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "At least 17 killed in two South Africa mass shootings",
-       "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
-       "bias": -1
-      },
-      {
-       "outlet": "BBC News",
-       "title": "Two mass shootings in South Africa leave 17 dead",
-       "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
     {
      "date": "2026-11-16",
      "time": "8:40 AM",
@@ -55,91 +35,7 @@
     },
     {
      "date": "2026-11-16",
-     "time": "12:18 PM",
-     "headline": "Iran deploys army to stronghold of Iran-backed Kataib Hezbollah",
-     "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Iran deploys army to stronghold of Iran-backed Kataib Hezbollah",
-       "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:15 PM",
-     "headline": "LIVE: Germany vs Netherlands – UEFA Nations League",
-     "summary": "Previews, team news and live text commentary as Germany host the Netherlands in league's final Group A2 football match.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "LIVE: Germany vs Netherlands – UEFA Nations League",
-       "url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:11 PM",
-     "headline": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-     "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:08 PM",
-     "headline": "Trump denies responsibility for FAA nationwide ground stop",
-     "summary": "",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Trump denies responsibility for FAA nationwide ground stop",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:07 PM",
-     "headline": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:07 PM",
-     "headline": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
-     "summary": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict A Massachusetts judge on Monday scheduled Lindsay Clancy ’s second trial in the killings of her three young children for late March, over…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
-       "url": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:04 PM",
+     "time": "5:49 PM",
      "headline": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called…",
      "sources": [
@@ -153,84 +49,182 @@
     },
     {
      "date": "2026-11-16",
-     "time": "11:58 AM",
-     "headline": "Iran braces for natural gas shortages during winter energy imbalance",
-     "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+     "time": "5:44 PM",
+     "headline": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
+     "summary": "President Emmanuel Macron's France reportedly runs covert \"Volia\" mission training Ukrainian troops as Zelenskyy holds fresh peace talks with the US.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
+       "url": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:40 PM",
+     "headline": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+     "summary": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Iran braces for natural gas shortages during winter energy imbalance",
-       "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+       "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+       "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:56 AM",
-     "headline": "Israeli forces demolish the homes of two Palestinian prisoners",
-     "summary": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Israeli forces demolish the homes of two Palestinian prisoners",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:56 AM",
-     "headline": "Jerusalem Daily: Eisenkot wants Netanyahu out",
-     "summary": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:54 AM",
-     "headline": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-     "summary": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and…",
+     "time": "5:30 PM",
+     "headline": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+     "summary": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up Andy Burnham is being urged to spend billions of pounds on a “new deal” for the next generation that would fund guaranteed jobs support for young people…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-       "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+       "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+       "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:48 AM",
-     "headline": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-     "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the…",
+     "time": "5:21 PM",
+     "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+     "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:21 PM",
+     "headline": "Mid-year budget update will ‘cut enough, but not too much’, Jim Chalmers says",
+     "summary": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’ Get our breaking news email , free app or daily news podcast Jim Chalmers has promised next month’s…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-       "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+       "title": "Mid-year budget update will ‘cut enough, but not too much’, Jim Chalmers says",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:46 AM",
-     "headline": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
-     "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's upcoming presidential election.",
+     "time": "5:19 PM",
+     "headline": "United Airlines says it is working to fix ‘widespread’ system outage",
+     "summary": "Outage at major airline comes just three days after FAA issued rare nationwide ground stop on all US flights United ⁠Airlines said on ⁠Monday ⁠that it was ​experiencing ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "United Airlines says it is working to fix ‘widespread’ system outage",
+       "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:10 PM",
+     "headline": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+     "summary": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place The oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+       "url": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:06 PM",
+     "headline": "California braces for more towering waves as powerful storms approach",
+     "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-foot swells along California’s coast this weekend foretold an intense week of towering waves to come.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "California braces for more towering waves as powerful storms approach",
+       "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:04 PM",
+     "headline": "Germany thrash Netherlands to book quarterfinal spot",
+     "summary": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
-       "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+       "title": "Germany thrash Netherlands to book quarterfinal spot",
+       "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:01 PM",
+     "headline": "Customers report difficulty accessing online services at major US banks",
+     "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Customers report difficulty accessing online services at major US banks",
+       "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "4:40 PM",
+     "headline": "Houthi rebel advance in Yemen may further destabilise global economy",
+     "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+       "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "4:35 PM",
+     "headline": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+     "summary": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+       "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "4:16 PM",
+     "headline": "Mamdani to disband NYPD unit deployed at Columbia protests",
+     "summary": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -243,7 +237,87 @@
    "items": [
     {
      "date": "2026-11-16",
-     "time": "11:19 AM",
+     "time": "5:47 PM",
+     "headline": "Understaffing and unexpected fire behavior led to firefighter deaths, investigation finds",
+     "summary": "Unexpected fire behavior, chronic understaffing, a lack of highly trained employees and a new policy to quash fires quickly were among the factors that contributed to the deaths of four helitack firefighters as they battled a blaze in western Colorado in…",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Understaffing and unexpected fire behavior led to firefighter deaths, investigation finds",
+       "url": "https://www.pbs.org/newshour/nation/understaffing-and-unexpected-fire-behavior-led-to-firefighter-deaths-investigation-finds",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Investigation says understaffing and unexpected fire behavior led to firefighter deaths",
+       "url": "https://abcnews.com/US/wireStory/investigation-understaffing-unexpected-fire-behavior-led-firefighter-deaths-138128095",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:36 PM",
+     "headline": "United Airlines says it's experiencing a system outage",
+     "summary": "It wasn't immediately clear what parts of the airline's systems were affected, but United apologized to customers for the inconvenience on social media.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "United Airlines says it's experiencing a system outage",
+       "url": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "United Airlines is experiencing a ‘widespread system outage’",
+       "url": "https://www.nbcnews.com/news/us-news/united-airlines-system-outage-rcna609712",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "2:29 PM",
+     "headline": "Robert Pattinson named the next James Bond",
+     "summary": "Robert Pattinson will take over for Daniel Craig as 007 in the next James Bond film, the franchise announced Monday. Pop-culture commentator Mark O'Connell joined CBS News to discuss.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Robert Pattinson named the next James Bond",
+       "url": "https://www.cbsnews.com/video/robert-pattinson-named-the-next-james-bond-1/",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Robert Pattinson named as the newest James Bond",
+       "url": "https://www.nbcnews.com/pop-culture/movies/robert-pattinson-named-newest-james-bond-rcna607085",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "2:10 PM",
+     "headline": "Trump administration moves to block China from indirect access to American AI tech",
+     "summary": "The Trump administration has issued new rules to restrict remote access to advanced U.S. computing chips and servers.",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "Trump administration moves to block China from indirect access to American AI technology",
+       "url": "https://abcnews.com/US/wireStory/trump-administration-moves-block-china-indirect-access-american-138184683",
+       "bias": -1
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Trump administration moves to block China from indirect access to American AI tech",
+       "url": "https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "1:25 PM",
      "headline": "Trump says he \"would not mind\" if Nvidia reinstated Jensen Huang",
      "summary": "President Trump said he “wouldn’t mind” if Jensen Huang were reinstated as CEO of Nvidia after he was ousted following allegations of multiple extramarital affairs, including one with a suspected Chinese spy.",
      "sources": [
@@ -263,214 +337,140 @@
     },
     {
      "date": "2026-11-16",
-     "time": "9:54 AM",
-     "headline": "High court rejects challenge to Maryland gun ban in sensitive places",
-     "summary": "WASHINGTON — The Supreme Court on Monday declined to hear a broad challenge to Maryland’s restrictions on people carrying firearms in a broad range of public areas.",
+     "time": "5:27 PM",
+     "headline": "Major U.S. banks report widespread service outages",
+     "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Major U.S. banks report widespread service outages",
+       "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:21 PM",
+     "headline": "Ex-staffers claim lack of enforcement, \"chaos\" under Lutnick",
+     "summary": "Some former Commerce Department officials are describing Howard Lutnick's tenure as secretary as being marked by \"chaos,\" \"micromanaging,\" and what they allege are failures to act on evidence of computer chip smuggling.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Ex-staffers claim lack of enforcement, \"chaos\" under Lutnick",
+       "url": "https://www.cbsnews.com/news/howard-lutnick-commerce-department-chips-chaos-former-employees/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:18 PM",
+     "headline": "An early look at the 2028 Senate map: From the Politics Desk",
+     "summary": "In today’s edition, Sahil Kapur dives into the next battle for the Senate.",
      "sources": [
       {
        "outlet": "NBC News",
-       "title": "Supreme Court rejects challenge to Maryland’s ‘sensitive places’ gun ban",
-       "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-challenge-marylands-sensitive-places-gun-ban-rcna608565",
-       "bias": -1
-      },
-      {
-       "outlet": "CBS News",
-       "title": "High court rejects challenge to Maryland gun ban in sensitive places",
-       "url": "https://www.cbsnews.com/news/supreme-court-maryland-gun-laws-sensitive-places/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "8:07 AM",
-     "headline": "Right whale population drops, alarming scientists",
-     "summary": "The population of one of the world's rarest whales has fallen after trending upward in recent years, worrying scientists who fear the animal could still be at risk of extinction.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Right whale population drops, alarming scientists",
-       "url": "https://www.cbsnews.com/news/right-whale-population-drops-reversing-recent-trend-alarming-scientists/",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "Rare North Atlantic right whale population drops, alarming scientists",
-       "url": "https://abcnews.com/US/wireStory/rare-north-atlantic-whale-population-drops-alarming-scientists-138172223",
+       "title": "An early look at the 2028 Senate map: From the Politics Desk",
+       "url": "https://www.nbcnews.com/politics/politics-news/early-look-2028-senate-map-politics-desk-rcna609707",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "6:38 AM",
-     "headline": "Fewer foreign students studying at U.S. universities, study shows",
-     "summary": "Fewer international students are studying at U.S. universities as the Trump administration cracks down on immigration and reshapes higher education, a study shows.",
+     "time": "5:06 PM",
+     "headline": "California sues OpenAI over hacking risks",
+     "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
      "sources": [
       {
-       "outlet": "ABC News",
-       "title": "Fewer students are traveling from abroad to study at US universities, report shows",
-       "url": "https://abcnews.com/US/wireStory/fewer-students-traveling-abroad-study-us-universities-report-138169810",
+       "outlet": "NPR",
+       "title": "California sues OpenAI over hacking risks",
+       "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
        "bias": -1
-      },
-      {
-       "outlet": "CBS News",
-       "title": "Fewer foreign students studying at U.S. universities, study shows",
-       "url": "https://www.cbsnews.com/news/us-universities-fewer-foreign-students-trump-administration-policies/",
-       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "12:19 PM",
-     "headline": "Lindsay Clancy to be retried on first-degree murder charges in March",
-     "summary": "Prosecutors plan to retry Lindsay Clancy on first-degree murder charges, after her first Massachusetts murder trial ended in a mistrial.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Lindsay Clancy to be retried on first-degree murder charges in March",
-       "url": "https://www.cbsnews.com/news/lindsay-clancy-hearing/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:14 PM",
-     "headline": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
-     "summary": "Scientists stumbled onto a hint that measuring a toxic protein tied to Alzheimer's disease just might one day be useful in diagnosing a different brain disease in football players and others who have suffered repeated blows to the head.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
-       "url": "https://www.pbs.org/newshour/science/preliminary-study-finds-a-clue-in-the-quest-to-help-diagnose-cte-in-the-living",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:08 PM",
-     "headline": "Third US aircraft carrier arrives in Middle East as Iran rules out UN nuclear inspections",
-     "summary": "A third American aircraft carrier arrived in the area U.S. Central Command is responsible for, Israeli journalist Barak Ravid noted on Sunday.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Third US aircraft carrier arrives in Middle East as Iran rules out UN nuclear inspections",
-       "url": "https://www.foxnews.com/politics/third-us-aircraft-carrier-arrives-middle-east-iran-rules-out-un-nuclear-inspections",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:08 PM",
-     "headline": "Fetterman's Gaza-born challenger calls to 'abolish ICE,' oust top Democratic leaders",
-     "summary": "Gaza-born socialist Ahmed Moor challenged one of Israel's strongest Senate supporters while calling for an overhaul of Democratic leadership.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Fetterman's Gaza-born challenger calls to 'abolish ICE,' oust top Democratic leaders",
-       "url": "https://www.foxnews.com/politics/fettermans-gaza-born-challenger-calls-abolish-ice-oust-top-democratic-leaders",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:56 AM",
-     "headline": "\"Grand Theft Auto VI\" is coming Thursday. Here's what to know.",
-     "summary": "\"Grand Theft Auto VI\" is finally reaching consoles after a 13-year wait. Variety's Jennifer Maas has what you need to know.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "\"Grand Theft Auto VI\" is coming Thursday. Here's what to know.",
-       "url": "https://www.cbsnews.com/video/grand-theft-auto-vi-is-coming-thursday-heres-what-to-know/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:50 AM",
-     "headline": "How Trump administration responded to FAA ground stop",
-     "summary": "President Trump was informed within 30 minutes after the Federal Aviation Administration imposed a nationwide ground stop Friday afternoon, according to U.S. officials.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "How Trump administration responded to FAA ground stop",
-       "url": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:50 AM",
-     "headline": "Beanie Feldstein on working with Ariana Grande, Robert De Niro and more in \"Focker-in-Law\"",
-     "summary": "Beanie Feldstein, who stars in \"Focker-in-Law,\" joins \"CBS Mornings\" to talk about the film, becoming a mom and more.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Beanie Feldstein on working with Ariana Grande, Robert De Niro and more in \"Focker-in-Law\"",
-       "url": "https://www.cbsnews.com/video/beanie-feldstein-on-working-with-ariana-grande-robert-de-niro-and-more-in-focker-in-law/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:50 AM",
-     "headline": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
-     "summary": "A coalition of countries seeking to accelerate the global transition away from fossil fuels is preparing to unveil new national plans at the ongoing United Nations climate talks, known as COP31, in Antalya, Turkey, pressing ahead despite the withdrawal of…",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
-       "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:45 AM",
-     "headline": "Woman buys Ford Bronco, drives 27 hours home after flights grounded",
-     "summary": "A woman bought a Ford Bronco and drove 27 hours from Charlotte, North Carolina, back home to North Dakota during the nationwide FAA ground stop.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Woman buys Ford Bronco, drives 27 hours home after flights grounded",
-       "url": "https://www.cbsnews.com/news/woman-buys-ford-bronco-drives-27-hours-home-flights-grounded/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:45 AM",
-     "headline": "The best experiential gifts you can give this year: Cooking classes, travel and much more",
-     "summary": "I rounded up the best experience gifts to give this year, including cooking classes, travel vouchers, movie theater tickets and much more.",
+     "time": "5:03 PM",
+     "headline": "The FAA ground stop left them stranded, so they bought a car and drove it home",
+     "summary": "A nationwide ground stop left Tara Harding and her employees stranded. Striking out on planes and trains, she opted to just buy an automobile.",
      "sources": [
       {
        "outlet": "NBC News",
-       "title": "The best experiential gifts you can give this year: Cooking classes, travel and much more",
-       "url": "https://www.nbcnews.com/select/shopping/best-experience-gifts-rcna609618",
+       "title": "The FAA ground stop left them stranded, so they bought a car and drove it home",
+       "url": "https://www.nbcnews.com/news/us-news/women-stranded-faa-ground-stop-buy-ford-bronco-27-hour-road-trip-rcna609629",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:38 AM",
-     "headline": "Diesel prices dip below $6 a gallon for first time since September",
-     "summary": "Diesel around the U.S. now averages $5.99 a gallon, down from a record high of $6.53 in September, according to AAA.",
+     "time": "4:35 PM",
+     "headline": "The Hatch Baby is the one thing I tell every new mom to buy — here’s why",
+     "summary": "I’ve used the Hatch Baby sound machine and night light with both my kids for nearly six years. Here’s why it’s the one product I tell new moms to buy.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "The Hatch Baby is the one thing I tell every new mom to buy — here’s why",
+       "url": "https://www.nbcnews.com/select/shopping/hatch-baby-review-rcna609689",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "4:34 PM",
+     "headline": "WATCH: 'You never notice broken windows, obviously,' Trump tells Black reporter",
+     "summary": "President Donald Trump berated NBC News White House correspondent Yamiche Alcindor on Monday after she asked him to respond to critics who say he was too focused on construction projects in the nation's capital instead of issues with the country's airline…",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "WATCH: 'You never notice broken windows, obviously,' Trump tells Black reporter",
+       "url": "https://www.pbs.org/newshour/politics/watch-you-never-notice-broken-windows-obviously-trump-tells-black-reporter",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "4:14 PM",
+     "headline": "Iran rules out nuclear site inspections until war ends",
+     "summary": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Diesel prices dip below $6 a gallon for first time since September",
-       "url": "https://www.cbsnews.com/news/diesel-prices-fall-below-6-gallon/",
+       "title": "Iran rules out nuclear site inspections until war ends",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "4:13 PM",
+     "headline": "U.S. loses measles elimination status as cases surge",
+     "summary": "The U.S. has officially lost its measles elimination status after two years of rising cases. Dr. Peter Chin-Hong, infectious disease internist as UCSF, joins CBS News to discuss.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.S. loses measles elimination status as cases surge",
+       "url": "https://www.cbsnews.com/video/us-loses-measles-elimination-status-as-cases-surge/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "4:02 PM",
+     "headline": "Nvidia board not interested in bringing Jensen Huang back to company, source says",
+     "summary": "Nvidia board members are not interested in bringing Jensen Huang back to the company as CEO or in any other capacity at the chipmaker, according to a source directly familiar with their thinking.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Nvidia board not interested in bringing Jensen Huang back to company, source says",
+       "url": "https://www.cbsnews.com/video/nvidia-board-not-interested-in-bringing-jensen-huang-back-to-company-source-says/",
        "bias": 0
       }
      ]
@@ -483,217 +483,217 @@
    "items": [
     {
      "date": "2026-11-16",
-     "time": "12:15 PM",
-     "headline": "Father, son hit by car near Huntersville Elementary during morning drop-off",
+     "time": "5:18 PM",
+     "headline": "Father, son hit by car during Huntersville Elementary drop-off",
      "summary": "A father and his son were hit by a car Monday during morning drop-off at Huntersville Elementary School.",
      "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Father, son hit by car near Huntersville Elementary during morning drop-off",
-       "url": "https://www.wbtv.com/2026/11/16/father-son-hit-by-car-near-huntersville-elementary-during-morning-drop-off/",
-       "bias": 0
-      },
       {
        "outlet": "WSOC",
        "title": "Father, son hit by car during Huntersville Elementary drop-off",
        "url": "https://www.wsoctv.com/news/local/father-son-hit-by-car-during-morning-drop-off-near-huntersville-elementary-school/OUCGNOKNTFC27GHVPSIDDCULNU/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "12:04 PM",
-     "headline": "Nationwide Emergency Alert System test to take place Tuesday. Here’s what will happen",
-     "summary": "FEMA and the FCC will conduct a nationwide Emergency Alert System test Tuesday at 2:20 p.m. Eastern time. The test message will last one minute.",
-     "sources": [
+      },
       {
        "outlet": "WBTV",
-       "title": "Nationwide Emergency Alert System test to take place Tuesday. Here’s what will happen",
-       "url": "https://www.wbtv.com/2026/11/16/nationwide-emergency-alert-system-test-take-place-tuesday-heres-what-will-happen/",
+       "title": "Father, son hit by car near Huntersville Elementary during morning drop-off",
+       "url": "https://www.wbtv.com/2026/11/16/father-son-hit-by-car-near-huntersville-elementary-during-morning-drop-off/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "12:00 PM",
-     "headline": "Who will be the NC Senate’s next leader and money man?",
-     "summary": "An election that only 50 North Carolinians will get to vote in will be hugely consequential for what happens in state government for the next two years.",
+     "time": "5:52 PM",
+     "headline": "Coddle Creek Elementary remains closed over mold concerns",
+     "summary": "Coddle Creek Elementary School will remain closed for in-person learning for a second week as crews continue cleaning the school amid concerns about possible mold in classrooms.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Coddle Creek Elementary remains closed over mold concerns",
+       "url": "https://www.wsoctv.com/news/local/coddle-creek-elementary-remains-closed-over-mold-concerns/R2XHTGZ5JNFCDBVLAM34D7E2AM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:47 PM",
+     "headline": "Dry ground, breezy conditions increase Burke County fire danger",
+     "summary": "After a wildfire over the weekend in Burke County, fire concerns are still top of mind, meteorologist Joe Puma said on Monday afternoon.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Dry ground, breezy conditions increase Burke County fire danger",
+       "url": "https://www.wsoctv.com/news/local/dry-ground-breezy-conditions-increase-burke-county-fire-danger/A7NOOKZN6VGI7EALOK5H5LR6ZA/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:45 PM",
+     "headline": "Live stream: ‘The Price of Incarceration: Inside Jail North’ special examines past, future of embattled jail",
+     "summary": "Watch the special right here at 8 p.m. on Nov. 17, 2026",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Live stream: ‘The Price of Incarceration: Inside Jail North’ special examines past, future of embattled jail",
+       "url": "https://www.wbtv.com/2026/11/16/live-stream-price-incarceration-inside-jail-north-special-examines-past-future-embattled-jail/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:27 PM",
+     "headline": "What Happens When “Enough” Keeps Moving?",
+     "summary": "Many successful people spend their working lives with a number in mind. A savings target. A retirement date. A level of financial independence that once seemed far away.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "What Happens When “Enough” Keeps Moving?",
+       "url": "https://www.wbtv.com/sponsored/hobart-wealth/what-happens-when-enough-keeps-moving/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:26 PM",
+     "headline": "FORECAST: Temperatures will warm into the 60s and 70s after a cold start",
+     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "FORECAST: Temperatures will warm into the 60s and 70s after a cold start",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-temperatures-will-warm-into-60s-70s-after-cold-start/YLVUIQSDTFEUXAKMYWIWTS2RPY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:12 PM",
+     "headline": "Passengers at Charlotte airport still reeling from FAA ground stop",
+     "summary": "Charlotte Douglas International Airport is still dealing with the ripple effects days after Friday’s nationwide Federal Aviation Administration ground stop.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Passengers at Charlotte airport still reeling from FAA ground stop",
+       "url": "https://www.wsoctv.com/news/local/passengers-charlotte-airport-still-reeling-faa-ground-stop/DVRTKG4FXNC57L2JVDJJX5ENKY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:03 PM",
+     "headline": "Man charged after allegedly sending peanut butter-covered mail to woman with severe allergy",
+     "summary": "Detectives determined that Joseph Gerard Cancellare Jr., 68, of Plantation, sent the envelope.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Man charged after allegedly sending peanut butter-covered mail to woman with severe allergy",
+       "url": "https://www.wbtv.com/2026/11/16/man-charged-after-allegedly-sending-peanut-butter-covered-mail-woman-with-severe-allergy/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:02 PM",
+     "headline": "CMS search committee plans community surveys to rebuild public trust",
+     "summary": "The Charlotte-Mecklenburg Schools search committee has set a draft timeline to approve a contract and announce the district’s next superintendent in the third week of June.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "CMS search committee plans community surveys to rebuild public trust",
+       "url": "https://www.wsoctv.com/news/local/cms-search-committee-plans-community-surveys-rebuild-public-trust/EQKX4LV6UBCU7AUZ4535QWHCZQ/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:00 PM",
+     "headline": "New World screwworm spreading rapidly across Southwestern states",
+     "summary": "A deadly flesh-eating parasite that can plague livestock, wildlife and pets continues to spread across the American Southwest. Officials detected the arrival of the New World screwworm in June — the first time in decades the pest had been seen in the United…",
      "sources": [
       {
        "outlet": "NC Newsline",
-       "title": "Who will be the NC Senate’s next leader and money man?",
-       "url": "https://ncnewsline.com/2026/11/16/nc-legislature/",
+       "title": "New World screwworm spreading rapidly across Southwestern states",
+       "url": "https://ncnewsline.com/2026/11/16/repub/new-world-screwworm-spreading-rapidly-across-southern-states/",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:58 AM",
-     "headline": "Starbucks Red Cup Day: How to get your free holiday cup",
-     "summary": "Starbucks is set to celebrate its annual Red Cup Day tomorrow, November 17, offering a free reusable holiday cup.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Starbucks Red Cup Day: How to get your free holiday cup",
-       "url": "https://www.wsoctv.com/news/trending/starbucks-red-cup-day-how-get-your-free-holiday-cup/2N6V53WTWBGSJAG36RJA2ZJVMU/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:55 AM",
-     "headline": "Live stream: Hubbard helps the Panthers top the Saints and retain first place in the NFC South",
-     "summary": "Watch The Point After live every Monday, Friday",
+     "time": "5:00 PM",
+     "headline": "What are your rights as a passenger in a FAA ground stop?",
+     "summary": "What to know about reimbursements, rebooking credits, more",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Live stream: Hubbard helps the Panthers top the Saints and retain first place in the NFC South",
-       "url": "https://www.wbtv.com/2026/11/16/live-stream-hubbard-helps-panthers-top-saints-retain-first-place-nfc-south/",
+       "title": "What are your rights as a passenger in a FAA ground stop?",
+       "url": "https://www.wbtv.com/2026/11/16/what-are-your-rights-passengers-faa-ground-stop/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:52 AM",
-     "headline": "FORECAST: Chilly starts with slow warming trend ahead",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "time": "5:00 PM",
+     "headline": "9 Investigates: How Flock technology is being used in your neighborhood",
+     "summary": "Flock cameras have recently grabbed headlines for all the wrong reasons, but despite their misuse, they’re also helping law enforcement solve cases, find missing people and track down suspects.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Chilly starts with slow warming trend ahead",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-chilly-starts-with-slow-warming-trend-ahead/VMDC3A7XVNHNLIIP74S47KZN4E/",
+       "title": "9 Investigates: How Flock technology is being used in your neighborhood",
+       "url": "https://www.wsoctv.com/news/local/9-investigates-how-flock-technology-is-being-used-your-neighborhood/FIB4N4LK6JHGPGEYP5TSNPC67E/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:49 AM",
-     "headline": "How to talk with older family members about driving",
-     "summary": "As people age, their health changes, and families can face the question of when a loved one should stop driving. Here are tips on how to talk about it.",
+     "time": "4:48 PM",
+     "headline": "Technical issue triggers online banking delays across major US banks",
+     "summary": "Chase, Wells Fargo, Bank of America, Truist and US Bank are among banks experiencing outages Monday. Users report trouble with online access, transfers and ATMs.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "How to talk with older family members about driving",
-       "url": "https://www.wbtv.com/2026/11/16/how-talk-with-older-family-members-about-driving/",
+       "title": "Technical issue triggers online banking delays across major US banks",
+       "url": "https://www.wbtv.com/2026/11/16/chase-wells-fargo-bank-america-us-bank-hit-by-nationwide-outage-users-say/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:43 AM",
-     "headline": "26-year-old inmate dies after medical emergency at York County jail",
-     "summary": "The man, who has not been identified, was found unconscious and not breathing.",
+     "time": "4:45 PM",
+     "headline": "NC’s Attorney General moves to block merger of two largest distributors of vet supplies",
+     "summary": "If you’ve ever had to take the family pet to the vet, you know how expensive it can be. If a proposed merger between the nation’s two largest veterinary supply distributors goes through, that next visit could be even more expensive.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "26-year-old inmate dies after medical emergency at York County jail",
-       "url": "https://www.wbtv.com/2026/11/16/26-year-old-inmate-dies-after-medical-emergency-york-county-jail/",
-       "bias": 0
+       "outlet": "NC Newsline",
+       "title": "NC’s Attorney General moves to block merger of two largest distributors of vet supplies",
+       "url": "https://ncnewsline.com/2026/11/16/ncs-attorney-general-moves-to-block-merger-of-two-largest-distributors-of-vet-supplies/",
+       "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:43 AM",
-     "headline": "Russell Brand says he’s innocent in message through wife; statement being investigated",
-     "summary": "Russell Brand claims innocence following his conviction and transfer to Littlehey Prison, according to new reports.",
+     "time": "4:37 PM",
+     "headline": "A new mobile clinic aims to tackle the opioid crisis by bringing doctors and medicine where they are needed",
+     "summary": "A new mobile treatment center for people with opioid addiction opened Monday in Charlotte. The mobile unit is funded through the approximately $75 million that Mecklenburg County is expected to receive over 18 years to tackle the opioid crisis.",
      "sources": [
       {
-       "outlet": "WSOC",
-       "title": "Russell Brand says he’s innocent in message through wife; statement being investigated",
-       "url": "https://www.wsoctv.com/news/trending/russell-brand-says-hes-innocent-message-through-wife-statement-being-investigated/SSHM3N35RRH5FESPQPIYMUHAGY/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:26 AM",
-     "headline": "Hotel booking scams on the rise ahead of the holiday travel rush",
-     "summary": "With the holiday travel rush right around the corner, hotel booking scams are on the rise.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Hotel booking scams on the rise ahead of the holiday travel rush",
-       "url": "https://www.wsoctv.com/news/local/hotel-booking-scams-rise-ahead-holiday-travel-rush/PASCFLZ4JJFU5E36HMIJXRWECI/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:26 AM",
-     "headline": "Legally blind hitting coach has trained young athletes for 40 years",
-     "summary": "Mark Wetzel has spent 40 years coaching the swings of young athletes while legally blind.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Legally blind hitting coach has trained young athletes for 40 years",
-       "url": "https://www.wbtv.com/2026/11/16/legally-blind-hitting-coach-has-trained-young-athletes-40-years/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:19 AM",
-     "headline": "Simulated gunfire expected during SWAT training at Rock Hill school",
-     "summary": "The York County Sheriff’s Office is conducting SWAT training on Monday at the old Sunset Park Elementary School at 1036 Ogden Rd. in Rock Hill.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Simulated gunfire expected during SWAT training at Rock Hill school",
-       "url": "https://www.wsoctv.com/news/local/simulated-gunfire-expected-during-swat-training-rock-hill-school/ROFDHV2BSNFBVCX623ZV3YVVP4/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:00 AM",
-     "headline": "VIDEO: Dog stolen from Monroe home",
-     "summary": "Monroe Police are investigating after a dog was stolen from a home on East Village Drive on Friday, police said.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "VIDEO: Dog stolen from Monroe home",
-       "url": "https://www.wsoctv.com/news/local/video-dog-stolen-monroe-home/XBD5KPQEWZFUPMGNCQSXTMYM7M/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:54 AM",
-     "headline": "Pope Leo takes photo in helicopter cockpit with Peruvian Air Force pilots",
-     "summary": "Pope Leo XIV rode in a cockpit during the final days of his 12-day Latin America tour, according to the Peruvian Air Force.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Pope Leo takes photo in helicopter cockpit with Peruvian Air Force pilots",
-       "url": "https://www.wbtv.com/2026/11/16/pope-leo-takes-photo-helicopter-cockpit-with-peruvian-air-force-pilots/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:53 AM",
-     "headline": "CMS Transportation to host hiring fair for bus drivers, technicians",
-     "summary": "Charlotte-Mecklenburg Schools Transportation is hosting a hiring fair to recruit bus drivers and technicians.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "CMS Transportation to host hiring fair for bus drivers, technicians",
-       "url": "https://www.wsoctv.com/news/local/cms-transportation-host-hiring-fair-bus-drivers-technicians/GA3V3672JBDFJK3HEI3QZM3SQM/",
-       "bias": 0
+       "outlet": "WFAE",
+       "title": "A new mobile clinic aims to tackle the opioid crisis by bringing doctors and medicine where they are needed",
+       "url": "https://www.wfae.org/health/2026-11-16/a-new-mobile-clinic-aims-to-tackle-the-opioid-crisis-by-bringing-doctors-and-medicine-where-they-are-needed",
+       "bias": -1
       }
      ]
     }
@@ -705,210 +705,210 @@
    "items": [
     {
      "date": "2026-11-16",
-     "time": "12:10 PM",
-     "headline": "2027 Baseball Hall of Fame ballot released: 8 things to know, including newcomers, trends and a prediction",
-     "summary": "Buster Posey, Jon Lester and more join a ballot that still includes Alex Rodríguez, Chase Utley and other holdovers",
+     "time": "5:51 PM",
+     "headline": "Sophomore bounce-back or letdown? Will Campbell quietly improving, Ashton Jeanty among 2025 first-round busts",
+     "summary": "Last year's top draft picks reached a pivot point in their careers, and not everyone is on the right trajectory",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "2027 Baseball Hall of Fame ballot released: 8 things to know, including newcomers, trends and a prediction",
-       "url": "https://www.cbssports.com/mlb/news/2027-baseball-hall-of-fame-ballot-released-buster-posey-jon-lester-alex-rodriguez-prediction/",
+       "title": "Sophomore bounce-back or letdown? Will Campbell quietly improving, Ashton Jeanty among 2025 first-round busts",
+       "url": "https://www.cbssports.com/nfl/news/sophomore-bounce-back-letdown-will-campbell-quietly-improving-ashton-jeanty-among-2025-first-round-busts/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "12:07 PM",
-     "headline": "Cameroon and Senegal close in on Afcon 2027 qualification",
-     "summary": "Cameroon and Senegal are on the brink of qualifying for the 2027 Africa Cup of Nations, while Ghana secure another crucial victory in their bid to reach the finals.",
+     "time": "5:36 PM",
+     "headline": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+     "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Cameroon and Senegal close in on Afcon 2027 qualification",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss",
+       "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "12:07 PM",
-     "headline": "The Botham hiding in plain sight - Wales' unlikely All Blacks hero",
-     "summary": "James Botham is accustomed to working away from the spotlight, but his performance could not be denied against New Zealand.",
+     "time": "5:31 PM",
+     "headline": "College basketball picks, schedule: Predictions for Duke vs. Illinois and more Top 25 games on Tuesday",
+     "summary": "Our experts have picks for all of college basketball's best games on Tuesday",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College basketball picks, schedule: Predictions for Duke vs. Illinois and more Top 25 games on Tuesday",
+       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-picks-schedule-predictions-duke-illinois-top-25-tuesday/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:20 PM",
+     "headline": "'Monday Night Football' prediction, odds, time: Ravens vs. Chargers picks from expert on 32-14 run",
+     "summary": "Mike Tierney reveals his picks for Los Angeles Chargers vs. Baltimore Ravens in the 2026 Week 10 'Monday Night Football' matchup",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "'Monday Night Football' prediction, odds, time: Ravens vs. Chargers picks from expert on 32-14 run",
+       "url": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-time-ravens-chargers-expert-picks-best-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:14 PM",
+     "headline": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+     "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "The Botham hiding in plain sight - Wales' unlikely All Blacks hero",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9q87xdxyz2o?at_medium=RSS&at_campaign=rss",
+       "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:57 AM",
-     "headline": "New Zealand let country down in loss to Wales - Rennie",
-     "summary": "New Zealand head coach Dave Rennie demands a reaction against England, as he acknowledges the All Blacks \"let the country down\" by losing to Wales.",
+     "time": "5:07 PM",
+     "headline": "Lane Kiffin relives 'nightmare' finish vs. Texas: 'He's going to walk into the f---ing end zone'",
+     "summary": "The LSU coach regretted not calling a timeout before Arch Manning's game-winning touchdown",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Lane Kiffin relives 'nightmare' finish vs. Texas: 'He's going to walk into the f---ing end zone'",
+       "url": "https://www.cbssports.com/college-football/news/lane-kiffin-lsu-relives-nightmare-texas/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:06 PM",
+     "headline": "Man Utd to resurrect Hall interest - Tuesday's gossip",
+     "summary": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for Barcelona duo, plus more.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "New Zealand let country down in loss to Wales - Rennie",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6q8lq7kqn5vo?at_medium=RSS&at_campaign=rss",
+       "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:57 AM",
-     "headline": "The lost years of Lamar Jackson -- and the greatness still within reach",
-     "summary": "Injuries keep taking pieces of his prime. How much greatness is still ahead? Is this conversation helpful so far?",
+     "time": "5:01 PM",
+     "headline": "NFL DFS, Ravens vs. Chargers: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
+     "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for Los Angeles vs. Baltimore on 'Monday Night Football'",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "The lost years of Lamar Jackson -- and the greatness still within reach",
-       "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injuries-lost-years-ravens/",
+       "title": "NFL DFS, Ravens vs. Chargers: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
+       "url": "https://www.cbssports.com/betting/news/nfl-dfs-ravens-chargers-best-daily-fantasy-lineups-fanduel-draftkings-picks-monday-night-football/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:53 AM",
-     "headline": "Chargers vs. Ravens prediction, odds, time: NFL Week 10 'Monday Night Football' picks by proven model",
-     "summary": "SportsLine's model has revealed its Los Angeles Chargers vs. Baltimore Ravens picks for 'Monday Night Football' matchup",
+     "time": "4:45 PM",
+     "headline": "Celtics vs. Magic prediction, odds, time: 2026 NBA picks for Monday, Nov. 16 from proven model",
+     "summary": "SportsLine's model reveals its Orlando Magic vs. Boston Celtics best bets on Monday night",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Chargers vs. Ravens prediction, odds, time: NFL Week 10 'Monday Night Football' picks by proven model",
-       "url": "https://www.cbssports.com/betting/news/chargers-ravens-prediction-odds-game-time-nfl-week-10-monday-night-football-picks-bets/",
+       "title": "Celtics vs. Magic prediction, odds, time: 2026 NBA picks for Monday, Nov. 16 from proven model",
+       "url": "https://www.cbssports.com/betting/news/celtics-magic-prediction-odds-game-time-2026-nba-picks-monday-november-16/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:43 AM",
-     "headline": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
-     "summary": "SportsLine's model has revealed its 2026 Week 12 college football picks for matchups such as Georgia vs. South Carolina, UCLA vs. Michigan and LSU vs. Tennessee",
+     "time": "4:35 PM",
+     "headline": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Ravens-Chargers, Monday Night Football",
+     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Ravens vs. Chargers on Monday Night Football",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
-       "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-week-12-2026/",
+       "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Ravens-Chargers, Monday Night Football",
+       "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-ravens-chargers-monday-night-football/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:27 AM",
-     "headline": "Golazo 11/16/2026",
-     "summary": "Elsewhere on the Golazo Starting XI newsletter, NWSL hit the semifinals and USL League One final",
+     "time": "4:34 PM",
+     "headline": "Kalshi promo code CBSSPORTS55: Receive $55 bonus for Ravens vs. Chargers, NFL Week 10 Monday Night Football",
+     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Monday Night Football between the Chargers and Ravens",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Golazo 11/16/2026",
-       "url": "https://www.cbssports.com/",
+       "title": "Kalshi promo code CBSSPORTS55: Receive $55 bonus for Ravens vs. Chargers, NFL Week 10 Monday Night Football",
+       "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-receive-55-bonus-for-ravens-vs-chargers-nfl-week-10-monday-night-football/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:20 AM",
-     "headline": "Best-case scenario for every College Football Playoff bubble team: Six teams vying for two at-large spots",
-     "summary": "The field for the CFP is narrowing as we enter Week 12",
+     "time": "4:30 PM",
+     "headline": "Kentucky vs. Grambling odds, prediction: 2026 men's college basketball picks for Monday from advanced model",
+     "summary": "SportsLine's model reveals its best bets for the Kentucky Wildcats vs. Grambling State Tigers on Monday",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Best-case scenario for every College Football Playoff bubble team: Six teams vying for two at-large spots",
-       "url": "https://www.cbssports.com/college-football/news/college-football-playoff-field-bracket-2026-best-case-scenario-bubble-teams/",
+       "title": "Kentucky vs. Grambling odds, prediction: 2026 men's college basketball picks for Monday from advanced model",
+       "url": "https://www.cbssports.com/betting/news/kentucky-grambling-odds-prediction-2026-mens-college-basketball-picks-monday/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:17 AM",
-     "headline": "UTEP fires Scotty Walden: Miners coach went just 6-28 across three seasons at the helm",
-     "summary": "The Miners stumbled to a 1-9 record behind the nation's worst scoring offense, ending a tenure that produced just six wins across three seasons",
+     "time": "4:26 PM",
+     "headline": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+     "summary": "Find the best Arkansas sports betting apps in November 2026, and all you need to know about Arkansas sports betting.",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "UTEP fires Scotty Walden: Miners coach went just 6-28 across three seasons at the helm",
-       "url": "https://www.cbssports.com/college-football/news/utep-fires-scotty-walden-miners-football-coach/",
+       "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+       "url": "https://www.cbssports.com/betting/news/arkansas/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "11:16 AM",
-     "headline": "College basketball rankings: Memphis back in Top 25 And 1 after win vs. Louisville that felt like old times",
-     "summary": "Penny Hardaway's Tigers are 2-1 after a big win vs. the Cardinals on Sunday",
+     "time": "4:21 PM",
+     "headline": "Conference championship game scenarios: SEC, Big Ten, ACC, Big 12 races enter crucial Week 12",
+     "summary": "With no Power Four title game spots clinched, Week 12 could reshape conference races, CFP positioning and the Group of Six picture",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "College basketball rankings: Memphis back in Top 25 And 1 after win vs. Louisville that felt like old times",
-       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-memphis-top-25-and-1-louisville/",
+       "title": "Conference championship game scenarios: SEC, Big Ten, ACC, Big 12 races enter crucial Week 12",
+       "url": "https://www.cbssports.com/college-football/news/conference-championship-game-scenarios-sec-big-ten-acc-big-12-week-12/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-16",
-     "time": "10:59 AM",
-     "headline": "Sam Darnold or Drew Lock? Breaking down the Seahawks' surprising QB debate",
-     "summary": "Drew Lock is 4-0 as Seattle's primary quarterback and has dramatically outperformed Sam Darnold in several key metric",
+     "time": "4:12 PM",
+     "headline": "Ohio vs. Ball State live stream, where to watch online, CBS Sports Network channel finder, odds",
+     "summary": "CBS Sports Network will carry six games in Week 12, beginning Tuesday and concluding with a quadruple-header on Saturday",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Sam Darnold or Drew Lock? Breaking down the Seahawks' surprising QB debate",
-       "url": "https://www.cbssports.com/nfl/news/seahawks-starting-qb-sam-darnold-or-drew-lock-battle-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:59 AM",
-     "headline": "Tari Eason gives amazing, blunt explanation for his 25-point game: 'S--t, the Wizards, for real'",
-     "summary": "Eason couldn't take the credit for his season high in scoring, instead giving that credit to Houston's opponent",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Tari Eason gives amazing, blunt explanation for his 25-point game: 'S--t, the Wizards, for real'",
-       "url": "https://www.cbssports.com/nba/news/tari-eason-rockets-wizards/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:56 AM",
-     "headline": "Kalshi promo code CBSSPORTS55: Receive $55 bonus for Chargers vs. Ravens, NFL Week 10 Monday Night Football",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Monday Night Football betwen the Chargers and Ravens",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Kalshi promo code CBSSPORTS55: Receive $55 bonus for Chargers vs. Ravens, NFL Week 10 Monday Night Football",
-       "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-receive-55-bonus-chargers-vs-ravens-nfl-week-10-monday-night-football/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:54 AM",
-     "headline": "Klopp says Infantino worse than Blatter",
-     "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Klopp says Infantino worse than Blatter",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+       "title": "Ohio vs. Ball State live stream, where to watch online, CBS Sports Network channel finder, odds",
+       "url": "https://www.cbssports.com/college-football/news/college-football-schedule-week-12-cbs-sports-network-2026/",
        "bias": 0
       }
      ]
