@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:53:21Z",
+ "generated_at": "2026-11-16T22:56:20Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -337,6 +337,34 @@
     },
     {
      "date": "2026-11-16",
+     "time": "5:45 PM",
+     "headline": "Our 100 absolute best gift ideas of all time",
+     "summary": "Gifting doesn’t have to be hard. We rounded up 100 foolproof gifts that won’t end up in the regift pile, including gifts for techies, foodies, skin care obsessives and more.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Our 100 absolute best gift ideas of all time",
+       "url": "https://www.nbcnews.com/select/shopping/100-best-gifts-rcna608868",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "5:44 PM",
+     "headline": "What we know about the cause of Friday's nationwide ground stop",
+     "summary": "The FAA still doesn't completely know what happened to cause Friday's nationwide ground stop. Transportation Secretary Sean Duffy said communication equipment linking air traffic control centers was overwhelmed.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "What we know about the cause of Friday's nationwide ground stop",
+       "url": "https://www.cbsnews.com/video/what-we-know-about-the-cause-of-fridays-nationwide-ground-stop/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
      "time": "5:27 PM",
      "headline": "Major U.S. banks report widespread service outages",
      "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
@@ -443,34 +471,6 @@
        "outlet": "CBS News",
        "title": "Iran rules out nuclear site inspections until war ends",
        "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "4:13 PM",
-     "headline": "U.S. loses measles elimination status as cases surge",
-     "summary": "The U.S. has officially lost its measles elimination status after two years of rising cases. Dr. Peter Chin-Hong, infectious disease internist as UCSF, joins CBS News to discuss.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "U.S. loses measles elimination status as cases surge",
-       "url": "https://www.cbsnews.com/video/us-loses-measles-elimination-status-as-cases-surge/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "4:02 PM",
-     "headline": "Nvidia board not interested in bringing Jensen Huang back to company, source says",
-     "summary": "Nvidia board members are not interested in bringing Jensen Huang back to the company as CEO or in any other capacity at the chipmaker, according to a source directly familiar with their thinking.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Nvidia board not interested in bringing Jensen Huang back to company, source says",
-       "url": "https://www.cbsnews.com/video/nvidia-board-not-interested-in-bringing-jensen-huang-back-to-company-source-says/",
        "bias": 0
       }
      ]
