@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:19:15Z",
+ "generated_at": "2026-11-16T12:22:33Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,6 +13,20 @@
    "id": "world",
    "name": "World",
    "items": [
+    {
+     "date": "2026-11-16",
+     "time": "7:20 AM",
+     "headline": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-16",
      "time": "7:09 AM",
@@ -141,20 +155,6 @@
     },
     {
      "date": "2026-11-16",
-     "time": "6:45 AM",
-     "headline": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
-     "summary": "Tech leaders, including Elon Musk, are among those backing a campaign to \"Bring Jensen Back\".",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
-       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
      "time": "6:40 AM",
      "headline": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
      "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
@@ -260,6 +260,20 @@
        "title": "Extended interview: \"Ebenezer\" stars Johnny Depp, Sam Claflin, Andrea Riseborough",
        "url": "https://www.cbsnews.com/video/extended-interview-ebenezer-stars-johnny-depp-sam-claflin-andrea-riseborough/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "7:11 AM",
+     "headline": "DOJ official warns Sen. Elizabeth Warren and remembering D.C. gym shooting victim: Morning Rundown",
+     "summary": "A DOJ official warns Sen.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "DOJ official warns Sen. Elizabeth Warren and remembering D.C. gym shooting victim: Morning Rundown",
+       "url": "https://www.nbcnews.com/news/us-news/doj-official-warns-sen-elizabeth-warren-remembering-dc-gym-shooting-vi-rcna609382",
+       "bias": -1
       }
      ]
     },
@@ -430,20 +444,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "5:00 AM",
-     "headline": "Democrats plot massive spending spree after midterm rout — and Trump could help them pull it off",
-     "summary": "After their resounding Election Night victory, Democrats plot massive Medicaid restoration, ACA tax credits expansion and housing assistance funding.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Democrats plot massive spending spree after midterm rout — and Trump could help them pull it off",
-       "url": "https://www.foxnews.com/politics/democrats-plot-massive-spending-spree-after-midterm-rout-trump-could-help-them-pull-off",
-       "bias": 1
-      }
-     ]
     }
    ]
   },
@@ -467,6 +467,34 @@
        "outlet": "WBTV",
        "title": "Child dies after being rescued from Kannapolis house fire",
        "url": "https://www.wbtv.com/2026/11/15/child-dies-after-being-rescued-kannapolis-house-fire/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "7:18 AM",
+     "headline": "Sunshine returns to the Charlotte region with warmer temperatures ahead",
+     "summary": "Skies will remain mostly clear Monday night, with patchy frost and lows in the 30s.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Sunshine returns to the Charlotte region with warmer temperatures ahead",
+       "url": "https://www.wbtv.com/2026/11/16/sunshine-returns-charlotte-region-with-warmer-temperatures-ahead/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "7:15 AM",
+     "headline": "Passengers at Charlotte airport still reeling from FAA ground stop",
+     "summary": "Charlotte Douglas International Airport is still dealing with the ripple effects days after Friday’s nationwide Federal Aviation Administration ground stop.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Passengers at Charlotte airport still reeling from FAA ground stop",
+       "url": "https://www.wsoctv.com/news/local/passengers-charlotte-airport-still-reeling-faa-ground-stop/DVRTKG4FXNC57L2JVDJJX5ENKY/",
        "bias": 0
       }
      ]
@@ -638,34 +666,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "8:37 PM",
-     "headline": "Five hurt in Gaston County crash on I-85 South",
-     "summary": "Five people were hurt in a Gaston County crash Sunday afternoon.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Five hurt in Gaston County crash on I-85 South",
-       "url": "https://www.wsoctv.com/news/local/five-hurt-gaston-county-crash-i-85-south/HORFQNA55JGS3OYTWOTEEOLLKU/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "time": "8:29 PM",
-     "headline": "‘Very Disappointing’: JCSU left out of NCAA Division II playoffs",
-     "summary": "The Golden Bulls finished 8-3 this season, the program's third-straight year with eight or more wins.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "‘Very Disappointing’: JCSU left out of NCAA Division II playoffs",
-       "url": "https://www.wbtv.com/2026/11/16/very-disappointing-jcsu-left-out-ncaa-division-ii-playoffs/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -673,6 +673,62 @@
    "id": "sports",
    "name": "Sports",
    "items": [
+    {
+     "date": "2026-11-16",
+     "time": "7:18 AM",
+     "headline": "Chargers vs. Ravens prediction, odds, time: NFL Week 10 'Monday Night Football' picks by proven model",
+     "summary": "SportsLine's model has revealed its Los Angeles Chargers vs. Baltimore Ravens picks for 'Monday Night Football' matchup",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Chargers vs. Ravens prediction, odds, time: NFL Week 10 'Monday Night Football' picks by proven model",
+       "url": "https://www.cbssports.com/betting/news/chargers-ravens-prediction-odds-game-time-nfl-week-10-monday-night-football-picks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "7:18 AM",
+     "headline": "Cap fits as Robertson poised to take King Kenny's crown",
+     "summary": "Andy Robertson is expected to take over from Kenny Dalglish as Scotland's most capped player when he captains his country against Switzerland on Monday evening.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Cap fits as Robertson poised to take King Kenny's crown",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "7:18 AM",
+     "headline": "Steelers' receiver problem proves they made a massive NFL trade deadline mistake",
+     "summary": "Pittsburgh declined to add a receiver at the trade deadline, leaving Aaron Rodgers without the help he needed",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Steelers' receiver problem proves they made a massive NFL trade deadline mistake",
+       "url": "https://www.cbssports.com/nfl/news/steelers-bengals-blowout-nfl-trade-deadline-aaron-rodgers/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "7:03 AM",
+     "headline": "Aidan Hutchinson injury: Lions star joins bizarre list of NFL players hurt while celebrating",
+     "summary": "Aidan Hutchinson's sack celebration ended with a significant knee injury, recalling some of the strangest and most painful mishaps in NFL history",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Aidan Hutchinson injury: Lions star joins bizarre list of NFL players hurt while celebrating",
+       "url": "https://www.cbssports.com/nfl/news/aidan-hutchinson-injury-lions-nfl-celebrations/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-16",
      "time": "7:02 AM",
@@ -823,62 +879,6 @@
        "outlet": "BBC Sport",
        "title": "Burnham urges caution on scrapping 3pm TV blackout",
        "url": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "3:03 AM",
-     "headline": "'We know we can do it' - Farrell eyes Springbok scalp",
-     "summary": "Head coach Andy Farrell says Ireland will look to draw inspiration from the big wins they have had under his watch when they renew their rivalry with world champions South Africa this weekend.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "'We know we can do it' - Farrell eyes Springbok scalp",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6x2ey1r444lo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "3:02 AM",
-     "headline": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
-     "summary": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer…",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
-       "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "2:59 AM",
-     "headline": "Vote for the best men's European striker this century",
-     "summary": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Vote for the best men's European striker this century",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "2:33 AM",
-     "headline": "49ers stun Cowboys, Chiefs and Bengals impress - NFL week 10",
-     "summary": "The NFL's brightest stars lit up week 10 of the 2026 season with some astonishing plays as the San Francisco 49ers, Kansas City Chiefs and Cincinnati Bengals all won on Sunday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "49ers stun Cowboys, Chiefs and Bengals impress - NFL week 10",
-       "url": "https://www.bbc.co.uk/sport/american-football/articles/cmjre22gz0wwo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
