@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:20:05Z",
+ "generated_at": "2026-11-16T17:23:26Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -55,7 +55,35 @@
     },
     {
      "date": "2026-11-16",
-     "time": "12:09 PM",
+     "time": "12:18 PM",
+     "headline": "Iran deploys army to stronghold of Iran-backed Kataib Hezbollah",
+     "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Iran deploys army to stronghold of Iran-backed Kataib Hezbollah",
+       "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "12:15 PM",
+     "headline": "LIVE: Germany vs Netherlands – UEFA Nations League",
+     "summary": "Previews, team news and live text commentary as Germany host the Netherlands in league's final Group A2 football match.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "LIVE: Germany vs Netherlands – UEFA Nations League",
+       "url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "12:11 PM",
      "headline": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
      "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
      "sources": [
@@ -63,6 +91,20 @@
        "outlet": "The Guardian",
        "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
        "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "12:08 PM",
+     "headline": "Trump denies responsibility for FAA nationwide ground stop",
+     "summary": "",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump denies responsibility for FAA nationwide ground stop",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -111,6 +153,48 @@
     },
     {
      "date": "2026-11-16",
+     "time": "11:58 AM",
+     "headline": "Iran braces for natural gas shortages during winter energy imbalance",
+     "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Iran braces for natural gas shortages during winter energy imbalance",
+       "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "11:56 AM",
+     "headline": "Israeli forces demolish the homes of two Palestinian prisoners",
+     "summary": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israeli forces demolish the homes of two Palestinian prisoners",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "time": "11:56 AM",
+     "headline": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+     "summary": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
      "time": "11:54 AM",
      "headline": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
      "summary": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and…",
@@ -141,97 +225,13 @@
      "date": "2026-11-16",
      "time": "11:46 AM",
      "headline": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
-     "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's presidential election before deadline.",
+     "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's upcoming presidential election.",
      "sources": [
       {
        "outlet": "Al Jazeera",
        "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
        "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
        "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:34 AM",
-     "headline": "Iran rules out nuclear site inspections until war ends",
-     "summary": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran rules out nuclear site inspections until war ends",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:27 AM",
-     "headline": "Five EU countries announce migrant deportation centre in Rwanda",
-     "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Five EU countries announce migrant deportation centre in Rwanda",
-       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:21 AM",
-     "headline": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-     "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-       "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "11:00 AM",
-     "headline": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
-     "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows The frantic buildout of “hyperscaler” datacenters in the US has collectively caused planet-heating emissions of about the same scale as Denmark…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
-       "url": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:37 AM",
-     "headline": "Oil tankers hit sea mines in the Strait of Hormuz",
-     "summary": "",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:35 AM",
-     "headline": "Trump heads to Asia for Putin, Xi summit; possible Kim meeting",
-     "summary": "President Trump is setting off on a multi-day swing in Asia, where he's scheduled to meet with Russian President Vladimir Putin and China's President Xi Jinping for a highly anticipated summit.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump heads to Asia for Putin, Xi summit; possible Kim meeting",
-       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-       "bias": 0
       }
      ]
     }
