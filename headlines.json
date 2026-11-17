@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:58:41Z",
+ "generated_at": "2026-11-17T17:10:52Z",
  "window_days": 3,
  "feed_status": {
   "ok": 20,
@@ -13,20 +13,66 @@
    "items": [
     {
      "date": "2026-11-17",
-     "time": "6:34 AM",
-     "headline": "Iran claims another attack targeting U.S. radar site in Bahrain",
-     "summary": "Iran has claimed to hit U.S. radar systems in Bahrain three times in less than a week, but authorities said the first two attacks were intercepted.",
+     "time": "10:59 AM",
+     "headline": "UK sanctions firms over Israeli West Bank settlements",
+     "summary": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for 'protecting the two-state solution'.",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Iran claims another attack targeting U.S. radar site in Bahrain",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+       "outlet": "BBC News",
+       "title": "UK sanctions firms over Israeli West Bank settlements",
+       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       },
       {
        "outlet": "Al Jazeera",
-       "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-       "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+       "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+       "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
+       "bias": -1
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+       "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "12:09 PM",
+     "headline": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+     "summary": "Huang makes first statement since resigning, while board of directors is not considering reinstating him, reports say Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+       "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:56 AM",
+     "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -53,249 +99,7 @@
     },
     {
      "date": "2026-11-17",
-     "time": "2:01 AM",
-     "headline": "Body of Melbourne Cup horse found dumped in Sydney skip",
-     "summary": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently…",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-       "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "The Guardian",
-       "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:57 AM",
-     "headline": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
-     "summary": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
-       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:49 AM",
-     "headline": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
-     "summary": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
-       "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:49 AM",
-     "headline": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-     "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-       "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:46 AM",
-     "headline": "Major youth unemployment report calls for changes to tax, welfare and apprenticeships – UK politics live",
-     "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report?",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Major youth unemployment report calls for changes to tax, welfare and apprenticeships – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:37 AM",
-     "headline": "Ukrainian breaks world record for deepest competitive freedive",
-     "summary": "Ukrainian freediver Nataliia Zharkova has broken the world record, reaching 124 metres in constant weight.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Ukrainian breaks world record for deepest competitive freedive",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:30 AM",
-     "headline": "Alan Milburn says his plan to get young people into work will save only £200m a year",
-     "summary": "Author of long-awaited report says money saved in benefit cuts will mostly be used to fund new job support system UK politics live – latest updates Neet ideas: what’s in Milburn’s report?",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Alan Milburn says his plan to get young people into work will save only £200m a year",
-       "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:26 AM",
-     "headline": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
-     "summary": "Blow to Kremlin as prestigious bridge linking occupied Ukrainian peninsula struck by missile. Plus, what is in store for Robert Pattinson, the new 007? Good morning.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
-       "url": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:25 AM",
-     "headline": "Protests flare in Philippines over Trump's visit and planned AI hub",
-     "summary": "Protests against President Trump's visit to the Philippines have popped up around the country, as local residents criticize a Trump administration project to build an artificial intelligence hub.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Protests flare in Philippines over Trump's visit and planned AI hub",
-       "url": "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:20 AM",
-     "headline": "Well-known journalist who reported death threats is killed on street",
-     "summary": "Costa Rican independent journalist Camilo Rodriguez had called out alleged ties between drug traffickers and politicians on social media.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Well-known journalist who reported death threats is killed on street",
-       "url": "https://www.cbsnews.com/news/journalist-killed-costa-rica-camilo-rodriguez-reported-death-threats/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:19 AM",
-     "headline": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
-     "summary": "Two vessels have caught fire after hitting a naval mine in the Strait of Hormuz.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:18 AM",
-     "headline": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
-     "summary": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
-       "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:17 AM",
-     "headline": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
-     "summary": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
-       "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "national",
-   "name": "Regional & National",
-   "items": [
-    {
-     "date": "2026-11-17",
-     "time": "3:58 AM",
-     "headline": "Trump administration moves to block China from indirect access to American AI tech",
-     "summary": "The Trump administration has issued new rules to restrict remote access to advanced U.S. computing chips and servers.",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "Trump administration moves to block China from indirect access to American AI technology",
-       "url": "https://abcnews.com/US/wireStory/trump-administration-moves-block-china-indirect-access-american-138184683",
-       "bias": -1
-      },
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Trump administration moves to block China from indirect access to American AI tech",
-       "url": "https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:57 AM",
-     "headline": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
-     "summary": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
-       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:46 AM",
-     "headline": "As outages persist, Puerto Rico finds a way to help keep the lights on",
-     "summary": "Hector Ríos is part of Puerto Rico's innovative “virtual power plant” system, which uses household batteries to support the island's electric grid",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "As outages persist, Puerto Rico finds a way to help keep the lights on",
-       "url": "https://abcnews.com/US/wireStory/outages-persist-puerto-rico-finds-lights-virtual-power-138200700",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:34 AM",
+     "time": "12:10 PM",
      "headline": "Iran claims another attack targeting U.S. radar site in Bahrain",
      "summary": "Iran has claimed to hit U.S. radar systems in Bahrain three times in less than a week, but authorities said the first two attacks were intercepted.",
      "sources": [
@@ -309,155 +113,363 @@
     },
     {
      "date": "2026-11-17",
-     "time": "6:30 AM",
-     "headline": "Can Google win the AI race without killing its cash cow?",
-     "summary": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
+     "time": "12:10 PM",
+     "headline": "US loses measles elimination status after 26 years amid record case numbers",
+     "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "Can Google win the AI race without killing its cash cow?",
-       "url": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+       "outlet": "BBC News",
+       "title": "US loses measles elimination status after 26 years amid record case numbers",
+       "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:43 AM",
+     "headline": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+     "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:25 AM",
-     "headline": "Protests flare in Philippines over Trump's visit and planned AI hub",
-     "summary": "Protests against President Trump's visit to the Philippines have popped up around the country, as local residents criticize a Trump administration project to build an artificial intelligence hub.",
+     "time": "11:42 AM",
+     "headline": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+     "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Protests flare in Philippines over Trump's visit and planned AI hub",
-       "url": "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/",
+       "outlet": "BBC News",
+       "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:24 AM",
-     "headline": "Widespread service outages at major U.S. banks appear to be over",
-     "summary": "Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
+     "time": "11:40 AM",
+     "headline": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+     "summary": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump Europe live – latest updates Ukraine’s attack on the Kerch road bridge overnight is the culmination of weeks, and perhaps…",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Widespread service outages at major U.S. banks appear to be over",
-       "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:20 AM",
-     "headline": "Well-known journalist who reported death threats is killed on street",
-     "summary": "Costa Rican independent journalist Camilo Rodriguez had called out alleged ties between drug traffickers and politicians on social media.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Well-known journalist who reported death threats is killed on street",
-       "url": "https://www.cbsnews.com/news/journalist-killed-costa-rica-camilo-rodriguez-reported-death-threats/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:05 AM",
-     "headline": "U.S. gave Singapore scant help with Alice Huang probe, source says",
-     "summary": "Singapore held Alice Huang's passport for 8 months and asked the U.S. to help investigate her firm's suspected Nvidia chip sales, but received little help, sources say.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "U.S. gave Singapore scant help with Alice Huang probe, source says",
-       "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:00 AM",
-     "headline": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-     "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-       "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+       "outlet": "The Guardian",
+       "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+       "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "5:50 AM",
-     "headline": "Ukraine and Russia trade major strikes as Trump set to meet Putin",
-     "summary": "Ukraine has struck the Kerch Bridge, which connects Russian-occupied Crimea and Russia, twice, taking it out of service, as Moscow attacks bridges in Kyiv.",
+     "time": "11:40 AM",
+     "headline": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+     "summary": "Ukraine’s president says Russia continues to attack the country with Shaheed drones, cruise missiles, and, ballistic missiles Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension…",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Ukraine and Russia trade major strikes as Trump set to meet Putin",
-       "url": "https://www.cbsnews.com/news/ukraine-war-russia-crimea-kerch-bridge-kyiv/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:45 AM",
-     "headline": "Inside the Trump administration’s divisions over China",
-     "summary": "",
-     "sources": [
-      {
-       "outlet": "Politico",
-       "title": "Inside the Trump administration’s divisions over China",
-       "url": "https://www.politico.com/video/2026/11/17/inside-the-trump-administrations-divisions-over-china-2231033",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:43 AM",
-     "headline": "Trump arrives in Philippines to kick off Asia trip",
-     "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Trump arrives in Philippines to kick off Asia trip",
-       "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+       "outlet": "The Guardian",
+       "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "5:30 AM",
-     "headline": "Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'",
-     "summary": "Senate Democrats face their first leadership race in decades as Chris Van Hollen alleges the Dec. 1 secret ballot vote may be rushed to kneecap him.",
+     "time": "11:40 AM",
+     "headline": "Burnham makes Milburn head of unit to implement new jobs and welfare approach for young people – live",
+     "summary": "Author of Neets report will be in charge of ‘unblocking delivery and driving progress’ Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report?",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Burnham makes Milburn head of unit to implement new jobs and welfare approach for young people – live",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:39 AM",
+     "headline": "Photos: Tens of thousands rally in France over living standards and wages",
+     "summary": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Photos: Tens of thousands rally in France over living standards and wages",
+       "url": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:38 AM",
+     "headline": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+     "summary": "Online petition with more than 32,000 signatures demands the university 'cancel Nathan Cofnas's invitation to speak'.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+       "url": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:32 AM",
+     "headline": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+     "summary": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:16 AM",
+     "headline": "US loses measles elimination status amid worst outbreak since 1991",
+     "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "US loses measles elimination status amid worst outbreak since 1991",
+       "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+       "bias": -1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "national",
+   "name": "Regional & National",
+   "items": [
+    {
+     "date": "2026-11-17",
+     "time": "11:59 AM",
+     "headline": "Jensen Huang says he \"would be honored\" to return as Nvidia CEO",
+     "summary": "Jensen Huang said Tuesday that he would be “honored” to return to his job as CEO of Nvidia if the chip giant’s board of directors decided to bring him back.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Jensen Huang says he \"would be honored\" to return as Nvidia CEO",
+       "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Jensen Huang says he would be ‘honored’ if asked to return as Nvidia CEO",
+       "url": "https://www.nbcnews.com/business/corporations/jensen-huang-agrees-house-interview-nvidias-chip-smuggling-rcna609803",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "12:10 PM",
+     "headline": "Iran claims another attack targeting U.S. radar site in Bahrain",
+     "summary": "Iran has claimed to hit U.S. radar systems in Bahrain three times in less than a week, but authorities said the first two attacks were intercepted.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Iran claims another attack targeting U.S. radar site in Bahrain",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:57 AM",
+     "headline": "NSA's highly classified communications network disrupted by widespread outage",
+     "summary": "The National Security Agency's classified NSA Net faces an intermittent outage, with staggered arrivals preventing tens of thousands of logins at once.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'",
-       "url": "https://www.foxnews.com/politics/schumer-boasts-early-advantage-senate-power-struggle-dem-rival-warns-against-coronation",
+       "title": "NSA's highly classified communications network disrupted by widespread outage",
+       "url": "https://www.foxnews.com/politics/nsa-highly-classified-communications-network-disrupted-widespread-outage",
        "bias": 1
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "5:28 AM",
-     "headline": "President Trump arrives in Manila for the ASEAN summit",
-     "summary": "President Trump was greeted by performers and musicians after arriving in Manila, Philippines, for the ASEAN summit.",
+     "time": "11:56 AM",
+     "headline": "Trump reacts to Iran's \"dirty bomb\" threat: \"We take it very seriously\"",
+     "summary": "President Trump says the U.S. is taking a potential Iranian threat against Washington, D.C., \"very seriously.\" This comes ahead of his planned summit with China's Xi Jinping and Russia's Vladimir Putin. CBS News' Aaron Navarro reports.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump reacts to Iran's \"dirty bomb\" threat: \"We take it very seriously\"",
+       "url": "https://www.cbsnews.com/video/trump-says-us-taking-iranian-dirty-bomb-threat-very-seriously/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:54 AM",
+     "headline": "A Kremlin trap? Europe sees danger in Vladimir Putin’s new demand in U.S. talks",
+     "summary": "European leaders have long feared being frozen out of U.S.-Russia peace talks about Ukraine. Now Trump’s team negotiating the continent’s security structure.",
      "sources": [
       {
        "outlet": "NBC News",
-       "title": "President Trump arrives in Manila for the ASEAN summit",
-       "url": "https://www.nbcnews.com/video/president-trump-arrives-in-manila-for-the-asean-summit-273630789865",
+       "title": "A Kremlin trap? Europe sees danger in Vladimir Putin’s new demand in U.S. talks",
+       "url": "https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:43 AM",
+     "headline": "U.S. officially loses measles elimination status: \"What a tragedy\"",
+     "summary": "The United States has lost its official measles elimination status for the first time in 26 years. Here's what to know.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.S. officially loses measles elimination status: \"What a tragedy\"",
+       "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:35 AM",
+     "headline": "U.S. backslides on measles elimination progress",
+     "summary": "Measles cases have more than doubled in the U.S. since 2025. Infectious disease researcher Dr. William Schaffner shares his thoughts.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.S. backslides on measles elimination progress",
+       "url": "https://www.cbsnews.com/video/us-backslides-on-measles-elimination-progress/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:32 AM",
+     "headline": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+     "summary": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:30 AM",
+     "headline": "This popular Stanley tumbler is 50% off and at its lowest price ever",
+     "summary": "Stanley tumblers are some of the most popular water bottles on the market and right now you can get a 40-ounce quencher for 50% off on Amazon.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "This popular Stanley tumbler is 50% off and at its lowest price ever",
+       "url": "https://www.nbcnews.com/select/shopping/stanley-tumbler-40-ounce-deal-of-the-day-rcna609792",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:02 AM",
+     "headline": "Pope Leo calls for \"less controversy, less war, less division\"",
+     "summary": "The Catholic Church's first U.S.-born leader, returning from a major Latin America tour, spoke about American unity, his health, and the prospect of married priests.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Pope Leo calls for \"less controversy, less war, less division\"",
+       "url": "https://www.cbsnews.com/news/pope-leo-less-war-less-us-division-married-priests-debate/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:01 AM",
+     "headline": "Scientist fired after 6-year-old girl dies in gene-editing trial",
+     "summary": "The girl died last year after receiving experimental gene therapy to correct a non-life-threatening condition, an investigation found.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Scientist fired after 6-year-old girl dies in gene-editing trial",
+       "url": "https://www.cbsnews.com/news/girl-dies-gene-editing-trial-scientist-fired-china-state-media/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "10:56 AM",
+     "headline": "Bush-appointed judge torpedoes Trump immigration rule, rips DHS for overstepping its authority",
+     "summary": "A federal judge appointed by President George W. Bush ruled DHS overstepped its authority on the F-1 student visa, blocking fixed time limits.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Bush-appointed judge torpedoes Trump immigration rule, rips DHS for overstepping its authority",
+       "url": "https://www.foxnews.com/politics/bush-appointed-judge-torpedoes-trump-immigration-rule-blasts-dhs-overstepping-its-authority",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "10:56 AM",
+     "headline": "Nvidia forms export control panel amid concerns over China sales",
+     "summary": "Chipmaker creates new committee amid growing concerns that it has allowed restricted products to reach China.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Nvidia forms export control panel amid concerns over China sales",
+       "url": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "10:55 AM",
+     "headline": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
+     "summary": "The legislation would allow families of individuals harmed by tech products to take their claims to court even if they agreed to the company's terms of service for private arbitration.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
+       "url": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "10:51 AM",
+     "headline": "Parents, gamers ask lawmakers to pass Roblox safety legislation",
+     "summary": "Some parents claim online predators have been able to groom and abuse children through the gaming platform Roblox. Lawmakers will hear from users who say they experienced abuse in a hearing. CBS News' Jo Ling Kent reports.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Parents, gamers ask lawmakers to pass Roblox safety legislation",
+       "url": "https://www.cbsnews.com/video/parents-gamers-ask-lawmakers-to-pass-roblox-safety-legislation/",
+       "bias": 0
       }
      ]
     }
@@ -469,63 +481,41 @@
    "items": [
     {
      "date": "2026-11-17",
-     "time": "6:49 AM",
-     "headline": "Watauga County rescue crews save worker stranded on scissor lift",
-     "summary": "Rescue crews in Watauga County helped a stranded worker off a stuck scissor lift Monday night.",
+     "time": "11:32 AM",
+     "headline": "US loses measles elimination status",
+     "summary": "The number of confirmed measles cases across the U.S. this year has soared to 5,412 as of Nov. 12, more than double the 2,289 cases through all of 2025, according to the latest release of data from the federal Centers for Disease Control and Prevention.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Watauga County rescue crews save worker stranded on scissor lift",
-       "url": "https://www.wsoctv.com/news/local/watauga-county-rescue-crews-save-worker-stranded-scissor-lift/MO6PFGIXTRELZBK3Z5Z5PIF3U4/",
+       "title": "US loses measles elimination status",
+       "url": "https://www.wsoctv.com/news/trending/us-loses-measles-elimination-status/MNSCLAG2XJG4JJTN5OSL4VK5TI/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:21 AM",
-     "headline": "United Airlines resolves brief system outage; flights resume",
-     "summary": "The airline said there was “no indication that this was a cybersecurity-related issue.”",
-     "sources": [
+      },
       {
-       "outlet": "WSOC",
-       "title": "United Airlines resolves brief system outage; flights resume",
-       "url": "https://www.wsoctv.com/news/trending/united-airlines-resolves-brief-system-outage-flights-resume/DHNRDLSZRJAJZFB2K6QTPZI2EQ/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:20 AM",
-     "headline": "Duke Energy rates are going up next year, as NC Utilities Commission approves increase",
-     "summary": "After months of testimony and public comments, state regulators have approved new electricity rates for Duke Energy customers. Rates will increase by an average of 3.7% for residential customers over the next two years, according to the utility.",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "Duke Energy rates are going up next year, as NC Utilities Commission approves increase",
-       "url": "https://www.wfae.org/energy-environment/2026-11-17/duke-energy-rates-are-going-up-next-year-as-nc-utilities-commission-approves-increase",
+       "outlet": "NC Newsline",
+       "title": "US loses its ‘measles elimination status’ after more than 25 years",
+       "url": "https://ncnewsline.com/2026/11/16/repub/us-loses-its-measles-elimination-status-after-more-than-25-years/",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:11 AM",
-     "headline": "Your car is sharing data with big tech companies, study finds",
-     "summary": "Last year, a Consumer Reports investigation revealed your car may be collecting data about how you drive. Now, a new study using Consumer Reports’ own vehicles shows where some of that data is going, and you might be surprised how it could be connected back…",
+     "time": "12:05 PM",
+     "headline": "NSA internal communication system down: report",
+     "summary": "Reports indicate the National Security Agency's classified internal communication network experienced an outage.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Your car is sharing data with big tech companies, study finds",
-       "url": "https://www.wsoctv.com/news/local/your-car-is-sharing-data-with-big-tech-companies-study-finds/Z7W6R6FICFGYVKCUW47JEDB33E/",
+       "title": "NSA internal communication system down: report",
+       "url": "https://www.wsoctv.com/news/trending/nsa-internal-communication-system-down-report/KCLZVBKIDBEZ3CGXAYIVVOLRFM/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "5:45 AM",
+     "time": "12:02 PM",
      "headline": "FORECAST: Temperatures return to near-average highs after chilly start",
      "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
      "sources": [
@@ -539,140 +529,168 @@
     },
     {
      "date": "2026-11-17",
-     "time": "3:43 AM",
-     "headline": "Puppy wanders into car dealership after being abandoned and finds her forever home",
-     "summary": "For an abandoned 6-month-old puppy, wandering into a car dealership turned out to be the beginning of a second chance.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Puppy wanders into car dealership after being abandoned and finds her forever home",
-       "url": "https://www.wbtv.com/2026/11/17/puppy-wanders-into-car-dealership-after-being-abandoned-finds-her-forever-home/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "2:03 AM",
-     "headline": "Mother charged after newborn dies from blunt force injuries 2 days after birth",
-     "summary": "Authorities say a 25-year-old woman has been charged with capital murder following the death of her newborn.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Mother charged after newborn dies from blunt force injuries 2 days after birth",
-       "url": "https://www.wbtv.com/2026/11/17/mother-charged-after-newborn-dies-blunt-force-injuries-2-days-after-birth/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "12:45 AM",
-     "headline": "Republican rep. requests recount in tight US House race in North Carolina",
-     "summary": "Results show Virginia Foxx lost to Chuck Hubbard by small margin",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Republican rep. requests recount in tight US House race in North Carolina",
-       "url": "https://www.wbtv.com/2026/11/17/republican-rep-requests-recount-tight-us-house-race-north-carolina/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "12:20 AM",
-     "headline": "Charlotte council approves guidelines for $300M in community investments tied to I-77 project",
-     "summary": "Group to help shape how money is spent amid interstate expansion",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Charlotte council approves guidelines for $300M in community investments tied to I-77 project",
-       "url": "https://www.wbtv.com/2026/11/17/charlotte-council-approves-guidelines-300m-community-investments-tied-i-77-project/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "12:05 AM",
-     "headline": "Temps to shift again in Charlotte region: What to expect",
-     "summary": "Above-normal temperatures expected this week",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Temps to shift again in Charlotte region: What to expect",
-       "url": "https://www.wbtv.com/2026/11/17/temps-change-drastically-again-charlotte-region-what-expect/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "time": "10:27 PM",
-     "headline": "New CMS superintendent search aims to improve on 2023 process",
-     "summary": "The Charlotte-Mecklenburg Schools superintendent search committee has laid out a seven-month timeline to select and hire the district’s next top leader.",
+     "time": "11:51 AM",
+     "headline": "Iredell-Statesville Schools approves mold removal contract for Coddle Creek Elementary",
+     "summary": "Iredell-Statesville Schools has approved a new contract to remove mold from Coddle Creek Elementary School as students learn remotely for a second week.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "New CMS superintendent search aims to improve on 2023 process",
-       "url": "https://www.wsoctv.com/news/local/cms-search-committee-plans-community-surveys-rebuild-public-trust/EQKX4LV6UBCU7AUZ4535QWHCZQ/",
+       "title": "Iredell-Statesville Schools approves mold removal contract for Coddle Creek Elementary",
+       "url": "https://www.wsoctv.com/news/local/iredell-statesville-schools-approves-mold-removal-contract-coddle-creek-elementary/VEOWLEST2JBN3PLCXCF4J6RT5A/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-16",
-     "time": "10:22 PM",
-     "headline": "Customers fear systemic vulnerability amid wave of tech failures",
-     "summary": "Nationwide banking service interruptions impacted millions of customers on Monday, affecting major financial institutions including Wells Fargo, Chase, Bank of America, and US Bank.",
+     "date": "2026-11-17",
+     "time": "11:51 AM",
+     "headline": "Inmate dies at York County Detention Center",
+     "summary": "A 26-year-old man inmate died Saturday evening after experiencing a medical emergency at the York County Detention Center, according to local authorities.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Customers fear systemic vulnerability amid wave of tech failures",
-       "url": "https://www.wsoctv.com/news/local/customers-fear-systemic-vulnerability-amid-wave-tech-failures/RYRZNQTT5FCUXBIIK6OAOZT6ZI/",
+       "title": "Inmate dies at York County Detention Center",
+       "url": "https://www.wsoctv.com/news/local/inmate-dies-york-county-detention-center/3YA7433W4FEE7AM4BYG2GHRGDE/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-16",
-     "time": "10:00 PM",
-     "headline": "LSU guard MiLaysia Fulwiley accused of hitting officer with vehicle, denies police account",
-     "summary": "The Louisiana Department of Public Safety said footage will be submitted to the 19th Judicial District Attorney's Office for review.",
+     "date": "2026-11-17",
+     "time": "11:43 AM",
+     "headline": "Barred owl rescued from car grill in Concord",
+     "summary": "A barred owl is recovering after the Concord Fire Department rescued her from the front grill of a car Monday night.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "LSU guard MiLaysia Fulwiley accused of hitting officer with vehicle, denies police account",
-       "url": "https://www.wbtv.com/2026/11/17/lsu-guard-milaysia-fulwiley-accused-hitting-officer-with-vehicle-denies-police-account/",
+       "outlet": "WSOC",
+       "title": "Barred owl rescued from car grill in Concord",
+       "url": "https://www.wsoctv.com/news/local/barred-owl-rescued-car-grill-concord/ULYK5UUTB5AUBOEVQR2HVXCA7M/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-16",
-     "time": "9:54 PM",
-     "headline": "Charlotte-Mecklenburg search committee shares proposed timeline for naming next superintendent",
-     "summary": "Decision could come in June 2027: What we know",
+     "date": "2026-11-17",
+     "time": "11:40 AM",
+     "headline": "Chance the Rapper announces birth of third daughter",
+     "summary": "The rapper posted photo of his infant daughter, Hayli, with her mother in a social media post. He did not identify Hayli's mother.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Charlotte-Mecklenburg search committee shares proposed timeline for naming next superintendent",
-       "url": "https://www.wbtv.com/2026/11/17/cms-search-committee-discusses-timeline-naming-next-superintendent/",
+       "outlet": "WSOC",
+       "title": "Chance the Rapper announces birth of third daughter",
+       "url": "https://www.wsoctv.com/news/trending/chance-rapper-announces-birth-third-daughter/BVPIG4WOSFHBHPTKCJ553C3IRE/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-16",
-     "time": "9:51 PM",
-     "headline": "Musician’s tour bus involved in deadly collision in Florida",
-     "summary": "A 64-year-old man from Louisiana died after the car he was driving collided with a tour bus, according to Florida Highway Patrol troopers.",
+     "date": "2026-11-17",
+     "time": "11:39 AM",
+     "headline": "Highly classified NSA communications network is down, report says",
+     "summary": "A highly classified communications network at the National Security Agency is down, according to a report from CNN.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Musician’s tour bus involved in deadly collision in Florida",
-       "url": "https://www.wbtv.com/2026/11/17/musicians-tour-bus-involved-deadly-collision-florida/",
+       "title": "Highly classified NSA communications network is down, report says",
+       "url": "https://www.wbtv.com/2026/11/17/highly-classified-nsa-communications-network-is-down-report-says/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:34 AM",
+     "headline": "Electric pickup truck destroyed in 3-hour fire at Morganton dealership",
+     "summary": "A 2022 Ford F-150 Lightning caught fire Monday evening at Cloninger Ford in Morganton, destroying the electric pickup truck and damaging two nearby vehicles.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Electric pickup truck destroyed in 3-hour fire at Morganton dealership",
+       "url": "https://www.wsoctv.com/news/local/electric-pickup-truck-destroyed-3-hour-fire-morganton-dealership/LVSKL52E35E7BILN4ZZQJT4LJU/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:32 AM",
+     "headline": "NC House Dems elect Reives, Butler to 2027 leadership roles",
+     "summary": "The full state House of Representatives will vote on key leadership positions on Jan. 13 when lawmakers come to Raleigh for the 2027 session.",
+     "sources": [
+      {
+       "outlet": "NC Newsline",
+       "title": "NC House Dems elect Reives, Butler to 2027 leadership roles",
+       "url": "https://ncnewsline.com/2026/11/17/nc-house-dems-elect-reives-butler-to-2027-leadership-roles/",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:32 AM",
+     "headline": "CMS committee sets June target for new superintendent",
+     "summary": "A Charlotte-Mecklenburg school board committee outlined a preliminary timeline for the district’s superintendent search that would have a new superintendent in place by late June.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "CMS committee sets June target for new superintendent",
+       "url": "https://www.wfae.org/education/2026-11-17/cms-committee-sets-june-target-for-new-superintendent",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:17 AM",
+     "headline": "States split over EPA’s proposal to drop greenhouse gas rules for power plants",
+     "summary": "States are divided over the Trump administration’s proposal to repeal remaining greenhouse gas standards for power plants, while medical groups warn of public health dangers. The U.S.",
+     "sources": [
+      {
+       "outlet": "NC Newsline",
+       "title": "States split over EPA’s proposal to drop greenhouse gas rules for power plants",
+       "url": "https://ncnewsline.com/2026/11/17/repub/states-split-over-epas-proposal-to-drop-greenhouse-gas-rules-for-power-plants/",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:09 AM",
+     "headline": "State Treasurer Brad Briner on state’s investment strategy and grappling with rising health care costs",
+     "summary": "North Carolina Treasurer Brad Briner oversees billions of dollars in public investments and plays a major role in the financial security of state employees and retirees. We sit down with Briner to discuss how he does the job.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "State Treasurer Brad Briner on state’s investment strategy and grappling with rising health care costs",
+       "url": "https://www.wfae.org/podcast/charlotte-talks-with-mike-collins/2026-11-17/state-treasurer-brad-briner-on-states-investment-strategy-and-grappling-with-rising-health-care-costs",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:06 AM",
+     "headline": "Football coach receives Mayo Clinic’s first liver transplant for metastatic colon cancer",
+     "summary": "Until recently, liver transplantation for colon cancer that had spread to the liver was not an option for several reasons, according to a doctor.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Football coach receives Mayo Clinic’s first liver transplant for metastatic colon cancer",
+       "url": "https://www.wbtv.com/2026/11/17/football-coach-receives-mayo-clinics-first-liver-transplant-metastatic-colon-cancer/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:01 AM",
+     "headline": "Woman’s retirement gets sweeter with $100K scratch-off win",
+     "summary": "Donna Allen of Statesville, who retired in July, won a $100,000 top prize from a scratch-off lottery ticket. Allen claimed her prize at lottery headquarters on Monday, taking home $72,018 after required state and federal tax withholdings.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Woman’s retirement gets sweeter with $100K scratch-off win",
+       "url": "https://www.wsoctv.com/news/local/womans-retirement-gets-sweeter-with-100k-scratch-off-win/JXLMHMKMAVDIZPKIT2ZKSHNEWU/",
        "bias": 0
       }
      ]
@@ -685,210 +703,210 @@
    "items": [
     {
      "date": "2026-11-17",
-     "time": "6:54 AM",
-     "headline": "Coach given one-game ban for head push on female player",
-     "summary": "University basketball coach Bill Fennelly is given a one-game suspension for pushing a female player on the head during a timeout.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Coach given one-game ban for head push on female player",
-       "url": "https://www.bbc.co.uk/sport/basketball/articles/cw808v4vj7exo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:51 AM",
-     "headline": "Triple Scotland injury blow for Japan finale",
-     "summary": "Captain Sione Tuipulotu, scrum-half Ben White and number eight Jack Dempsey are ruled out of Scotland's final Nations Championship group game at home to Japan on Saturday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Triple Scotland injury blow for Japan finale",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq8e0wzrrzgpo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:44 AM",
-     "headline": "Transfer rumors, news: Manchester United eye Newcastle defender Thiaw",
-     "summary": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
+     "time": "12:04 PM",
+     "headline": "Drake Maye injury: Is the Patriots' season over? Can Tommy DeVito carry the offense?",
+     "summary": "If the QB doesn't return in 2026, New England faces an uphill battle against some of the NFL's best teams.",
      "sources": [
       {
        "outlet": "ESPN",
-       "title": "Transfer rumors, news: Manchester United eye Newcastle defender Thiaw",
-       "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+       "title": "Drake Maye injury: Is the Patriots' season over? Can Tommy DeVito carry the offense?",
+       "url": "https://www.espn.com/nfl/story/_/id/50503981/drake-maye-ankle-injury-patriots-tommy-devito-stats",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:33 AM",
-     "headline": "GB's Patten criticises ATP chairman and CEO for absence",
-     "summary": "Britain's top-ranked doubles player Henry Patten criticises the ATP's chairman and CEO for missing the year-end world number one trophy presentation.",
+     "time": "12:04 PM",
+     "headline": "What is Achilles tendinitis? Explaining 49ers WR Mike Evans' injury outlook",
+     "summary": "ESPN spoke with a medical professional for a better understanding of Evans' diagnosis. When could he return?",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "GB's Patten criticises ATP chairman and CEO for absence",
-       "url": "https://www.bbc.co.uk/sport/tennis/articles/cmreg732el2vo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "What is Achilles tendinitis? Explaining 49ers WR Mike Evans' injury outlook",
+       "url": "https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:26 AM",
-     "headline": "DeChambeau joins DP World Tour after LIV Golf collapse",
-     "summary": "Bryson DeChambeau agrees to join the DP World Tour for next season.",
+     "time": "12:03 PM",
+     "headline": "How Vikings got Kirk Cousins ready to win by being 'Minnesota polite'",
+     "summary": "Cousins and coach Kevin O'Connell deferred to each other until they each needed to take control Sunday.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
-       "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "How Vikings got Kirk Cousins ready to win by being 'Minnesota polite'",
+       "url": "https://www.espn.com/nfl/story/_/id/50511159/vikings-kirk-cousins-trade-beat-packers",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:20 AM",
-     "headline": "Prison sentences rescinded after Nurmagomedov-Dvalishvili brawl",
-     "summary": "The eight people who received prison sentences for their part in a mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili have been released.",
+     "time": "12:03 PM",
+     "headline": "Cowboys' defense: Not only is there no quick fix but 2027 looks bleak too",
+     "summary": "Even setting aside the status of DC Christian Parker, Dallas is light on draft picks and has big contract decisions ahead.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Prison sentences rescinded after Nurmagomedov-Dvalishvili brawl",
-       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cqlyjkl8xz0go?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Cowboys' defense: Not only is there no quick fix but 2027 looks bleak too",
+       "url": "https://www.espn.com/nfl/story/_/id/50505706/cowboys-defense-bleak-future-49ers-loss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:13 AM",
-     "headline": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
-     "summary": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+     "time": "12:02 PM",
+     "headline": "Winless no more: Chargers hold off Ravens after forcing late fumble",
+     "summary": "The Chargers' defense stifles Baltimore's running backs, and Justin Herbert steps up in Los Angeles' first win.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Winless no more: Chargers hold off Ravens after forcing late fumble",
+       "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:09 AM",
-     "headline": "Swansea boss Matos close to Strasbourg move",
-     "summary": "Vitor Matos is understood to have indicated he is interested in leaving Swansea, who have had an official approach from the French top-flight club.",
+     "time": "11:52 AM",
+     "headline": "Hamilton says Ravens 'disgracing' standards after embarrassing loss to Chargers",
+     "summary": "Pro Bowl safety Kyle Hamilton vented after the Ravens' 23-20 loss to the previously winless Chargers on Monday night, which was one of the most embarrassing defeats in team history.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Swansea boss Matos close to Strasbourg move",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Hamilton says Ravens 'disgracing' standards after embarrassing loss to Chargers",
+       "url": "https://www.espn.com/nfl/story/_/id/50508744/kyle-hamilton-says-ravens-disgracing-standards-loss-previously-winless-chargers",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "6:06 AM",
-     "headline": "London City's Goodwin gets first England call-up",
-     "summary": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
+     "time": "11:45 AM",
+     "headline": "Concerns for four NFL teams on the playoff bubble: Barnwell on the Cowboys, Patriots, Raiders, Texans",
+     "summary": "The Cowboys' defense got lit up, the Patriots lost Drake Maye, the Raiders are adjusting to Fernando Mendoza, and the Texans can't find support for C.J. Stroud.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "London City's Goodwin gets first England call-up",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Concerns for four NFL teams on the playoff bubble: Barnwell on the Cowboys, Patriots, Raiders, Texans",
+       "url": "https://www.espn.com/nfl/story/_/id/50491459/week-10-playoff-bubble-cowboys-raiders-texans-patriots",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "5:40 AM",
-     "headline": "Blackburn boss Mowbray steps down over health issues",
-     "summary": "Blackburn Rovers head coach Tony Mowbray steps down from his role with the Championship club due to health issues.",
+     "time": "11:45 AM",
+     "headline": "Tiering all 32 teams' chances to make the NFL playoffs, from the locks to the long shots",
+     "summary": "We placed every team into tiers, from Super Bowl favorites to top draft pick candidates.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Blackburn boss Mowbray steps down over health issues",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Tiering all 32 teams' chances to make the NFL playoffs, from the locks to the long shots",
+       "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "5:32 AM",
-     "headline": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-     "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:01 AM",
-     "headline": "Prisco's NFL Week 11 Power Rankings: Patrick Mahomes returns to MVP form, which makes Chiefs scary",
-     "summary": "Pete Prisco shares his Week 11 Power Rankings for the 2026 NFL season, including the Chargers finally climbing out of the basement",
+     "time": "11:44 AM",
+     "headline": "Fantasy football Week 11 RB preview: Omarion Hampton rebounds as six-team bye week creates lineup dilemmas",
+     "summary": "Six teams on bye force Fantasy managers into tough lineup decisions as Omarion Hampton and Travis Etienne seek to build momentum",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Prisco's NFL Week 11 Power Rankings: Patrick Mahomes returns to MVP form, which makes Chiefs scary",
-       "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-11-power-rankings-patrick-mahomes-chiefs/",
+       "title": "Fantasy football Week 11 RB preview: Omarion Hampton rebounds as six-team bye week creates lineup dilemmas",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-11-rb-preview/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "4:48 AM",
-     "headline": "Pochettino says he would tell Guardiola to take USA job",
-     "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
+     "time": "11:40 AM",
+     "headline": "WWE Survivor Series 2026 card: Complete list of matches and participants set for Houston",
+     "summary": "Survivor Series takes place in Houston on Nov. 28 with three namesake matches scheduled",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Pochettino says he would tell Guardiola to take USA job",
-       "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "WWE Survivor Series 2026 card: Complete list of matches and participants set for Houston",
+       "url": "https://www.cbssports.com/wwe/news/wwe-survivor-seies-2026-card-matches-date/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "4:31 AM",
-     "headline": "Ex-world champion Linares detained by ICE in Texas",
-     "summary": "Three-time world champion Jorge Linares says he has been detained by US Immigration authorities in Texas.",
+     "time": "11:38 AM",
+     "headline": "Trotter's Trends: A booming NIL market for 5-stars; Oregon State is the best offense you haven't heard about",
+     "summary": "The Beavers already look positioned to rewrite the record books, and let's check in on the money spent in high school basketball and what it means for the portal in the spring",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Ex-world champion Linares detained by ICE in Texas",
-       "url": "https://www.bbc.co.uk/sport/boxing/articles/cwgklx47lgm0o?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Trotter's Trends: A booming NIL market for 5-stars; Oregon State is the best offense you haven't heard about",
+       "url": "https://www.cbssports.com/college-basketball/news/oregon-state-basketball-nil-market-five-stars/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-17",
-     "time": "4:09 AM",
-     "headline": "'Switzerland didn't have better players but were better team'",
-     "summary": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland.",
+     "time": "11:36 AM",
+     "headline": "Wales' heroes get back to business after beating New Zealand",
+     "summary": "Wales's rugby heroes relive the reaction of the Welsh public to their famous 35-28 win against New Zealand.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "'Switzerland didn't have better players but were better team'",
-       "url": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
+       "title": "Wales' heroes get back to business after beating New Zealand",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjy5x3v3w55vo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:36 AM",
+     "headline": "Wales' heroes back to business after All Blacks win",
+     "summary": "Wales's rugby heroes relive the reaction of the Welsh public to their famous 35-28 win against New Zealand.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Wales' heroes back to business after All Blacks win",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjy5x3v3w55vo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:35 AM",
+     "headline": "2026 UFC event schedule: Jiri Prochazka vs. Navajo Stirling, Charles Oliveira vs. Diego Lopes on tap",
+     "summary": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "2026 UFC event schedule: Jiri Prochazka vs. Navajo Stirling, Charles Oliveira vs. Diego Lopes on tap",
+       "url": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-jiri-prochazka-navajo-stirling-charles-oliveira-diego-lopes/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "11:34 AM",
+     "headline": "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
+     "summary": "The wild card kicks off the MLS Cup playoffs on Thursday, so who will advance to Round 1? ESPN's U.S. soccer analysts make their predictions.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
+       "url": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
        "bias": 0
       }
      ]
