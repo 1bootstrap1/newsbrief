@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-11-17T22:59:18Z",
+ "generated_at": "2026-11-17T23:02:12Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
@@ -93,6 +95,20 @@
     },
     {
      "date": "2026-11-17",
+     "time": "5:55 PM",
+     "headline": "New UK-EU youth mobility scheme may not fully launch until 2030",
+     "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme or agrifood deal may not come fully into force until 2030.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
+       "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
      "time": "5:54 PM",
      "headline": "Man with ax destroys $60M U.S. military plane, prosecutors say",
      "summary": "Daithi O'Corrain, 48, is charged in the U.S. with destruction of U.S. government property in connection with the April incident at Shannon Airport.",
@@ -102,6 +118,34 @@
        "title": "Man with ax destroys $60M U.S. military plane, prosecutors say",
        "url": "https://www.cbsnews.com/news/us-military-plane-irish-airport/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:52 PM",
+     "headline": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+     "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:50 PM",
+     "headline": "Hundreds protest Nathan Cofnas talk on DEI at Oriel College in Oxford",
+     "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters jammed the cobbled streets around Oriel College, Oxford, to voice their opposition at an appearance by Nathan Cofnas, the…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Hundreds protest Nathan Cofnas talk on DEI at Oriel College in Oxford",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
+       "bias": -1
       }
      ]
     },
@@ -121,27 +165,13 @@
     },
     {
      "date": "2026-11-17",
-     "time": "5:40 PM",
-     "headline": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
-     "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
      "time": "5:30 PM",
-     "headline": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
-     "summary": "Appointment of Matan Kahana marks step towards reversing policies of Netanyahu’s outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister…",
+     "headline": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+     "summary": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
+       "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
        "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
        "bias": -1
       }
@@ -213,34 +243,6 @@
        "outlet": "Al Jazeera",
        "title": "Russian military plane crash in Siberia kills 19",
        "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:18 PM",
-     "headline": "US loses measles elimination status amid worst outbreak since 1991",
-     "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "US loses measles elimination status amid worst outbreak since 1991",
-       "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:01 PM",
-     "headline": "US Fed’s Lisa Cook refuses to attend White House hearing",
-     "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-       "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -359,7 +361,7 @@
     },
     {
      "date": "2026-11-17",
-     "time": "5:57 PM",
+     "time": "6:01 PM",
      "headline": "Nvidia sees strong growth in first earnings report without Huang",
      "summary": "Nvidia's latest earnings are the first time the chipmaker has reported financial results without founder and former CEO Jensen Huang at the helm.",
      "sources": [
@@ -373,7 +375,7 @@
     },
     {
      "date": "2026-11-17",
-     "time": "5:57 PM",
+     "time": "5:59 PM",
      "headline": "Apple restores services after internal update caused outages",
      "summary": "The company's system status shows that all Apple services, including iCloud sign-in, have been restored after experiencing issues earlier Tuesday.",
      "sources": [
@@ -519,6 +521,20 @@
        "outlet": "WBTV",
        "title": "City of Charlotte moves to dismiss lawsuit brought by family of Iryna Zarutska",
        "url": "https://www.wbtv.com/2026/11/17/city-charlotte-moves-dismiss-lawsuit-brought-by-family-iryna-zarutska/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:55 PM",
+     "headline": "2-year-old’s heart and lungs to save other young children in need through organ donation",
+     "summary": "A Kentucky family is preparing for an honor walk for their 2-year-old son ahead of an organ donation at UK Hospital.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "2-year-old’s heart and lungs to save other young children in need through organ donation",
+       "url": "https://www.wbtv.com/2026/11/17/2-year-olds-heart-lungs-save-other-young-children-need-through-organ-donation/",
        "bias": 0
       }
      ]
@@ -704,20 +720,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "4:27 PM",
-     "headline": "Susan Smith makes second bid for parole in 1994 drowning deaths",
-     "summary": "Susan Smith is set to appear before a South Carolina parole board this Thursday, marking her second attempt at release in two years.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Susan Smith makes second bid for parole in 1994 drowning deaths",
-       "url": "https://www.wsoctv.com/news/local/susan-smith-makes-second-bid-parole-1994-drowning-deaths/HOQIEYZCYVHTRFRWEUNF3G6VWI/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -770,20 +772,6 @@
     {
      "date": "2026-11-17",
      "time": "5:34 PM",
-     "headline": "Oklahoma HC Venables shouts out Love's as top travel stop after Buc-ee's comment",
-     "summary": "Venables showed love Sunday to Buc-ee's -- which is owned by an alumnus of the Sooners' next opponent, Texas A&M. So on Tuesday the coach repped the Oklahoma-based Love's.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Oklahoma HC Venables shouts out Love's as top travel stop after Buc-ee's comment",
-       "url": "https://www.espn.com/college-football/story/_/id/50513199/oklahoma-brent-venables-loves-travel-stop",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:34 PM",
      "headline": "Dave Richard's Week 11 Trade Chart & rest of season rankings: Jonah Coleman, Davante Adams pick up steam",
      "summary": "Your trade deadline is coming soon! Use the trade chart to make post-draft deals and improve your team with assigned values to help you navigate your league's trade market",
      "sources": [
@@ -791,132 +779,6 @@
        "outlet": "CBS Sports",
        "title": "Dave Richard's Week 11 Trade Chart & rest of season rankings: Jonah Coleman, Davante Adams pick up steam",
        "url": "https://www.cbssports.com/fantasy/football/news/dave-richards-2026-week-11-trade-chart/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "LSU adds Luis Jr. to roster after SEC allows move without penalty",
-     "summary": "RJ Luis has officially been added to LSU's roster as of Tuesday afternoon, a day after the SEC confirmed that it would not punish the school for rostering him.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "LSU adds Luis Jr. to roster after SEC allows move without penalty",
-       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50514250/lsu-adds-rj-luis-jr-roster-sec-oks-addition",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "No doubts from Dabo: 'Coach Swinney's gonna win another national championship'",
-     "summary": "Despite going through a self-described \"rough patch\" over the past two seasons, Clemson coach Dabo Swinney is resolute in his belief that he and the Tigers have a lot more wins ahead of them.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "No doubts from Dabo: 'Coach Swinney's gonna win another national championship'",
-       "url": "https://www.espn.com/college-football/story/_/id/50512833/defiant-dabo-swinney-says-clemson-gonna-win-bunch-more",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "Yankees' Bednar, Twins' Jeffers accept $23.15M qualifying offer to return",
-     "summary": "Yankees closer David Bednar and Twins catcher Ryan Jeffers accepted the qualifying offer, returning to their respective teams on a one-year deal worth $23.15M.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Yankees' Bednar, Twins' Jeffers accept $23.15M qualifying offer to return",
-       "url": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "Campbell says Hutchinson injury won't prompt celly ban: 'We're not talking to 8-year-olds'",
-     "summary": "Although Aidan Hutchinson's knee injury is a \"gut punch\" to the Lions, Dan Campbell said he won't tell his players to change the way they celebrate.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Campbell says Hutchinson injury won't prompt celly ban: 'We're not talking to 8-year-olds'",
-       "url": "https://www.espn.com/nfl/story/_/id/50510660/dan-campbell-hutchinson-injury-prompt-celebration-ban",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "Cowboys discussing new role for DC Parker after loss to 49ers, Jones says",
-     "summary": "The Cowboys are discussing the possibility of changing Christian Parker's role and responsibilities as defensive coordinator, owner and general manager Jerry Jones said.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Cowboys discussing new role for DC Parker after loss to 49ers, Jones says",
-       "url": "https://www.espn.com/nfl/story/_/id/50511280/cowboys-discussing-new-role-dc-parker-jones-says",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "Pitching-needy White Sox, May agree to 3-year, $52.5M contract",
-     "summary": "The White Sox and free agent starting pitcher Dustin May have agreed on a 3-year, $52.5M contract. The right-hander went 7-9 with a 4.70 ERA last season.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Pitching-needy White Sox, May agree to 3-year, $52.5M contract",
-       "url": "https://www.espn.com/mlb/story/_/id/50511537/source-white-sox-dustin-reach-3-year-525m-contract",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "Police issue arrest warrants for L.A. trio for robbery of Steelers' Iheanachor",
-     "summary": "Arrest warrants have been issued for three individuals in connection with the burglary of the home of Steelers first-round pick Max Iheanachor, police said.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Police issue arrest warrants for L.A. trio for robbery of Steelers' Iheanachor",
-       "url": "https://www.espn.com/nfl/story/_/id/50514216/arrest-warrants-issued-robbery-steelers-max-iheanachor",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "First player sentenced in NCAA point-shaving case gets one day in prison",
-     "summary": "A federal judge sentenced former New Orleans University guard Dyquavion \"Jah\" Short to one day in prison and two years of supervised release for his role in a college basketball point-shaving case.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "First player sentenced in NCAA point-shaving case gets one day in prison",
-       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50511526/dyquavian-jah-short-ncaa-sentenced-gambling",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:31 PM",
-     "headline": "⚾ MLB free agents to invest in -- and avoid",
-     "summary": "Here are this offseason's players to target and be wary of, given their projected contracts.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "⚾ MLB free agents to invest in -- and avoid",
-       "url": "https://www.espn.com/mlb/story/_/id/50501988/free-agency-2026-27-invest-avoid-contract-projections",
        "bias": 0
       }
      ]
@@ -931,6 +793,146 @@
        "outlet": "BBC Sport",
        "title": "Ruthless Zverev through to ATP Finals knockout stage",
        "url": "https://www.bbc.co.uk/sport/tennis/articles/c6x2eveyyxp0o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:27 PM",
+     "headline": "NBA MVP Rankings: Luka Dončić, Victor Wembanyama in a two-horse race; Stephen Curry's absence speaks volumes",
+     "summary": "While Shai Gilgeous-Alexander goes for his third straight, he's behind the two other West stars",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NBA MVP Rankings: Luka Dončić, Victor Wembanyama in a two-horse race; Stephen Curry's absence speaks volumes",
+       "url": "https://www.cbssports.com/nba/news/nba-mvp-rankings-luka-doncic-victor-wembanyama-stephen-curry/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:25 PM",
+     "headline": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+     "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:15 PM",
+     "headline": "Ohio vs. Ball State prediction, odds, time: Week 12 Tuesday MACtion picks from proven model",
+     "summary": "SportsLine's model revealed its best bets for Tuesday's MACtion contest between the Ball State Cardinals and Ohio Bobcats on CBS Sports Network",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Ohio vs. Ball State prediction, odds, time: Week 12 Tuesday MACtion picks from proven model",
+       "url": "https://www.cbssports.com/betting/news/ohio-ball-state-prediction-odds-time-week-12-tuesday-maction-picks-best-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:14 PM",
+     "headline": "International Ice Hockey Federation website hacked after Russia banned from event",
+     "summary": "The International Ice Hockey Federation's website was targeted in a cyber attack, seemingly in response to Canada's decision to ban Russia from the World Junior Hockey Championship.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "International Ice Hockey Federation website hacked after Russia banned from event",
+       "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cv98x3d7jwndo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:11 PM",
+     "headline": "Fantasy football Week 11 QB preview: Cam Ward emerges as top streamer with six teams on bye against Cowboys",
+     "summary": "Cam Ward's recent Fantasy surge and favorable matchup with Dallas make him a top streaming option as six teams hit their bye",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy football Week 11 QB preview: Cam Ward emerges as top streamer with six teams on bye against Cowboys",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-11-qb-preview/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "5:01 PM",
+     "headline": "Josh Hokit calls for Ciryl Gane rematch, cites early eye poke as major factor in UFC 334 loss",
+     "summary": "Gane poked Hokit in the eye early in round 1 of their heavyweight championship fight",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Josh Hokit calls for Ciryl Gane rematch, cites early eye poke as major factor in UFC 334 loss",
+       "url": "https://www.cbssports.com/ufc/news/josh-hokit-calls-for-ciryl-gane-rematch-eye-poke-major-factor-in-ufc-334-loss/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "4:52 PM",
+     "headline": "How Sky GM Jeff Pagliocca set up WNBA rivals for success and left Chicago reeling",
+     "summary": "Pagliocca's three years with the Sky already includes two nominations for the worst trade in WNBA history",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "How Sky GM Jeff Pagliocca set up WNBA rivals for success and left Chicago reeling",
+       "url": "https://www.cbssports.com/wnba/news/how-sky-gm-jeff-pagliocca-set-up-wnba-rivals-for-success-and-left-chicago-reeling/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "4:42 PM",
+     "headline": "Yankees' David Bednar, Twins' Ryan Jeffers accept qualifying offer, six others reject $23.15 million QO",
+     "summary": "Jake Bauers has already agreed to a four-year deal with the Red Sox; now the other five will look for better offers than the QO",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Yankees' David Bednar, Twins' Ryan Jeffers accept qualifying offer, six others reject $23.15 million QO",
+       "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-deadline-morejon-arozarena-bednar-bauers-suzuki-lowe-jeffers-rogers/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "4:40 PM",
+     "headline": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Pistons-Spurs, Duke-Illinois, NBA on Tuesday",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Tuesday",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Pistons-Spurs, Duke-Illinois, NBA on Tuesday",
+       "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-pistons-spurs-duke-illinois-nba-tuesday/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "4:40 PM",
+     "headline": "LSU guard MiLaysia Fulwiley not with team in first game since arrest, Kim Mulkey stays quiet about status",
+     "summary": "Fulwiley, who has been released on bond, is facing five charges, including flight from an officer, aggravated assault and aggravated battery",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "LSU guard MiLaysia Fulwiley not with team in first game since arrest, Kim Mulkey stays quiet about status",
+       "url": "https://www.cbssports.com/womens-college-basketball/news/lsu-guard-milaysia-fulwiley-arrested-charges-baton-rouge/",
        "bias": 0
       }
      ]
