@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:10:52Z",
+ "generated_at": "2026-11-17T17:14:48Z",
  "window_days": 3,
  "feed_status": {
   "ok": 20,
@@ -501,6 +501,20 @@
     },
     {
      "date": "2026-11-17",
+     "time": "12:09 PM",
+     "headline": "Experts say to ‘stop and verify’ before you click or pay",
+     "summary": "Bank of America says phony shipping notices, too-good-to-be-true deals and fake donation QR codes are popping up. Here is the advice it gives to avoid them.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Experts say to ‘stop and verify’ before you click or pay",
+       "url": "https://www.wbtv.com/2026/11/17/experts-say-stop-verify-before-you-click-or-pay/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
      "time": "12:05 PM",
      "headline": "NSA internal communication system down: report",
      "summary": "Reports indicate the National Security Agency's classified internal communication network experienced an outage.",
@@ -680,20 +694,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "11:01 AM",
-     "headline": "Woman’s retirement gets sweeter with $100K scratch-off win",
-     "summary": "Donna Allen of Statesville, who retired in July, won a $100,000 top prize from a scratch-off lottery ticket. Allen claimed her prize at lottery headquarters on Monday, taking home $72,018 after required state and federal tax withholdings.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Woman’s retirement gets sweeter with $100K scratch-off win",
-       "url": "https://www.wsoctv.com/news/local/womans-retirement-gets-sweeter-with-100k-scratch-off-win/JXLMHMKMAVDIZPKIT2ZKSHNEWU/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -701,6 +701,34 @@
    "id": "sports",
    "name": "Sports",
    "items": [
+    {
+     "date": "2026-11-17",
+     "time": "12:13 PM",
+     "headline": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+     "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "12:05 PM",
+     "headline": "LeBron James denies report that he asked 76ers for 'patience' with scoring numbers at career low",
+     "summary": "The 76ers are off to a hot start, even with James scoring well below his usual standards",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "LeBron James denies report that he asked 76ers for 'patience' with scoring numbers at career low",
+       "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-patience-career-low-scoring-numbers/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-17",
      "time": "12:04 PM",
@@ -879,34 +907,6 @@
        "outlet": "BBC Sport",
        "title": "Wales' heroes back to business after All Blacks win",
        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjy5x3v3w55vo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "11:35 AM",
-     "headline": "2026 UFC event schedule: Jiri Prochazka vs. Navajo Stirling, Charles Oliveira vs. Diego Lopes on tap",
-     "summary": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "2026 UFC event schedule: Jiri Prochazka vs. Navajo Stirling, Charles Oliveira vs. Diego Lopes on tap",
-       "url": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-jiri-prochazka-navajo-stirling-charles-oliveira-diego-lopes/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "11:34 AM",
-     "headline": "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-     "summary": "The wild card kicks off the MLS Cup playoffs on Thursday, so who will advance to Round 1? ESPN's U.S. soccer analysts make their predictions.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-       "url": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
        "bias": 0
       }
      ]
