@@ -1,12 +1,10 @@
 {
- "generated_at": "2026-11-17T11:56:57Z",
+ "generated_at": "2026-11-17T11:58:41Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 19,
+  "ok": 20,
   "total": 20,
-  "failed": [
-   "ESPN (sports): empty response"
-  ]
+  "failed": []
  },
  "sections": [
   {
@@ -75,6 +73,34 @@
     },
     {
      "date": "2026-11-17",
+     "time": "6:57 AM",
+     "headline": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+     "summary": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "6:49 AM",
+     "headline": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+     "summary": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+       "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
      "time": "6:49 AM",
      "headline": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
@@ -97,6 +123,20 @@
        "outlet": "The Guardian",
        "title": "Major youth unemployment report calls for changes to tax, welfare and apprenticeships – UK politics live",
        "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "6:37 AM",
+     "headline": "Ukrainian breaks world record for deepest competitive freedive",
+     "summary": "Ukrainian freediver Nataliia Zharkova has broken the world record, reaching 124 metres in constant weight.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Ukrainian breaks world record for deepest competitive freedive",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -198,48 +238,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:15 AM",
-     "headline": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-     "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-       "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:13 AM",
-     "headline": "Ikea ditches plans for new UK stores, blaming high business taxes",
-     "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes , which it said were the highest in…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
-       "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "6:12 AM",
-     "headline": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
-     "summary": "Major tours by the likes of Oasis helped make 2025 a lucrative year, with music export revenue reaching £4.8bn Major tours by Oasis, Robbie Williams and Dua Lipa, as well as hit albums by the likes of Olivia Dean, have helped to push the UK music industry to…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
-       "url": "https://www.theguardian.com/music/2026/nov/17/uk-music-industry-hits-record-high-of-84bn-this-is-music-report",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -263,6 +261,20 @@
        "outlet": "PBS NewsHour",
        "title": "Trump administration moves to block China from indirect access to American AI tech",
        "url": "https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "6:57 AM",
+     "headline": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+     "summary": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
+       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
        "bias": 0
       }
      ]
@@ -445,20 +457,6 @@
        "outlet": "NBC News",
        "title": "President Trump arrives in Manila for the ASEAN summit",
        "url": "https://www.nbcnews.com/video/president-trump-arrives-in-manila-for-the-asean-summit-273630789865",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "5:21 AM",
-     "headline": "Do school phone bans help students learn? So far, gains are 'modest'",
-     "summary": "Phone bans have now become common at U.S. schools",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "Do school phone bans help students learn? So far, gains are 'modest'",
-       "url": "https://abcnews.com/US/wireStory/school-phone-bans-students-learn-gains-modest-138203187",
        "bias": -1
       }
      ]
@@ -701,6 +699,34 @@
     },
     {
      "date": "2026-11-17",
+     "time": "6:51 AM",
+     "headline": "Triple Scotland injury blow for Japan finale",
+     "summary": "Captain Sione Tuipulotu, scrum-half Ben White and number eight Jack Dempsey are ruled out of Scotland's final Nations Championship group game at home to Japan on Saturday.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Triple Scotland injury blow for Japan finale",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq8e0wzrrzgpo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "time": "6:44 AM",
+     "headline": "Transfer rumors, news: Manchester United eye Newcastle defender Thiaw",
+     "summary": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Transfer rumors, news: Manchester United eye Newcastle defender Thiaw",
+       "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
      "time": "6:33 AM",
      "headline": "GB's Patten criticises ATP chairman and CEO for absence",
      "summary": "Britain's top-ranked doubles player Henry Patten criticises the ATP's chairman and CEO for missing the year-end world number one trophy presentation.",
@@ -863,34 +889,6 @@
        "outlet": "BBC Sport",
        "title": "'Switzerland didn't have better players but were better team'",
        "url": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "4:00 AM",
-     "headline": "Alonso to drive in Dakar Rally for Aston Martin",
-     "summary": "Two-time Formula 1 world champion Fernando Alonso will head Aston Martin's attempt to win the Dakar Rally in January 2027.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Alonso to drive in Dakar Rally for Aston Martin",
-       "url": "https://www.bbc.co.uk/sport/motorsport/articles/crp3e1783xq3o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "3:28 AM",
-     "headline": "Owono did not deserve 12-match ban - Pique",
-     "summary": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Owono did not deserve 12-match ban - Pique",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
