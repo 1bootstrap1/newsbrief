@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-11-18T22:58:00Z",
+ "generated_at": "2026-11-18T23:00:13Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
@@ -95,6 +97,34 @@
     },
     {
      "date": "2026-11-18",
+     "time": "5:48 PM",
+     "headline": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
+     "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Gamers across Australia woke up Thursday morning feeling like Christmas came early, some bleary-eyed from late night sessions on the…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
+       "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "5:48 PM",
+     "headline": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+     "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
      "time": "5:34 PM",
      "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
@@ -145,20 +175,6 @@
        "outlet": "The Guardian",
        "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
        "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:11 PM",
-     "headline": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-     "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
        "bias": -1
       }
      ]
@@ -218,20 +234,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:18 PM",
-     "headline": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-     "summary": "The U.S. Army is hiring contractors to build 17 reinforced concrete bunkers in Israel, Saudi Arabia and Lebanon amid Iranian missile and drone attacks.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-       "url": "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
-       "bias": 1
-      }
-     ]
     }
    ]
   },
@@ -239,6 +241,26 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-18",
+     "time": "5:49 PM",
+     "headline": "Florida pastor convicted in plot to kill Haitian president",
+     "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Florida pastor convicted in plot to kill Haitian president",
+       "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Florida pastor convicted of US charges related to assassination of Haitian president",
+       "url": "https://abcnews.com/US/wireStory/florida-pastor-convicted-us-charges-related-assassination-haitian-138262965",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-18",
      "time": "4:33 PM",
@@ -255,6 +277,46 @@
        "outlet": "ABC News",
        "title": "From pop stars to poets to politicians, hundreds gathering for joyful tribute to Gloria Steinem",
        "url": "https://abcnews.com/US/wireStory/pop-stars-poets-politicians-hundreds-gathering-joyful-tribute-138258408",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "4:02 PM",
+     "headline": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+     "summary": "A senior outgoing Republican senator said Wednesday that he will block one of President Donald Trump's final judicial picks for a court vacancy in Texas, as the GOP-led Senate scrambles to fill all the remaining vacancies in the federal courts before…",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+       "url": "https://www.pbs.org/newshour/politics/cornyn-blocks-top-justice-department-official-nominated-for-judicial-vacancy-in-texas",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+       "url": "https://abcnews.com/US/wireStory/cornyn-blocks-top-justice-department-official-nominated-judicial-138255710",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "3:25 PM",
+     "headline": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+     "summary": "Islam is expected to surpass Christianity as the world's largest religion by 2035, according to detailed projections released Wednesday by the Pew Research Center.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+       "url": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+       "url": "https://abcnews.com/US/wireStory/muslims-projected-outnumber-christians-2035-worlds-largest-religion-138250007",
        "bias": -1
       }
      ]
@@ -295,14 +357,14 @@
     },
     {
      "date": "2026-11-18",
-     "time": "5:49 PM",
-     "headline": "Florida pastor convicted in plot to kill Haitian president",
-     "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+     "time": "5:52 PM",
+     "headline": "Anthropic to go public Thursday in what could be one of the largest IPOs in history",
+     "summary": "AI giant and Claude chatbot maker Anthropic is scheduled to go public on Thursday in what could be one of the largest initial public offerings in history. CBS News' Kelly O'Grady has the story.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Florida pastor convicted in plot to kill Haitian president",
-       "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+       "title": "Anthropic to go public Thursday in what could be one of the largest IPOs in history",
+       "url": "https://www.cbsnews.com/video/anthropic-to-go-public-thursday-in-what-could-be-one-of-the-largest-ipos-in-history/",
        "bias": 0
       }
      ]
@@ -418,48 +480,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:11 PM",
-     "headline": "Democrats flipped 9 US Senate seats — the most in almost 70 years",
-     "summary": "Former Rep. Mary Peltola's victory over Republican incumbent Sen. Dan Sullivan in Alaska's competitive U.S. Senate race has flipped a ninth Republican-held seat to the Democrats, giving Peltola's party its biggest midterm gain in nearly 70 years.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Democrats flipped 9 US Senate seats — the most in almost 70 years",
-       "url": "https://www.pbs.org/newshour/politics/democrats-flipped-9-us-senate-seats-the-most-in-almost-70-years",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:03 PM",
-     "headline": "How Did Political Corruption Get So Bad?",
-     "summary": "Nine in ten voters called government corruption a major factor in the midterms. But much of what they're angry about isn't illegal. Former federal prosecutor Leo Wise explains how four decades of Supreme Court rulings narrowed what counts as a crime, and what…",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "How Did Political Corruption Get So Bad?",
-       "url": "https://www.cbsnews.com/video/how-did-political-corruption-get-so-bad/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:00 PM",
-     "headline": "Hakeem Jeffries’ progressive defectors reveal the limits of their power: From the Politics Desk",
-     "summary": "Seven incoming members of the House Democratic Caucus made their first big move since winning their elections this month, publicly stating that they voted against Hakeem Jeffries’ nomination to be the next speaker after a secret-ballot contest today.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Hakeem Jeffries’ progressive defectors reveal the limits of their power: From the Politics Desk",
-       "url": "https://www.nbcnews.com/politics/politics-news/hakeem-jeffries-defectors-reveal-limits-power-politics-desk-rcna610100",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -483,6 +503,34 @@
        "outlet": "WBTV",
        "title": "Kannapolis house fire that killed 12-year-old ruled accidental",
        "url": "https://www.wbtv.com/2026/11/18/kannapolis-house-fire-that-killed-12-year-old-ruled-accidental/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "5:57 PM",
+     "headline": "Outer Banks highway costs millions in repairs as NCDOT eyes alternatives",
+     "summary": "Anyone who’s lived, worked and traveled along Hatteras Island knows the area is seeing some problems. A nor’easter in late September buckled the pavement on NC-12, leading to a $1.7 million repair. Then weeks later, another nor’easter destroyed the same spot.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Outer Banks highway costs millions in repairs as NCDOT eyes alternatives",
+       "url": "https://www.wsoctv.com/news/local/outer-banks-highway-costs-millions-repairs-ncdot-eyes-alternatives/23SZRK76VNA4RPFXS63ZJTNSFQ/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "5:54 PM",
+     "headline": "‘I just wanted to challenge myself’: High school junior earns perfect scores on ACT and SAT",
+     "summary": "Kirkwood High School junior Luka Artomov scored a perfect 36 on the ACT and a perfect 1600 on the SAT.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "‘I just wanted to challenge myself’: High school junior earns perfect scores on ACT and SAT",
+       "url": "https://www.wbtv.com/2026/11/18/i-just-wanted-challenge-myself-high-school-junior-earns-perfect-scores-act-sat/",
        "bias": 0
       }
      ]
@@ -643,20 +691,6 @@
     },
     {
      "date": "2026-11-18",
-     "time": "5:11 PM",
-     "headline": "Outer Banks highway costs millions in repairs as NCDOT eyes alternatives",
-     "summary": "Anyone who’s lived, worked and traveled along Hatteras Island knows the area is seeing some problems. A nor’easter in late September buckled the pavement on NC-12, leading to a $1.7 million repair. Then weeks later, another nor’easter destroyed the same spot.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Outer Banks highway costs millions in repairs as NCDOT eyes alternatives",
-       "url": "https://www.wsoctv.com/news/local/outer-banks-highway-costs-millions-repairs-ncdot-eyes-alternatives/23SZRK76VNA4RPFXS63ZJTNSFQ/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
      "time": "5:04 PM",
      "headline": "FORECAST: Amazing weather continues before a storm moves up the coast this weekend",
      "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
@@ -665,20 +699,6 @@
        "outlet": "WSOC",
        "title": "FORECAST: Amazing weather continues before a storm moves up the coast this weekend",
        "url": "https://www.wsoctv.com/weather/forecasts/forecast-amazing-weather-continues-before-storm-moves-up-coast-this-weekend/ZM6OLRN7N5ED3MYZGAMHURBQWQ/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:57 PM",
-     "headline": "FCC voting on phone jamming to crack down on crimes organized from prisons",
-     "summary": "A final call to help South Carolina crack down on inmates using illegal cell phones behind prison bars. The FCC will vote on Thursday whether to allow phone jamming technology at jails and prisons.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "FCC voting on phone jamming to crack down on crimes organized from prisons",
-       "url": "https://www.wsoctv.com/news/local/fcc-voting-phone-jamming-crack-down-crimes-organized-prisons/VSCKVFC245EK3GHJYBHQP5PT44/",
        "bias": 0
       }
      ]
@@ -733,34 +753,6 @@
     },
     {
      "date": "2026-11-18",
-     "time": "5:39 PM",
-     "headline": "NBA Power Rankings: One wild stat for all 30 teams",
-     "summary": "Here's where all 30 teams rank this week -- along with one remarkable stat that has fueled each franchise through one month of the season.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "NBA Power Rankings: One wild stat for all 30 teams",
-       "url": "https://www.espn.com/nba/story/_/id/50513109/nba-power-rankings-wild-stats-spurs-lakers",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:39 PM",
-     "headline": "The Giannis trade changed everything, including Miami's margin for error",
-     "summary": "The Heat landed their superstar, but it's the rest of their roster that could define their season.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "The Giannis trade changed everything, including Miami's margin for error",
-       "url": "https://www.espn.com/nba/story/_/id/50513378/miami-heat-giannis-antetokounmpo-blueprint",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
      "time": "5:37 PM",
      "headline": "Fantasy football Start 'Em, Sit 'Em WR in Week 11: Fire up Josh Downs with confidence vs. Cardinals",
      "summary": "Jaylen Waddle is on track to face a vulnerable Raiders secondary following his concussion, while Courtland Sutton and Pat Bryant remain viable options in deeper formats",
@@ -776,125 +768,153 @@
     {
      "date": "2026-11-18",
      "time": "5:34 PM",
-     "headline": "Georgia AG encourages SEC to take 'action' vs. LSU, 'up to and including expulsion'",
-     "summary": "The Georgia Attorney General blasted LSU in a letter to SEC commissioner Greg Sankey, encouraging sanctions against the Tigers, \"up to and including expulsion.\"",
+     "headline": "Man Utd pursuing Como's Paz - Thursday's gossip",
+     "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Georgia AG encourages SEC to take 'action' vs. LSU, 'up to and including expulsion'",
-       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50524054/georgia-ag-asks-sec-take-action-vs-lsu-expulsion",
+       "outlet": "BBC Sport",
+       "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Judge scolds LSU lawyers over calling SEC citations 'hallucinated'",
-     "summary": "At a hearing Wednesday in the SEC's lawsuit against LSU, a federal judge pushed back on LSU attorneys for using the word \"hallucinated\" in filing.",
+     "time": "5:33 PM",
+     "headline": "Littler shocked by brilliant Wattimena at Grand Slam",
+     "summary": "Defending champion Luke Littler suffers a shock early exit at the Grand Slam of Darts after a stunning display from Jermaine Wattimena.",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Judge scolds LSU lawyers over calling SEC citations 'hallucinated'",
-       "url": "https://www.espn.com/college-football/story/_/id/50522883/judge-questions-lsu-claims-sec-hallucinated-citations",
+       "outlet": "BBC Sport",
+       "title": "Littler shocked by brilliant Wattimena at Grand Slam",
+       "url": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Playing hardball: Commish says MLB owners won't OK deal without cap as lockout looms",
-     "summary": "Commissioner Rob Manfred said owners will not accept any deal without a salary cap, leaving MLB on track for a lockout that could threaten the 2027 season.",
+     "time": "5:30 PM",
+     "headline": "'Thursday Night Football' prediction, odds, spread, time: Colts vs. Texans picks from expert on a 34-20 roll",
+     "summary": "R.J. White reveals his picks for Indianapolis Colts vs. Houston Texans in the 2026 Week 11 'Thursday Night Football' matchup",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Playing hardball: Commish says MLB owners won't OK deal without cap as lockout looms",
-       "url": "https://www.espn.com/mlb/story/_/id/50523785/rob-manfred-says-mlb-owners-compromise-salary-cap",
+       "outlet": "CBS Sports",
+       "title": "'Thursday Night Football' prediction, odds, spread, time: Colts vs. Texans picks from expert on a 34-20 roll",
+       "url": "https://www.cbssports.com/betting/news/thursday-night-football-prediction-odds-spread-line-time-colts-texans-expert-picks/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Welcome back: Twins reunite with veteran RHP Gray on two-year deal",
-     "summary": "The Twins have signed free agent right-hander Sonny Gray to a two-year contract, the team announced. The deal is for $55 million and includes an opt-out after the first season, sources told ESPN's Jeff Passan.",
+     "time": "5:15 PM",
+     "headline": "Central Michigan vs. Buffalo prediction, odds, time: Week 12 Wednesday MACtion picks from proven model",
+     "summary": "SportsLine's model revealed its best bets for Wednesday's MACtion contest between the Central Michigan Chippewas vs. Buffalo Bulls",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Welcome back: Twins reunite with veteran RHP Gray on two-year deal",
-       "url": "https://www.espn.com/mlb/story/_/id/50523817/twins-sign-veteran-right-hander-sonny-gray-two-year-deal",
+       "outlet": "CBS Sports",
+       "title": "Central Michigan vs. Buffalo prediction, odds, time: Week 12 Wednesday MACtion picks from proven model",
+       "url": "https://www.cbssports.com/betting/news/central-michigan-buffalo-prediction-odds-time-week-12-wednesday-maction-picks-best-bets/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Ravens' Humphrey apologizes for joke that Baltimore 'best at making criminals'",
-     "summary": "Ravens cornerback Marlon Humphrey apologized Wednesday for the derogatory comment he made about Baltimore on his recent podcast.",
+     "time": "5:14 PM",
+     "headline": "MLB CBA negotiations timeline: League, MLBPA continue brawling over salary cap as Dec. 1 deadline nears",
+     "summary": "With a potential work stoppage looming in baseball, we're keeping tabs on all the major steps in negotiations",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Ravens' Humphrey apologizes for joke that Baltimore 'best at making criminals'",
-       "url": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast",
+       "outlet": "CBS Sports",
+       "title": "MLB CBA negotiations timeline: League, MLBPA continue brawling over salary cap as Dec. 1 deadline nears",
+       "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Sources: Aiyuk contacted Daniels to mend friendship with Commanders star QB",
-     "summary": "Brandon Aiyuk and Jayden Daniels have patched up their relationship after a falling out earlier this year, sources told ESPN.",
+     "time": "5:13 PM",
+     "headline": "Buurman rescues late Chelsea win against PSG",
+     "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Sources: Aiyuk contacted Daniels to mend friendship with Commanders star QB",
-       "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
+       "outlet": "BBC Sport",
+       "title": "Buurman rescues late Chelsea win against PSG",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Giants RB Skattebo to nix backflips in wake of Hutchinson's injury",
-     "summary": "Giants RB Cam Skattebo said he is holding off on doing anymore backflips Lions DE after Aidan Hutchinson suffered a major knee injury while attempting a flip.",
+     "time": "5:10 PM",
+     "headline": "Rob Manfred 'can't imagine' MLB team owners will accept new CBA without a salary cap",
+     "summary": "In response, the MLBPA accused owners of purely wanting to 'make more money in profits and franchise values by artificially suppressing player salaries'",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Giants RB Skattebo to nix backflips in wake of Hutchinson's injury",
-       "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
+       "outlet": "CBS Sports",
+       "title": "Rob Manfred 'can't imagine' MLB team owners will accept new CBA without a salary cap",
+       "url": "https://www.cbssports.com/mlb/news/rob-manfred-salary-cap-cba-negotiations-owners-meetings/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Mariners acquire 3B Garcia from Royals in six-player trade",
-     "summary": "The Royals have traded third baseman Maikel Garcia to the Mariners in exchange for right-hander Bryce Miller as part of a six-player trade.",
+     "time": "5:05 PM",
+     "headline": "Heat vs. Bucks prediction, odds, time: 2026 NBA picks for Wednesday, Nov. 18 from proven model",
+     "summary": "SportsLine's model reveals its Miami Heat vs. Milwaukee Bucks best bets on Wednesday as Giannis Antetokounmpo faces his former team",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Mariners acquire 3B Garcia from Royals in six-player trade",
-       "url": "https://www.espn.com/mlb/story/_/id/50521866/sources-royals-trade-maikel-garcia-mariners-miller",
+       "outlet": "CBS Sports",
+       "title": "Heat vs. Bucks prediction, odds, time: 2026 NBA picks for Wednesday, Nov. 18 from proven model",
+       "url": "https://www.cbssports.com/betting/news/heat-bucks-prediction-odds-time-2026-nba-picks-best-bets-wednesday-november-18/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "🔥 Heat unveil 'A Night in Vice City' court ahead of GTA VI release",
-     "summary": "With Grand Theft Auto VI's long-awaited release date Thursday, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before.",
+     "time": "4:56 PM",
+     "headline": "Use FanDuel promo code to get $200 bonus bets by targeting Buffalo-Central Michigan, NBA on Wednesday",
+     "summary": "Sign up and bet with the latest FanDuel promo code on Wednesday to get your bonus bets",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "🔥 Heat unveil 'A Night in Vice City' court ahead of GTA VI release",
-       "url": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game",
+       "outlet": "CBS Sports",
+       "title": "Use FanDuel promo code to get $200 bonus bets by targeting Buffalo-Central Michigan, NBA on Wednesday",
+       "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-buffalo-central-michigan-nba-wednesday/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "4:46 PM",
+     "headline": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+     "summary": "Who will land a new frontline ace or top slugger? Follow along as we keep track of all the moves",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "4:40 PM",
+     "headline": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
+     "summary": "Borgata Sportsbook promo code for new users: CBS100 to bet $20, get $100 instantly in bonus bets",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
+       "url": "https://www.cbssports.com/betting/news/borgata-promo-code/",
        "bias": 0
       }
      ]
