@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:05:26Z",
+ "generated_at": "2026-11-18T12:08:27Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,6 +13,26 @@
    "id": "world",
    "name": "World",
    "items": [
+    {
+     "date": "2026-11-18",
+     "time": "6:37 AM",
+     "headline": "Trump arrives in China ahead of summit with Putin and Xi",
+     "summary": "President Trump is in China, where he may meet with Vladimir Putin before a trilateral summit with Putin and China's Xi Jinping, and a possible meeting with Kim Jong Un.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+       "bias": -1
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Trump arrives in China ahead of summit with Putin and Xi",
+       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-18",
      "time": "6:57 AM",
@@ -71,6 +91,34 @@
     },
     {
      "date": "2026-11-18",
+     "time": "6:51 AM",
+     "headline": "Cameron Bancroft claims entire Australian team knew about ‘sandpapergate’",
+     "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Cameron Bancroft claims entire Australian team knew about ‘sandpapergate’",
+       "url": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "6:47 AM",
+     "headline": "Who would gain from carving up Pakistan’s provinces?",
+     "summary": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Who would gain from carving up Pakistan’s provinces?",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
      "time": "6:44 AM",
      "headline": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
      "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live Sign up for US breaking News email Hello and welcome to the US politics live blog.",
@@ -93,20 +141,6 @@
        "outlet": "BBC News",
        "title": "Who to watch in Spain's election race",
        "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:35 AM",
-     "headline": "Trump arrives in China ahead of summit with Putin and Xi",
-     "summary": "President Trump is in China, where he may meet with Vladimir Putin before a trilateral summit with Putin and China's Xi Jinping, and a possible meeting with Kim Jong Un.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump arrives in China ahead of summit with Putin and Xi",
-       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
        "bias": 0
       }
      ]
@@ -192,34 +226,6 @@
        "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
        "url": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
        "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-     "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
-     "sources": [
-      {
-       "outlet": "NPR World",
-       "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-       "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:53 AM",
-     "headline": "Iran ramps back up attacks on Gulf countries after U.S. strikes",
-     "summary": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran ramps back up attacks on Gulf countries after U.S. strikes",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-       "bias": 0
       }
      ]
     }
@@ -669,6 +675,34 @@
    "items": [
     {
      "date": "2026-11-18",
+     "time": "7:04 AM",
+     "headline": "Kalshi cricket 2026: How to trade on cricket prediction markets",
+     "summary": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
+       "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "7:00 AM",
+     "headline": "Why U.S. Soccer's move to name Emma Hayes to the USMNT hiring committee makes sense",
+     "summary": "Hayes, the USWNT head coach, is part of the committee to find Pochettino's successor",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Why U.S. Soccer's move to name Emma Hayes to the USMNT hiring committee makes sense",
+       "url": "https://www.cbssports.com/soccer/news/u-s-soccer-emma-hayes-usmnt-hiring-committee/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
      "time": "6:49 AM",
      "headline": "Changes are necessary at Duke after Illinois routs home Blue Devils behind Andrej Stojakovic's historic game",
      "summary": "No. 5 Duke's issues are exposed in a record-breaking home loss to the No. 10 Fighting Illini",
@@ -845,34 +879,6 @@
        "outlet": "BBC Sport",
        "title": "Manchester won't always be blue - Pochettino",
        "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "2:50 AM",
-     "headline": "Cowboy boots, cocktails and casinos - how do three US grands prix compare?",
-     "summary": "F1 struggled to establish itself in the United States, but now hosts three grands prix. We compare the merits of Austin, Miami and Las Vegas.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Cowboy boots, cocktails and casinos - how do three US grands prix compare?",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/c6d91xl13pggo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "2:34 AM",
-     "headline": "Linares in ICE detention and facing deportation",
-     "summary": "Former three-weight world champion Jorge Linares remains in the custody of US immigration authorities in Texas and is facing deportation.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Linares in ICE detention and facing deportation",
-       "url": "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
