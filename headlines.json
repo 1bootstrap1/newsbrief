@@ -1,12 +1,10 @@
 {
- "generated_at": "2026-11-18T12:08:27Z",
+ "generated_at": "2026-11-18T17:14:04Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 19,
+  "ok": 20,
   "total": 20,
-  "failed": [
-   "ESPN (sports): empty response"
-  ]
+  "failed": []
  },
  "sections": [
   {
@@ -15,117 +13,109 @@
    "items": [
     {
      "date": "2026-11-18",
-     "time": "6:37 AM",
-     "headline": "Trump arrives in China ahead of summit with Putin and Xi",
-     "summary": "President Trump is in China, where he may meet with Vladimir Putin before a trilateral summit with Putin and China's Xi Jinping, and a possible meeting with Kim Jong Un.",
+     "time": "12:09 PM",
+     "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency US politics live – latest updates Democrats on Wednesday nominated Hakeem Jeffries to serve as speaker of the House when the new Congress begins next year.",
      "sources": [
       {
-       "outlet": "Al Jazeera",
-       "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+       "outlet": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+       "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:10 AM",
+     "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+     "summary": "President Trump landed in Shenzhen, China, on Wednesday ahead of his historic meeting with Xi Jinping and Russia's Vladimir Putin. Tony Dokoupil and Nancy Cordes report.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+       "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
       },
       {
        "outlet": "CBS News",
-       "title": "Trump arrives in China ahead of summit with Putin and Xi",
-       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+       "title": "Trump lands in China ahead of historic meeting with Xi and Putin",
+       "url": "https://www.cbsnews.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:57 AM",
-     "headline": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
-     "summary": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
+     "time": "12:03 PM",
+     "headline": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+     "summary": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
      "sources": [
       {
-       "outlet": "NPR World",
-       "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
-       "url": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:57 AM",
-     "headline": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
-     "summary": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.",
+     "time": "12:00 PM",
+     "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
      "sources": [
       {
-       "outlet": "NPR World",
-       "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
-       "url": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
-       "bias": -1
+       "outlet": "BBC News",
+       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+       "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:54 AM",
-     "headline": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
-     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+     "time": "12:00 PM",
+     "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+     "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+       "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:53 AM",
+     "headline": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+     "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
-       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+       "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+       "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:52 AM",
-     "headline": "‘Many’ Tory votes would switch to Labour if it committed to rejoining EU, claims Lammy – UK politics live",
-     "summary": "Former foreign secretary has urged Andy Burnham to make rejoining a manifesto commitment Lammy urges Burnham to fight next election on rejoining EU In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream…",
+     "time": "11:53 AM",
+     "headline": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+     "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Democrats nominate Hakeem Jeffries as first Black House speaker Trump in China for Apec summit – follow live Sign up for US breaking News…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "‘Many’ Tory votes would switch to Labour if it committed to rejoining EU, claims Lammy – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:51 AM",
-     "headline": "Cameron Bancroft claims entire Australian team knew about ‘sandpapergate’",
-     "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Cameron Bancroft claims entire Australian team knew about ‘sandpapergate’",
-       "url": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:47 AM",
-     "headline": "Who would gain from carving up Pakistan’s provinces?",
-     "summary": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Who would gain from carving up Pakistan’s provinces?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:44 AM",
-     "headline": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
-     "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live Sign up for US breaking News email Hello and welcome to the US politics live blog.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
+       "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
        "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
        "bias": -1
       }
@@ -133,99 +123,113 @@
     },
     {
      "date": "2026-11-18",
-     "time": "6:44 AM",
-     "headline": "Who to watch in Spain's election race",
-     "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
+     "time": "11:48 AM",
+     "headline": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+     "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+       "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:46 AM",
+     "headline": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
+     "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton A three-year-old boy has died after a “medical emergency” at a nursery in Greater Manchester.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:44 AM",
+     "headline": "World Bank official says Lebanon reconstruction making slow progress",
+     "summary": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "World Bank official says Lebanon reconstruction making slow progress",
+       "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:44 AM",
+     "headline": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Who to watch in Spain's election race",
-       "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+       "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:35 AM",
-     "headline": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-     "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified…",
+     "time": "11:41 AM",
+     "headline": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
+     "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-       "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+       "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:32 AM",
-     "headline": "India lodges complaint against Palestinian footballer after under-17 match",
-     "summary": "Palestinian player Taha Soueidan 'deeply surprised' by criticism following accusations that he made a racist gesture.",
+     "time": "11:40 AM",
+     "headline": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+     "summary": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "India lodges complaint against Palestinian footballer after under-17 match",
-       "url": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
+       "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:30 AM",
-     "headline": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
-     "summary": "Research into Tim Hortons’s app finds that it began transmitting information to Forter as soon as it opened.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
-       "url": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:08 AM",
-     "headline": "Yvette Cooper announces new health support for most vulnerable people in England",
-     "summary": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledge UK politics live – latest updates Half a million of the most vulnerable people in England will get proactive help with their health needs from new…",
+     "time": "11:39 AM",
+     "headline": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+     "summary": "Exclusive: three Senate Democrats sent letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US Senators say Apple and Google are failing to effectively detect and remove apps that can be used to…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Yvette Cooper announces new health support for most vulnerable people in England",
-       "url": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
+       "title": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+       "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Gun control activist faces long recovery after Washington DC mass shooting",
-     "summary": "Susan Thurston Hamerski was shot in the face by gunman who killed one and injured several others in Logan Circle A gun control advocate is grappling with a grueling recovery after being shot in the face during the recent mass shooting at a Washington DC…",
+     "time": "11:33 AM",
+     "headline": "Julio Iglesias facing court investigation over alleged sexual offences",
+     "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "Gun control activist faces long recovery after Washington DC mass shooting",
-       "url": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-     "summary": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028 A week after the US midterms elections swept an unprecedented number of leftists into office across the country, about 600 people joined a Zoom call.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-       "url": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
-       "bias": -1
+       "outlet": "BBC News",
+       "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+       "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
       }
      ]
     }
@@ -237,145 +241,79 @@
    "items": [
     {
      "date": "2026-11-18",
-     "time": "6:35 AM",
-     "headline": "Trump arrives in China ahead of summit with Putin and Xi",
-     "summary": "In a rare and surprising move, Chinese leader Xi Jinping personally greeted President Donald Trump as he arrived in China on Wednesday ahead of historic three-way talks with Russian President Vladimir Putin.",
+     "time": "11:05 AM",
+     "headline": "Democrats nominate Hakeem Jeffries for House speaker",
+     "summary": "Democratic Rep. Hakeem Jeffries won his party's nomination for the next speaker of the House. CBS News' Caitlin Huey-Burns reports.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Trump arrives in China ahead of summit with Putin and Xi",
-       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+       "title": "Democrats nominate Hakeem Jeffries for House speaker",
+       "url": "https://www.cbsnews.com/video/democrats-nominate-hakeem-jeffries-for-house-speaker/",
+       "bias": 0
+      },
+      {
+       "outlet": "NPR",
+       "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+       "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+       "bias": -1
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Democrats nominate Hakeem Jeffries to become House speaker, a historic first",
+       "url": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:04 AM",
+     "headline": "Bezos says he was \"heavily involved\" in casting Pattinson as 007",
+     "summary": "Amazon founder and chairman Jeff Bezos says he was “heavily involved” in the casting of Robert Pattinson as Amazon MGM Studios’ next James Bond, though he says there was some hesitancy in the selection.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Bezos says he was \"heavily involved\" in casting Pattinson as 007",
+       "url": "https://www.cbsnews.com/news/jeff-bezos-james-bond-robert-pattinson-heavily-involved-decision-cast/",
        "bias": 0
       },
       {
        "outlet": "NBC News",
-       "title": "Xi greets Trump as he arrives in China, a rare move ahead of Putin talks",
-       "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962",
+       "title": "Jeff Bezos Says He Was ‘Heavily Involved’ in Bond Casting",
+       "url": "https://www.today.com/video/jeff-bezos-says-he-played-role-in-casting-pattinson-as-bond-273722949667",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "7:00 AM",
-     "headline": "Trump-Xi showdown revives 25-year-old Clinton China 'mistake' as Senate vet demands reversal",
-     "summary": "Former Trump ambassador Sam Brownback says it's time to reverse permanent normal trade relations with China, calling the 2000 decision a mistake.",
+     "time": "10:01 AM",
+     "headline": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+     "summary": "Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller.",
      "sources": [
       {
-       "outlet": "Fox News",
-       "title": "Trump-Xi showdown revives 25-year-old Clinton China 'mistake' as Senate vet demands reversal",
-       "url": "https://www.foxnews.com/politics/trump-xi-showdown-revives-25-year-old-clinton-china-mistake-senate-vet-demands-reversal",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "7:00 AM",
-     "headline": "Women don't have to suffer in silence from fibroids, expert says",
-     "summary": "Uterine fibroids affect 70% to 80% of women, yet the condition gets little public attention. Here's what to know about symptoms and treatment options.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Women don't have to suffer in silence from fibroids, expert says",
-       "url": "https://www.cbsnews.com/news/fibroids-women-healthful/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "7:00 AM",
-     "headline": "Fibroids: The Silent Condition Affecting Up to 80% of Women",
-     "summary": "Many women are silently suffering from fibroids. The uterine condition impacts 70 to 80% of women but is under-discussed, under-researched and underfunded. On this episode of Healthful, Norah O'Donnell interviews Dr.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Fibroids: The Silent Condition Affecting Up to 80% of Women",
-       "url": "https://www.cbsnews.com/video/111826-fibroids-the-silent-condition-affecting-up-to-80-of-women-healthful/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "7:00 AM",
-     "headline": "‘A savagely brutal map’: Senate GOP braces for 2028",
-     "summary": "Sen. Bernie Moreno, the incoming chair of the National Republican Senatorial Committee, is clear-eyed on the challenges ahead as the party reckons with midterm losses.",
-     "sources": [
-      {
-       "outlet": "Politico",
-       "title": "‘A savagely brutal map’: Senate GOP braces for 2028",
-       "url": "https://www.politico.com/news/2026/11/18/senate-map-2028-bernie-moreno-01170846",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:54 AM",
-     "headline": "These are the last midterm races to be decided",
-     "summary": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "These are the last midterm races to be decided",
-       "url": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:38 AM",
-     "headline": "Beijing's hidden chokehold could derail Trump's $50B plan to fix America's aging skies",
-     "summary": "Can the United States fix its air traffic control when an expert warns China's rare earth grip could bottleneck the FAA overhaul Sean Duffy wants funded?",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Beijing's hidden chokehold could derail Trump's $50B plan to fix America's aging skies",
-       "url": "https://www.foxnews.com/politics/beijings-hidden-chokehold-derail-trumps-50b-plan-fix-americas-aging-skies",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:01 AM",
-     "headline": "They were NFL losers last year. Now they’re playoff contenders.",
-     "summary": "The Cleveland Browns, Cincinatti Bengals, Kansas City Chiefs, New York Giants, Detroit Lions and Minnesota Vikings all missed the 2025 playoffs, but now make up nearly half of this season’s projected postseason field.",
-     "sources": [
+       "outlet": "NPR",
+       "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+       "url": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
+       "bias": -1
+      },
       {
        "outlet": "NBC News",
-       "title": "They were NFL losers last year. Now they’re playoff contenders.",
-       "url": "https://www.nbcnews.com/sports/nfl/nfl-losers-last-year-now-re-playoff-contenders-rcna609840",
+       "title": "House Democrat warns a dozen Trump allies to save their records, calling it ‘just the beginning’",
+       "url": "https://www.nbcnews.com/politics/congress/democrat-investigations-warn-trump-allies-vance-donald-jr-eric-rcna609904",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance",
-     "summary": "Trump and Xi Jinping meet in China today as expert Ryan Yonk says years of broad promises have yielded few executed deals on trade between the nations.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance",
-       "url": "https://www.foxnews.com/politics/trump-set-economic-showdown-xi-unfulfilled-promises-leave-billions-hanging-balance",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "House Democrats expected to choose Jeffries as speaker",
-     "summary": "Democrats are expected to officially elect Hakeem Jeffries as speaker in a floor vote in January.",
+     "time": "12:10 PM",
+     "headline": "Jeffries wins Democratic nomination for House speaker",
+     "summary": "Democratic Leader Hakeem Jeffries easily won his party's nomination for the next speaker of the House on Wednesday.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "House Democrats expected to choose Jeffries as speaker",
+       "title": "Jeffries wins Democratic nomination for House speaker",
        "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
        "bias": 0
       }
@@ -383,55 +321,41 @@
     },
     {
      "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Mystery firm spending millions to attend Trump crypto gala",
-     "summary": "The firm FastX, which has ties to Singapore, claims to have amassed more than $2 million in $TRUMP coin in the past two months and aims to secure a spot at the president's gala dinner.",
+     "time": "12:09 PM",
+     "headline": "\"No indication\" outages are related to cyberattacks, officials say",
+     "summary": "Officials are testifying at a House committee hearing on worldwide threats as a series of network outages, including Microsoft Outlook and several banking institutions, have rattled Americans.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Mystery firm spending millions to attend Trump crypto gala",
-       "url": "https://www.cbsnews.com/news/trump-crypto-gala-fastx-meme-coin/",
+       "title": "\"No indication\" outages are related to cyberattacks, officials say",
+       "url": "https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-     "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+     "time": "12:08 PM",
+     "headline": "Jon Tower",
+     "summary": "\"CBS Mornings\" executive producer",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-       "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "Jon Tower",
+       "url": "https://www.cbsnews.com/team/jon-tower/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-     "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-       "url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:53 AM",
-     "headline": "Iran ramps back up attacks on Gulf countries after U.S. strikes",
+     "time": "12:03 PM",
+     "headline": "Iran ramps up attacks on Gulf countries after U.S. strikes",
      "summary": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Iran ramps back up attacks on Gulf countries after U.S. strikes",
+       "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
        "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
        "bias": 0
       }
@@ -439,15 +363,113 @@
     },
     {
      "date": "2026-11-18",
-     "time": "5:45 AM",
-     "headline": "Washington, disconnected",
-     "summary": "Washington, disconnected lead image",
+     "time": "12:02 PM",
+     "headline": "Recent service outages not state-sponsored attacks, DNI Jay Clayton testifies",
+     "summary": "DNI Jay Clayton told the House Homeland Security Committee recent U.S. service outages stem from maintenance, not a coordinated state-sponsored attack.",
      "sources": [
       {
-       "outlet": "Politico",
-       "title": "Washington, disconnected",
-       "url": "https://www.politico.com/video/2026/11/18/washington-disconnected-2231620",
+       "outlet": "Fox News",
+       "title": "Recent service outages not state-sponsored attacks, DNI Jay Clayton testifies",
+       "url": "https://www.foxnews.com/politics/recent-service-outages-not-state-sponsored-attacks-dni-jay-clayton-testifies",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:00 PM",
+     "headline": "Wondering why your friends are MIA? ‘Grand Theft Auto VI’ might be to blame",
+     "summary": "Between spikes in vacation day requests and college professors reportedly granting extensions to their students, the Thursday release of Grand Theft Auto VI could bring America (or the world) to a halt.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Wondering why your friends are MIA? ‘Grand Theft Auto VI’ might be to blame",
+       "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-release-rockstar-games-what-to-know-rcna609644",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:59 AM",
+     "headline": "Top Dem sends letters to people close to Trump ahead of probes",
+     "summary": "Rep. Robert Garcia, who is expected to chair the House Oversight Committee in the next Congress, sent letters to 12 people close to President Trump ahead of expected investigations into his second term.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Top Dem sends letters to people close to Trump ahead of probes",
+       "url": "https://www.cbsnews.com/news/robert-garcia-letters-trump-house-oversight-and-government-reform-committee-investigations/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:58 AM",
+     "headline": "Watch: Markwayne Mullin delivers opening remarks at House hearing on worldwide threats",
+     "summary": "Homeland Security Secretary Markwayne Mullin testified during a House Homeland Security Committee hearing on worldwide threats.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Watch: Markwayne Mullin delivers opening remarks at House hearing on worldwide threats",
+       "url": "https://www.cbsnews.com/video/full-speech-markwayne-mullin-delivers-opening-remarks-at-house-hearing-on-worldwide-threats/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:57 AM",
+     "headline": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi",
+     "summary": "President Donald Trump plans to meet separately with Russian President Vladimir Putin on Thursday in China, in addition to their already scheduled three-way meeting with Chinese President Xi Jinping, a U.S. official confirmed.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi",
+       "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:54 AM",
+     "headline": "Deep-sea mining auctions spark environmental concerns",
+     "summary": "The Trump administration has taken a major step forward this year in promoting deep-sea mining by scheduling a series of auctions of the U.S. seafloor",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "Deep-sea mining auctions spark environmental concerns",
+       "url": "https://abcnews.com/US/wireStory/deep-sea-mining-auctions-spark-environmental-concerns-american-138253336",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:37 AM",
+     "headline": "Apple’s newest smartwatch is $70 off — just 2 months after launch",
+     "summary": "The Apple Watch Series 12, the brand’s newest smartwatch, is already on sale. It’s a great upgrade for anyone who wants detailed health tracking and faster charging.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Apple’s newest smartwatch is $70 off — just 2 months after launch",
+       "url": "https://www.nbcnews.com/select/shopping/apple-watch-series-12-deal-of-the-day-2026-rcna610016",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:28 AM",
+     "headline": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
+     "summary": "Record turkey prices and higher fuel costs could make Thanksgiving dinner more expensive this year, according to a survey released Wednesday",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
+       "url": "https://abcnews.com/US/wireStory/americans-pay-thanksgiving-dinners-year-farm-bureau-138252750",
+       "bias": -1
       }
      ]
     }
@@ -459,77 +481,35 @@
    "items": [
     {
      "date": "2026-11-18",
-     "time": "6:55 AM",
-     "headline": "Mental Health Matters: Assessing your relationship with technology and social media",
-     "summary": "Justin Grandinetti, a professor of communication studies and data science at UNC Charlotte, said it’s crucial to assess our relationship with technology and social media, but it can be difficult to do it in practice.",
+     "time": "12:12 PM",
+     "headline": "Monroe mayor announces bid for North Carolina governor",
+     "summary": "Monroe Mayor Robert Burns announced Wednesday morning that he is running to become North Carolina’s next governor.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Mental Health Matters: Assessing your relationship with technology and social media",
-       "url": "https://www.wsoctv.com/news/local/mental-health-matters-assessing-your-relationship-with-technology-social-media/U73KPDIOV5AUZD74Y42FN4GYOY/",
+       "title": "Monroe mayor announces bid for North Carolina governor",
+       "url": "https://www.wsoctv.com/news/local/monroe-mayor-announces-bid-north-carolina-governor/Z75PQBVMWNA3XFKKXY5RW6HD6M/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:52 AM",
-     "headline": "Earthquake strikes near Iredell-Rowan County line, data shows",
-     "summary": "The low-magnitude quake had its epicenter near Knox Road.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Earthquake strikes near Iredell-Rowan County line, data shows",
-       "url": "https://www.wbtv.com/2026/11/18/earthquake-strikes-near-iredell-rowan-county-line-data-shows/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:28 AM",
-     "headline": "Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects",
-     "summary": "Democrat Mary Peltola defeated two-term Republican Sen. Dan S. Sullivan in Alaska, The Associated Press projected late Tuesday. Flipping the conservative state now gives Democrats a 56-44 edge in the Senate.",
+     "time": "12:05 PM",
+     "headline": "U2 to headline Thanksgiving Eve NFL halftime",
+     "summary": "U2, Wu-Tang Clan, and Miranda Lambert are set to headline halftime shows during the NFL's expanded Thanksgiving schedule.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects",
-       "url": "https://www.wsoctv.com/news/trending/election-2026-mary-peltola-wins-us-senate-seat-alaska-ap-projects/JEBINXV4AFALJLTWRLP2A6RKU4/",
+       "title": "U2 to headline Thanksgiving Eve NFL halftime",
+       "url": "https://www.wsoctv.com/news/trending/u2-headline-thanksgiving-eve-nfl-game/JS5ORUZUJ5DT5AJCEF2DGYMHGA/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:05 AM",
-     "headline": "2.4 magnitude earthquake rattles homes in Iredell County area",
-     "summary": "A small earthquake was reported late Tuesday night in the Iredell County area, according to the U.S. Geological Survey.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "2.4 magnitude earthquake rattles homes in Iredell County area",
-       "url": "https://www.wsoctv.com/news/local/24-magnitude-earthquake-reported-iredell-county-area/IXRXMZ4SY5CK5EO4BPOKLZ775A/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:05 AM",
-     "headline": "Mother charged with murder after 2 kids left home alone die in fire, police say",
-     "summary": "A mother is facing multiple felony charges after two of her children died in a house fire.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Mother charged with murder after 2 kids left home alone die in fire, police say",
-       "url": "https://www.wbtv.com/2026/11/18/mother-charged-with-murder-after-2-kids-left-home-alone-die-fire-police-say/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:08 AM",
+     "time": "12:01 PM",
      "headline": "FORECAST: Afternoon warmth continues through the end of the week",
      "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
      "sources": [
@@ -543,126 +523,168 @@
     },
     {
      "date": "2026-11-18",
-     "time": "2:01 AM",
-     "headline": "Man, 50, allegedly stabs another man to death at party celebrating his release from prison",
-     "summary": "A 50-year-old man is facing charges after authorities say he stabbed another man to death at a party celebrating his release from federal prison.",
+     "time": "11:58 AM",
+     "headline": "1 hurt after crash sends tractor-trailer into parking deck area of Uptown Charlotte apartments",
+     "summary": "The crash happened at the intersection of Sixth and McDowell streets.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Man, 50, allegedly stabs another man to death at party celebrating his release from prison",
-       "url": "https://www.wbtv.com/2026/11/18/man-50-allegedly-stabs-another-man-death-party-celebrating-his-release-prison/",
+       "title": "1 hurt after crash sends tractor-trailer into parking deck area of Uptown Charlotte apartments",
+       "url": "https://www.wbtv.com/2026/11/18/1-hurt-after-crash-sends-tractor-trailer-into-parking-deck-area-uptown-charlotte-apartments/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-17",
-     "time": "11:46 PM",
-     "headline": "Man wanted in 2024 Shelby murder arrested days after reward increase, police say",
-     "summary": "Police increased reward to $8,000 in days prior to arrest.",
+     "date": "2026-11-18",
+     "time": "11:52 AM",
+     "headline": "Catawba County recounts ballots in tight 10th Congressional District race",
+     "summary": "A bipartisan team began feeding ballots back through voting machines at 8:30 a.m.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Man wanted in 2024 Shelby murder arrested days after reward increase, police say",
-       "url": "https://www.wbtv.com/2026/11/18/man-wanted-2024-shelby-murder-arrested-days-after-reward-increased/",
+       "title": "Catawba County recounts ballots in tight 10th Congressional District race",
+       "url": "https://www.wbtv.com/2026/11/18/catawba-county-recounts-ballots-tight-10th-congressional-district-race/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-17",
-     "time": "11:41 PM",
-     "headline": "Charlotte reclaims Hornets’ Nest trophy with 73-66 win over Davidson",
-     "summary": "For the first time since 2022, the most unique trophy in college basketball will return to the QC.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Charlotte reclaims Hornets’ Nest trophy with 73-66 win over Davidson",
-       "url": "https://www.wbtv.com/2026/11/18/charlotte-reclaims-hornets-nest-trophy-with-73-66-win-over-davidson/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "11:36 PM",
-     "headline": "Mold concerns at Iredell County school: Expert shares warning signs to watch for at home",
-     "summary": "“Mold gets behind sheetrock, gets in wall cavities, under floors,” Dour said.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Mold concerns at Iredell County school: Expert shares warning signs to watch for at home",
-       "url": "https://www.wbtv.com/2026/11/18/mold-concerns-iredell-county-school-expert-shares-warning-signs-watch-home/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "11:34 PM",
-     "headline": "After incentive changes, NC film industry in limbo as productions move elsewhere",
-     "summary": "RJ Decker and The Hunting Wives. What do those TV shows have in common? They were both filmed in North Carolina.",
+     "date": "2026-11-18",
+     "time": "11:45 AM",
+     "headline": "Homicide investigation underway in east Charlotte neighborhood",
+     "summary": "Detectives with the Charlotte-Mecklenburg Police Department are investigating a homicide Wednesday in east Charlotte.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "After incentive changes, NC film industry in limbo as productions move elsewhere",
-       "url": "https://www.wsoctv.com/news/local/after-incentive-changes-nc-film-industry-limbo-productions-move-elsewhere/APN6RMMOC5F7BIMUTAAZDWSPAY/",
+       "title": "Homicide investigation underway in east Charlotte neighborhood",
+       "url": "https://www.wsoctv.com/news/local/homicide-investigation-underway-east-charlotte-neighborhood/CFESYPOVERCILJYKU2GOGZAUOQ/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-17",
-     "time": "11:05 PM",
-     "headline": "Paris Hilton urges House to pass AI deepfake porn bill",
-     "summary": "Paris Hilton returned to Capitol Hill on Tuesday to urge the House to pass a bill aimed at combating nonconsensual sexually explicit deepfake images.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Paris Hilton urges House to pass AI deepfake porn bill",
-       "url": "https://www.wbtv.com/2026/11/18/paris-hilton-urges-house-pass-ai-deepfake-porn-bill/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "11:01 PM",
-     "headline": "Highway patrol to pay $70,000 to former Wild Orchid member in DUI arrest settlement",
-     "summary": "Blood work later showed Stefanie Fair was sober at the time of her arrest.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Highway patrol to pay $70,000 to former Wild Orchid member in DUI arrest settlement",
-       "url": "https://www.wbtv.com/2026/11/18/highway-patrol-pay-70000-former-wild-orchid-member-dui-arrest-settlement/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "10:56 PM",
-     "headline": "2 Americans drown while swimming in the Bahamas, officials say",
-     "summary": "Two Americans died after being pulled from the water in the Bahamas, authorities said.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "2 Americans drown while swimming in the Bahamas, officials say",
-       "url": "https://www.wbtv.com/2026/11/18/2-americans-drown-while-swimming-bahamas-officials-say/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "time": "10:16 PM",
-     "headline": "Matthews intersection to get new crosswalk and signals after scooter crash",
-     "summary": "Safety improvements are planned for a Matthews intersection where a 12-year-old boy riding an e-scooter was hit by a car about a week ago.",
+     "date": "2026-11-18",
+     "time": "11:44 AM",
+     "headline": "Stewart Copeland announces 2027 tour to mark The Police’s 50th anniversary",
+     "summary": "Stewart Copeland has announced a 2027 tour to mark the 50th anniversary of The Police, which streaked across the rock ‘n’ roll landscape during the late 1970s and early 1980s with songs like “Roxanne,” “Message in a Bottle,” “Don’t Stand So Close to Me” and…",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Matthews intersection to get new crosswalk and signals after scooter crash",
-       "url": "https://www.wsoctv.com/news/local/matthews-intersection-get-new-crosswalk-signals-after-scooter-crash/OES2FPZDV5BXJITBELKCPU4F4U/",
+       "title": "Stewart Copeland announces 2027 tour to mark The Police’s 50th anniversary",
+       "url": "https://www.wsoctv.com/news/trending/stewart-copeland-announces-2027-tour-mark-polices-50th-anniversary/IYFAXGDKLNCC5APLDBHI7J3UG4/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:39 AM",
+     "headline": "Man sentenced to up to 105 years for child sexual abuse",
+     "summary": "A Union County jury has convicted 62-year-old Baldomero Hernandez-Jimenez on 10 felony child sexual abuse charges, resulting in a prison sentence of 75 to 105 years.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Man sentenced to up to 105 years for child sexual abuse",
+       "url": "https://www.wsoctv.com/news/local/man-sentenced-up-105-years-child-sexual-abuse/7M6GWX5M4ZFN3L5A5PY72UGC7Y/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:33 AM",
+     "headline": "North Carolina student trades single paper clip up to BMW car",
+     "summary": "The senior at ECU took on the “paper clip challenge” for a class.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "North Carolina student trades single paper clip up to BMW car",
+       "url": "https://www.wbtv.com/2026/11/18/north-carolina-student-trades-single-paper-clip-up-bmw-car/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:28 AM",
+     "headline": "Wellness Without Walls brings mental health care to people experiencing homelessness",
+     "summary": "For people experiencing homelessness, getting mental health care can feel out of reach. That’s why Atrium Health is taking treatment out of the clinic and directly to people who need it.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Wellness Without Walls brings mental health care to people experiencing homelessness",
+       "url": "https://www.wsoctv.com/news/local/wellness-without-walls-brings-mental-health-care-people-experiencing-homelessness/QVFNQ47XCBFWRNLEE62WPEJZWI/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:19 AM",
+     "headline": "Stranded at Charlotte airport during FAA shutdown, woman buys Bronco for 27-hour drive home",
+     "summary": "The historic nationwide shutdown disrupted travel for tens of thousands of people.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Stranded at Charlotte airport during FAA shutdown, woman buys Bronco for 27-hour drive home",
+       "url": "https://www.wbtv.com/2026/11/18/stranded-charlotte-airport-during-faa-shutdown-woman-buys-bronco-27-hour-drive-home/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:19 AM",
+     "headline": "Semi-trailer crashes into Uptown apartment building",
+     "summary": "A semi-trailer truck crashed into the Alister Uptown apartment complex Wednesday morning near the intersection of North McDowell Street and Seventh Street in Uptown Charlotte.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Semi-trailer crashes into Uptown apartment building",
+       "url": "https://www.wsoctv.com/news/local/semi-trailer-crashes-into-uptown-apartment-building/M7YHZ25ZNZEZ7ESJFNRUQJ7RXM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:16 AM",
+     "headline": "Mental Health Matters: Live phone bank to find help near you",
+     "summary": "Channel 9 is focusing on connecting people with mental health resources in the Carolinas. From 11 a.m. to 8 p.m. Wednesday, call 704-997-9369 and connect with a live representative to find resources near you.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Mental Health Matters: Live phone bank to find help near you",
+       "url": "https://www.wsoctv.com/news/local/mental-health-matters-live-phone-bank-find-help-near-you/YI3GP7AJG5HPDM5D4C6FV7DKL4/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:13 AM",
+     "headline": "British TV host, 59, announces pregnancy during broadcast",
+     "summary": "The objection appears to rest on a number on a birth certificate,” Renée Hoenderkamp wrote in an opinion piece published after her announcement.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "British TV host, 59, announces pregnancy during broadcast",
+       "url": "https://www.wsoctv.com/news/trending/british-tv-host-59-announces-pregnancy-during-broadcast/6EG6X7TPURHYZF5BZTHYXAEIVM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "10:57 AM",
+     "headline": "Man rents 15-foot U-Haul truck to drive nearly 500 miles home after ground stop caused flight to cancel",
+     "summary": "Kevin Lake traveled 477 miles from Chicago to Moville, Iowa, in a 15-foot U-Haul.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Man rents 15-foot U-Haul truck to drive nearly 500 miles home after ground stop caused flight to cancel",
+       "url": "https://www.wbtv.com/2026/11/18/man-rents-15-foot-u-haul-truck-drive-nearly-500-miles-home-after-ground-stop-caused-flight-cancel/",
        "bias": 0
       }
      ]
@@ -675,210 +697,210 @@
    "items": [
     {
      "date": "2026-11-18",
-     "time": "7:04 AM",
-     "headline": "Kalshi cricket 2026: How to trade on cricket prediction markets",
-     "summary": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
+     "time": "12:06 PM",
+     "headline": "QB rankings for all 68 Power 4 college football teams",
+     "summary": "We're nearing the end of the season. How have our opinions about the top quarterbacks changed?",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "QB rankings for all 68 Power 4 college football teams",
+       "url": "https://www.espn.com/college-football/story/_/id/50510847/ranking-power-4-qbs",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:06 PM",
+     "headline": "What are the conference title game clinching scenarios for Week 12?",
+     "summary": "Here's what teams from every conference would need to play for their league championship.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "What are the conference title game clinching scenarios for Week 12?",
+       "url": "https://www.espn.com/college-football/story/_/id/50512475/conference-title-game-clinching-scenarios-week-12",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:06 PM",
+     "headline": "Bottom 10: Things go south in Carolina -- and a tribute to a legend",
+     "summary": "The originator of celebrating football's downtrodden, former Los Angeles columnist Steve Harvey, died last week.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Bottom 10: Things go south in Carolina -- and a tribute to a legend",
+       "url": "https://www.espn.com/college-football/story/_/id/50519786/bottom-10-week-11-clemson-steve-harvey",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:00 PM",
+     "headline": "Who's on the CFP bubble after the committee's third ranking?",
+     "summary": "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Who's on the CFP bubble after the committee's third ranking?",
+       "url": "https://www.espn.com/college-football/story/_/id/50503628/cfp-playoff-2026-bubble-watch-week-third-ranking",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:54 AM",
+     "headline": "Matchup rankings for Week 11: Why you should start one 49er, but sit another",
+     "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Matchup rankings for Week 11: Why you should start one 49er, but sit another",
+       "url": "https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:54 AM",
+     "headline": "Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable",
+     "summary": "A bye-laden Week 11 might make you cringe at some of your lineup decisions, so let the facts hone your feelings on Bo Nix, Tony Pollard, Jaylen Warren, Chris Olave, Malik Nabers, Stefon Diggs and Colston Loveland.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable",
+       "url": "https://www.espn.com/fantasy/football/story/_/id/50514411/facts-feelings-fantasy-advice-week-11",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:53 AM",
+     "headline": "Rees-Zammit: From beating All Blacks to meeting Man Utd heroes",
+     "summary": "Louis Rees-Zammit has had a week to remember having helped Wales to a historic win over New Zealand and meeting his Manchester United heroes.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Rees-Zammit: From beating All Blacks to meeting Man Utd heroes",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjeqxklkwx7o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:46 AM",
+     "headline": "Prem opens registration for expansion to 12 teams",
+     "summary": "Prem Rugby opens a registration process for teams to apply with the aim of expanding the league to 12 clubs for the 2029-30 season.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Prem opens registration for expansion to 12 teams",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje39nwzryw3o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:43 AM",
+     "headline": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Mohya",
+     "summary": "Liverpool and Bayern Munich are interested in Borussia Mönchengladbach attacking midfielder Wael Mohya. Transfer Talk has the latest.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Mohya",
+       "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:33 AM",
+     "headline": "Reid's midseason 2027 NFL mock draft: Four QBs and a trade to shake things up",
+     "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson?",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Reid's midseason 2027 NFL mock draft: Four QBs and a trade to shake things up",
+       "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:33 AM",
+     "headline": "Which team will land the No. 1 pick? Our look at a five-franchise race",
+     "summary": "Five NFL teams have at least 5% odds to land the No. 1 pick in 2027, per ESPN's Football Power Index.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Which team will land the No. 1 pick? Our look at a five-franchise race",
+       "url": "https://www.espn.com/nfl/draft2027/story/_/id/50510863/2027-nfl-draft-top-pick-dolphins-titans-eagles-jets-chargers",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:32 AM",
+     "headline": "College basketball rankings: Duke plummets in updated Top 25 And 1 after embarrassing home loss to Illinois",
+     "summary": "The Fighting Illini handed the Blue Devils their second loss of the season in convincing fashion",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
-       "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+       "title": "College basketball rankings: Duke plummets in updated Top 25 And 1 after embarrassing home loss to Illinois",
+       "url": "https://www.cbssports.com/college-basketball/news/ncaa-top-25-and-1-rankings-duke-illinois-cameron-indoor-stadium-michigan-state/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "7:00 AM",
-     "headline": "Why U.S. Soccer's move to name Emma Hayes to the USMNT hiring committee makes sense",
-     "summary": "Hayes, the USWNT head coach, is part of the committee to find Pochettino's successor",
+     "time": "11:29 AM",
+     "headline": "MLB CBA negotiations timeline: MLBPA says league has 'wasted months of time' as Dec. 1 deadline nears",
+     "summary": "With a potential work stoppage looming in baseball, we're keeping tabs on all the major steps in negotiations",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Why U.S. Soccer's move to name Emma Hayes to the USMNT hiring committee makes sense",
-       "url": "https://www.cbssports.com/soccer/news/u-s-soccer-emma-hayes-usmnt-hiring-committee/",
+       "title": "MLB CBA negotiations timeline: MLBPA says league has 'wasted months of time' as Dec. 1 deadline nears",
+       "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:49 AM",
-     "headline": "Changes are necessary at Duke after Illinois routs home Blue Devils behind Andrej Stojakovic's historic game",
-     "summary": "No. 5 Duke's issues are exposed in a record-breaking home loss to the No. 10 Fighting Illini",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Changes are necessary at Duke after Illinois routs home Blue Devils behind Andrej Stojakovic's historic game",
-       "url": "https://www.cbssports.com/college-basketball/news/duke-illinois-home-blue-devils-andrej-stojakovic-cameron-indoor-stadium/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:30 AM",
-     "headline": "Price now fighting to be Wales' first undisputed world champ",
-     "summary": "Lauren Price gets chance to become Wales' first undisputed world champion in her fight with Michaela Kotaskova in Cardiff.",
+     "time": "11:27 AM",
+     "headline": "Zverev to defend himself against fresh lawsuit",
+     "summary": "Lawyers for world number one Alexander Zverev say he will defend himself against a lawsuit which alleges he misrepresented the outcome of a domestic abuse trial.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Price now fighting to be Wales' first undisputed world champ",
-       "url": "https://www.bbc.co.uk/sport/boxing/articles/c6pw4xyr84yyo?at_medium=RSS&at_campaign=rss",
+       "title": "Zverev to defend himself against fresh lawsuit",
+       "url": "https://www.bbc.co.uk/sport/tennis/articles/c60rkq9kweego?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "6:24 AM",
-     "headline": "Duckett ton & impressive bowlers give England series win",
-     "summary": "England confidently sweep aside Australia in the third one-day international in Hobart to seal a statement series win.",
+     "time": "11:21 AM",
+     "headline": "Report: Stephens' home targeted in L.A. burglary attempt",
+     "summary": "The home of tennis star Sloane Stephens was targeted in a home burglary attempt Tuesday night, law enforcement sources told ABC News, though no property was taken in the incident.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Duckett ton & impressive bowlers give England series win",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:12 AM",
-     "headline": "Explosive Bancroft sandpaper claims heap pressure on Cummins",
-     "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Explosive Bancroft sandpaper claims heap pressure on Cummins",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "6:00 AM",
-     "headline": "Prisco's Week 11 NFL picks: Texans edge Colts on 'TNF,' Cowboys rout Titans, 49ers over Vikings",
-     "summary": "Pete Prisco reveals all of his Week 11 picks, including the Jaguars to handle the Giants on the road",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Prisco's Week 11 NFL picks: Texans edge Colts on 'TNF,' Cowboys rout Titans, 49ers over Vikings",
-       "url": "https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-odds-expert-picks-predictions/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:51 AM",
-     "headline": "Record crowds, legends - Bordeaux bid to escape amateur game",
-     "summary": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:15 AM",
-     "headline": "Opetaia out of Wilder fight on Fury-Joshua card",
-     "summary": "Australian Jai Opetaia withdraws from his heavyweight fight with Deontay Wilder on the undercard of Tyson Fury's bout with Anthony Joshua in December.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Opetaia out of Wilder fight on Fury-Joshua card",
-       "url": "https://www.bbc.co.uk/sport/boxing/articles/cq1md5ppd2mxo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:12 AM",
-     "headline": "Former Spain midfielder Mata retires aged 38",
-     "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Former Spain midfielder Mata retires aged 38",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:08 AM",
-     "headline": "Is Polymarket Legal in California? November 2026 Status",
-     "summary": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Is Polymarket Legal in California? November 2026 Status",
-       "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:04 AM",
-     "headline": "NI will carry momentum into Euro 2028 qualifiers",
-     "summary": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "NI will carry momentum into Euro 2028 qualifiers",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:22 AM",
-     "headline": "Ireland fly-half Prendergast cleared to face South Africa",
-     "summary": "Ireland fly-half Sam Prendergast successfully appeals against citing to make himself available to face South Africa on Saturday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Ireland fly-half Prendergast cleared to face South Africa",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y16g1ly0zo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "3:50 AM",
-     "headline": "Scotland sink Ireland as both reach Super Six phase",
-     "summary": "Scotland's bowlers make short work of Ireland in a comfortable eight-wicket victory as both teams progress to the Super Six stage at the Women's Emerging Nations Trophy in Dubai.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Scotland sink Ireland as both reach Super Six phase",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/cq8e0d48elz8o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "3:42 AM",
-     "headline": "Manchester won't always be blue - Pochettino",
-     "summary": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Manchester won't always be blue - Pochettino",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Report: Stephens' home targeted in L.A. burglary attempt",
+       "url": "https://www.espn.com/tennis/story/_/id/50521163/stephens-home-targeted-la-burglary-attempt-per-report",
        "bias": 0
       }
      ]
