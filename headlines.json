@@ -1,36 +1,18 @@
 {
- "generated_at": "2026-11-18T17:14:04Z",
+ "generated_at": "2026-11-18T17:16:59Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
    "id": "world",
    "name": "World",
    "items": [
-    {
-     "date": "2026-11-18",
-     "time": "12:09 PM",
-     "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-     "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency US politics live – latest updates Democrats on Wednesday nominated Hakeem Jeffries to serve as speaker of the House when the new Congress begins next year.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "The Guardian",
-       "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-       "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-       "bias": -1
-      }
-     ]
-    },
     {
      "date": "2026-11-18",
      "time": "11:10 AM",
@@ -48,6 +30,48 @@
        "title": "Trump lands in China ahead of historic meeting with Xi and Putin",
        "url": "https://www.cbsnews.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:09 PM",
+     "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:06 PM",
+     "headline": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – as it happened",
+     "summary": "This blog is now closed In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – as it happened",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:03 PM",
+     "headline": "California Republicans won only four of state’s 52 US House seats in midterms",
+     "summary": "California Democrats flipped five seats and will send 48 representatives to DC after successful redistricting effort California Republicans have taken an extraordinary hit in the midterm elections, with only four of the state’s 52 congressional seats going to…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "California Republicans won only four of state’s 52 US House seats in midterms",
+       "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
+       "bias": -1
       }
      ]
     },
@@ -95,7 +119,35 @@
     },
     {
      "date": "2026-11-18",
-     "time": "11:53 AM",
+     "time": "11:58 AM",
+     "headline": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:57 AM",
+     "headline": "Brooklyn man sues, saying he warned of cracks before deadly building collapse",
+     "summary": "Dengane Omari Jack filed a lawsuit against his landlord and multiple construction companies A Brooklyn man who lost his home in the building collapse that killed eight people last week has said he raised concerns about visible cracks in the brickwork weeks…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Brooklyn man sues, saying he warned of cracks before deadly building collapse",
+       "url": "https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:56 AM",
      "headline": "UK government ‘breaking the law’ by not stopping decline of wild birds",
      "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply…",
      "sources": [
@@ -137,6 +189,20 @@
     },
     {
      "date": "2026-11-18",
+     "time": "11:47 AM",
+     "headline": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+     "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+       "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
      "time": "11:46 AM",
      "headline": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
      "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton A three-year-old boy has died after a “medical emergency” at a nursery in Greater Manchester.",
@@ -160,76 +226,6 @@
        "title": "World Bank official says Lebanon reconstruction making slow progress",
        "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
        "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:44 AM",
-     "headline": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:41 AM",
-     "headline": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
-     "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:40 AM",
-     "headline": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-     "summary": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:39 AM",
-     "headline": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
-     "summary": "Exclusive: three Senate Democrats sent letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US Senators say Apple and Google are failing to effectively detect and remove apps that can be used to…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
-       "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:33 AM",
-     "headline": "Julio Iglesias facing court investigation over alleged sexual offences",
-     "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-       "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
       }
      ]
     }
@@ -302,6 +298,20 @@
        "title": "House Democrat warns a dozen Trump allies to save their records, calling it ‘just the beginning’",
        "url": "https://www.nbcnews.com/politics/congress/democrat-investigations-warn-trump-allies-vance-donald-jr-eric-rcna609904",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "12:13 PM",
+     "headline": "'Grand Theft Auto VI' arrives with enormous hype and expectations after 13-year wait",
+     "summary": "After a 13-year wait, one of entertainment's biggest releases is finally here.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "'Grand Theft Auto VI' arrives with enormous hype and expectations after 13-year wait",
+       "url": "https://www.pbs.org/newshour/arts/grand-theft-auto-vi-arrives-with-enormous-hype-and-expectations-after-13-year-wait",
+       "bias": 0
       }
      ]
     },
@@ -455,20 +465,6 @@
        "outlet": "NBC News",
        "title": "Apple’s newest smartwatch is $70 off — just 2 months after launch",
        "url": "https://www.nbcnews.com/select/shopping/apple-watch-series-12-deal-of-the-day-2026-rcna610016",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:28 AM",
-     "headline": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
-     "summary": "Record turkey prices and higher fuel costs could make Thanksgiving dinner more expensive this year, according to a survey released Wednesday",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
-       "url": "https://abcnews.com/US/wireStory/americans-pay-thanksgiving-dinners-year-farm-bureau-138252750",
        "bias": -1
       }
      ]
@@ -697,90 +693,6 @@
    "items": [
     {
      "date": "2026-11-18",
-     "time": "12:06 PM",
-     "headline": "QB rankings for all 68 Power 4 college football teams",
-     "summary": "We're nearing the end of the season. How have our opinions about the top quarterbacks changed?",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "QB rankings for all 68 Power 4 college football teams",
-       "url": "https://www.espn.com/college-football/story/_/id/50510847/ranking-power-4-qbs",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "12:06 PM",
-     "headline": "What are the conference title game clinching scenarios for Week 12?",
-     "summary": "Here's what teams from every conference would need to play for their league championship.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "What are the conference title game clinching scenarios for Week 12?",
-       "url": "https://www.espn.com/college-football/story/_/id/50512475/conference-title-game-clinching-scenarios-week-12",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "12:06 PM",
-     "headline": "Bottom 10: Things go south in Carolina -- and a tribute to a legend",
-     "summary": "The originator of celebrating football's downtrodden, former Los Angeles columnist Steve Harvey, died last week.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Bottom 10: Things go south in Carolina -- and a tribute to a legend",
-       "url": "https://www.espn.com/college-football/story/_/id/50519786/bottom-10-week-11-clemson-steve-harvey",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "12:00 PM",
-     "headline": "Who's on the CFP bubble after the committee's third ranking?",
-     "summary": "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Who's on the CFP bubble after the committee's third ranking?",
-       "url": "https://www.espn.com/college-football/story/_/id/50503628/cfp-playoff-2026-bubble-watch-week-third-ranking",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:54 AM",
-     "headline": "Matchup rankings for Week 11: Why you should start one 49er, but sit another",
-     "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Matchup rankings for Week 11: Why you should start one 49er, but sit another",
-       "url": "https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:54 AM",
-     "headline": "Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable",
-     "summary": "A bye-laden Week 11 might make you cringe at some of your lineup decisions, so let the facts hone your feelings on Bo Nix, Tony Pollard, Jaylen Warren, Chris Olave, Malik Nabers, Stefon Diggs and Colston Loveland.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable",
-       "url": "https://www.espn.com/fantasy/football/story/_/id/50514411/facts-feelings-fantasy-advice-week-11",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
      "time": "11:53 AM",
      "headline": "Rees-Zammit: From beating All Blacks to meeting Man Utd heroes",
      "summary": "Louis Rees-Zammit has had a week to remember having helped Wales to a historic win over New Zealand and meeting his Manchester United heroes.",
@@ -803,48 +715,6 @@
        "outlet": "BBC Sport",
        "title": "Prem opens registration for expansion to 12 teams",
        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje39nwzryw3o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:43 AM",
-     "headline": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Mohya",
-     "summary": "Liverpool and Bayern Munich are interested in Borussia Mönchengladbach attacking midfielder Wael Mohya. Transfer Talk has the latest.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Transfer rumors, news: Liverpool, Bayern battle for Gladbach teen Mohya",
-       "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:33 AM",
-     "headline": "Reid's midseason 2027 NFL mock draft: Four QBs and a trade to shake things up",
-     "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson?",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Reid's midseason 2027 NFL mock draft: Four QBs and a trade to shake things up",
-       "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "11:33 AM",
-     "headline": "Which team will land the No. 1 pick? Our look at a five-franchise race",
-     "summary": "Five NFL teams have at least 5% odds to land the No. 1 pick in 2027, per ESPN's Football Power Index.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Which team will land the No. 1 pick? Our look at a five-franchise race",
-       "url": "https://www.espn.com/nfl/draft2027/story/_/id/50510863/2027-nfl-draft-top-pick-dolphins-titans-eagles-jets-chargers",
        "bias": 0
       }
      ]
@@ -893,14 +763,140 @@
     },
     {
      "date": "2026-11-18",
-     "time": "11:21 AM",
-     "headline": "Report: Stephens' home targeted in L.A. burglary attempt",
-     "summary": "The home of tennis star Sloane Stephens was targeted in a home burglary attempt Tuesday night, law enforcement sources told ABC News, though no property was taken in the incident.",
+     "time": "11:13 AM",
+     "headline": "MLB rumors: Tarik Skubal hosts more meetings, Padres eyeing top FA hitter, plus Red Sox, Phillies, Rays, more",
+     "summary": "Here are your hot stove rumors for Wednesday, Nov. 18",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "Report: Stephens' home targeted in L.A. burglary attempt",
-       "url": "https://www.espn.com/tennis/story/_/id/50521163/stephens-home-targeted-la-burglary-attempt-per-report",
+       "outlet": "CBS Sports",
+       "title": "MLB rumors: Tarik Skubal hosts more meetings, Padres eyeing top FA hitter, plus Red Sox, Phillies, Rays, more",
+       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-dodgers-blue-jays-padres-suzuki-arozarena-phillies-red-sox-rays/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:13 AM",
+     "headline": "Maikel Garcia trade: Mariners land Gold Glove infielder from Royals in six-player deal, per report",
+     "summary": "Garcia, a stellar defender, is under team control through 2030",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Maikel Garcia trade: Mariners land Gold Glove infielder from Royals in six-player deal, per report",
+       "url": "https://www.cbssports.com/mlb/news/maikel-garcia-trade-grades-mariners-royals/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:13 AM",
+     "headline": "The sandpaper plot - who was there, who said what?",
+     "summary": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "The sandpaper plot - who was there, who said what?",
+       "url": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:10 AM",
+     "headline": "Price fighting to be Wales' first undisputed world champion",
+     "summary": "Lauren Price gets chance to become Wales' first undisputed world champion in her fight with Michaela Kotaskova in Cardiff.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Price fighting to be Wales' first undisputed world champion",
+       "url": "https://www.bbc.co.uk/sport/boxing/articles/c6pw4xyr84yyo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:09 AM",
+     "headline": "The tightest survival scrap for years? Why it's not too early to worry",
+     "summary": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "The tightest survival scrap for years? Why it's not too early to worry",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:08 AM",
+     "headline": "Why Jaguars' Trevor Lawrence has legitimate 2026 NFL MVP case, is destined to win one at some point",
+     "summary": "Across Lawrence's last 17 regular season games, he has 15-plus wins and 45-plus TD. He is only 1 of 10 QBs to achieve that feat",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Why Jaguars' Trevor Lawrence has legitimate 2026 NFL MVP case, is destined to win one at some point",
+       "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-legitimate-2026-nfl-mvp-case-destined-win-one-some-point/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:07 AM",
+     "headline": "USWNT roster for Concacaf W Championship: Ashley Sanchez back, Sam Coffey returns, and Naomi Girma misses out",
+     "summary": "Emma Hayes names 23-player roster for Concacaf W Championship where the USWNT aim to qualify for 2027 FIFA Women's World Cup",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "USWNT roster for Concacaf W Championship: Ashley Sanchez back, Sam Coffey returns, and Naomi Girma misses out",
+       "url": "https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-sam-coffey-naomi-girma-concacaf-w-championship/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:01 AM",
+     "headline": "Alcaraz continues winning run despite injury concern",
+     "summary": "Carlos Alcaraz continues his sensational late-season form as he outclasses world number five Daniil Medvedev to all but confirm his progress at the ATP Finals.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Alcaraz continues winning run despite injury concern",
+       "url": "https://www.bbc.co.uk/sport/tennis/articles/cmdx1erlpqkxo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "11:00 AM",
+     "headline": "College football odds, predictions: LSU vs. Tennessee, Michigan vs. UCLA lead Week 12 slate",
+     "summary": "Brad Crawford and Chris Hummer reveal their picks for college football's biggest matchups of the weekend",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College football odds, predictions: LSU vs. Tennessee, Michigan vs. UCLA lead Week 12 slate",
+       "url": "https://www.cbssports.com/college-football/news/college-football-odds-predictions-lsu-tennessee-michigan-ucla-week-12/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "10:57 AM",
+     "headline": "Self-learning AI releases NFL picks, score predictions for every Week 11 game",
+     "summary": "SportsLine AI evaluated the Week 11 NFL odds and revealed its NFL score predictions and best NFL picks",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Self-learning AI releases NFL picks, score predictions for every Week 11 game",
+       "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-bets-week-11-2026/",
        "bias": 0
       }
      ]
