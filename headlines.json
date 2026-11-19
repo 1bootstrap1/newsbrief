@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:00:13Z",
+ "generated_at": "2026-11-19T12:04:45Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -14,224 +14,218 @@
    "name": "World",
    "items": [
     {
-     "date": "2026-11-18",
-     "time": "5:05 PM",
-     "headline": "Waymo pulls driverless taxis from all US freeways",
-     "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways Waymo has stopped offering driverless taxi rides on freeways across the US indefinitely.",
+     "date": "2026-11-19",
+     "time": "1:44 AM",
+     "headline": "China's Xi greets Trump at airport ahead of planned summit with Putin",
+     "summary": "President Trump arrived Wednesday in China, where the Kremlin said he had an informal meeting with Vladimir Putin.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
-       "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+       "outlet": "Al Jazeera",
+       "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
        "bias": -1
       },
       {
-       "outlet": "BBC News",
-       "title": "Waymo pulls driverless taxis from all US freeways",
-       "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS News",
+       "title": "China's Xi greets Trump at airport ahead of planned summit with Putin",
+       "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "11:10 AM",
-     "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-     "summary": "President Trump landed in Shenzhen, China, on Wednesday ahead of his historic meeting with Xi Jinping and Russia's Vladimir Putin. Tony Dokoupil and Nancy Cordes report.",
+     "date": "2026-11-19",
+     "time": "6:53 AM",
+     "headline": "Tories select James Cleverly as candidate for London mayor",
+     "summary": "Former home secretary wins 86% support in a membership vote to stand in May 2028 James Cleverly has been chosen by the Conservatives as their candidate in the next London mayoral election and says he will stand up to “anti-London” Andy Burnham.",
      "sources": [
       {
-       "outlet": "BBC News",
-       "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-       "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "CBS News",
-       "title": "Trump lands in China ahead of historic meeting with Xi and Putin",
-       "url": "https://www.cbsnews.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin/",
-       "bias": 0
+       "outlet": "The Guardian",
+       "title": "Tories select James Cleverly as candidate for London mayor",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+       "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:53 PM",
-     "headline": "Iran ramps up attacks on Gulf countries after U.S. strikes",
-     "summary": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
+     "date": "2026-11-19",
+     "time": "6:50 AM",
+     "headline": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+     "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:49 AM",
+     "headline": "Trump says Iran may be working on biological weapons",
+     "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+       "title": "Trump says Iran may be working on biological weapons",
        "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:52 PM",
-     "headline": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
-     "summary": "Suspected Russian aircraft entered Japanese airspace near Okinoshima as Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.",
+     "date": "2026-11-19",
+     "time": "6:47 AM",
+     "headline": "Trump, Xi and Putin sit down for rare three-way meeting in China",
+     "summary": "Russia says Putin, Trump and China's Xi agreed during a rare meeting to boost gas and oil production, and \"reaffirmed that there can be no winners in a nuclear war.\"",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump, Xi and Putin sit down for rare three-way meeting in China",
+       "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:44 AM",
+     "headline": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
+     "summary": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007 Everybody is trying to get a piece of the Bond action: even the UK government.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
+       "url": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:43 AM",
+     "headline": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Elon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald Trump’s Make America Great Again movement since…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:43 AM",
+     "headline": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+     "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+       "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:38 AM",
+     "headline": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+     "summary": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:30 AM",
+     "headline": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
+     "summary": "An official source says dozens of animal poisoning cases have emerged in the West Bank, with contaminated cisterns and food bait found across grazing areas.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
-       "url": "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions",
+       "title": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
+       "url": "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock",
        "bias": 1
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:49 PM",
-     "headline": "Florida pastor convicted in plot to kill Haitian president",
-     "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+     "date": "2026-11-19",
+     "time": "6:23 AM",
+     "headline": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
+     "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader, Mark Speakman, will not contest his seat at…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:23 AM",
+     "headline": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+     "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+       "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:22 AM",
+     "headline": "Putin says US-China-Russia can strengthen global stability",
+     "summary": "",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Putin says US-China-Russia can strengthen global stability",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:20 AM",
+     "headline": "Will laser weapons change warfare?",
+     "summary": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Will laser weapons change warfare?",
+       "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:15 AM",
+     "headline": "Danish lawmakers OK Greenland security deal with U.S.",
+     "summary": "Denmark's parliament unanimously approved a hard-wrought agreement with Greenland and the U.S. to strengthen security in the Arctic and North Atlantic.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Florida pastor convicted in plot to kill Haitian president",
-       "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+       "title": "Danish lawmakers OK Greenland security deal with U.S.",
+       "url": "https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:48 PM",
-     "headline": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
-     "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Gamers across Australia woke up Thursday morning feeling like Christmas came early, some bleary-eyed from late night sessions on the…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
-       "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:48 PM",
-     "headline": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
-     "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
-     "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
-       "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:31 PM",
-     "headline": "Florida pastor found guilty over 2021 assassination of Haitian president",
-     "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
-       "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:30 PM",
-     "headline": "Leaseholders in England and Wales to have ground rent capped in 2028",
-     "summary": "Housing minister hails ‘historic moment’ as he publishes bill to eventually ban almost all new leasehold properties Leaseholders in England and Wales will have their ground rent capped in 2028, the housing minister has said as he publishes a bill that will…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
-       "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:53 PM",
-     "headline": "Iraq sentences six French nationals to life in prison for joining ISIL",
-     "summary": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
-       "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:39 PM",
-     "headline": "Anthropic sets share price at $83 for stock market debut, above expected range",
-     "summary": "Artificial intelligence firm positioned for one of the biggest IPOs in history, with trading slated to begin Thursday Anthropic set the share price for its debut on the US stock market at $83 on Wednesday, positioning the artificial intelligence company for…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
-       "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:27 PM",
-     "headline": "Member of anti-migrant group found guilty of Staffordshire murder",
-     "summary": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police A member of anti-migrant group Raise the Colours has been found guilty of murdering a man in a “completely unprovoked and unjustified”…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Member of anti-migrant group found guilty of Staffordshire murder",
-       "url": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:24 PM",
-     "headline": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
-     "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
-       "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
-       "bias": -1
       }
      ]
     }
@@ -242,242 +236,218 @@
    "name": "Regional & National",
    "items": [
     {
-     "date": "2026-11-18",
-     "time": "5:49 PM",
-     "headline": "Florida pastor convicted in plot to kill Haitian president",
-     "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+     "date": "2026-11-19",
+     "time": "12:01 AM",
+     "headline": "Trump meets with Putin in China",
+     "summary": "President Trump is meeting with Russian President Putin ahead of a meeting with Putin and Chinese President Xi. Trump spoke just before the meeting, saying the two leaders have a “great relationship.” NBC News’ Janis Mackey Frayer and Garrett Haake report.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Trump meets with Putin in China",
+       "url": "https://www.nbcnews.com/video/trump-meets-with-putin-in-china-273789509665",
+       "bias": -1
+      },
+      {
+       "outlet": "Fox News",
+       "title": "SOUND OFF: Trump meets with Xi, Putin in China",
+       "url": "https://www.foxnews.com/politics/sound-off-trump-face-face-putin-china",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:50 AM",
+     "headline": "Obama gives pep talk to freshman House Democrats in surprise visit",
+     "summary": "The former president was the surprise guest at a hastily called meeting of Democrats who just won House seats.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Florida pastor convicted in plot to kill Haitian president",
-       "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "Florida pastor convicted of US charges related to assassination of Haitian president",
-       "url": "https://abcnews.com/US/wireStory/florida-pastor-convicted-us-charges-related-assassination-haitian-138262965",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:33 PM",
-     "headline": "From pop stars to poets to politicians, hundreds gathering for joyful tribute to Gloria Steinem",
-     "summary": "Luminaries from political figures to pop stars to poets were gathering Wednesday in Manhattan for a joyful and music-filled tribute to Gloria Steinem, the trailblazing activist, prolific author and most visible symbol of American feminism.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "From pop stars to poets to politicians, hundreds gathering for joyful tribute to Gloria Steinem",
-       "url": "https://www.pbs.org/newshour/nation/from-pop-stars-to-poets-to-politicians-hundreds-gathering-for-joyful-tribute-to-gloria-steinem",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "From pop stars to poets to politicians, hundreds gathering for joyful tribute to Gloria Steinem",
-       "url": "https://abcnews.com/US/wireStory/pop-stars-poets-politicians-hundreds-gathering-joyful-tribute-138258408",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "4:02 PM",
-     "headline": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
-     "summary": "A senior outgoing Republican senator said Wednesday that he will block one of President Donald Trump's final judicial picks for a court vacancy in Texas, as the GOP-led Senate scrambles to fill all the remaining vacancies in the federal courts before…",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
-       "url": "https://www.pbs.org/newshour/politics/cornyn-blocks-top-justice-department-official-nominated-for-judicial-vacancy-in-texas",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
-       "url": "https://abcnews.com/US/wireStory/cornyn-blocks-top-justice-department-official-nominated-judicial-138255710",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "3:25 PM",
-     "headline": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
-     "summary": "Islam is expected to surpass Christianity as the world's largest religion by 2035, according to detailed projections released Wednesday by the Pew Research Center.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
-       "url": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
-       "url": "https://abcnews.com/US/wireStory/muslims-projected-outnumber-christians-2035-worlds-largest-religion-138250007",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "10:56 AM",
-     "headline": "Democrats nominate Hakeem Jeffries to become House speaker, a historic first",
-     "summary": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-       "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-       "bias": -1
-      },
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Democrats nominate Hakeem Jeffries to become House speaker, a historic first",
-       "url": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first",
+       "title": "Obama gives pep talk to freshman House Democrats in surprise visit",
+       "url": "https://www.cbsnews.com/news/obama-pep-talk-freshman-house-democrats/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:53 PM",
-     "headline": "Iran ramps up attacks on Gulf countries after U.S. strikes",
-     "summary": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
+     "date": "2026-11-19",
+     "time": "6:49 AM",
+     "headline": "Trump says Iran may be working on biological weapons",
+     "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+       "title": "Trump says Iran may be working on biological weapons",
        "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:52 PM",
-     "headline": "Anthropic to go public Thursday in what could be one of the largest IPOs in history",
-     "summary": "AI giant and Claude chatbot maker Anthropic is scheduled to go public on Thursday in what could be one of the largest initial public offerings in history. CBS News' Kelly O'Grady has the story.",
+     "date": "2026-11-19",
+     "time": "6:47 AM",
+     "headline": "Trump, Xi and Putin sit down for rare three-way meeting in China",
+     "summary": "Russia says Putin, Trump and China's Xi agreed during a rare meeting to boost gas and oil production, and \"reaffirmed that there can be no winners in a nuclear war.\"",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Anthropic to go public Thursday in what could be one of the largest IPOs in history",
-       "url": "https://www.cbsnews.com/video/anthropic-to-go-public-thursday-in-what-could-be-one-of-the-largest-ipos-in-history/",
+       "title": "Trump, Xi and Putin sit down for rare three-way meeting in China",
+       "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:40 PM",
-     "headline": "Misinformation about a FEMA test leveraged distrust in Spanish-speaking communities",
-     "summary": "On Tuesday, radios and TVs across the U.S. flashed a simulated emergency alert from FEMA",
+     "date": "2026-11-19",
+     "time": "6:45 AM",
+     "headline": "South Florida severe weather and flooding live updates",
+     "summary": "Heavy rain has triggered widespread flooding across South Florida on Tuesday night and Wednesday, closing Broward and Miami-Dade schools, stranding drivers and disrupting airport and hospital operations.",
      "sources": [
       {
-       "outlet": "ABC News",
-       "title": "Misinformation about a FEMA test leveraged distrust in Spanish-speaking communities",
-       "url": "https://abcnews.com/US/wireStory/misinformation-fema-test-leveraged-distrust-spanish-speaking-communities-138263158",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "South Florida severe weather and flooding live updates",
+       "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+       "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:40 PM",
-     "headline": "Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI",
-     "summary": "The U.S. Army offered Fort Stewart soldiers four-day passes to play \"Grand Theft Auto VI\" as a reenlistment perk, and 43 of 130 eligible troops took it.",
+     "date": "2026-11-19",
+     "time": "6:15 AM",
+     "headline": "Danish lawmakers OK Greenland security deal with U.S.",
+     "summary": "Denmark's parliament unanimously approved a hard-wrought agreement with Greenland and the U.S. to strengthen security in the Arctic and North Atlantic.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Danish lawmakers OK Greenland security deal with U.S.",
+       "url": "https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:00 AM",
+     "headline": "Democrats could enter congressional majority in a government shutdown",
+     "summary": "House Republicans on Capitol Hill worry Democrats' post-midterm clout could trigger another government shutdown ahead of the Dec. 11 funding deadline.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI",
-       "url": "https://www.foxnews.com/politics/dozens-army-soldiers-sign-up-unique-reenlistment-incentive-play-grand-theft-auto-vi",
+       "title": "Democrats could enter congressional majority in a government shutdown",
+       "url": "https://www.foxnews.com/politics/democrats-enter-congressional-majority-government-shutdown",
        "bias": 1
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:40 PM",
-     "headline": "US military returns to 2 aircraft carriers in the Middle East",
-     "summary": "The U.S. military has gone back to having two aircraft carriers supporting Iran war operations after the USS George Washington departed the Middle East",
+     "date": "2026-11-19",
+     "time": "6:00 AM",
+     "headline": "Buttigieg allies launch effort to back another presidential run",
+     "summary": "The independent Team Pete PAC is aiming to bring together volunteers and grassroots donors who backed Pete Buttigieg’s 2020 presidential bid.",
      "sources": [
       {
-       "outlet": "ABC News",
-       "title": "US military returns to 2 aircraft carriers in the Middle East",
-       "url": "https://abcnews.com/US/wireStory/us-military-returns-2-aircraft-carriers-middle-east-138263316",
+       "outlet": "Politico",
+       "title": "Buttigieg allies launch effort to back another presidential run",
+       "url": "https://www.politico.com/news/2026/11/19/buttigieg-allies-2028-campaign-01174766",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:45 AM",
+     "headline": "A week of White House static",
+     "summary": "A week of White House static lead image",
+     "sources": [
+      {
+       "outlet": "Politico",
+       "title": "A week of White House static",
+       "url": "https://www.politico.com/video/2026/11/19/a-week-of-white-house-static-2233252",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:35 AM",
+     "headline": "Trump's historic summit with Xi, Putin marks diplomatic milestone, but breakthroughs remain elusive",
+     "summary": "Donald Trump declares the U.S., China and Russia are \"really making history\" as nuclear arms reduction and an end to the Ukraine war anchor the summit.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Trump's historic summit with Xi, Putin marks diplomatic milestone, but breakthroughs remain elusive",
+       "url": "https://www.foxnews.com/politics/trumps-historic-summit-xi-putin-marks-diplomatic-milestone-breakthroughs-remain-elusive",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:00 AM",
+     "headline": "Supreme Court urged to defang ‘criminal trap’ that has sent Trump officials to prison",
+     "summary": "Peter Navarro asks the Supreme Court to overturn his contempt of Congress convictions, arguing willfulness could make such prosecutions harder to prove.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Supreme Court urged to defang ‘criminal trap’ that has sent Trump officials to prison",
+       "url": "https://www.foxnews.com/politics/supreme-court-urged-defang-criminal-trap-sent-trump-officials-prison",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:00 AM",
+     "headline": "Elected Somali daycare owner with fraud ties now revealed to also be married to illegal immigrant",
+     "summary": "Fox News Digital confirmed Minnesota DFL Rep. Abdi Daisane's wife, Ayaan Aydid, is in the U.S. illegally after crossing the southern border in 2023.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Elected Somali daycare owner with fraud ties now revealed to also be married to illegal immigrant",
+       "url": "https://www.foxnews.com/politics/elected-somali-daycare-owner-fraud-ties-revealed-married-illegal-immigrant",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:00 AM",
+     "headline": "Democrats set to intensify probe of Trump's Obamacare purge",
+     "summary": "The Trump administration canceled healthcare coverage for 760,000 enrollees in Affordable Care Act insurance plans, saying the enrollments were unauthorized.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Democrats set to intensify probe of Trump's Obamacare purge",
+       "url": "https://www.cbsnews.com/news/democrats-probe-trump-obamacare-coverage-cancellations/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:00 AM",
+     "headline": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+     "summary": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+       "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
        "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:40 PM",
-     "headline": "Judge issues 14-day extension of order blocking Trump's memorial arch in DC",
-     "summary": "A federal judge has temporarily extended an order blocking the Trump administration from breaking ground on a towering memorial arch in the nation’s capital",
+     "date": "2026-11-19",
+     "time": "4:46 AM",
+     "headline": "Morning news brief",
+     "summary": "President Trump meets with China's Xi and Russia's Putin, House Democrats nominate Hakeem Jeffries as next speaker of the House, AI giant Anthropic raises more than $100 billion in record-setting IPO.",
      "sources": [
       {
-       "outlet": "ABC News",
-       "title": "Judge issues 14-day extension of order blocking Trump's memorial arch in DC",
-       "url": "https://abcnews.com/US/wireStory/judge-issues-14-day-extension-order-blocking-trumps-138263827",
+       "outlet": "NPR",
+       "title": "Morning news brief",
+       "url": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
        "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:38 PM",
-     "headline": "AP report: Bernie Sanders unveils how he'll push for Medicare for All when Democrats take power",
-     "summary": "Sen. Bernie Sanders is preparing to use his return atop a powerful Senate committee to push for sweeping changes to the nation's healthcare system, setting up an early test of how far Democrats are willing to go in embracing progressive priorities.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "AP report: Bernie Sanders unveils how he'll push for Medicare for All when Democrats take power",
-       "url": "https://www.pbs.org/newshour/politics/ap-report-bernie-sanders-unveils-how-hell-push-for-medicare-for-all-when-democrats-take-power",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:38 PM",
-     "headline": "Thune: \"Open question\" whether Senate GOP can pass massive defense bill",
-     "summary": "Senate Majority Leader John Thune said Wednesday it's still an \"open question\" whether Republicans have the votes to approve a massive new defense package sought by the Trump administration.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Thune: \"Open question\" whether Senate GOP can pass massive defense bill",
-       "url": "https://www.cbsnews.com/news/thune-senate-gop-defense-bill-reconciliation/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:37 PM",
-     "headline": "Hardcore GTA fans ditch work so they have time to play",
-     "summary": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Hardcore GTA fans ditch work so they have time to play",
-       "url": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:28 PM",
-     "headline": "NSA network outage linked to software vulnerability",
-     "summary": "The director of national intelligence and multiple sources said the National Security Agency's network outage stemmed from the patching of vulnerabilities in the programming language, PHP.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "NSA network outage linked to software vulnerability",
-       "url": "https://www.cbsnews.com/news/national-security-agency-network-outage-software-vulnerability/",
-       "bias": 0
       }
      ]
     }
@@ -488,87 +458,17 @@
    "name": "Local: Cabarrus County & North Carolina",
    "items": [
     {
-     "date": "2026-11-18",
-     "time": "4:40 PM",
-     "headline": "Kannapolis house fire that killed 12-year-old boy ruled accidental",
-     "summary": "“Our thoughts and prayers are with the child’s family and loved ones during this incredibly difficult time.\"",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Kannapolis house fire that killed 12-year-old boy ruled accidental",
-       "url": "https://www.wsoctv.com/news/local/kannapolis-house-fire-that-killed-12-year-old-boy-ruled-accidental/XBVJ6U234NFZZPXYNKVRKYLI2M/",
-       "bias": 0
-      },
-      {
-       "outlet": "WBTV",
-       "title": "Kannapolis house fire that killed 12-year-old ruled accidental",
-       "url": "https://www.wbtv.com/2026/11/18/kannapolis-house-fire-that-killed-12-year-old-ruled-accidental/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:57 PM",
-     "headline": "Outer Banks highway costs millions in repairs as NCDOT eyes alternatives",
-     "summary": "Anyone who’s lived, worked and traveled along Hatteras Island knows the area is seeing some problems. A nor’easter in late September buckled the pavement on NC-12, leading to a $1.7 million repair. Then weeks later, another nor’easter destroyed the same spot.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Outer Banks highway costs millions in repairs as NCDOT eyes alternatives",
-       "url": "https://www.wsoctv.com/news/local/outer-banks-highway-costs-millions-repairs-ncdot-eyes-alternatives/23SZRK76VNA4RPFXS63ZJTNSFQ/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:54 PM",
-     "headline": "‘I just wanted to challenge myself’: High school junior earns perfect scores on ACT and SAT",
-     "summary": "Kirkwood High School junior Luka Artomov scored a perfect 36 on the ACT and a perfect 1600 on the SAT.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "‘I just wanted to challenge myself’: High school junior earns perfect scores on ACT and SAT",
-       "url": "https://www.wbtv.com/2026/11/18/i-just-wanted-challenge-myself-high-school-junior-earns-perfect-scores-act-sat/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:49 PM",
-     "headline": "Earthquakes in Rowan, Iredell counties rattle area",
-     "summary": "Two small earthquakes were reported in the last 12 hours, N.C. Emergency Management officials said on Wednesday.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Earthquakes in Rowan, Iredell counties rattle area",
-       "url": "https://www.wsoctv.com/news/local/24-magnitude-earthquake-reported-iredell-county-area/IXRXMZ4SY5CK5EO4BPOKLZ775A/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:48 PM",
-     "headline": "Morganton seeks state help as residents raise concerns over foul odor near chicken plant",
-     "summary": "Morganton leaders are asking the state to help identify the source of a foul odor that has prompted hundreds of complaints from residents.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Morganton seeks state help as residents raise concerns over foul odor near chicken plant",
-       "url": "https://www.wsoctv.com/news/local/morganton-seeks-state-help-residents-raise-concerns-over-foul-odor-near-chicken-plant/BAB24MUFVBEVZFPTTQUUVCB65A/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:47 PM",
-     "headline": "Monroe mayor announces bid for North Carolina governor",
+     "date": "2026-11-19",
+     "time": "12:08 AM",
+     "headline": "Monroe Mayor Robert Burns announces 2028 run for North Carolina governor",
      "summary": "Monroe Mayor Robert Burns announced Wednesday morning that he is running to become North Carolina’s next governor.",
      "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Monroe Mayor Robert Burns announces 2028 run for North Carolina governor",
+       "url": "https://www.wbtv.com/2026/11/19/monroe-mayor-robert-burns-announces-2028-run-north-carolina-governor/",
+       "bias": 0
+      },
       {
        "outlet": "WSOC",
        "title": "Monroe mayor announces bid for North Carolina governor",
@@ -578,127 +478,197 @@
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:38 PM",
-     "headline": "Giving Tuesday: Simple Ways to Make a Difference in Charlotte",
-     "summary": "Giving Tuesday is a great opportunity to join hands with your community and support the organizations that make our community great.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Giving Tuesday: Simple Ways to Make a Difference in Charlotte",
-       "url": "https://www.wbtv.com/sponsored/giving-tuesday-inc/giving-tuesday-simple-ways-make-difference-charlotte/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:36 PM",
-     "headline": "Trump, Xi and Putin to hold first trilateral summit",
-     "summary": "The leaders of the U.S., Russia and China will meet for a trilateral summit for the first time.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Trump, Xi and Putin to hold first trilateral summit",
-       "url": "https://www.wbtv.com/2026/11/18/trump-xi-putin-hold-first-trilateral-summit/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:32 PM",
-     "headline": "Volunteers to deliver 2,000 Thanksgiving meals to CMS families",
-     "summary": "Thousands of turkeys and all the fixings are going to families of Charlotte Mecklenburg Schools students to ensure no one goes without a holiday meal this Thanksgiving.",
+     "date": "2026-11-19",
+     "time": "6:55 AM",
+     "headline": "Silfab Solar faces new lawsuit over claims of unpaid recruiting fees",
+     "summary": "The controversial Fort Mill manufacturing plant, Silfab Solar, is now facing a new lawsuit over claims of more than half a million dollars in unpaid recruiting fees.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Volunteers to deliver 2,000 Thanksgiving meals to CMS families",
-       "url": "https://www.wsoctv.com/news/local/volunteers-deliver-2000-thanksgiving-meals-cms-families/OAE376DIWNACHLFSKKDTW3Q75U/",
+       "title": "Silfab Solar faces new lawsuit over claims of unpaid recruiting fees",
+       "url": "https://www.wsoctv.com/news/local/silfab-solar-faces-new-lawsuit-over-claims-unpaid-recruiting-fees/OPII3VI22NDJNB57AVXHISVP4U/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:30 PM",
-     "headline": "Some US House Dems urge a national moratorium on buildup of new data centers",
-     "summary": "WASHINGTON — Leading and incoming U.S. House Democrats called for a national moratorium on the development of new artificial intelligence data centers Tuesday.",
+     "date": "2026-11-19",
+     "time": "6:54 AM",
+     "headline": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal",
+     "summary": "Lt. Col. Angel Tomko said soldiers generally already had reasons to sign up for more service, but the video game perk was a “cherry on top.”",
      "sources": [
       {
-       "outlet": "NC Newsline",
-       "title": "Some US House Dems urge a national moratorium on buildup of new data centers",
-       "url": "https://ncnewsline.com/2026/11/18/repub/some-us-house-dems-urge-a-national-moratorium-on-buildup-of-new-data-centers/",
+       "outlet": "WSOC",
+       "title": "GTA VI: 43 soldiers will play game during ‘extended weekend’ as part of reenlistment deal",
+       "url": "https://www.wsoctv.com/news/trending/gta-vi-43-soldiers-will-play-game-during-extended-weekend-part-reenlistment-deal/YQB3YSR67REJRHO7XXHKWBLU5E/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:24 AM",
+     "headline": "CMA Awards 2026: Ella Langley dominates with 6 wins",
+     "summary": "The \"Choosin' Texas\" singer swept all the major categories during the 60th annual CMA ceremony in Nashville.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "CMA Awards 2026: Ella Langley dominates with 6 wins",
+       "url": "https://www.wsoctv.com/news/trending/cma-awards-2026-ella-langley-dominates-with-6-wins/NYQ4Z3G53FDF5JU2TXSHV4LCZY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:04 AM",
+     "headline": "2.2 magnitude earthquake rattles homes in Cleveland area",
+     "summary": "A small earthquake was reported late Tuesday night in the Cleveland area, according to the U.S. Geological Survey.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "2.2 magnitude earthquake rattles homes in Cleveland area",
+       "url": "https://www.wsoctv.com/news/local/24-magnitude-earthquake-reported-iredell-county-area/IXRXMZ4SY5CK5EO4BPOKLZ775A/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "6:01 AM",
+     "headline": "Here’s who’s eligible for money in the $32 million class-action GoodRx settlement",
+     "summary": "GoodRx has agreed to a $32 million settlement in a class-action lawsuit that alleged the company disclosed customers’ personal and health information.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Here’s who’s eligible for money in the $32 million class-action GoodRx settlement",
+       "url": "https://www.wbtv.com/2026/11/19/heres-whos-eligible-money-32-million-class-action-goodrx-settlement/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:46 AM",
+     "headline": "FORECAST: Mild temperatures will continue into the weekend",
+     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "FORECAST: Mild temperatures will continue into the weekend",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-mild-temperatures-will-continue-into-weekend/VIKPSIITI5AH3AOMNJLUDSUWCE/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:40 AM",
+     "headline": "1 killed in early morning west Charlotte car fire",
+     "summary": "One person died in a car crash early Thursday morning in west Charlotte, MEDIC said.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "1 killed in early morning west Charlotte car fire",
+       "url": "https://www.wsoctv.com/news/local/1-killed-early-morning-west-charlotte-crash/HT3IW7JFIVGQ5GGR62Z3EOUAPU/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:15 AM",
+     "headline": "‘Pure anger’: Therapist fired over video that appears to show her hit 7-year-old with autism",
+     "summary": "A therapist who works with children on the autism spectrum has been fired over a video that appears to show her hitting a 7-year-old client.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "‘Pure anger’: Therapist fired over video that appears to show her hit 7-year-old with autism",
+       "url": "https://www.wbtv.com/2026/11/19/pure-anger-therapist-fired-over-video-that-appears-show-her-hit-7-year-old-with-autism/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:00 AM",
+     "headline": "A huge new apartment tower kicks off in Dilworth, despite costs and interest rates",
+     "summary": "Higher interest rates and construction costs have stalled many projects, but a new, 420-unit apartment tower — one of the city’s biggest — just broke ground on South Boulevard.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "A huge new apartment tower kicks off in Dilworth, despite costs and interest rates",
+       "url": "https://www.wfae.org/business/2026-11-19/a-huge-new-apartment-tower-kicks-off-in-dilworth-despite-costs-and-interest-rates",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:21 PM",
-     "headline": "Outkast rapper Big Boi reels in a big fish! A 200-pound striped marlin, to be exact",
-     "summary": "Rapper Big Boi reeled in a huge striped marlin while reportedly deep-sea fishing in Mexico.",
+     "time": "11:30 PM",
+     "headline": "North Carolina mother shares struggle with postpartum OCD to aid parents",
+     "summary": "A North Carolina mother is sharing her experience with postpartum depression, anxiety, and obsessive-compulsive disorder to help other parents recognize symptoms and seek medical care.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "North Carolina mother shares struggle with postpartum OCD to aid parents",
+       "url": "https://www.wsoctv.com/news/local/north-carolina-mother-shares-struggle-with-postpartum-ocd-aid-parents/OSZXLWCR4JEJVNZCVBTSWU7WHM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "10:46 PM",
+     "headline": "Road safety improvements underway after car hits 12-year-old on e-scooter in Matthews",
+     "summary": "NCDOT hopes to start construction by fall 2028.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Outkast rapper Big Boi reels in a big fish! A 200-pound striped marlin, to be exact",
-       "url": "https://www.wbtv.com/2026/11/18/outkast-rapper-big-boi-reels-big-fish-200-pound-striped-marlin-be-exact/",
+       "title": "Road safety improvements underway after car hits 12-year-old on e-scooter in Matthews",
+       "url": "https://www.wbtv.com/2026/11/19/road-safety-improvements-underway-after-car-hits-12-year-old-e-scooter-matthews/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:17 PM",
-     "headline": "Man arrested in connection with deadly 2024 shooting in Shelby",
-     "summary": "U.S. Marshals arrested Jonathan Petty on Monday in neighboring Rutherford County in connection with the March 2024 fatal shooting of Timothy Ruff.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Man arrested in connection with deadly 2024 shooting in Shelby",
-       "url": "https://www.wsoctv.com/news/local/man-arrested-connection-with-deadly-2024-shooting-shelby/ZMXSZ433P5HJFPKFXFQ5J5TARY/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:14 PM",
-     "headline": "Big 22 Player of the Year trophy presented to East Lincoln’s Jaxon Dollar",
-     "summary": "East Lincoln High School celebrated a first Wednesday after Jaxon Dollar was named the Channel 9 Big 22 Player of the Year.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Big 22 Player of the Year trophy presented to East Lincoln’s Jaxon Dollar",
-       "url": "https://www.wsoctv.com/news/local/big-22-player-year-trophy-presented-east-lincolns-jaxon-dollar/E4E6IBYRT5FLHKOUFPTICSU234/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:11 PM",
-     "headline": "9 things to do in Charlotte weekend: Nov. 20-22, 2026",
-     "summary": "Plenty of holiday festivals, ice skating rink openings and the Charlotte Auto Show",
+     "time": "10:43 PM",
+     "headline": "School district suspends 2 hockey teams during police investigation",
+     "summary": "Wasilla police are investigating kidnapping and sexual assault allegations involving two high school hockey teams.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "9 things to do in Charlotte weekend: Nov. 20-22, 2026",
-       "url": "https://www.wbtv.com/2026/11/18/9-things-do-charlotte-weekend-nov-20-22-2026/",
+       "title": "School district suspends 2 hockey teams during police investigation",
+       "url": "https://www.wbtv.com/2026/11/19/school-district-suspends-2-hockey-teams-during-police-investigation/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-18",
-     "time": "5:04 PM",
-     "headline": "FORECAST: Amazing weather continues before a storm moves up the coast this weekend",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "time": "10:37 PM",
+     "headline": "Warm sunshine returns to Charlotte area, but rain possible this weekend: First Alert forecast",
+     "summary": "A coastal storm could bring a chance of rain this weekend.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Warm sunshine returns to Charlotte area, but rain possible this weekend: First Alert forecast",
+       "url": "https://www.wbtv.com/2026/11/19/sunshine-returns-charlotte-area-rain-possible-this-weekend-first-alert-forecast/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "time": "10:35 PM",
+     "headline": "Healthcare worker buys Ford Bronco to drive 27 hours home during flight ground stop",
+     "summary": "When a nationwide ground stop halted all flights across the United States, health care worker Tara Harding found an unconventional route home from Charlotte Douglas International Airport: buying a new Ford Bronco off a dealership lot and driving 27 hours back…",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Amazing weather continues before a storm moves up the coast this weekend",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-amazing-weather-continues-before-storm-moves-up-coast-this-weekend/ZM6OLRN7N5ED3MYZGAMHURBQWQ/",
+       "title": "Healthcare worker buys Ford Bronco to drive 27 hours home during flight ground stop",
+       "url": "https://www.wsoctv.com/news/local/healthcare-worker-buys-ford-bronco-drive-27-hours-home-during-flight-ground-stop/XJUKCFSXENC5HDDZXVKM4QEGIM/",
        "bias": 0
       }
      ]
@@ -710,211 +680,211 @@
    "name": "Sports",
    "items": [
     {
-     "date": "2026-11-18",
-     "time": "5:43 PM",
-     "headline": "Kalshi promo code CBSSPORTS55: Claim $55 bonus for Arizona-UConn, college basketball on Wednesday",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Wednesday's games",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Kalshi promo code CBSSPORTS55: Claim $55 bonus for Arizona-UConn, college basketball on Wednesday",
-       "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-claim-55-bonus-for-arizona-uconn-college-basketball-wednesday/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:41 PM",
-     "headline": "Cowboys' handling of DC Christian Parker is bizarre, leaving Dallas with more questions than answers",
-     "summary": "Dallas head coach Brian Schottenheimer maintains Parker has an \"incredibly bright future\" with the Cowboys despite taking play-calling away from his first-year coordinator",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Cowboys' handling of DC Christian Parker is bizarre, leaving Dallas with more questions than answers",
-       "url": "https://www.cbssports.com/nfl/news/cowboys-handling-defensive-coordinator-christian-parker-mike-pettine/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:40 PM",
-     "headline": "Akron vs. UMass picks, odds, prediction, start time: College football betting preview for Wednesday",
-     "summary": "Akron faces UMass on Wednesday for a Week 12 college football matchup",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Akron vs. UMass picks, odds, prediction, start time: College football betting preview for Wednesday",
-       "url": "https://www.cbssports.com/betting/news/akron-vs-umass-picks-odds-prediction-start-time-college-football-betting-preview-wednesday/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:37 PM",
-     "headline": "Fantasy football Start 'Em, Sit 'Em WR in Week 11: Fire up Josh Downs with confidence vs. Cardinals",
-     "summary": "Jaylen Waddle is on track to face a vulnerable Raiders secondary following his concussion, while Courtland Sutton and Pat Bryant remain viable options in deeper formats",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Fantasy football Start 'Em, Sit 'Em WR in Week 11: Fire up Josh Downs with confidence vs. Cardinals",
-       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-start-em-sit-em-wr-in-week-11-fire-up-josh-downs-with-confidence-vs-cardinals/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:34 PM",
-     "headline": "Man Utd pursuing Como's Paz - Thursday's gossip",
-     "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+     "date": "2026-11-19",
+     "time": "6:12 AM",
+     "headline": "Magill returns to NI squad for Greece friendlies",
+     "summary": "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
+       "title": "Magill returns to NI squad for Greece friendlies",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:33 PM",
-     "headline": "Littler shocked by brilliant Wattimena at Grand Slam",
-     "summary": "Defending champion Luke Littler suffers a shock early exit at the Grand Slam of Darts after a stunning display from Jermaine Wattimena.",
+     "date": "2026-11-19",
+     "time": "6:09 AM",
+     "headline": "Champion weightlifter loses arm after motorbike crash",
+     "summary": "Commonwealth Games gold medallist Muhammad Hafizuddin Roslin has his right arm amputated above the elbow after a motorcycle accident in his native Malaysia.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Littler shocked by brilliant Wattimena at Grand Slam",
-       "url": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
+       "title": "Champion weightlifter loses arm after motorbike crash",
+       "url": "https://www.bbc.co.uk/sport/weightlifting/articles/crz9dnwk18jpo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:30 PM",
-     "headline": "'Thursday Night Football' prediction, odds, spread, time: Colts vs. Texans picks from expert on a 34-20 roll",
-     "summary": "R.J. White reveals his picks for Indianapolis Colts vs. Houston Texans in the 2026 Week 11 'Thursday Night Football' matchup",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "'Thursday Night Football' prediction, odds, spread, time: Colts vs. Texans picks from expert on a 34-20 roll",
-       "url": "https://www.cbssports.com/betting/news/thursday-night-football-prediction-odds-spread-line-time-colts-texans-expert-picks/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:15 PM",
-     "headline": "Central Michigan vs. Buffalo prediction, odds, time: Week 12 Wednesday MACtion picks from proven model",
-     "summary": "SportsLine's model revealed its best bets for Wednesday's MACtion contest between the Central Michigan Chippewas vs. Buffalo Bulls",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Central Michigan vs. Buffalo prediction, odds, time: Week 12 Wednesday MACtion picks from proven model",
-       "url": "https://www.cbssports.com/betting/news/central-michigan-buffalo-prediction-odds-time-week-12-wednesday-maction-picks-best-bets/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:14 PM",
-     "headline": "MLB CBA negotiations timeline: League, MLBPA continue brawling over salary cap as Dec. 1 deadline nears",
-     "summary": "With a potential work stoppage looming in baseball, we're keeping tabs on all the major steps in negotiations",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "MLB CBA negotiations timeline: League, MLBPA continue brawling over salary cap as Dec. 1 deadline nears",
-       "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "time": "5:13 PM",
-     "headline": "Buurman rescues late Chelsea win against PSG",
-     "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+     "date": "2026-11-19",
+     "time": "5:56 AM",
+     "headline": "World marathon champion Jepchirchir gets three-year doping ban",
+     "summary": "Reigning world marathon champion Peres Jepchirchir is banned for three years for a doping violation.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Buurman rescues late Chelsea win against PSG",
-       "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+       "title": "World marathon champion Jepchirchir gets three-year doping ban",
+       "url": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:10 PM",
-     "headline": "Rob Manfred 'can't imagine' MLB team owners will accept new CBA without a salary cap",
-     "summary": "In response, the MLBPA accused owners of purely wanting to 'make more money in profits and franchise values by artificially suppressing player salaries'",
+     "date": "2026-11-19",
+     "time": "5:32 AM",
+     "headline": "'I'm very healthy' - Kompany to return to dugout after health scare",
+     "summary": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Rob Manfred 'can't imagine' MLB team owners will accept new CBA without a salary cap",
-       "url": "https://www.cbssports.com/mlb/news/rob-manfred-salary-cap-cba-negotiations-owners-meetings/",
+       "outlet": "BBC Sport",
+       "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "5:05 PM",
-     "headline": "Heat vs. Bucks prediction, odds, time: 2026 NBA picks for Wednesday, Nov. 18 from proven model",
-     "summary": "SportsLine's model reveals its Miami Heat vs. Milwaukee Bucks best bets on Wednesday as Giannis Antetokounmpo faces his former team",
+     "date": "2026-11-19",
+     "time": "5:21 AM",
+     "headline": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+     "summary": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Heat vs. Bucks prediction, odds, time: 2026 NBA picks for Wednesday, Nov. 18 from proven model",
-       "url": "https://www.cbssports.com/betting/news/heat-bucks-prediction-odds-time-2026-nba-picks-best-bets-wednesday-november-18/",
+       "outlet": "BBC Sport",
+       "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "4:56 PM",
-     "headline": "Use FanDuel promo code to get $200 bonus bets by targeting Buffalo-Central Michigan, NBA on Wednesday",
-     "summary": "Sign up and bet with the latest FanDuel promo code on Wednesday to get your bonus bets",
+     "date": "2026-11-19",
+     "time": "5:20 AM",
+     "headline": "Eight-year ban for player who threw rock that hit assistant referee",
+     "summary": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Use FanDuel promo code to get $200 bonus bets by targeting Buffalo-Central Michigan, NBA on Wednesday",
-       "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-buffalo-central-michigan-nba-wednesday/",
+       "outlet": "BBC Sport",
+       "title": "Eight-year ban for player who threw rock that hit assistant referee",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "4:46 PM",
-     "headline": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
-     "summary": "Who will land a new frontline ace or top slugger? Follow along as we keep track of all the moves",
+     "date": "2026-11-19",
+     "time": "5:00 AM",
+     "headline": "Five return for Wales' World Cup play-off final",
+     "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
-       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+       "outlet": "BBC Sport",
+       "title": "Five return for Wales' World Cup play-off final",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-18",
-     "time": "4:40 PM",
-     "headline": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
-     "summary": "Borgata Sportsbook promo code for new users: CBS100 to bet $20, get $100 instantly in bonus bets",
+     "date": "2026-11-19",
+     "time": "4:05 AM",
+     "headline": "Wainwright and Adams back for Wales against Australia",
+     "summary": "Wales make four changes to their starting line-up that beat the All Blacks for the Nations Championship meeting with Australia.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
-       "url": "https://www.cbssports.com/betting/news/borgata-promo-code/",
+       "outlet": "BBC Sport",
+       "title": "Wainwright and Adams back for Wales against Australia",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy97v7j0g3o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "3:58 AM",
+     "headline": "Could England fears lead to fewer overseas players in PWR?",
+     "summary": "The RFU wants PWR to protect the interests of England's Red Roses, which could see a reduction in the number of international players in the league.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Could England fears lead to fewer overseas players in PWR?",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cxnv43verrddo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "3:50 AM",
+     "headline": "The best European strikers this century - ranked by you",
+     "summary": "BBC Sport reveals the top 10 European strikers this century, as voted for by you.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "The best European strikers this century - ranked by you",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "3:13 AM",
+     "headline": "Australia's Barty elected into Tennis Hall of Fame",
+     "summary": "Three-time Grand Slam winner Ash Barty will be elected into the International Tennis Hall of Fame at a ceremony in August next year.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Australia's Barty elected into Tennis Hall of Fame",
+       "url": "https://www.bbc.co.uk/sport/tennis/articles/c5n4eme37p4ko?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "2:54 AM",
+     "headline": "Weekly sports quiz: When did England last beat the men's world champions?",
+     "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Weekly sports quiz: When did England last beat the men's world champions?",
+       "url": "https://www.bbc.co.uk/sport/articles/c6pw4xnjrzydo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "2:38 AM",
+     "headline": "How Premier League's big six keep getting richer",
+     "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "How Premier League's big six keep getting richer",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "2:14 AM",
+     "headline": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+     "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+       "url": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "2:11 AM",
+     "headline": "Verstappen 'trusts' F1 over Middle East decision",
+     "summary": "Max Verstappen says he trusts in Formula 1 after their decision to end the season in the Middle East, despite the ongoing conflicts in the area.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Verstappen 'trusts' F1 over Middle East decision",
+       "url": "https://www.bbc.co.uk/sport/formula1/articles/c6n0l14rjlw4o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
