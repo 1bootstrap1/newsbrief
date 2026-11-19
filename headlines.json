@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:14:13Z",
+ "generated_at": "2026-11-19T17:16:06Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -110,20 +110,6 @@
        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
        "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "12:02 PM",
-     "headline": "Trump and Putin ‘hijacked’ China summit",
-     "summary": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Trump and Putin ‘hijacked’ China summit",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
-       "bias": -1
       }
      ]
     },
@@ -252,6 +238,20 @@
        "bias": -1
       }
      ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "11:08 AM",
+     "headline": "Prosecutors allege British woman ‘trying to find someone who would kill her’ lured to US and murdered",
+     "summary": "Sonia Exelby’s disappearance sparked an international search. The accused man, Dwain Hall, denies murdering her Prosecutors in Ocala, Florida , have been laying out an extraordinary criminal case against Dwain C Hall, an auto repair and tow truck driver…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Prosecutors allege British woman ‘trying to find someone who would kill her’ lured to US and murdered",
+       "url": "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
+       "bias": -1
+      }
+     ]
     }
    ]
   },
@@ -259,6 +259,20 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-19",
+     "time": "12:14 PM",
+     "headline": "JD Vance slams GOP governor’s call for immigration reform as ‘morally and electorally disastrous’",
+     "summary": "The vice president took aim at Oklahoma Republican Kevin Stitt’s comments at the POLITICO Pub.",
+     "sources": [
+      {
+       "outlet": "Politico",
+       "title": "JD Vance slams GOP governor’s call for immigration reform as ‘morally and electorally disastrous’",
+       "url": "https://www.politico.com/news/2026/11/19/jd-vance-slams-republican-governor-immigration-01175617",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-19",
      "time": "12:11 PM",
@@ -275,15 +289,15 @@
     },
     {
      "date": "2026-11-19",
-     "time": "12:11 PM",
-     "headline": "Susan Smith denied parole again 32 years after drowning sons in a South Carolina lake",
-     "summary": "Susan Smith, convicted of killing her two sons by rolling her car into a South Carolina lake in 1994, was denied parole again",
+     "time": "12:09 PM",
+     "headline": "'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing",
+     "summary": "Musk told The New York Times' DealBook Summit audience Wednesday he feels foolish for spending so much on the midterms.",
      "sources": [
       {
-       "outlet": "ABC News",
-       "title": "Susan Smith denied parole again 32 years after drowning sons in a South Carolina lake",
-       "url": "https://abcnews.com/US/wireStory/susan-smith-parole-32-years-after-drowning-sons-138279413",
-       "bias": -1
+       "outlet": "PBS NewsHour",
+       "title": "'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing",
+       "url": "https://www.pbs.org/newshour/politics/im-not-maga-elon-musk-says-after-republicans-midterm-thrashing",
+       "bias": 0
       }
      ]
     },
@@ -454,20 +468,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "11:15 AM",
-     "headline": "Anthropic goes public after completing largest IPO in history",
-     "summary": "Tech giant Anthropic went public, launching a long-awaited IPO. Patrick McGee, the author of \"Apple in China: The Capture of the World's Greatest Company,\" shares his thoughts.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Anthropic goes public after completing largest IPO in history",
-       "url": "https://www.cbsnews.com/video/anthropic-goes-public-completing-largest-ipo-history/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -497,6 +497,20 @@
     },
     {
      "date": "2026-11-19",
+     "time": "12:14 PM",
+     "headline": "Susan Smith denied parole for second time in 2 years",
+     "summary": "Susan Smith will remain behind bars after a South Carolina parole board denied her request for release for the second time in two years.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Susan Smith denied parole for second time in 2 years",
+       "url": "https://www.wsoctv.com/news/local/susan-smith-denied-parole-second-time-2-years/SOFUNI7WDBBNZG4WZ6ODZR6FDI/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
      "time": "11:59 AM",
      "headline": "Wayne Darling, longtime Modified Series car owner, executive, dies at 72",
      "summary": "Wayne Darling, a car owner who was influential in NASCAR’s Modified Series and later became managing partner in the Monaco Modified Tri-Track Series, died on Tuesday after a long illness. He was 72.",
@@ -505,20 +519,6 @@
        "outlet": "WSOC",
        "title": "Wayne Darling, longtime Modified Series car owner, executive, dies at 72",
        "url": "https://www.wsoctv.com/news/trending/wayne-darling-longtime-modified-series-car-owner-executive-dies-72/BNE6XKONJRBIVJYLJJCOHIJV3M/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "11:51 AM",
-     "headline": "Susan Smith denied parole for second time in 2 years",
-     "summary": "Susan Smith will remain behind bars after a South Carolina parole board denied her request for release for the second time in two years.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Susan Smith denied parole for second time in 2 years",
-       "url": "https://www.wsoctv.com/news/local/susan-smith-denied-parole-second-time-2-years/SOFUNI7WDBBNZG4WZ6ODZR6FDI/",
        "bias": 0
       }
      ]
@@ -697,6 +697,20 @@
    "id": "sports",
    "name": "Sports",
    "items": [
+    {
+     "date": "2026-11-19",
+     "time": "12:11 PM",
+     "headline": "We'll only sell if offer makes club blink - McInnes",
+     "summary": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "We'll only sell if offer makes club blink - McInnes",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-19",
      "time": "12:06 PM",
@@ -889,20 +903,6 @@
        "outlet": "CBS Sports",
        "title": "Fantasy football rankings, projections, lineups, sleepers for Week 11 from proven model",
        "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineups-sleeper-picks-start-sit-week-11-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "11:18 AM",
-     "headline": "Shelton moves closer to ATP Finals last-four spot",
-     "summary": "Ben Shelton battles past Rafael Jodar to move within touching distance of a place in the ATP Finals last four.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Shelton moves closer to ATP Finals last-four spot",
-       "url": "https://www.bbc.co.uk/sport/tennis/articles/c64gne03ykjro?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
