@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:55:05Z",
+ "generated_at": "2026-11-19T22:57:35Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -107,7 +107,7 @@
     },
     {
      "date": "2026-11-19",
-     "time": "5:45 PM",
+     "time": "5:50 PM",
      "headline": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
      "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net…",
      "sources": [
@@ -116,6 +116,20 @@
        "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
        "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:48 PM",
+     "headline": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+     "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+       "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
       }
      ]
     },
@@ -244,20 +258,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "4:09 PM",
-     "headline": "Ten killed in Pakistan as bus crashes into gas tanker",
-     "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Ten killed in Pakistan as bus crashes into gas tanker",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -288,6 +288,26 @@
        "title": "Cincinnati Zoo says Fiona the hippo has died, more than a week after ingesting a hat",
        "url": "https://www.pbs.org/newshour/nation/cincinnati-zoo-says-fiona-the-hippo-has-died-more-than-a-week-after-ingesting-a-hat",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:48 PM",
+     "headline": "Prosecutor declines to charge Wisconsin officer who fatally shot Black man in Madison",
+     "summary": "The Wisconsin police officer who shot and killed a 38-year-old Black man in Madison in July will not face criminal charges, a prosecutor announced Thursday, sparking calls for justice from the victim's family members and community advocates.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Prosecutor declines to charge Wisconsin officer who fatally shot Black man in Madison",
+       "url": "https://www.pbs.org/newshour/nation/prosecutor-declines-to-charge-wisconsin-officer-who-fatally-shot-black-man-in-madison",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Prosecutor declines to charge white officer who fatally shot Black man in Wisconsin",
+       "url": "https://abcnews.com/US/wireStory/prosecutor-declines-charge-white-police-officer-fatally-shot-138298582",
+       "bias": -1
       }
      ]
     },
@@ -328,6 +348,20 @@
        "title": "Iowa residents brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals",
        "url": "https://abcnews.com/US/wireStory/iowa-residents-brace-lead-dust-cloud-army-plans-138278422",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "time": "5:55 PM",
+     "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
+     "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Iowa residents asked to evacuate Friday ahead of Army detonation",
+       "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/",
+       "bias": 0
       }
      ]
     },
@@ -468,34 +502,6 @@
        "title": "How to find worthwhile deals during Black Friday and Cyber Monday: a step-by-step, expert-approved guide",
        "url": "https://www.nbcnews.com/select/shopping/black-friday-cyber-monday-2026-shopping-guide-rcna610248",
        "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "4:37 PM",
-     "headline": "Leader of Democratic AG group to step down after Texas triumph",
-     "summary": "Sean Rankin led DAGA for a decade, helping Democrats flip five GOP-held attorney general offices.",
-     "sources": [
-      {
-       "outlet": "Politico",
-       "title": "Leader of Democratic AG group to step down after Texas triumph",
-       "url": "https://www.politico.com/news/2026/11/19/after-texas-triumph-daga-chief-steps-aside-01176340",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "4:25 PM",
-     "headline": "Stocks plunge as investors take cover amid growing uncertainty",
-     "summary": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Stocks plunge as investors take cover amid growing uncertainty",
-       "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/",
-       "bias": 0
       }
      ]
     }
@@ -723,6 +729,20 @@
    "items": [
     {
      "date": "2026-11-19",
+     "time": "5:56 PM",
+     "headline": "Lyon outclass Arsenal in 2-0 Champions League win",
+     "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Lyon outclass Arsenal in 2-0 Champions League win",
+       "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
      "time": "5:45 PM",
      "headline": "Unseeded Sykes stuns Humphries in Grand Slam thriller",
      "summary": "Luke Humphries follows Luke Littler in exiting the Grand Slam of Darts after losing 10-9 to unseeded Tom Sykes in a second-round thriller.",
@@ -913,20 +933,6 @@
        "outlet": "CBS Sports",
        "title": "Kalshi promo code CBSSPORTS55: Grab $55 bonus for Texans vs. Colts, NFL Thursday Night Football predictions",
        "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-grab-55-bonus-texans-vs-colts-nfl-thursday-night-football-predictions/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "4:31 PM",
-     "headline": "Best horse racing betting sites: Where to bet on horse racing",
-     "summary": "Discover the best horse racing betting sites, plus how to bet on horse racing online, bet types, and expert tips.",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Best horse racing betting sites: Where to bet on horse racing",
-       "url": "https://www.cbssports.com/betting/news/horse-racing/",
        "bias": 0
       }
      ]
