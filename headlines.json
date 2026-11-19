@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:04:45Z",
+ "generated_at": "2026-11-19T12:08:42Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -257,6 +257,20 @@
     },
     {
      "date": "2026-11-19",
+     "time": "7:00 AM",
+     "headline": "Are Prediction Markets the Future of Finance? | Money Moves with Jill Schlesinger",
+     "summary": "Are prediction markets harmless, or a dangerous gateway to gambling? Jill, Mark and special guest Kayla Sabbagh explore why younger generations are increasingly betting on everything—and what risks come with these easy-to-access platforms.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Are Prediction Markets the Future of Finance? | Money Moves with Jill Schlesinger",
+       "url": "https://www.cbsnews.com/video/are-prediction-markets-the-future-of-finance-money-moves-with-jill-schlesinger/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
      "time": "6:50 AM",
      "headline": "Obama gives pep talk to freshman House Democrats in surprise visit",
      "summary": "The former president was the surprise guest at a hastily called meeting of Democrats who just won House seats.",
@@ -433,20 +447,6 @@
        "outlet": "NPR",
        "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
        "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "4:46 AM",
-     "headline": "Morning news brief",
-     "summary": "President Trump meets with China's Xi and Russia's Putin, House Democrats nominate Hakeem Jeffries as next speaker of the House, AI giant Anthropic raises more than $100 billion in record-setting IPO.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Morning news brief",
-       "url": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
        "bias": -1
       }
      ]
