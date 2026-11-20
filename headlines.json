@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:53:49Z",
+ "generated_at": "2026-11-20T22:57:01Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -309,6 +309,48 @@
     },
     {
      "date": "2026-11-20",
+     "time": "5:52 PM",
+     "headline": "Lawsuits allege corner cutting, ignored warnings led to fatal Brooklyn building collapse",
+     "summary": "As investigators probe what caused a New York City building collapse that killed eight people, workers and residents are painting a portrait of two trouble spots side-by-side: the apartment house that fell down and the construction site being excavated next…",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Lawsuits allege corner cutting, ignored warnings led to fatal Brooklyn building collapse",
+       "url": "https://www.pbs.org/newshour/nation/lawsuits-allege-corner-cutting-ignored-warnings-led-to-fatal-brooklyn-building-collapse",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:51 PM",
+     "headline": "Jurors have reached a verdict in the Pacific Palisades fire retrial",
+     "summary": "LOS ANGELES — A jury has reached a verdict in the retrial of an ex-Uber driver accused of intentionally sparking a deadly fire that displaced thousands of people and became one of the most destructive wildfires in Los Angeles history.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Jurors have reached a verdict in the Pacific Palisades fire retrial",
+       "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:43 PM",
+     "headline": "What we learned from Trump's first press conference following summit with Xi, Putin",
+     "summary": "President Trump addressed the recent wave of tech outages, Iran, and more during his first press conference following his summit with Xi Jinping and Vladimir Putin. CBS News' Ed O'Keefe and Samantha Vinograd report.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "What we learned from Trump's first press conference following summit with Xi, Putin",
+       "url": "https://www.cbsnews.com/video/what-we-learned-from-trumps-first-press-conference-following-summit-with-xi-putin/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
      "time": "5:42 PM",
      "headline": "3.9-magnitude earthquake rattles Los Angeles area",
      "summary": "According to the U.S. Geological Survey, the earthquake struck about a half mile north-northwest of Commerce, California, which is about 7 miles from downtown Los Angeles.",
@@ -432,48 +474,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:47 PM",
-     "headline": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
-     "summary": "The Princess Cruises ship Caribbean Princess departed Port Everglades in Fort Lauderdale on Nov. 11 on a 12-night journey.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
-       "url": "https://www.cbsnews.com/news/princess-cruises-caribbean-princess-mystery-illness-cdc-november-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:38 PM",
-     "headline": "Americans need help affording homes. Can Congress deliver?",
-     "summary": "Lawmakers may face more pressure in 2027 to focus on bipartisan housing proposals that would lower the cost of buying a home.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Americans need help affording homes. Can Congress deliver?",
-       "url": "https://www.cbsnews.com/news/congress-housing-affordability-first-time-homebuyers/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:38 PM",
-     "headline": "Officials: Washington pulp mill violated safety standards before deadly tank rupture",
-     "summary": "State investigators have revealed that a Washington pulp mill, where a chemical tank ruptured in May killing 11 people, had a history of severe safety violations",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "Officials: Washington pulp mill violated safety standards before deadly tank rupture",
-       "url": "https://abcnews.com/US/wireStory/officials-washington-pulp-mill-violated-safety-standards-ruptured-138329287",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -481,6 +481,20 @@
    "id": "local",
    "name": "Local: Cabarrus County & North Carolina",
    "items": [
+    {
+     "date": "2026-11-20",
+     "time": "5:49 PM",
+     "headline": "Inside CMPD’s firearms training for its next generation of officers",
+     "summary": "Charlotte-Mecklenburg Police Department recruits spend hours learning firearm safety and the fundamentals of handling a handgun before they ever step onto the shooting range.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Inside CMPD’s firearms training for its next generation of officers",
+       "url": "https://www.wsoctv.com/news/local/inside-cmpds-firearms-training-its-next-generation-officers/2BHHFZJE65BXFDHUHTM3CV4Z34/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-20",
      "time": "5:41 PM",
@@ -676,20 +690,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "3:48 PM",
-     "headline": "Fewer students, rising expenses and AI: UNC leaders focus on growing headwinds",
-     "summary": "UNC System President Peter Hans says the University of North Carolina system needs to operate more like Amazon and less like Sears. “At its peak in the 1970s, Sears accounted for 1% of the entire American economy with 3,400 stores,” Hans said.",
-     "sources": [
-      {
-       "outlet": "NC Newsline",
-       "title": "Fewer students, rising expenses and AI: UNC leaders focus on growing headwinds",
-       "url": "https://ncnewsline.com/2026/11/20/fewer-students-rising-expenses-and-ai-unc-leaders-focus-on-growing-headwinds/",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -697,6 +697,90 @@
    "id": "sports",
    "name": "Sports",
    "items": [
+    {
+     "date": "2026-11-20",
+     "time": "5:54 PM",
+     "headline": "First defeat and first red for Ferguson as Glens falter",
+     "summary": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "First defeat and first red for Ferguson as Glens falter",
+       "url": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:46 PM",
+     "headline": "Luis Gil, Nolan Gorman, Trevor Larnach, more hit MLB free agency after non-tender deadline",
+     "summary": "Non-tender decisions can be difficult calls for organizations because of roster crunches and crowded depth charts",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Luis Gil, Nolan Gorman, Trevor Larnach, more hit MLB free agency after non-tender deadline",
+       "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-non-tender-deadline-decisions/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:43 PM",
+     "headline": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+     "summary": "Find the best Arkansas sports betting apps in November 2026, and all you need to know about Arkansas sports betting.",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+       "url": "https://www.cbssports.com/betting/news/arkansas/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:43 PM",
+     "headline": "Clemson vs. Duke betting preview, odds: Picks, start time, spread for Friday college football Week 12",
+     "summary": "The Blue Devils will try to deal the Tigers another blow on Friday in an ACC clash",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Clemson vs. Duke betting preview, odds: Picks, start time, spread for Friday college football Week 12",
+       "url": "https://www.cbssports.com/betting/news/clemson-vs-duke-betting-preview-odds-picks-start-time-spread-for-friday-college-football-week-12/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:42 PM",
+     "headline": "NFL Week 11 injury report: Latest updates on Kenneth Walker III, Mike Evans, Baker Mayfield and more",
+     "summary": "A look at the game status for each team leading up to Week 11",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL Week 11 injury report: Latest updates on Kenneth Walker III, Mike Evans, Baker Mayfield and more",
+       "url": "https://www.cbssports.com/nfl/news/nfl-week-11-injury-report-kenneth-walker-iii-mike-evans-baker-mayfield/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:39 PM",
+     "headline": "Fantasy Football Week 11 sleepers could deliver big with Adonai Mitchell, Kyle Monangai primed to break out",
+     "summary": "Adonai Mitchell draws a favorable matchup against the Chargers, while Kyle Monangai and T.J. Hockenson offer upside",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy Football Week 11 sleepers could deliver big with Adonai Mitchell, Kyle Monangai primed to break out",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-11-sleepers/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-20",
      "time": "5:36 PM",
@@ -707,6 +791,20 @@
        "outlet": "BBC Sport",
        "title": "NFL great Brady could buy Chelsea stake",
        "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "5:35 PM",
+     "headline": "NBA injury updates: The latest on Tyrese Haliburton, Kawhi Leonard, Dylan Harper, more",
+     "summary": "The barrage of injuries to high-profile players has been one of the stories of the NBA season so far",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NBA injury updates: The latest on Tyrese Haliburton, Kawhi Leonard, Dylan Harper, more",
+       "url": "https://www.cbssports.com/nba/news/nba-injury-updates-tyrese-haliburton-kawhi-leonard-dylan-harper-brandon-ingram/",
        "bias": 0
       }
      ]
@@ -805,104 +903,6 @@
        "outlet": "BBC Sport",
        "title": "Shevchenko lying about drugs test claims - Mudryk",
        "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:47 PM",
-     "headline": "Watch: Inverness and Ayr play out goalless draw",
-     "summary": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Watch: Inverness and Ayr play out goalless draw",
-       "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:43 PM",
-     "headline": "MLB rumors: Yankees moves heating up, plus latest on Tarik Skubal, Padres, Mets, Tigers, more",
-     "summary": "Here are the latest news and rumors in the MLB offseason on Friday, Nov. 20",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "MLB rumors: Yankees moves heating up, plus latest on Tarik Skubal, Padres, Mets, Tigers, more",
-       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-yankees-moves-heating-up-tarik-skubal-padres-mets/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:43 PM",
-     "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
-     "summary": "Indy has put themselves in a very tough spot after sitting on the fence at the deadline.",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
-       "url": "https://www.cbssports.com/nfl/news/colts-daniel-jones-not-trading-qb-jonathan-taylor-deadline-major-second-guess/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:39 PM",
-     "headline": "UCLA's Cori Close echoes Geno Auriemma, laments state of roster building: 'There is something wrong'",
-     "summary": "UCLA had six seniors drafted into the WNBA last season and 'all took pay cuts,' Close said",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "UCLA's Cori Close echoes Geno Auriemma, laments state of roster building: 'There is something wrong'",
-       "url": "https://www.cbssports.com/womens-college-basketball/news/ucla-cori-close-college-basketball-roster-building-nil-transfer-portal-geno-auriemma/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:38 PM",
-     "headline": "Oregon vs. Michigan State odds, college football picks: Use Polymarket promo code CBSSPORTS for $25 bonus",
-     "summary": "The Ducks and Spartans meet on Saturday in a Big Ten showdown",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Oregon vs. Michigan State odds, college football picks: Use Polymarket promo code CBSSPORTS for $25 bonus",
-       "url": "https://www.cbssports.com/prediction/news/oregon-vs-michigan-state-odds-college-football-picks-use-polymarket-promo-code-cbssports-for-25-bonus/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:38 PM",
-     "headline": "Is Polymarket Legal in California? November 2026 Status",
-     "summary": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Is Polymarket Legal in California? November 2026 Status",
-       "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:13 PM",
-     "headline": "Best Kalshi promo code CBSSPORTS55: Grab $55 bonus for Clemson-Duke, Michigan State-Oregon, NBA on Friday",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Friday's games",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Best Kalshi promo code CBSSPORTS55: Grab $55 bonus for Clemson-Duke, Michigan State-Oregon, NBA on Friday",
-       "url": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-grab-55-bonus-clemson-duke-michigan-state-oregon-nba-friday/",
        "bias": 0
       }
      ]
