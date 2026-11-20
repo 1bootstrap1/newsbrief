@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:03:56Z",
+ "generated_at": "2026-11-20T17:08:31Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -231,6 +231,68 @@
    "items": [
     {
      "date": "2026-11-20",
+     "time": "9:17 AM",
+     "headline": "3 takeaways from Trump, Xi and Putin's historic summit",
+     "summary": "Watch live coverage as President Trump holds a press conference at the White House after three-way talks in China with the leaders of U.S. rivals, Russian President Vladimir Putin and Chinese President Xi Jinping.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Trump holds press briefing after historic summit with Xi and Putin",
+       "url": "https://www.nbcnews.com/video/trump-holds-press-briefing-after-historic-summit-with-xi-and-putin-273886277846",
+       "bias": -1
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "3 takeaways from Trump, Xi and Putin's historic summit",
+       "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "12:08 PM",
+     "headline": "High-yield savings accounts: Best rates and top picks of November 2026",
+     "summary": "Today's high-yield savings accounts offer hefty returns on your deposits. Here's where your money belongs now.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "High-yield savings accounts: Best rates and top picks of November 2026",
+       "url": "https://www.cbsnews.com/news/best-high-yield-savings-account/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "12:06 PM",
+     "headline": "NWSL Championship to bring fans \"the best soccer in the world\"",
+     "summary": "The next frontier in growing women's soccer in the U.S. is where the players train and play their games.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "NWSL Championship to bring fans \"the best soccer in the world\"",
+       "url": "https://www.cbsnews.com/news/2026-nwsl-championship-washington-spirit-kc-current-womens-soccer/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "12:01 PM",
+     "headline": "Trump calling Putin ‘my friend’ at APEC summit sparks backlash",
+     "summary": "When President Donald Trump called Vladimir Putin his “friend” this week, European leaders and foreign policy experts were dismayed and alarmed.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Trump calling Putin ‘my friend’ at APEC summit sparks backlash",
+       "url": "https://www.nbcnews.com/world/europe/trump-friend-greeting-putin-causes-alarm-europe-ukraine-rcna610373",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
      "time": "12:00 PM",
      "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
      "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
@@ -245,6 +307,20 @@
     },
     {
      "date": "2026-11-20",
+     "time": "12:00 PM",
+     "headline": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+     "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+       "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
      "time": "11:56 AM",
      "headline": "Audacious California train thieves film multimillion-dollar robberies",
      "summary": "The FBI estimated cargo theft losses in the U.S. and Canada reached nearly $725 million in 2025.",
@@ -253,20 +329,6 @@
        "outlet": "CBS News",
        "title": "Audacious California train thieves film multimillion-dollar robberies",
        "url": "https://www.cbsnews.com/news/california-train-theft-ring-arrests/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "11:47 AM",
-     "headline": "High-yield savings accounts: Best rates and top picks of November 2026",
-     "summary": "Today's high-yield savings accounts offer hefty returns on your deposits. Here's where your money belongs now.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "High-yield savings accounts: Best rates and top picks of November 2026",
-       "url": "https://www.cbsnews.com/news/best-high-yield-savings-account/",
        "bias": 0
       }
      ]
@@ -382,62 +444,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "11:15 AM",
-     "headline": "A decade after shooting Harambe, the Cincinnati Zoo is reeling from Fiona's death",
-     "summary": "The Cincinnati Zoo is once again facing the tragic death of a beloved animal",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "A decade after shooting Harambe, the Cincinnati Zoo is reeling from Fiona's death",
-       "url": "https://abcnews.com/US/wireStory/decade-after-shooting-harambe-cincinnati-zoo-reeling-fionas-138312394",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "11:12 AM",
-     "headline": "How Orchestra Noir turned classical music into a cultural movement",
-     "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "How Orchestra Noir turned classical music into a cultural movement",
-       "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "11:08 AM",
-     "headline": "Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions",
-     "summary": "Joe Biden's memoir \"Promise Me, America\" draws sharp reviews; critics say he stays \"stubbornly in denial\" about his age, Gaza, and his 2024 reelection bid.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions",
-       "url": "https://www.foxnews.com/politics/biden-memoir-draws-fire-denial-critics-flag-gaza-racial-equity-omissions",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "11:03 AM",
-     "headline": "Myanmar is the first state found responsible for genocide. Here's how the ICJ ruled in other cases",
-     "summary": "The International Court of Justice has been asked to reach that conclusion before, but never found enough evidence to make the determination of a state-sponsored genocide like the one targeting the Rohingya.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Myanmar is the first state found responsible for genocide. Here's how the ICJ ruled in other cases",
-       "url": "https://www.pbs.org/newshour/world/myanmar-is-the-first-state-found-responsible-for-genocide-heres-how-the-icj-ruled-in-other-cases",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -445,6 +451,20 @@
    "id": "local",
    "name": "Local: Cabarrus County & North Carolina",
    "items": [
+    {
+     "date": "2026-11-20",
+     "time": "11:58 AM",
+     "headline": "FORECAST: Temperatures climb near 70 before rain chances move in",
+     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "FORECAST: Temperatures climb near 70 before rain chances move in",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-temperatures-climb-near-70-before-rain-chances-move/XTHMUXS2GJH47LVTMDAVID2LIQ/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-20",
      "time": "11:54 AM",
@@ -640,20 +660,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "10:03 AM",
-     "headline": "Speeding driver killed in fiery west Charlotte crash after hitting tree, police say",
-     "summary": "The deadly single-vehicle wreck happened along Ashley Road near Andrew Jackson Highway.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Speeding driver killed in fiery west Charlotte crash after hitting tree, police say",
-       "url": "https://www.wbtv.com/2026/11/20/speeding-driver-killed-fiery-west-charlotte-crash-after-hitting-tree-police-say/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -661,6 +667,20 @@
    "id": "sports",
    "name": "Sports",
    "items": [
+    {
+     "date": "2026-11-20",
+     "time": "11:57 AM",
+     "headline": "Matos accepts Swansea fans' anger over shock exit",
+     "summary": "Vitor Matos address his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Matos accepts Swansea fans' anger over shock exit",
+       "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-20",
      "time": "11:55 AM",
@@ -853,20 +873,6 @@
        "outlet": "BBC Sport",
        "title": "We want to have a positive impact - Pochettino",
        "url": "https://www.bbc.co.uk/sport/football/videos/cw20xd2zgl0xo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "11:00 AM",
-     "headline": "10 games, 0 points & 30 goals conceded - Charlton's struggles explained",
-     "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "10 games, 0 points & 30 goals conceded - Charlton's struggles explained",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
