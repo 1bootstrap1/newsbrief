@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:06:38Z",
+ "generated_at": "2026-11-20T17:03:56Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -15,41 +15,111 @@
    "items": [
     {
      "date": "2026-11-20",
-     "time": "7:04 AM",
-     "headline": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-     "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+     "time": "11:54 AM",
+     "headline": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
+     "summary": "Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018 French police are investigating allegations that the actor Gérard Depardieu and the author Michel Houellebecq gang-raped and assaulted a woman during a 2018…",
      "sources": [
       {
-       "outlet": "NPR World",
-       "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-       "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+       "outlet": "The Guardian",
+       "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
+       "url": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "7:02 AM",
-     "headline": "U.S. and Israel considering new assault on Iran, sources say",
-     "summary": "Israel wants a new joint operation with the U.S. against Iran, but it's unclear whether President Trump is willing to resume military action, and if so, to what extent.",
+     "time": "11:54 AM",
+     "headline": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "U.S. and Israel considering new assault on Iran, sources say",
-       "url": "https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assault-sources-say/",
+       "outlet": "BBC News",
+       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+       "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "6:39 AM",
-     "headline": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live",
-     "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to…",
+     "time": "11:50 AM",
+     "headline": "Police search for teacher who missed sentencing after indecent assault conviction",
+     "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s Police are searching for a missing chemistry teacher convicted of sexual relationships with two pupils at a boys’ school in the late 1980s after…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live",
+       "title": "Police search for teacher who missed sentencing after indecent assault conviction",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:48 AM",
+     "headline": "White supremacist convicted of planning bomb attack on asylum seekers in Hull",
+     "summary": "Mikka Anderson stockpiled weapons and tried to recruit accomplice for attack on Royal Hotel A white supremacist has been found guilty of planning a firebomb terror attack on asylum seekers in Hull.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "White supremacist convicted of planning bomb attack on asylum seekers in Hull",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/20/white-supremacist-mikka-anderson-convicted-planning-bomb-attack-asylum-seekers-hull",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:48 AM",
+     "headline": "Latest botched execution prompts calls for US moratorium on lethal injections",
+     "summary": "Reinaldo Dennes screamed in pain and took over an hour to die – but Texas officials branded the execution a success A botched execution in Texas on Thursday night that lasted more than an hour and caused the prisoner to scream out, begging the Lord to end his…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
+       "url": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:46 AM",
+     "headline": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+     "summary": "Zacharia’s spokesperson called allegations she falsely represented herself as an attorney ‘baseless’ US politics live – latest updates Katie Zacharia, the former White House press secretary hired and fired in the same week , is under investigation by the…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+       "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:45 AM",
+     "headline": "Cost of living protests sweep across Europe",
+     "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Cost of living protests sweep across Europe",
+       "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:41 AM",
+     "headline": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+     "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
        "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
        "bias": -1
       }
@@ -57,168 +127,98 @@
     },
     {
      "date": "2026-11-20",
-     "time": "6:26 AM",
-     "headline": "US appoints new cybersecurity chief after series of tech failures",
-     "summary": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+     "time": "11:40 AM",
+     "headline": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+     "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "US appoints new cybersecurity chief after series of tech failures",
-       "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+       "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+       "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "6:23 AM",
-     "headline": "‘You’ve got me for life’: first ceremonies in England cement care leavers’ relationships",
-     "summary": "Lifelong guardianship ceremonies were announced in July as way to publicly affirm chosen connections Allan was 14 years old and had been through eight foster families and a stint in a children’s home when he began living with foster carer Russ in Kettering –…",
+     "time": "11:36 AM",
+     "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "‘You’ve got me for life’: first ceremonies in England cement care leavers’ relationships",
-       "url": "https://www.theguardian.com/society/2026/nov/20/lifelong-guardianship-ceremonies-england-care-leavers-relationships",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:22 AM",
-     "headline": "Home Office tells woman born and raised in London she is not British",
-     "summary": "Woman, 24, says she cannot work and faces destitution after it was found her mother had no right to UK passport A 24-year-old woman who was born and raised in London believing she was a UK citizen has been left in a state of shock after being told by…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Home Office tells woman born and raised in London she is not British",
-       "url": "https://www.theguardian.com/uk-news/2026/nov/20/home-office-tells-woman-born-london-she-is-not-british",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:20 AM",
-     "headline": "EU and UK seal reset deal",
-     "summary": "This is a breaking news story.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "EU and UK seal reset deal",
-       "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:12 AM",
-     "headline": "Three Kyiv bridges hit during major Russian missile attack",
-     "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Three Kyiv bridges hit during major Russian missile attack",
-       "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS News",
+       "title": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "6:10 AM",
-     "headline": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-     "summary": "",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:01 AM",
-     "headline": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-     "summary": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-       "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:00 AM",
-     "headline": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
-     "summary": "Exclusive: Luis Alejandro Cora Perez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
-       "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:00 AM",
-     "headline": "Emails reveal how Trump allies pushed pardons for election deniers",
-     "summary": "Former Trump lawyer urged justice department officials to seek pardons for those falsely claiming he won the 2020 presidential election in their states In the fall of 2025, Cleta Mitchell, a key lawyer in Donald Trump’s efforts to overturn the 2020…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Emails reveal how Trump allies pushed pardons for election deniers",
-       "url": "https://www.theguardian.com/us-news/2026/nov/20/allies-email-trump-pardon-election-deniers",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "5:56 AM",
-     "headline": "Nearly 600 women killed in South Africa within three months",
-     "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+     "time": "11:27 AM",
+     "headline": "Anthropic shares fall a day after blockbuster opening",
+     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Nearly 600 women killed in South Africa within three months",
-       "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+       "title": "Anthropic shares fall a day after blockbuster opening",
+       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:45 AM",
-     "headline": "Can the Rohingya genocide verdict deliver justice?",
-     "summary": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
+     "time": "11:26 AM",
+     "headline": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+     "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn?",
      "sources": [
       {
-       "outlet": "Al Jazeera",
-       "title": "Can the Rohingya genocide verdict deliver justice?",
-       "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+       "outlet": "The Guardian",
+       "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:37 AM",
-     "headline": "Drone operator removes Man United training footage and issues apology",
-     "summary": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
+     "time": "11:16 AM",
+     "headline": "Russian missiles and drone hit Poland during attacks on Ukraine",
+     "summary": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow Two Russian cruise missiles and a jet-powered drone crashed in Poland, according to officials, during Russian air attacks on Ukraine that took…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
+       "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:13 AM",
+     "headline": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+     "summary": "German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Drone operator removes Man United training footage and issues apology",
-       "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+       "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+       "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:10 AM",
+     "headline": "US Senate passes bill to speed up energy project approvals",
+     "summary": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US Senate passes bill to speed up energy project approvals",
+       "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -231,211 +231,211 @@
    "items": [
     {
      "date": "2026-11-20",
-     "time": "7:04 AM",
-     "headline": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-     "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-       "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "7:02 AM",
-     "headline": "U.S. and Israel considering new assault on Iran, sources say",
-     "summary": "Israel wants a new joint operation with the U.S. against Iran, but it's unclear whether President Trump is willing to resume military action, and if so, to what extent.",
+     "time": "12:00 PM",
+     "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
+     "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "U.S. and Israel considering new assault on Iran, sources say",
-       "url": "https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assault-sources-say/",
+       "title": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
+       "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "7:02 AM",
-     "headline": "Van Hollen scores support from another Dem amid Senate majority leader bid",
-     "summary": "Sen. Elissa Slotkin said she will back Sen. Chris Van Hollen for the Senate Democratic leadership role as he challenges Sen. Chuck Schumer.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Van Hollen scores support from another Dem amid Senate majority leader bid",
-       "url": "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "7:00 AM",
-     "headline": "Just how vulnerable are we to cyberattacks?",
-     "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Just how vulnerable are we to cyberattacks?",
-       "url": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:47 AM",
-     "headline": "Mayor Mamdani announces plan to shut down Rikers Island",
-     "summary": "New York City Mayor Zohran Mamdani unveiled his strategy to shut down Rikers Island and replace it with four smaller jails across the city.",
+     "time": "11:56 AM",
+     "headline": "Audacious California train thieves film multimillion-dollar robberies",
+     "summary": "The FBI estimated cargo theft losses in the U.S. and Canada reached nearly $725 million in 2025.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Mayor Mamdani announces plan to shut down Rikers Island",
-       "url": "https://www.cbsnews.com/news/zohran-mamdani-rikers-island-closing-plan-nyc/",
+       "title": "Audacious California train thieves film multimillion-dollar robberies",
+       "url": "https://www.cbsnews.com/news/california-train-theft-ring-arrests/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "6:42 AM",
-     "headline": "Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks",
-     "summary": "Three bridges in Kyiv were hit in a Russian ballistic missile attack, officials in the Ukrainian capital said, after President Vladimir Putin vowed revenge.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks",
-       "url": "https://www.nbcnews.com/world/ukraine/russia-strikes-kyiv-bridges-ukraine-crimea-putin-zelenskyy-apec-trump-rcna610372",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:28 AM",
-     "headline": "South Florida severe weather and flooding live updates",
-     "summary": "After more than 15 inches of rain flooded parts of South Florida, a flood watch has been extended into Friday morning as schools announce reopening plans.",
+     "time": "11:47 AM",
+     "headline": "High-yield savings accounts: Best rates and top picks of November 2026",
+     "summary": "Today's high-yield savings accounts offer hefty returns on your deposits. Here's where your money belongs now.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "South Florida severe weather and flooding live updates",
-       "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+       "title": "High-yield savings accounts: Best rates and top picks of November 2026",
+       "url": "https://www.cbsnews.com/news/best-high-yield-savings-account/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "6:01 AM",
-     "headline": "For the Washington Spirit, will the third time be the charm in the NWSL championship?",
-     "summary": "The Washington Spirit hope the third time will be the charm as they face the Kansas City Current at home in the National Women’s Soccer League championship Saturday.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "For the Washington Spirit, will the third time be the charm in the NWSL championship?",
-       "url": "https://www.nbcnews.com/sports/soccer/nwsl-championship-final-washington-spirit-kansas-city-current-rcna609698",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:00 AM",
-     "headline": "Elon Musk's space giant cozies up to Dem power brokers as party vows to put his empire under siege",
-     "summary": "Elon Musk's SpaceX hired five Democratic lobbyists as Democrats promise probes into Ukraine satellite claims, Pentagon reliance and Chinese investors.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Elon Musk's space giant cozies up to Dem power brokers as party vows to put his empire under siege",
-       "url": "https://www.foxnews.com/politics/elon-musks-space-giant-cozies-up-dem-power-brokers-party-vows-put-his-empire-under-siege",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:00 AM",
-     "headline": "Senate passes bipartisan energy bill amid environmental concerns",
-     "summary": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Senate passes bipartisan energy bill amid environmental concerns",
-       "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:00 AM",
-     "headline": "Can Democrats force an end to the Iran war when they take Congress?",
-     "summary": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear.",
+     "time": "11:45 AM",
+     "headline": "Man who plotted to kill Sikh dissident in NYC is sentenced",
+     "summary": "Nikhil Gupta, who pleaded guilty earlier this year to conspiracy to commit murder-for-hire and other charges, was allegedly recruited in 2023 to assassinate Gurpatwant Singh Pannun.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Can Democrats force an end to the Iran war when they take Congress?",
-       "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/",
+       "title": "Man who plotted to kill Sikh dissident in NYC is sentenced",
+       "url": "https://www.cbsnews.com/news/plot-assassinate-sikh-dissident-nyc-prison-sentence/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:52 AM",
-     "headline": "Mamdani sets plan to close NYC's notorious Rikers Island jail",
-     "summary": "Mayor Zohran Mamdani plans to shutter New York City’s notorious Rikers Island jail complex by 2032",
+     "time": "11:44 AM",
+     "headline": "How global researchers are tackling debilitating injuries in women's soccer",
+     "summary": "Female athletes are more likely to have an ACL tear than male athletes, according to Project ACL, a research initiative aiming to provide some relief for soccer players. CBS News' Meg Oliver reports.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "How global researchers are tackling debilitating injuries in women's soccer",
+       "url": "https://www.cbsnews.com/video/how-global-researchers-are-tackling-debilitating-injuries-in-womens-soccer/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:41 AM",
+     "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+       "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:41 AM",
+     "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
+     "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
+       "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:38 AM",
+     "headline": "Trump administration use of encrypted messaging apps like Signal is scrutinized by House Democrat",
+     "summary": "A Democratic lawmaker is investigating the use of encrypted messaging apps by Justice Department employees for official business",
      "sources": [
       {
        "outlet": "ABC News",
-       "title": "Mamdani sets plan to close NYC's notorious Rikers Island jail",
-       "url": "https://abcnews.com/US/wireStory/mamdani-sets-plan-close-nycs-notorious-rikers-island-138314719",
+       "title": "Trump administration use of encrypted messaging apps like Signal is scrutinized by House Democrat",
+       "url": "https://abcnews.com/US/wireStory/trump-administration-encrypted-messaging-apps-signal-scrutinized-house-138315689",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:45 AM",
-     "headline": "Democratic Governors’ 2028 picks",
-     "summary": "Democratic Governors’ 2028 picks lead image",
+     "time": "11:36 AM",
+     "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
       {
-       "outlet": "Politico",
-       "title": "Democratic Governors’ 2028 picks",
-       "url": "https://www.politico.com/video/2026/11/20/democratic-governors-2028-picks-2235294",
+       "outlet": "CBS News",
+       "title": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:00 AM",
-     "headline": "Trump will face reporters after historic Xi-Putin talks as war questions linger",
-     "summary": "President Donald Trump faces reporters Friday after Shenzhen summit with Xi Jinping and Putin yielded a nuclear risk pledge but no Ukraine breakthrough.",
+     "time": "11:27 AM",
+     "headline": "6 reasons stocks are falling, and what you should do about it",
+     "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "6 reasons stocks are falling, and what you should do about it",
+       "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:19 AM",
+     "headline": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
+     "summary": "The Princess Cruises ship Caribbean Princess departed Port Everglades in Fort Lauderdale on Nov. 11 on a 12-night journey.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
+       "url": "https://www.cbsnews.com/news/princess-cruises-caribbean-princess-mystery-illness-cdc-november-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:15 AM",
+     "headline": "A decade after shooting Harambe, the Cincinnati Zoo is reeling from Fiona's death",
+     "summary": "The Cincinnati Zoo is once again facing the tragic death of a beloved animal",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "A decade after shooting Harambe, the Cincinnati Zoo is reeling from Fiona's death",
+       "url": "https://abcnews.com/US/wireStory/decade-after-shooting-harambe-cincinnati-zoo-reeling-fionas-138312394",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:12 AM",
+     "headline": "How Orchestra Noir turned classical music into a cultural movement",
+     "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "How Orchestra Noir turned classical music into a cultural movement",
+       "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:08 AM",
+     "headline": "Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions",
+     "summary": "Joe Biden's memoir \"Promise Me, America\" draws sharp reviews; critics say he stays \"stubbornly in denial\" about his age, Gaza, and his 2024 reelection bid.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "Trump will face reporters after historic Xi-Putin talks as war questions linger",
-       "url": "https://www.foxnews.com/politics/trump-face-reporters-historic-xi-putin-talks-war-questions-linger",
+       "title": "Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions",
+       "url": "https://www.foxnews.com/politics/biden-memoir-draws-fire-denial-critics-flag-gaza-racial-equity-omissions",
        "bias": 1
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:00 AM",
-     "headline": "New York City unveils a bold plan to move its jails off Rikers Island",
-     "summary": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
+     "time": "11:03 AM",
+     "headline": "Myanmar is the first state found responsible for genocide. Here's how the ICJ ruled in other cases",
+     "summary": "The International Court of Justice has been asked to reach that conclusion before, but never found enough evidence to make the determination of a state-sponsored genocide like the one targeting the Rohingya.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-       "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-       "bias": -1
+       "outlet": "PBS NewsHour",
+       "title": "Myanmar is the first state found responsible for genocide. Here's how the ICJ ruled in other cases",
+       "url": "https://www.pbs.org/newshour/world/myanmar-is-the-first-state-found-responsible-for-genocide-heres-how-the-icj-ruled-in-other-cases",
+       "bias": 0
       }
      ]
     }
@@ -447,210 +447,210 @@
    "items": [
     {
      "date": "2026-11-20",
-     "time": "6:56 AM",
-     "headline": "Rain in Charlotte becoming more likely this weekend amid uncertain forecast",
-     "summary": "A coastal storm could push into the Charlotte region Saturday and Sunday.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Rain in Charlotte becoming more likely this weekend amid uncertain forecast",
-       "url": "https://www.wbtv.com/2026/11/20/rain-charlotte-becoming-more-likely-this-weekend-amid-uncertain-forecast/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:43 AM",
-     "headline": "How to save on fresh produce",
-     "summary": "If you’re feeling the squeeze at the grocery store, you’re not alone. Fresh produce can be one of the biggest hits to your food budget, but Consumer Reports has tips to stretch your dollar, save at checkout and still put fresh food on the table.",
+     "time": "11:54 AM",
+     "headline": "EV charger company bringing 70 jobs to Fort Mill",
+     "summary": "An electric vehicle charger company is bringing 70 new jobs to Fort Mill.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "How to save on fresh produce",
-       "url": "https://www.wsoctv.com/news/local/how-save-fresh-produce/DXLEOYI5GBDKNA24RYKNXRLKZQ/",
+       "title": "EV charger company bringing 70 jobs to Fort Mill",
+       "url": "https://www.wsoctv.com/news/local/ev-charger-company-bringing-70-jobs-fort-mill/3VJUJNM4MJBXTCVRD6ZPIKNMXI/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "6:26 AM",
-     "headline": "Hundreds mourn Fiona the hippo at Cincinnati Zoo as memorial grows",
-     "summary": "A beloved 9-year-old hippo at the Cincinnati Zoo has died after swallowing a knit hat.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Hundreds mourn Fiona the hippo at Cincinnati Zoo as memorial grows",
-       "url": "https://www.wbtv.com/2026/11/20/hundreds-mourn-fiona-hippo-cincinnati-zoo-memorial-grows/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:00 AM",
-     "headline": "NC school districts receive $311 million in grants as facility needs climb to $18 billion",
-     "summary": "Seven North Carolina school districts will receive nearly $311 million in state grants for school construction and renovation projects, the state Department of Public Instruction announced this week.",
-     "sources": [
-      {
-       "outlet": "NC Newsline",
-       "title": "NC school districts receive $311 million in grants as facility needs climb to $18 billion",
-       "url": "https://ncnewsline.com/2026/11/20/nc-school-districts-receive-311-million-in-grants-as-facility-needs-climb-to-18-billion/",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "5:26 AM",
-     "headline": "FORECAST: Temperatures climb near 70 before rain chances move in",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "time": "11:49 AM",
+     "headline": "Water main break leaves thousands of Fort Mill residents without service",
+     "summary": "Some students in Fort Mill will get the day off Friday due to a water outage affecting parts of the town.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Temperatures climb near 70 before rain chances move in",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-temperatures-climb-near-70-before-rain-chances-move/XTHMUXS2GJH47LVTMDAVID2LIQ/",
+       "title": "Water main break leaves thousands of Fort Mill residents without service",
+       "url": "https://www.wsoctv.com/news/local/water-outage-shuts-down-3-fort-mill-schools/54F6OGRIUFCGTNOH7GBVAWKO3A/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:10 AM",
-     "headline": "Woman admits to using Meta glasses to secretly record witnesses in federal drug trial",
-     "summary": "Tierra Shatalia Douglas, 35, pleaded guilty to conspiracy to retaliate against a witness.",
+     "time": "11:46 AM",
+     "headline": "New video shows Brooklyn building collapse in real time",
+     "summary": "New video shows a Brooklyn building collapse that killed eight people and injured 18. Officials are investigating the cause.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Woman admits to using Meta glasses to secretly record witnesses in federal drug trial",
-       "url": "https://www.wbtv.com/2026/11/20/woman-admits-using-meta-glasses-secretly-record-witnesses-federal-drug-trial/",
+       "title": "New video shows Brooklyn building collapse in real time",
+       "url": "https://www.wbtv.com/2026/11/20/new-video-shows-brooklyn-building-collapse-real-time/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "4:28 AM",
-     "headline": "Man in ICU after 7-foot plank flies off pickup, crashes through windshield",
-     "summary": "The family of DJ Hughes is seeking the driver of a white pickup truck who was hauling lumber.",
+     "time": "11:41 AM",
+     "headline": "Lance Broadway, MLB pitcher-turned-actor, dies",
+     "summary": "Former MLB pitcher and actor Lance Broadway has died at age 43 in a Dallas apartment complex.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Man in ICU after 7-foot plank flies off pickup, crashes through windshield",
-       "url": "https://www.wbtv.com/2026/11/20/man-icu-after-7-foot-plank-flies-off-pickup-crashes-through-windshield/",
+       "outlet": "WSOC",
+       "title": "Lance Broadway, MLB pitcher-turned-actor, dies",
+       "url": "https://www.wsoctv.com/news/trending/lance-broadway-mlb-pitcher-turned-actor-dies/4MK5RBPOBZEJFG7P5O6MJMLFDM/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "12:04 AM",
-     "headline": "Weekend rain chances increasing for Charlotte region: What to expect",
-     "summary": "Storm system to impact coast, while inland impacts remain uncertain",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Weekend rain chances increasing for Charlotte region: What to expect",
-       "url": "https://www.wbtv.com/2026/11/19/weekend-rain-chance-going-up-charlotte-latest-forecast/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "11:45 PM",
-     "headline": "Panthers aim to hold NFC South lead while Ravens look to keep playoffs hopes alive, end 5-game skid",
-     "summary": "The Carolina Panthers needed a walk-off 54-yard field goal from Ryan Fitzgerald to beat the New Orleans Saints 20-17 last Sunday and remain in first place in the NFC South. Now the goal is finding a way to stay there.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Panthers aim to hold NFC South lead while Ravens look to keep playoffs hopes alive, end 5-game skid",
-       "url": "https://www.wbtv.com/2026/11/20/panthers-aim-hold-nfc-south-lead-while-ravens-look-keep-playoffs-hopes-alive-end-5-game-skid/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "11:38 PM",
-     "headline": "2 Avery County schools to temporarily close due to mold issues, district says",
-     "summary": "Elementary schools to physically close for 1 week after Thanksgiving break",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "2 Avery County schools to temporarily close due to mold issues, district says",
-       "url": "https://www.wbtv.com/2026/11/20/2-avery-county-schools-temporarily-close-due-mold-issues-district-says/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "11:05 PM",
-     "headline": "State orders Plaza Midwood billboard to be removed after illegal tree cutting",
-     "summary": "500 feet of trees cut down in Charlotte to clear path for billboard",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "State orders Plaza Midwood billboard to be removed after illegal tree cutting",
-       "url": "https://www.wbtv.com/2026/11/20/state-orders-plaza-midwood-billboard-be-removed-after-illegal-tree-cutting/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-19",
-     "time": "10:31 PM",
-     "headline": "NCDOT orders Plaza Midwood billboard to be removed after protected dogwoods illegally cut",
-     "summary": "The N.C. Department of Transportation has ordered Adams Outdoor Advertising to remove a Plaza Midwood billboard after finding that the company violated its permit by illegally destroying dogwood trees in the cut zone.",
+     "time": "11:00 AM",
+     "headline": "Charlotte Hornets Foundation invests $100,000 into four Carolina nonprofits",
+     "summary": "The Charlotte Hornets Foundation announced on Thursday a $100,000 investment to support four organizations across North and South Carolina that assist individuals and families in overcoming barriers, accessing opportunities and building stronger futures.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "NCDOT orders Plaza Midwood billboard to be removed after protected dogwoods illegally cut",
-       "url": "https://www.wsoctv.com/news/local/ncdot-orders-plaza-midwood-billboard-be-removed-this-is-why/TJQ2FO6VIFALNG75UBS3YTAR54/",
+       "title": "Charlotte Hornets Foundation invests $100,000 into four Carolina nonprofits",
+       "url": "https://www.wsoctv.com/news/local/charlotte-hornets-foundation-invests-100000-into-four-carolina-nonprofits/5RLCJUEBAJCY3F5ZYTKR45M54E/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-19",
-     "time": "10:29 PM",
-     "headline": "FCC approves cell blockers to stop inmates from coordinating crimes",
-     "summary": "Jails and prisons across the country can now set up technology to block contraband cell phones following a decision by the Federal Communications Commission.",
+     "date": "2026-11-20",
+     "time": "10:51 AM",
+     "headline": "Live stream: Panthers favored at home against Ravens without Lamar Jackson",
+     "summary": "Watch The Point After live every Monday, Friday",
      "sources": [
       {
-       "outlet": "WSOC",
-       "title": "FCC approves cell blockers to stop inmates from coordinating crimes",
-       "url": "https://www.wsoctv.com/news/local/fcc-approves-cell-blockers-stop-inmates-coordinating-crimes/R5AJZSFLTREHTNMRGWUXUUQBQU/",
+       "outlet": "WBTV",
+       "title": "Live stream: Panthers favored at home against Ravens without Lamar Jackson",
+       "url": "https://www.wbtv.com/2026/11/20/live-stream-panthers-favored-home-against-ravens-without-lamar-jackson/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-19",
-     "time": "10:28 PM",
-     "headline": "1 hurt in road rage shooting along I-77",
-     "summary": "One person is in the hospital after being shot in the stomach during a road rage shooting Thursday evening.",
+     "date": "2026-11-20",
+     "time": "10:45 AM",
+     "headline": "Marlon Jackson reveals Stage 4 prostate cancer diagnosis",
+     "summary": "Marlon Jackson discloses his long-term battle with Stage 4 prostate cancer and his ongoing commitment to performing.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "1 hurt in road rage shooting along I-77",
-       "url": "https://www.wsoctv.com/news/local/road-rage-shooting-under-investigation-along-i-77/ZE2XKMWMONFJNKRM3QZBN7ZBU4/",
+       "title": "Marlon Jackson reveals Stage 4 prostate cancer diagnosis",
+       "url": "https://www.wsoctv.com/news/trending/marlon-jackson-reveals-stage-4-prostate-cancer-diagnosis/OE6XWYXQ4ZAQHNR7C5VVXYBSCU/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-19",
-     "time": "10:27 PM",
-     "headline": "FORECAST: Pleasant weather gives way to uncertain storm track this weekend",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "date": "2026-11-20",
+     "time": "10:37 AM",
+     "headline": "Morning 3: College football player kicked off team after arrest in South Carolina -- and other news",
+     "summary": "Here are the top stories for the morning of Nov. 20, 2026",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Morning 3: College football player kicked off team after arrest in South Carolina -- and other news",
+       "url": "https://www.wbtv.com/2026/11/20/morning-3-college-football-player-kicked-off-team-after-arrest-south-carolina-other-news/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "10:37 AM",
+     "headline": "Charlotte nonprofit saves food from landfills to feed those in need",
+     "summary": "Every day, the team with Feeding Charlotte packs up and hits the road. They pick up food that’s going to be tossed, and instead, drive it over to a long list of nonprofits that could use it.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Pleasant weather gives way to uncertain storm track this weekend",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-pleasant-weather-gives-way-uncertain-storm-track-this-weekend/ZCHZB2PD2NHYVOGFXKEC3RXIBM/",
+       "title": "Charlotte nonprofit saves food from landfills to feed those in need",
+       "url": "https://www.wsoctv.com/news/local/charlotte-nonprofit-saves-food-landfills-feed-those-need/IMK66RSFQFFONGUDLQ752VYFCM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "10:37 AM",
+     "headline": "Mold discovery will shift two Avery County schools to remote learning after Thanksgiving",
+     "summary": "Two schools in Avery County have a mold issue.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Mold discovery will shift two Avery County schools to remote learning after Thanksgiving",
+       "url": "https://www.wsoctv.com/news/local/mold-discovery-will-shift-two-avery-county-schools-remote-learning-after-thanksgiving/FQCYG7VINBF6LAQPIYIDWXIQXY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "10:32 AM",
+     "headline": "Federal agents seize more than 21 kilograms of fentanyl in Charlotte",
+     "summary": "A 28-year-old Honduran national faces federal drug charges after law enforcement officers seized more than 21 kilograms of fentanyl in Charlotte, U.S. Attorney Russ Ferguson announced Friday.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Federal agents seize more than 21 kilograms of fentanyl in Charlotte",
+       "url": "https://www.wsoctv.com/news/local/federal-agents-seize-more-than-21-kilograms-fentanyl-charlotte/E3HROAEMKRHVFOAYIZKR5WZ6GQ/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "10:30 AM",
+     "headline": "Four people now charged in Scott Spivey investigation, including former HCPD officers",
+     "summary": "Two former Horry County officers at the center of the investigation into Scott Spivey’s death now face criminal charges tied to the handling of that investigation.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Four people now charged in Scott Spivey investigation, including former HCPD officers",
+       "url": "https://www.wbtv.com/2026/11/19/live-updates-hearing-begins-scott-spivey-case-after-indictments/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "10:25 AM",
+     "headline": "Aging is normal. Planning ahead keeps it from becoming a crisis",
+     "summary": "Aging is a normal process. Planning for it can ease uncertainty and help protect independence.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Aging is normal. Planning ahead keeps it from becoming a crisis",
+       "url": "https://www.wbtv.com/2026/11/20/aging-is-normal-planning-ahead-keeps-it-becoming-crisis/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "10:20 AM",
+     "headline": "Alexander County daycare director faces charge after child abuse allegations",
+     "summary": "A second arrest at a daycare in Alexander County involves allegations of abuse against a young child.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Alexander County daycare director faces charge after child abuse allegations",
+       "url": "https://www.wsoctv.com/news/local/alexander-county-daycare-director-faces-charge-after-child-abuse-allegations/WNZY3LTWDJAT3FUQVICY5Y3MA4/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "10:03 AM",
+     "headline": "Speeding driver killed in fiery west Charlotte crash after hitting tree, police say",
+     "summary": "The deadly single-vehicle wreck happened along Ashley Road near Andrew Jackson Highway.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Speeding driver killed in fiery west Charlotte crash after hitting tree, police say",
+       "url": "https://www.wbtv.com/2026/11/20/speeding-driver-killed-fiery-west-charlotte-crash-after-hitting-tree-police-say/",
        "bias": 0
       }
      ]
@@ -663,210 +663,210 @@
    "items": [
     {
      "date": "2026-11-20",
-     "time": "7:00 AM",
-     "headline": "GB's Davis Cup-winning captain ends 17-year stint",
-     "summary": "Leon Smith says helping Britain end a 79-year wait to win the Davis Cup is \"one of the proudest moments\" of his career.",
+     "time": "11:55 AM",
+     "headline": "Man Utd fan criticism has gone too far at times - Berrada",
+     "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "GB's Davis Cup-winning captain ends 17-year stint",
-       "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+       "title": "Man Utd fan criticism has gone too far at times - Berrada",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "6:58 AM",
-     "headline": "Another Scotland captain change after Darge injury blow",
-     "summary": "Scotland are forced into a late change for Saturday's Nations Championship visit by Japan after Rory Darge, who was due to captain the side, is ruled out through injury.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Another Scotland captain change after Darge injury blow",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5n4ey83wk9ko?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:37 AM",
-     "headline": "Wales face Slovenia in Nations League play-off",
-     "summary": "Wales will face Slovenia in a two-leg play-off next March to maintain their top-flight status in the Nations League.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Wales face Slovenia in Nations League play-off",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cmregwxvg2e0o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "6:00 AM",
-     "headline": "NFL Week 11 picks, best bets: 49ers over Vikings in prime time? Bengals cover vs. Commanders",
-     "summary": "Jordan Dajani gives his picks for Week 11 of the 2026 NFL season",
+     "time": "11:53 AM",
+     "headline": "UFC news: Tom Aspinall set for more eye tests in January, former title challenger gets three-month suspension",
+     "summary": "Aspinall has not fought since suffering the injury in October 2025 against Ciryl Gane",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "NFL Week 11 picks, best bets: 49ers over Vikings in prime time? Bengals cover vs. Commanders",
-       "url": "https://www.cbssports.com/nfl/news/nfl-week-11-picks-best-bets-49ers-vikings-bengals-commanders/",
+       "title": "UFC news: Tom Aspinall set for more eye tests in January, former title challenger gets three-month suspension",
+       "url": "https://www.cbssports.com/ufc/news/ufc-news-tom-aspinall-eye-injury-manon-fiorot-suspension/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:59 AM",
-     "headline": "CJ Stroud leads Texans to comfortable win over Colts",
-     "summary": "Quarterback CJ Stroud leads the Houston Texans to a comfortable 26-3 win over AFC South rivals Indianapolis Colts.",
+     "time": "11:51 AM",
+     "headline": "Stacked England aim to pile on style and add to All Black misery",
+     "summary": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "CJ Stroud leads Texans to comfortable win over Colts",
-       "url": "https://www.bbc.co.uk/sport/american-football/videos/cq8j403rxn2po?at_medium=RSS&at_campaign=rss",
+       "title": "Stacked England aim to pile on style and add to All Black misery",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:18 AM",
-     "headline": "UFC title contender Fiorot banned for three months",
-     "summary": "Highly ranked UFC flyweight Manon Fiorot is banned for three months for violating the promotion's anti-doping policy.",
+     "time": "11:46 AM",
+     "headline": "Top 10 catcher prospects for 2027 Fantasy baseball feature Rainiel Rodriguez, Leo Bernal and Ethan Salas",
+     "summary": "The prospect pool remains well stocked with catchers, even as the majors abound with young talent",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "UFC title contender Fiorot banned for three months",
-       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6808yxx71e0o?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Top 10 catcher prospects for 2027 Fantasy baseball feature Rainiel Rodriguez, Leo Bernal and Ethan Salas",
+       "url": "https://www.cbssports.com/fantasy/baseball/news/top-10-catcher-prospects-for-2027/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "5:13 AM",
-     "headline": "Cummins retains Cricket Australia support as captain",
-     "summary": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
+     "time": "11:33 AM",
+     "headline": "Fantasy football rankings, projections, lineups, sleepers for Week 11 from proven model",
+     "summary": "SportsLine's model reveals its Week 11 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Cummins retains Cricket Australia support as captain",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Fantasy football rankings, projections, lineups, sleepers for Week 11 from proven model",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineups-sleeper-picks-start-sit-advice-week-11-2026/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "4:38 AM",
-     "headline": "Rams star Nacua suspended for personal conduct violation",
-     "summary": "Puka Nacua is given a three-game suspension for violating the NFL's personal conduct policy, although the Los Angeles Rams wide receiver was already out injured.",
+     "time": "11:30 AM",
+     "headline": "MLB rumors: Yankees moves heating up, plus latest on Tarik Skubal, Padres, Mets, more",
+     "summary": "Here are the latest news and rumors in the MLB offseason on Friday, Nov. 20",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Rams star Nacua suspended for personal conduct violation",
-       "url": "https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "MLB rumors: Yankees moves heating up, plus latest on Tarik Skubal, Padres, Mets, more",
+       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-yankees-moves-heating-up-tarik-skubal-padres-mets/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "4:32 AM",
-     "headline": "Scots lose Super Six opening thriller to Dutch",
-     "summary": "Scotland fall to a final-over, seven-wicket defeat by the Netherlands in their opening match in the Super Six stage of the Women's Emerging Nations Trophy.",
+     "time": "11:30 AM",
+     "headline": "NBA One-Month Superlatives: MVP, top rookie, best surprise and fresh title predictions",
+     "summary": "CBS Sports' NBA experts are reviewing what's been an interesting month to kick off the 2026-27 NBA season",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Scots lose Super Six opening thriller to Dutch",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "NBA One-Month Superlatives: MVP, top rookie, best surprise and fresh title predictions",
+       "url": "https://www.cbssports.com/nba/news/nba-one-month-superlatives-mvp-rookie-surprise-title-predictions/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "4:20 AM",
-     "headline": "PWR title, England recall, Lions tour - ambitious Atkin-Davies returns",
-     "summary": "England and Bristol hooker Lark Atkin-Davies on her aims of winning a PWR title and making the Lions tour as she returns to the sport a new mum.",
+     "time": "11:28 AM",
+     "headline": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
+     "summary": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "PWR title, England recall, Lions tour - ambitious Atkin-Davies returns",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c90k65nrv26yo?at_medium=RSS&at_campaign=rss",
+       "title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "3:24 AM",
-     "headline": "EFL preview: Evans' gripes & unexpected departures",
-     "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+     "time": "11:27 AM",
+     "headline": "Mowbray support no surprise, says interim boss Johnson",
+     "summary": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "EFL preview: Evans' gripes & unexpected departures",
-       "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
+       "title": "Mowbray support no surprise, says interim boss Johnson",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "3:05 AM",
-     "headline": "Refereeing will never be perfect - Farrell",
-     "summary": "Ireland head coach Andy Farrell says refereeing in rugby is \"never going to be perfect\" because it is such a complex sport.",
+     "time": "11:15 AM",
+     "headline": "In Kansas City, Kenneth Walker III and the run game makes the Chiefs contenders again",
+     "summary": "One of the league's most explosive running backs has the Chiefs looking like their old Super Bowl-winning selves.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Refereeing will never be perfect - Farrell",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k80zjk2yo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "In Kansas City, Kenneth Walker III and the run game makes the Chiefs contenders again",
+       "url": "https://www.cbssports.com/nfl/news/in-kansas-city-kenneth-walker-iii-run-game-completely-transformed-chiefs-offense-super-bowl/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "2:42 AM",
-     "headline": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
-     "summary": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+     "time": "11:10 AM",
+     "headline": "What's next for the Twins? Three things Minnesota must do to make a postseason push in 2027 season",
+     "summary": "Minnesota has already signed Sonny Gray and brought back Ryan Jeffers, but there's more to be done",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "What's next for the Twins? Three things Minnesota must do to make a postseason push in 2027 season",
+       "url": "https://www.cbssports.com/mlb/news/whats-next-for-minnesota-twins-offseason-2027-season/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "2:26 AM",
-     "headline": "Moore eyes Kane shirt as Spurs' past and future stars meet",
-     "summary": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+     "time": "11:08 AM",
+     "headline": "Self-learning AI releases NFL picks, score predictions for every Week 11 game",
+     "summary": "SportsLine AI evaluated the Week 11 NFL odds and revealed its NFL score predictions and best NFL picks",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Self-learning AI releases NFL picks, score predictions for every Week 11 game",
+       "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-best-bets-for-week-11-2026/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-20",
-     "time": "2:08 AM",
-     "headline": "Too late for Jackson? - FPL gameweek 11 dilemmas",
-     "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+     "time": "11:03 AM",
+     "headline": "2026 Week 12 college football odds, spreads, betting lines, start times: Picks, best bets, CFB predictions",
+     "summary": "SportsLine's model has analyzed the Week 12 CFB schedule and locked in its Week 12 college football picks, predictions",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "2026 Week 12 college football odds, spreads, betting lines, start times: Picks, best bets, CFB predictions",
+       "url": "https://www.cbssports.com/betting/news/2026-week-12-college-football-odds-spreads-betting-lines-start-times-picks-best-bets-cfb-predictions/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:01 AM",
+     "headline": "We want to have a positive impact - Pochettino",
+     "summary": "Mauricio Pochettino talks for the first time about his arrival at Manchester United and what his goals are ahead of his first game.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+       "title": "We want to have a positive impact - Pochettino",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cw20xd2zgl0xo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "11:00 AM",
+     "headline": "10 games, 0 points & 30 goals conceded - Charlton's struggles explained",
+     "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "10 games, 0 points & 30 goals conceded - Charlton's struggles explained",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
