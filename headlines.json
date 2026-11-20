@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:03:57Z",
+ "generated_at": "2026-11-20T12:06:38Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,6 +13,34 @@
    "id": "world",
    "name": "World",
    "items": [
+    {
+     "date": "2026-11-20",
+     "time": "7:04 AM",
+     "headline": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+     "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+     "sources": [
+      {
+       "outlet": "NPR World",
+       "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+       "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "7:02 AM",
+     "headline": "U.S. and Israel considering new assault on Iran, sources say",
+     "summary": "Israel wants a new joint operation with the U.S. against Iran, but it's unclear whether President Trump is willing to resume military action, and if so, to what extent.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.S. and Israel considering new assault on Iran, sources say",
+       "url": "https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assault-sources-say/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-20",
      "time": "6:39 AM",
@@ -194,34 +222,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "5:16 AM",
-     "headline": "South Korea catches 111 students with new measures against exam cheating",
-     "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "South Korea catches 111 students with new measures against exam cheating",
-       "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "5:02 AM",
-     "headline": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-     "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -229,6 +229,62 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-20",
+     "time": "7:04 AM",
+     "headline": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+     "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+       "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "7:02 AM",
+     "headline": "U.S. and Israel considering new assault on Iran, sources say",
+     "summary": "Israel wants a new joint operation with the U.S. against Iran, but it's unclear whether President Trump is willing to resume military action, and if so, to what extent.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.S. and Israel considering new assault on Iran, sources say",
+       "url": "https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assault-sources-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "7:02 AM",
+     "headline": "Van Hollen scores support from another Dem amid Senate majority leader bid",
+     "summary": "Sen. Elissa Slotkin said she will back Sen. Chris Van Hollen for the Senate Democratic leadership role as he challenges Sen. Chuck Schumer.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Van Hollen scores support from another Dem amid Senate majority leader bid",
+       "url": "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "time": "7:00 AM",
+     "headline": "Just how vulnerable are we to cyberattacks?",
+     "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "Just how vulnerable are we to cyberattacks?",
+       "url": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-20",
      "time": "6:47 AM",
@@ -372,20 +428,6 @@
     {
      "date": "2026-11-20",
      "time": "5:00 AM",
-     "headline": "How exactly did Trump get so rich on crypto? We explain",
-     "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "How exactly did Trump get so rich on crypto? We explain",
-       "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "5:00 AM",
      "headline": "New York City unveils a bold plan to move its jails off Rikers Island",
      "summary": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
      "sources": [
@@ -393,48 +435,6 @@
        "outlet": "NPR",
        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
        "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "5:00 AM",
-     "headline": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-     "summary": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-       "url": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "5:00 AM",
-     "headline": "The nation’s cartoonists on the week in politics",
-     "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
-     "sources": [
-      {
-       "outlet": "Politico",
-       "title": "The nation’s cartoonists on the week in politics",
-       "url": "https://www.politico.com/gallery/2026/11/20/the-nations-cartoonists-on-the-week-in-politics-01177665",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "4:14 AM",
-     "headline": "The U.K. and EU hold a rare summit to strengthen ties",
-     "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "The U.K. and EU hold a rare summit to strengthen ties",
-       "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
        "bias": -1
       }
      ]
