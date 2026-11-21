@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:54:16Z",
+ "generated_at": "2026-11-21T16:52:59Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -15,192 +15,16 @@
    "items": [
     {
      "date": "2026-11-21",
-     "time": "6:33 AM",
-     "headline": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-     "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-       "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:13 AM",
-     "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:08 AM",
-     "headline": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
-     "summary": "Experts say BBLs and other cosmetic procedures can be risky and seasonal offers at clinics in England could make people rush decisions Clinics in England are promoting seasonal deals – including for Black Friday – on liquid Brazilian butt lifts (BBLs)…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
-       "url": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:04 AM",
-     "headline": "Migrants caravan in Mexico walks towards US border",
-     "summary": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Migrants caravan in Mexico walks towards US border",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:02 AM",
-     "headline": "Russian missiles hit Poland: What happened, and could NATO respond?",
-     "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-       "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:02 AM",
-     "headline": "Deadly fire engulfs power station in southern Iraq",
-     "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Deadly fire engulfs power station in southern Iraq",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:00 AM",
-     "headline": "Haitians excited but uneasy as El Salvador troops fight gangs",
-     "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
-       "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:00 AM",
-     "headline": "New Orleans Catholic clergy abuse survivors begin receiving payments from $305m bankruptcy settlement",
-     "summary": "Arrival of payments in contentious legal saga that began in 2020 is ‘a weight off my shoulders’, one survivor said Hundreds of clergy sexual abuse survivors have received more than half of the $305m bankruptcy settlement that the archdiocese of New Orleans…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "New Orleans Catholic clergy abuse survivors begin receiving payments from $305m bankruptcy settlement",
-       "url": "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:00 AM",
-     "headline": "Did Democrats fail Florida? Angie Nixon on ‘missed opportunity’ in midterms",
-     "summary": "The party invested in key battlegrounds, netting stunning wins at the expense of candidates in Florida and Louisiana To call it a blue wave, said the Florida governor, Ron DeSantis , would be an epic understatement.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Did Democrats fail Florida? Angie Nixon on ‘missed opportunity’ in midterms",
-       "url": "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:00 AM",
-     "headline": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
-     "summary": "Gen. Philip Breedlove says cutting the Kerch Bridge will severely damage Russia's ability to resupply Crimea as Kyiv lands three strikes in four days.",
+     "time": "9:28 AM",
+     "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "summary": "Denmark's PET accuses Russia of an assassination plot against Kyivstoner, expelling Moscow's defense attache as two gang-affiliated men plead guilty.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
-       "url": "https://www.foxnews.com/world/ukraine-deals-major-blow-putins-crimea-lifeline-european-intel-assessment-claims",
+       "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on Danish soil",
+       "url": "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil",
        "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:54 AM",
-     "headline": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-     "summary": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-       "url": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:38 AM",
-     "headline": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
-     "summary": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
-       "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:27 AM",
-     "headline": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
-     "summary": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
-       "url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:26 AM",
-     "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-     "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-     "sources": [
+      },
       {
        "outlet": "BBC News",
        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -211,14 +35,196 @@
     },
     {
      "date": "2026-11-21",
-     "time": "5:25 AM",
-     "headline": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
-     "summary": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
+     "time": "11:39 AM",
+     "headline": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+     "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:36 AM",
+     "headline": "International UN talks on controlling use of autonomous weapons collapse",
+     "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "International UN talks on controlling use of autonomous weapons collapse",
+       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:35 AM",
+     "headline": "FBI reportedly investigating apparent hack of its criminal database",
+     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "FBI reportedly investigating apparent hack of its criminal database",
+       "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:29 AM",
+     "headline": "The mysterious migration of monarch butterflies",
+     "summary": "Photographer Jaime Rojo says an iconic 1976 National Geographic cover showing monarch butterflies captivated him, inspiring his own photography. Rojo's new book \"Monarchs\" chronicles ways we can help save this beloved insect.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "The mysterious migration of monarch butterflies",
+       "url": "https://www.cbsnews.com/video/the-mysterious-migration-of-monarch-butterflies/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:14 AM",
+     "headline": "India’s opposition stages protests against Meta over account removals",
+     "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
-       "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+       "title": "India’s opposition stages protests against Meta over account removals",
+       "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:04 AM",
+     "headline": "Trump says he wants \"permanent\" deal with Iran",
+     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump says he wants \"permanent\" deal with Iran",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:03 AM",
+     "headline": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+     "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+       "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:01 AM",
+     "headline": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
+     "summary": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
+       "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:49 AM",
+     "headline": "US midterms 2026: What happens before the new Congress takes office?",
+     "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US midterms 2026: What happens before the new Congress takes office?",
+       "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:46 AM",
+     "headline": "French presidential candidate blames media for racist attack",
+     "summary": "",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "French presidential candidate blames media for racist attack",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:43 AM",
+     "headline": "Princess Kate announces she's in remission from cancer",
+     "summary": "Princess Kate made the announcement on social media after visiting the London hospital where she received treatment.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Princess Kate announces she's in remission from cancer",
+       "url": "https://www.cbsnews.com/news/kate-princess-of-wales-remission-cancer/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:35 AM",
+     "headline": "How China gets access to American AI chips",
+     "summary": "Jensen Huang resigned from his role as Nvidia CEO following an extramarital affair with a suspected Chinese spy. After the Nvidia scandal, China's access to American-made technology and advanced AI chips came under renewed scrutiny.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "How China gets access to American AI chips",
+       "url": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:32 AM",
+     "headline": "Britain's Princess Kate climbs 3 mountains in 24 hours for charity",
+     "summary": "The challenge was undertaken to raise awareness for a charity she has been involved with since her own cancer treatment.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Britain's Princess Kate climbs 3 mountains in 24 hours for charity",
+       "url": "https://www.cbsnews.com/news/royals-kate-princess-of-wales-3-peaks-challenge-uk-cancer-mountains/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:30 AM",
+     "headline": "Virginia child dies in state’s first measles-associated death of 2026",
+     "summary": "Death adds to national measles outbreak that recently cost the US its measles elimination status after 26 years Virginia reported its first measles-associated death of 2026 ⁠on Friday, involving a child who tested positive for the infectious disease, the…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Virginia child dies in state’s first measles-associated death of 2026",
+       "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
        "bias": -1
       }
      ]
@@ -229,6 +235,72 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-21",
+     "time": "8:58 AM",
+     "headline": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+     "summary": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+       "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+       "bias": -1
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+       "url": "https://abcnews.com/US/wireStory/federal-jury-convicts-man-starting-deadly-2025-palisades-138333574",
+       "bias": -1
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+       "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:53 AM",
+     "headline": "Mamdani's plan to close Rikers Island, revamp NYC jails",
+     "summary": "New York City Mayor Zohran Mamdani is moving forward with his plan to close Rikers Island and replace it with four smaller jails. Anna Schecter reports.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Mamdani's plan to close Rikers Island, revamp NYC jails",
+       "url": "https://www.cbsnews.com/video/mamdanis-plan-to-close-rikers-island-revamp-nyc-jails/",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Mamdani sets plan to close NYC's notorious Rikers Island jail",
+       "url": "https://abcnews.com/US/wireStory/mamdani-sets-plan-close-nycs-notorious-rikers-island-138314719",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:12 AM",
+     "headline": "Eye Opener: Man found guilty of starting Palisades fire",
+     "summary": "LOS ANGELES — Almost five months after a first trial ended in a mistrial, a jury found a man guilty of starting what would become the devastating 2025 Palisades Fire in Los Angeles that displaced thousands of people and became the most destructive wildfire in…",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Eye Opener: Man found guilty of starting Palisades fire",
+       "url": "https://www.cbsnews.com/video/eye-opener-man-found-guilty-of-starting-palisades-fire/",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
+       "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-21",
      "time": "4:39 AM",
@@ -251,196 +323,154 @@
     },
     {
      "date": "2026-11-21",
-     "time": "6:50 AM",
-     "headline": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
-     "summary": "Delicious menu suggestions from top chefs, cookbook authors, food writers, restaurateurs, and the editors of Food & Wine Magazine! Check out these recipes for the holidays, or any time!",
+     "time": "11:47 AM",
+     "headline": "NYC's \"Wayan\" pairs Indonesian cuisine with French technique",
+     "summary": "While training in Indonesia, Chef Cedric Vongerichten fell in love with the cuisine and his wife Ochi. The couple then opened \"Wayan,\" a Michelin-recommended French-Indonesian restaurant in New York City.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
-       "url": "https://www.cbsnews.com/news/sunday-morning-2026-food-issue-recipe-index/",
+       "title": "NYC's \"Wayan\" pairs Indonesian cuisine with French technique",
+       "url": "https://www.cbsnews.com/video/nycs-wayan-pairs-indonesian-cuisine-with-french-technique/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:44 AM",
-     "headline": "Recipe: Citrus-and-Butter Turkey",
-     "summary": "From the editors of Food & Wine: The secret to super-juicy meat and deliciously-crispy skin? (Hint: It involves a cheesecloth.)",
+     "time": "11:46 AM",
+     "headline": "Texas says an execution went as planned. A witness says screams showed 'tremendous distress'",
+     "summary": "Executions across the U.S. have garnered more attention since Christa Pike survived two doses of pentobarbital in Tennessee in September. The drug didn't enter her bloodstream correctly.",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Recipe: Citrus-and-Butter Turkey",
-       "url": "https://www.cbsnews.com/news/recipe-citrus-and-butter-turkey/",
+       "outlet": "PBS NewsHour",
+       "title": "Texas says an execution went as planned. A witness says screams showed 'tremendous distress'",
+       "url": "https://www.pbs.org/newshour/nation/texas-says-an-execution-went-as-planned-a-witness-says-screams-showed-tremendous-distress",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:43 AM",
-     "headline": "Recipe: Carla Hall's Spiced Cider-Glazed Ham",
-     "summary": "From the editors of Food & Wine: This holiday-worthy ham from Carla Hall glistens with a bourbon and brown sugar glaze as it fills the kitchen with a comforting aroma.",
+     "time": "11:41 AM",
+     "headline": "Kelsey Grammer celebrates America's 250th birthday in \"The America Opus\"",
+     "summary": "Emmy Award-winning actor Kelsey Grammer shares his love of American history and holidays. Grammer wrote the introduction to \"The America Opus,\" a new book celebrating 250 years of American history through archival photos and essays.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: Carla Hall's Spiced Cider-Glazed Ham",
-       "url": "https://www.cbsnews.com/news/recipe-carla-halls-spiced-cider-glazed-ham/",
+       "title": "Kelsey Grammer celebrates America's 250th birthday in \"The America Opus\"",
+       "url": "https://www.cbsnews.com/video/kelsey-grammer-celebrates-americas-250th-birthday-in-the-america-opus/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:42 AM",
-     "headline": "Recipe: French Onion Mac and Cheese",
-     "summary": "From the editors of Food & Wine: Move aside, breadcrumbs! Homemade Frenched onions take mac and cheese to the next level.",
+     "time": "11:29 AM",
+     "headline": "The mysterious migration of monarch butterflies",
+     "summary": "Photographer Jaime Rojo says an iconic 1976 National Geographic cover showing monarch butterflies captivated him, inspiring his own photography. Rojo's new book \"Monarchs\" chronicles ways we can help save this beloved insect.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: French Onion Mac and Cheese",
-       "url": "https://www.cbsnews.com/news/recipe-french-onion-mac-and-cheese/",
+       "title": "The mysterious migration of monarch butterflies",
+       "url": "https://www.cbsnews.com/video/the-mysterious-migration-of-monarch-butterflies/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:41 AM",
-     "headline": "Recipe: Orechiette with Brussels Sprouts & Pancetta",
-     "summary": "From Hitchcock Farms: A pasta dish recipe featuring one of their favorite vegetables.",
+     "time": "11:28 AM",
+     "headline": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+     "summary": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been curtailed.\"",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Recipe: Orechiette with Brussels Sprouts & Pancetta",
-       "url": "https://www.cbsnews.com/news/recipe-orechiette-with-brussels-sprouts-pancetta-hitchcock-farms/",
+       "outlet": "PBS NewsHour",
+       "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+       "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:40 AM",
-     "headline": "Recipe: Macaroni & Cheese by Good Culture",
-     "summary": "A creamy, flavorful and cheesy mac & cheese with a boost of protein from using cottage cheese.",
+     "time": "11:21 AM",
+     "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: Macaroni & Cheese by Good Culture",
-       "url": "https://www.cbsnews.com/news/recipe-macaroni-cheese-by-good-culture/",
+       "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+       "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:39 AM",
-     "headline": "Recipe: 'Fuskie Fried Crab and Shrimp Rice",
-     "summary": "James Beard Award-winner Sallie Ann Robinson, born and raised on Daufuskie Island off the coast of South Carolina, shares recipes that celebrate the culinary heritage of her Gullah and Indigenous American ancestors.",
+     "time": "11:20 AM",
+     "headline": "Kansas City Current, Washington Spirit players excited for NWSL final",
+     "summary": "Kansas City Current and Washington Spirit players look ahead to the National Women's Soccer League championship final.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: 'Fuskie Fried Crab and Shrimp Rice",
-       "url": "https://www.cbsnews.com/news/recipe-fuskie-fried-crab-and-shrimp-rice-sallie-ann-robinson/",
+       "title": "Kansas City Current, Washington Spirit players excited for NWSL final",
+       "url": "https://www.cbsnews.com/video/kansas-city-current-washington-spirit-players-excited-for-nwsl-final/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:38 AM",
-     "headline": "Recipe: Apple Cider Risotto with Bacon and Butternut Squash",
-     "summary": "From the editors of Food & Wine: Apple cider replaces white wine in this fall take on creamy butternut risotto.",
+     "time": "11:13 AM",
+     "headline": "Bon Appétit's tips for a perfect Thanksgiving gathering",
+     "summary": "Whether you're hosting Thanksgiving or enjoying the holiday as a guest, Bon Appétit editor-in-chief Jamila Robinson has some tips for you.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: Apple Cider Risotto with Bacon and Butternut Squash",
-       "url": "https://www.cbsnews.com/news/recipe-apple-cider-risotto-with-bacon-and-butternut-squash/",
+       "title": "Bon Appétit's tips for a perfect Thanksgiving gathering",
+       "url": "https://www.cbsnews.com/video/bon-apptits-tips-for-a-perfect-thanksgiving-gathering/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:37 AM",
-     "headline": "Recipe: Sea Island Okra Gumbo by Sallie Ann Robinson",
-     "summary": "The James Beard Award-winner, born and raised on Daufuskie Island off the coast of South Carolina, shares recipes that celebrate the culinary heritage of her Gullah and Indigenous American ancestors.",
+     "time": "11:11 AM",
+     "headline": "Second opinion saves career of pro athlete told to amputate leg",
+     "summary": "Doctors said his leg would need to be amputated. Here's how this athlete got back on the field after a rare diagnosis.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: Sea Island Okra Gumbo by Sallie Ann Robinson",
-       "url": "https://www.cbsnews.com/news/recipe-sea-island-okra-gumbo-by-sallie-ann-robinson/",
+       "title": "Second opinion saves career of pro athlete told to amputate leg",
+       "url": "https://www.cbsnews.com/news/henry-nell-knee-cancer-health-story/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:36 AM",
-     "headline": "Recipe: Sheet Pan Chicken, Brussels Sprouts & Acorn Squash",
-     "summary": "From Hitchcock Farms: This chicken entrée recipe offers a place of pride for one of their favorite vegetables.",
+     "time": "11:11 AM",
+     "headline": "Exclusive discounts from CBS Mornings Deals",
+     "summary": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: Sheet Pan Chicken, Brussels Sprouts & Acorn Squash",
-       "url": "https://www.cbsnews.com/news/recipe-sheet-pan-chicken-brussels-sprouts-acorn-squash-hitchcock-farms/",
+       "title": "Exclusive discounts from CBS Mornings Deals",
+       "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112126/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:35 AM",
-     "headline": "Recipe: Chai-Spiced Pumpkin Pie",
-     "summary": "From the editors of Food & Wine: Black tea and homemade chai masala give this silky pumpkin pie an aromatic depth, while a crisp gingersnap crust and pistachio-rose garnish make it ready for the holiday table.",
+     "time": "11:09 AM",
+     "headline": "More changes are coming for Southwest Airlines, CEO says",
+     "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Recipe: Chai-Spiced Pumpkin Pie",
-       "url": "https://www.cbsnews.com/news/recipe-chai-spiced-pumpkin-pie/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:34 AM",
-     "headline": "Recipe: Hastkaka (\"Speed Cake\")",
-     "summary": "Sofia Draco, who operates Bun Bun Bakery out of her home in Highland Park, Calif., offers \"Sunday Morning\" viewers a treasured family recipe.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Recipe: Hastkaka (\"Speed Cake\")",
-       "url": "https://www.cbsnews.com/news/recipe-hastkaka-speed-cake-sofia-draco-bun-bun-bakery/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:33 AM",
-     "headline": "Recipe: Nigella's Sticky Toffee Pudding",
-     "summary": "From the editors of Food & Wine: In her take on this iconic dessert, Nigella Lawson folds softened dates into a tender sponge cake that becomes irresistibly sticky after soaking up a rich brown sugar and molasses toffee sauce.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Recipe: Nigella's Sticky Toffee Pudding",
-       "url": "https://www.cbsnews.com/news/recipe-nigellas-sticky-toffee-pudding/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:32 AM",
-     "headline": "Recipe: Pecan Pie Bars",
-     "summary": "From the editors of Food & Wine: Pecan pie bars have all the virtues of pecan pie without the fuss of rolling out a crust — and they're great for feeding a crowd.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Recipe: Pecan Pie Bars",
-       "url": "https://www.cbsnews.com/news/recipe-pecan-pie-bars/",
+       "title": "More changes are coming for Southwest Airlines, CEO says",
+       "url": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says/",
        "bias": 0
       }
      ]
@@ -453,210 +483,210 @@
    "items": [
     {
      "date": "2026-11-21",
-     "time": "2:02 AM",
-     "headline": "Jalen Johnson scores 26 points with four steals as Hawks overcome slow start to beat Hornets 111-97",
-     "summary": "Jalen Johnson scored 26 points, Aaron Wiggins bailed out Atlanta’s depleted backcourt with 19 points and the Hawks overcame a slow start to beat the Charlotte Hornets 111-97 on Friday night in an NBA Cup game.",
+     "time": "10:31 AM",
+     "headline": "Former Mecklenburg County commissioner, ABC commissioner Norman Mitchell Sr. dies at 79",
+     "summary": "Former Mecklenburg County commissioner and North Carolina ABC commissioner Norman Mitchell, Sr. has died at age 79.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Jalen Johnson scores 26 points with four steals as Hawks overcome slow start to beat Hornets 111-97",
-       "url": "https://www.wbtv.com/2026/11/21/jalen-johnson-scores-26-points-with-four-steals-hawks-overcome-slow-start-beat-hornets-111-97/",
+       "outlet": "WSOC",
+       "title": "Former Mecklenburg County commissioner, ABC commissioner Norman Mitchell Sr. dies at 79",
+       "url": "https://www.wsoctv.com/news/local/former-mecklenburg-county-commissioner-norman-mitchell-sr-dies-79/BLO5NJE3YNEBPBOVCYFLAKQWRM/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:58 AM",
-     "headline": "Clemson’s QB rotation of Pearman and Denson, defense help the Tigers beat Duke 20-10",
-     "summary": "Trent Pearman and Chris Denson each ran for touchdowns while rotating at quarterback to help injury-hit Clemson beat Duke 20-10 to close their Atlantic Coast Conference schedule.",
+     "time": "10:13 AM",
+     "headline": "Man charged with murder after deadly shooting at Monroe convenience store, police say",
+     "summary": "Police say the shooting began with a physical altercation just before midnight.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Clemson’s QB rotation of Pearman and Denson, defense help the Tigers beat Duke 20-10",
-       "url": "https://www.wbtv.com/2026/11/21/clemsons-qb-rotation-pearman-denson-defense-help-tigers-beat-duke-20-10/",
+       "title": "Man charged with murder after deadly shooting at Monroe convenience store, police say",
+       "url": "https://www.wbtv.com/2026/11/21/man-charged-with-murder-after-deadly-shooting-monroe-convenience-store-police-say/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:16 AM",
-     "headline": "Football Friday Night Overtime: 3rd round of playoffs",
-     "summary": "What's next after third round of playoffs on Nov. 20, 2026",
+     "time": "10:00 AM",
+     "headline": "When the leaves take their time turning in Western NC",
+     "summary": "Climate change is a key factor in delaying when leaves change color. But western NC tourism economy can ill afford weak or late ‘leaf season.’",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "When the leaves take their time turning in Western NC",
+       "url": "https://www.wfae.org/energy-environment/2026-11-21/when-the-leaves-take-their-time-turning-in-western-nc",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:00 AM",
+     "headline": "Two legacies, one future: How Queens' and Elon's archives are navigating the merger",
+     "summary": "Queens University of Charlotte and Elon University's merger marks a new chapter in the legacy of both institutions. But as Queens looks toward the future, questions emerge about the history it carries — and the role its archives play in preserving it.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "Two legacies, one future: How Queens' and Elon's archives are navigating the merger",
+       "url": "https://www.wfae.org/education/2026-11-21/two-legacies-one-future-how-queens-and-elons-archives-are-navigating-the-merger",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "9:16 AM",
+     "headline": "Man accused of pouring toxic oil into woman’s Waffle House drink before child drank from it, reports say",
+     "summary": "A Florida man is accused of pouring essential oil into a woman’s Waffle House drink, which a child later drank from, according to multiple reports.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Football Friday Night Overtime: 3rd round of playoffs",
-       "url": "https://www.wbtv.com/2026/11/21/football-friday-night-overtime-3rd-round-playoffs/",
+       "title": "Man accused of pouring toxic oil into woman’s Waffle House drink before child drank from it, reports say",
+       "url": "https://www.wbtv.com/2026/11/21/man-accused-pouring-toxic-oil-into-womans-waffle-house-drink-before-child-drank-it-reports-say/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:11 AM",
-     "headline": "South Point outlasts Monroe 49-42 to advance to NCHSAA 5A Western Regional Semifinals",
-     "summary": "This win sets up a rematch with conference rival Crest on Nov. 27 to determine who will advance to the Western Regional Final next month.",
+     "time": "8:26 AM",
+     "headline": "CATS will offer free rides in West Microtransit Zone during Thanksgiving week",
+     "summary": "The Charlotte Area Transit System will offer free rides in its West Microtransit Zone from Monday, Nov. 23 through Sunday, Nov. 29.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "South Point outlasts Monroe 49-42 to advance to NCHSAA 5A Western Regional Semifinals",
-       "url": "https://www.wbtv.com/2026/11/21/south-point-outlasts-monroe-49-42-advance-nchsaa-5a-western-regional-semifinals/",
+       "outlet": "WSOC",
+       "title": "CATS will offer free rides in West Microtransit Zone during Thanksgiving week",
+       "url": "https://www.wsoctv.com/news/local/cats-will-offer-free-rides-west-microtransit-zone-during-thanksgiving-week/7VGP2H4XCJB67MQ24WKUXS5QTE/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:10 AM",
-     "headline": "Providence Day tops Rabun Gap 34-18 to capture NCISAA Division I state title",
-     "summary": "It's the fifth state championship for the Chargers in the last six seasons.",
+     "time": "8:14 AM",
+     "headline": "Jalon Walker provides holiday meals for nearly 400 families in Rowan County",
+     "summary": "NFL linebacker and former Big 22 Player of the Year Jalon Walker was back home in Rowan County to bless local families for the holidays.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Providence Day tops Rabun Gap 34-18 to capture NCISAA Division I state title",
-       "url": "https://www.wbtv.com/2026/11/21/providence-day-tops-rabun-gap-34-18-capture-ncisaa-division-i-state-title/",
+       "outlet": "WSOC",
+       "title": "Jalon Walker provides holiday meals for nearly 400 families in Rowan County",
+       "url": "https://www.wsoctv.com/news/local/jalon-walker-provides-holiday-meals-nearly-400-families-rowan-county/Q72NZZ366RCYJB2QG7L5R5BXBQ/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:10 AM",
-     "headline": "Community School of Davidson cruises past Cherryville 56-22 to reach NCHSAA 2A Western Regional Semifinals",
-     "summary": "This win sets up a rematch with conference rival Corvian next Friday to determine who will play in the Western Regional Final next month.",
+     "time": "8:01 AM",
+     "headline": "Street lights to be upgraded at intersection where 6-year-old was killed",
+     "summary": "New street lights will be added and existing ones upgraded at the east Charlotte intersection where a little girl was hit and killed last month.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Community School of Davidson cruises past Cherryville 56-22 to reach NCHSAA 2A Western Regional Semifinals",
-       "url": "https://www.wbtv.com/2026/11/21/community-school-davidson-cruises-past-cherryville-56-22-reach-nchsaa-2a-western-regional-semifinals/",
+       "outlet": "WSOC",
+       "title": "Street lights to be upgraded at intersection where 6-year-old was killed",
+       "url": "https://www.wsoctv.com/news/local/street-lights-be-upgraded-intersection-where-6-year-old-was-killed/F2R5ZCY7OJBYNFK74A5T5XOKNA/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:09 AM",
-     "headline": "Chambers punches ticket to 8A Western Regional Final with 15-8 win over Mallard Creek",
-     "summary": "The Cougars avenged their only loss of the season to set up a date with defending champion Hough next Friday.",
+     "time": "7:53 AM",
+     "headline": "Charlotte City Council will review possible changes to minimum housing code",
+     "summary": "Changes could be coming to Charlotte’s minimum housing code.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Chambers punches ticket to 8A Western Regional Final with 15-8 win over Mallard Creek",
-       "url": "https://www.wbtv.com/2026/11/21/chambers-punches-ticket-8a-western-regional-final-with-15-8-win-over-mallard-creek/",
+       "outlet": "WSOC",
+       "title": "Charlotte City Council will review possible changes to minimum housing code",
+       "url": "https://www.wsoctv.com/news/local/charlotte-city-council-will-review-possible-changes-minimum-housing-code/HR4WGNV6GFCK3MYLVVT3DXWNIU/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:09 AM",
-     "headline": "Lincolnton advances to regional semifinals with 68-33 win over North Stanly",
-     "summary": "The Wolves will travel to Walkertown after toppling the No. 1 seed in the 3A Western bracket.",
+     "time": "7:40 AM",
+     "headline": "Voting rights watchdog claims some provisional ballots were ignored",
+     "summary": "A longtime voting rights advocate and watchdog is calling on the State Board of Elections to direct the Mecklenburg County Board of Elections to review dozens of ballots that may not have been counted.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Lincolnton advances to regional semifinals with 68-33 win over North Stanly",
-       "url": "https://www.wbtv.com/2026/11/21/lincolnton-advances-regional-semifinals-with-68-33-win-over-north-stanly/",
+       "outlet": "WSOC",
+       "title": "Voting rights watchdog claims some provisional ballots were ignored",
+       "url": "https://www.wsoctv.com/news/local/voting-rights-watchdog-claims-some-provisional-ballots-were-ignored/SASPWQBQHJBQPGVR2TS46KI4ZM/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:08 AM",
-     "headline": "Hough routs West Forsyth 63-21 to return to 8A Western Regional Final",
-     "summary": "Hough will take on Chambers next Friday to determine who will advance to the state championship next month.",
+     "time": "7:37 AM",
+     "headline": "First Alert: Rainy weekend before a Thanksgiving week cooldown in the Carolinas",
+     "summary": "Storm system to impact coast, while inland impacts remain uncertain",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Hough routs West Forsyth 63-21 to return to 8A Western Regional Final",
-       "url": "https://www.wbtv.com/2026/11/21/hough-routs-west-forsyth-63-21-return-8a-western-regional-final/",
+       "title": "First Alert: Rainy weekend before a Thanksgiving week cooldown in the Carolinas",
+       "url": "https://www.wbtv.com/2026/11/21/first-alert-weekend-rain-returns-before-thanksgiving-week-rain-cooldown/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:08 AM",
-     "headline": "West Iredell’s magical season ends with 32-21 loss to West Stokes in third round",
-     "summary": "The Warriors finished 10-2 and captured the program's first conference title since 1986 this season.",
+     "time": "7:06 AM",
+     "headline": "One seriously injured following early Saturday morning crash on I-77",
+     "summary": "MEDIC says one person is in the hospital following a crash on I-77 in north Charlotte.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "West Iredell’s magical season ends with 32-21 loss to West Stokes in third round",
-       "url": "https://www.wbtv.com/2026/11/21/west-iredells-magical-season-ends-with-32-21-loss-west-stokes-third-round/",
+       "outlet": "WSOC",
+       "title": "One seriously injured following early Saturday morning crash on I-77",
+       "url": "https://www.wsoctv.com/news/local/one-seriously-injured-following-early-morning-crash-i-77/2VTNYR5BQFCJVOT5XSJGAECTPA/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:08 AM",
-     "headline": "Robinson rolls past West Rowan 35-0 to return to Western Regional Semifinals",
-     "summary": "The Bulldogs will look to reach the Western Regional Final for the first time since 2017 with a win next Friday.",
+     "time": "6:59 AM",
+     "headline": "Charlotte could see new e-bike rules",
+     "summary": "New rules may soon be coming for e-bike riders in Charlotte.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Robinson rolls past West Rowan 35-0 to return to Western Regional Semifinals",
-       "url": "https://www.wbtv.com/2026/11/21/robinson-rolls-past-west-rowan-35-0-return-western-regional-semifinals/",
+       "outlet": "WSOC",
+       "title": "Charlotte could see new e-bike rules",
+       "url": "https://www.wsoctv.com/news/local/charlotte-could-see-new-e-bike-rules/EHHAMIEWXJD2TOHCHHZR2LOVTQ/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:07 AM",
-     "headline": "Crest outlasts Oak Grove 17-10 to advance to NCHSAA 5A fourth round",
-     "summary": "The defending state champs will host conference rival South Point in the Western Regional Semifinal next Friday night.",
+     "time": "6:58 AM",
+     "headline": "Two men were arrested following a late-night shooting in Monroe",
+     "summary": "Officers in Monroe arrested two men following a shooting at Sammy’s Mini Mart shortly before midnight Friday night.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Crest outlasts Oak Grove 17-10 to advance to NCHSAA 5A fourth round",
-       "url": "https://www.wbtv.com/2026/11/21/crest-outlasts-oak-grove-17-10-advance-nchsaa-5a-fourth-round/",
+       "outlet": "WSOC",
+       "title": "Two men were arrested following a late-night shooting in Monroe",
+       "url": "https://www.wsoctv.com/news/local/two-men-were-arrested-following-late-night-shooting-monroe/5I6H3QHQGFEPRPBHIC4IARXFKI/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "1:06 AM",
-     "headline": "Chambers WR Malachi Gant breaks away for 50-yard touchdown in FFN Play of the Week",
-     "summary": "When Chambers needed a big play to take the lead over conference rival Mallard Creek in the third round of the 8A playoffs, Gant delivered.",
+     "time": "6:47 AM",
+     "headline": "FORECAST: Dry start before rain chances head our way",
+     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Chambers WR Malachi Gant breaks away for 50-yard touchdown in FFN Play of the Week",
-       "url": "https://www.wbtv.com/2026/11/21/chambers-wr-malachi-gant-breaks-away-50-yard-touchdown-ffn-play-week/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "1:04 AM",
-     "headline": "Lake Norman keeps perfect season alive with 42-7 win over Marvin Ridge",
-     "summary": "The win sets up a date with defending 7A champion Grimsley in the Western Regional Semifinal next Friday night.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Lake Norman keeps perfect season alive with 42-7 win over Marvin Ridge",
-       "url": "https://www.wbtv.com/2026/11/21/lake-norman-keeps-perfect-season-alive-with-42-7-win-over-marvin-ridge/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "1:01 AM",
-     "headline": "Watch: WBTV Football Friday Night game coverage - Nov. 20, 2026",
-     "summary": "Watch local high school football game coverage on Fridays",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Watch: WBTV Football Friday Night game coverage - Nov. 20, 2026",
-       "url": "https://www.wbtv.com/2026/11/19/live-stream-wbtv-football-friday-night-game-coverage-nov-20-2026/",
+       "outlet": "WSOC",
+       "title": "FORECAST: Dry start before rain chances head our way",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-dry-start-before-rain-chances-head-our-way/45MXY4U64BBABJ2FC6JHFD4AR4/",
        "bias": 0
       }
      ]
@@ -669,210 +699,210 @@
    "items": [
     {
      "date": "2026-11-21",
-     "time": "6:36 AM",
-     "headline": "Lehmann again denies knowing about sandpaper plot",
-     "summary": "Former Australia coach Darren Lehmann says he and his staff did not encourage players to use sandpaper on the ball in 2018 despite detailed claims by Cameron Bancroft.",
+     "time": "11:42 AM",
+     "headline": "Ex-captain Moody joins England in emotional haka response",
+     "summary": "Former England captain Lewis Moody joins the current team to face New Zealand's haka in an emotional start to Saturday's Test match at Allianz Stadium.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Lehmann again denies knowing about sandpaper plot",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go?at_medium=RSS&at_campaign=rss",
+       "title": "Ex-captain Moody joins England in emotional haka response",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5vg2ppp90w8o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "6:32 AM",
-     "headline": "Two SPFL postponements due to frozen pitch",
-     "summary": "Dunfermline's Championship match against Greenock Morton and Spartans' League Two game against Dumbarton have been postponed due to a frozen pitch.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Two SPFL postponements due to frozen pitch",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ckn80vgexz13o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:14 AM",
-     "headline": "Hickman breaks 16-year-old lap record in Macau win",
-     "summary": "Peter Hickman breaks the 16-year-old lap record for the Guia circuit in taking a fifth career win at the Macau motorcycle grand prix on Saturday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Hickman breaks 16-year-old lap record in Macau win",
-       "url": "https://www.bbc.co.uk/sport/motorsport/articles/ckr5gd36d669o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:00 AM",
-     "headline": "Stanford vs. California odds, college football picks: Use Polymarket promo code CBSSPORTS for $25 bonus",
-     "summary": "A historic rivalry takes place Saturday with the Cardinal visiting the Golden Bears",
+     "time": "11:33 AM",
+     "headline": "College basketball rankings: No. 25 Indiana dominates Kentucky as impressive start for Hoosiers continues",
+     "summary": "The Hoosiers remain at No. 25 after cruising past rival Kentucky and putting Mark Pope's squad in serious early-season trouble",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Stanford vs. California odds, college football picks: Use Polymarket promo code CBSSPORTS for $25 bonus",
-       "url": "https://www.cbssports.com/prediction/news/stanford-vs-california-odds-college-football-picks-use-polymarket-promo-code-cbssports-for-25-bonus/",
+       "title": "College basketball rankings: No. 25 Indiana dominates Kentucky as impressive start for Hoosiers continues",
+       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-top-25-and-1-indiana-dominates-kentucky/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "4:32 AM",
-     "headline": "Cummins' integrity not compromised - Cricket Australia",
-     "summary": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
+     "time": "11:28 AM",
+     "headline": "England beat New Zealand by record margin",
+     "summary": "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Cummins' integrity not compromised - Cricket Australia",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
+       "title": "England beat New Zealand by record margin",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "4:10 AM",
-     "headline": "Harden passes Bryant for 50-point games",
-     "summary": "James Harden moves third on the all-time list for 50-point NBA games as the Cleveland Cavaliers beat the Indiana Pacers 128-119 in the NBA Cup.",
+     "time": "11:23 AM",
+     "headline": "McConnell shines as 11-try Scotland dismantle Japan",
+     "summary": "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Harden passes Bryant for 50-point games",
-       "url": "https://www.bbc.co.uk/sport/basketball/articles/cwx2e8y1lr8lo?at_medium=RSS&at_campaign=rss",
+       "title": "McConnell shines as 11-try Scotland dismantle Japan",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "3:13 AM",
-     "headline": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
-     "summary": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "2:37 AM",
-     "headline": "Wales hungry to show they are not one-hit wonders",
-     "summary": "Wales must kick on when they host Australia in the Nations Championship on Saturday, fresh from making history against New Zealand.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Wales hungry to show they are not one-hit wonders",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83rj3v9zmo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "2:00 AM",
-     "headline": "The story of how golf balls got their dimples",
-     "summary": "Engineer William Taylor took up golf as a hobby to relax - then changed the sport, experts say.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "The story of how golf balls got their dimples",
-       "url": "https://www.bbc.co.uk/news/articles/cw62yy6vx8v6o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "1:50 AM",
-     "headline": "Who am I? Plus today's other quizzes",
-     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Who am I? Plus today's other quizzes",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "1:35 AM",
-     "headline": "Athlete who lost hand saving friends in attack 'would do it again'",
-     "summary": "Ismael Ox was 11 years old when he lost his hand trying to protect his friends from a grenade - and now competes in Para-taekwondo for the USA.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Athlete who lost hand saving friends in attack 'would do it again'",
-       "url": "https://www.bbc.co.uk/sport/taekwondo/articles/crpdwljj0v89o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "1:17 AM",
-     "headline": "Jeers, injuries and doubters - White's journey back to the top",
-     "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Jeers, injuries and doubters - White's journey back to the top",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "12:54 AM",
-     "headline": "Antonelli fastest but penalty leaves Verstappen on pole",
-     "summary": "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Antonelli fastest but penalty leaves Verstappen on pole",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-20",
-     "time": "8:37 PM",
-     "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
-     "summary": "Indy has put themselves in a very tough spot after sitting on the fence at the deadline.",
+     "time": "11:22 AM",
+     "headline": "MLB rumors: Freddy Peralta market picking up steam, top Japanese pitcher visits Chicago, more",
+     "summary": "Here are the latest news and rumors in the MLB offseason on Saturday, Nov. 21",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
-       "url": "https://www.cbssports.com/nfl/news/colts-daniel-jones-not-trading-qb-jonathan-taylor-deadline-major-second-guess/",
+       "title": "MLB rumors: Freddy Peralta market picking up steam, top Japanese pitcher visits Chicago, more",
+       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-freddy-peralta-hiromi-itoh-mark-vientos-mets-cubs-white-sox/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-20",
-     "time": "8:31 PM",
-     "headline": "Fantasy Baseball Offseason Tracker: Royce Lewis provides depth for Dodgers' aging infield",
-     "summary": "Here's a rundown of the offseason moves that matter",
+     "date": "2026-11-21",
+     "time": "11:19 AM",
+     "headline": "Mark Pope misses again by pointing to Kentucky's lack of experience after loss to Indiana",
+     "summary": "Pope said his team is a \"young team in terms of Division I experience,\" but here's why that claim is wrong",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Fantasy Baseball Offseason Tracker: Royce Lewis provides depth for Dodgers' aging infield",
-       "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-royce-lewis-provides-depth-for-dodgers-aging-infield/",
+       "title": "Mark Pope misses again by pointing to Kentucky's lack of experience after loss to Indiana",
+       "url": "https://www.cbssports.com/college-basketball/news/mark-pope-kentucky-indiana-hot-seat/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:15 AM",
+     "headline": "Kalshi promo code CBSSPORTS55: Claim $55 bonus for UCLA-Michigan, SMU-Notre Dame, college football predictions",
+     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Saturday's games",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Kalshi promo code CBSSPORTS55: Claim $55 bonus for UCLA-Michigan, SMU-Notre Dame, college football predictions",
+       "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-claim-55-bonus-for-ucla-michigan-smu-notre-dame-college-football-predictions/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:15 AM",
+     "headline": "BYU vs. Kansas prediction, odds, time: 2026 college football Week 12 picks from proven model",
+     "summary": "SportsLine's model revealed its best bets for Saturday's Big 12 contest between the BYU Cougars and the Kansas Jayhawks",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "BYU vs. Kansas prediction, odds, time: 2026 college football Week 12 picks from proven model",
+       "url": "https://www.cbssports.com/betting/news/byu-kansas-prediction-odds-time-2026-week-12-college-football-picks-best-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:14 AM",
+     "headline": "Use FanDuel promo code to get $200 bonus bets by targeting TCU-Utah, Georgia-South Carolina, college football",
+     "summary": "Sign up and bet with the latest FanDuel promo code on Saturday to get your bonus bets",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Use FanDuel promo code to get $200 bonus bets by targeting TCU-Utah, Georgia-South Carolina, college football",
+       "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-tcu-utah-georgia-south-carolina-college-football/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:08 AM",
+     "headline": "Superb England run up record win over New Zealand",
+     "summary": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Superb England run up record win over New Zealand",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:07 AM",
+     "headline": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for Miami-Virginia Tech, LSU-Tennessee, college football",
+     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on college football action Saturday in Week 12",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for Miami-Virginia Tech, LSU-Tennessee, college football",
+       "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-receive-55-bonus-miami-virginia-tech-lsu-tennessee-college-football/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:07 AM",
+     "headline": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+     "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:00 AM",
+     "headline": "UFC Fight Night predictions -- Jiri Prochazka vs. Navajo Stirling: Fight card, odds and expert picks in Qatar",
+     "summary": "The pair of light heavyweights headline a loaded fight card featuring 11 ranked fighters in Qatar",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "UFC Fight Night predictions -- Jiri Prochazka vs. Navajo Stirling: Fight card, odds and expert picks in Qatar",
+       "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-card-jiri-prochazka-navajo-stirling-predictions-odds/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:59 AM",
+     "headline": "SportsLine Newsletter November 21, 2026",
+     "summary": "Saturday Betting Guide: How to pick CFB Week 12, the Las Vegas Grand Prix and more",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "SportsLine Newsletter November 21, 2026",
+       "url": "https://www.cbssports.com/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "10:57 AM",
+     "headline": "Week 11 NFL betting promos: Get almost $4,000 in bonuses from betting apps, sportsbooks for Sunday's games",
+     "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Week 11 NFL betting promos: Get almost $4,000 in bonuses from betting apps, sportsbooks for Sunday's games",
+       "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-almost-4000-in-bonuses-betting-apps-sportsbooks-sundays-games/",
        "bias": 0
       }
      ]
