@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-11-21T22:49:16Z",
+ "generated_at": "2026-11-21T22:51:19Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
@@ -68,20 +70,6 @@
        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
        "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:41 PM",
-     "headline": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-     "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition Get our breaking news email , free app or daily news podcast An on-duty police officer has been shot and a man…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-       "bias": -1
       }
      ]
     },
@@ -238,6 +226,20 @@
        "bias": 0
       }
      ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:02 PM",
+     "headline": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+     "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+       "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+       "bias": -1
+      }
+     ]
     }
    ]
   },
@@ -274,6 +276,26 @@
        "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
        "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:40 PM",
+     "headline": "Trump orders federal contractors to check with White House before responding to Congress",
+     "summary": "The order is the Republican administration's latest effort to resist what are expected to be wide-ranging and aggressive oversight efforts from Democrats when they take over Congress in January.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "Trump orders federal contractors to check with White House before responding to Congress",
+       "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+       "bias": -1
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Trump orders federal contractors to check with White House before responding to Congress",
+       "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+       "bias": 0
       }
      ]
     },
@@ -480,20 +502,6 @@
        "title": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
        "url": "https://www.pbs.org/newshour/health/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp%e2%80%911-medication",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "2:46 PM",
-     "headline": "US senator says Pentagon restrictions on Canada focus on think tanks and social events",
-     "summary": "A Republican senator says Pentagon restrictions on Canada largely target U.S. military officials’ participation in think tank events and social engagements rather than military operations or intelligence sharing",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "US senator says Pentagon restrictions on Canada focus on think tanks and social events",
-       "url": "https://abcnews.com/US/wireStory/us-senator-pentagon-restrictions-canada-focus-tanks-social-138347622",
-       "bias": -1
       }
      ]
     }
@@ -721,26 +729,6 @@
    "items": [
     {
      "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "Titans DL Harrell hospitalized after car accident in Tampa",
-     "summary": "The Titans said edge defender Jaylen Harrell remains hospitalized and is receiving care after a serious car accident Friday night in his hometown of Tampa",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Titans DL Harrell hospitalized after car accident in Tampa",
-       "url": "https://www.espn.com/nfl/story/_/id/50551434/titans-dl-jaylen-harrell-hospitalized-car-accident-tampa",
-       "bias": 0
-      },
-      {
-       "outlet": "CBS Sports",
-       "title": "Titans' Jaylen Harrell hospitalized after serious car accident, remains in hospital in Tampa",
-       "url": "https://www.cbssports.com/nfl/news/titans-jaylen-harrell-car-accident-hospital-tampa/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
      "time": "6:52 PM",
      "headline": "Watch all 29 of Saturday's Scottish Premiership goals",
      "summary": "Highlights from a full Scottish Premiership fixture card.",
@@ -755,14 +743,14 @@
     },
     {
      "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "'This one is for them': Huskers dedicate streak-snapping win over Ohio State to fans",
-     "summary": "Nebraska broke its 31-game losing streak against AP Top 25 opponents with a 31-28 victory over No. 16 Ohio State on Saturday.",
+     "time": "5:50 PM",
+     "headline": "Alcaraz to face Zverev in ATP Finals title decider",
+     "summary": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "'This one is for them': Huskers dedicate streak-snapping win over Ohio State to fans",
-       "url": "https://www.espn.com/college-football/story/_/id/50553426/nebraska-snaps-ap-top-25-losing-skid-upsets-ohio-state",
+       "outlet": "BBC Sport",
+       "title": "Alcaraz to face Zverev in ATP Finals title decider",
+       "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
@@ -770,97 +758,13 @@
     {
      "date": "2026-11-21",
      "time": "5:37 PM",
-     "headline": "New Cardinals QB Johnson, on 15th team, set to start with Beck out",
-     "summary": "Cardinals rookie quarterback Carson Beck has been downgraded to out, paving the way for 40-year-old Josh Johnson to start against the Chiefs.",
+     "headline": "Highlights: Wallabies edge Wales in Cardiff",
+     "summary": "Watch the best of the action as Australia edge Wales in Cardiff",
      "sources": [
       {
-       "outlet": "ESPN",
-       "title": "New Cardinals QB Johnson, on 15th team, set to start with Beck out",
-       "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "BYU survives 3OT thriller against Kansas to retain CFP hopes",
-     "summary": "Bear Bachmeier connected with Jojo Phillips in the back of the end zone in the third overtime, helping No. 10 BYU beat Kansas to keep its CFP hopes alive.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "BYU survives 3OT thriller against Kansas to retain CFP hopes",
-       "url": "https://www.espn.com/college-football/story/_/id/50553754/byu-retains-cfp-hopes-beats-kansas-triple-over",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "PSG star Doué 'sad' and 'worried' after suffering 'serious' knee injury",
-     "summary": "PSG forward Désiré Doué was carried off on a stretcher with a serious knee injury late in the first half of the team's 3-2 win at Nice in Ligue 1 on Saturday.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "PSG star Doué 'sad' and 'worried' after suffering 'serious' knee injury",
-       "url": "https://www.espn.com/soccer/story/_/id/50554155/psg-desire-doue-injury-nice-knee",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "Mets, CF Ewing agree on 8-year, $95M extension, sources say",
-     "summary": "The Mets and 22-year-old center fielder A.J. Ewing have agreed to an eight-year, $95 million contract extension, sources confirmed to ESPN.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Mets, CF Ewing agree on 8-year, $95M extension, sources say",
-       "url": "https://www.espn.com/mlb/story/_/id/50552088/mets-aj-ewing-reach-8-year-95m-extension-sources-say",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "Steelers activate WR Wilson off IR for Eagles game",
-     "summary": "The Steelers have activated wide receiver Roman Wilson from injured reserve ahead of Sunday's game against the Eagles.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Steelers activate WR Wilson off IR for Eagles game",
-       "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "Raiders owner Davis upset by 'Madden' version of his father: 'Totally unfair'",
-     "summary": "Saying \"I did the best I could to protect him,\" Raiders owner Mark Davis expressed frustration with the depiction of his father, the late Al Davis, in the new movie \"Madden.\"",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Raiders owner Davis upset by 'Madden' version of his father: 'Totally unfair'",
-       "url": "https://www.espn.com/nfl/story/_/id/50549761/mark-davis-upset-father-portrayal-movie-madden",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "🔮 NFL Week 11 crystal ball: Predictions on upsets, TD scorers, more",
-     "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "🔮 NFL Week 11 crystal ball: Predictions on upsets, TD scorers, more",
-       "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
+       "outlet": "BBC Sport",
+       "title": "Highlights: Wallabies edge Wales in Cardiff",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cjwy57n2rqwyo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
@@ -931,6 +835,104 @@
        "outlet": "BBC Sport",
        "title": "France secure Nations Championship final with Springboks",
        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:51 PM",
+     "headline": "Rising star Stirling knocks out Prochazka",
+     "summary": "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Rising star Stirling knocks out Prochazka",
+       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:39 PM",
+     "headline": "UFC Fight Night takeaways: Navajo Stirling emerging as a star, Kevin Vallejos closing in on title shot",
+     "summary": "Saturday's action in Doha provided plenty of interesting talking points heading toward the end of the year",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "UFC Fight Night takeaways: Navajo Stirling emerging as a star, Kevin Vallejos closing in on title shot",
+       "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-qatar-results-takeaways-navajo-stirling-kevin-vallejos-brian-ortega/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:31 PM",
+     "headline": "College Football Playoff bubble: Where Ohio State, Wake Forest, BYU, others stand after Week 12 upsets",
+     "summary": "Expect some major movement on the bubble next week after some surprising Week 12 results",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College Football Playoff bubble: Where Ohio State, Wake Forest, BYU, others stand after Week 12 upsets",
+       "url": "https://www.cbssports.com/college-football/news/college-football-playoff-bubble-watch-teams-week-12-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:27 PM",
+     "headline": "Ryan Day buyout, contract details: How much it would cost Ohio State to fire coach after 4th loss in 2026",
+     "summary": "Day finds himself under fire again in Columbus after a fourth loss of the season at Nebraska",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Ryan Day buyout, contract details: How much it would cost Ohio State to fire coach after 4th loss in 2026",
+       "url": "https://www.cbssports.com/college-football/news/ryan-day-buyout-contract-ohio-state-coach/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:14 PM",
+     "headline": "Raya set to have scan on injury - how much would Arsenal miss him?",
+     "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+       "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:10 PM",
+     "headline": "Fantasy football rankings Week 11: David Montgomery poised to shine as bye weeks force tough lineup decisions",
+     "summary": "Injuries, shifting roles and tough matchups complicate Week 11 Fantasy lineup decisions, making every start/sit call crucial",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy football rankings Week 11: David Montgomery poised to shine as bye weeks force tough lineup decisions",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-11-david-montgomery-poised-to-shine/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:06 PM",
+     "headline": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
+     "summary": "Curry isn't going to win the award for a number of reasons, but his absence is speaking volumes right now",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
+       "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-absence-nba-mvp-warriors/",
        "bias": 0
       }
      ]
