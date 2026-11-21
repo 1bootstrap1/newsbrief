@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:51:19Z",
+ "generated_at": "2026-11-21T11:54:16Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,20 +13,6 @@
    "id": "world",
    "name": "World",
    "items": [
-    {
-     "date": "2026-11-21",
-     "time": "6:35 AM",
-     "headline": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-     "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-       "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
     {
      "date": "2026-11-21",
      "time": "6:33 AM",
@@ -222,6 +208,20 @@
        "bias": 0
       }
      ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:25 AM",
+     "headline": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+     "summary": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+       "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+       "bias": -1
+      }
+     ]
     }
    ]
   },
@@ -246,6 +246,20 @@
        "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
        "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "6:50 AM",
+     "headline": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
+     "summary": "Delicious menu suggestions from top chefs, cookbook authors, food writers, restaurateurs, and the editors of Food & Wine Magazine! Check out these recipes for the holidays, or any time!",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
+       "url": "https://www.cbsnews.com/news/sunday-morning-2026-food-issue-recipe-index/",
+       "bias": 0
       }
      ]
     },
@@ -427,20 +441,6 @@
        "outlet": "CBS News",
        "title": "Recipe: Pecan Pie Bars",
        "url": "https://www.cbsnews.com/news/recipe-pecan-pie-bars/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:31 AM",
-     "headline": "Recipe: Viral Cottage Cheese Ice Cream",
-     "summary": "From Good Culture: The foodies of Instagram and TikTok have promoted cottage cheese ice cream, and now it's our turn!",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Recipe: Viral Cottage Cheese Ice Cream",
-       "url": "https://www.cbsnews.com/news/recipe-viral-cottage-cheese-ice-cream/",
        "bias": 0
       }
      ]
