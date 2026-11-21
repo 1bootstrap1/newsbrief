@@ -1,18 +1,56 @@
 {
- "generated_at": "2026-11-21T16:56:38Z",
+ "generated_at": "2026-11-21T22:49:16Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 19,
+  "ok": 20,
   "total": 20,
-  "failed": [
-   "ESPN (sports): empty response"
-  ]
+  "failed": []
  },
  "sections": [
   {
    "id": "world",
    "name": "World",
    "items": [
+    {
+     "date": "2026-11-21",
+     "time": "3:30 PM",
+     "headline": "Trump says he wants \"permanent\" deal with Iran",
+     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump says he wants \"permanent\" deal with Iran",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+       "bias": 0
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "12:46 PM",
+     "headline": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+     "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+       "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+       "bias": -1
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+       "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-21",
      "time": "9:28 AM",
@@ -35,105 +73,119 @@
     },
     {
      "date": "2026-11-21",
-     "time": "11:39 AM",
-     "headline": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-     "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of…",
+     "time": "5:41 PM",
+     "headline": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+     "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition Get our breaking news email , free app or daily news podcast An on-duty police officer has been shot and a man…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+       "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:36 AM",
-     "headline": "International UN talks on controlling use of autonomous weapons collapse",
-     "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am…",
+     "time": "5:30 PM",
+     "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+     "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "International UN talks on controlling use of autonomous weapons collapse",
-       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+       "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:35 AM",
-     "headline": "FBI reportedly investigating apparent hack of its criminal database",
-     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+     "time": "5:19 PM",
+     "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "FBI reportedly investigating apparent hack of its criminal database",
-       "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:29 AM",
-     "headline": "The mysterious migration of monarch butterflies",
-     "summary": "Photographer Jaime Rojo says an iconic 1976 National Geographic cover showing monarch butterflies captivated him, inspiring his own photography. Rojo's new book \"Monarchs\" chronicles ways we can help save this beloved insect.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "The mysterious migration of monarch butterflies",
-       "url": "https://www.cbsnews.com/video/the-mysterious-migration-of-monarch-butterflies/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:14 AM",
-     "headline": "India’s opposition stages protests against Meta over account removals",
-     "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
+     "time": "5:02 PM",
+     "headline": "Bahrain says Iranian attack hits industrial facility",
+     "summary": "",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "India’s opposition stages protests against Meta over account removals",
-       "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+       "title": "Bahrain says Iranian attack hits industrial facility",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:04 AM",
-     "headline": "Trump says he wants \"permanent\" deal with Iran",
-     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+     "time": "5:01 PM",
+     "headline": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+     "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Trump says he wants \"permanent\" deal with Iran",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:03 AM",
-     "headline": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-     "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-       "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+       "outlet": "NPR World",
+       "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+       "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:01 AM",
+     "time": "5:01 PM",
+     "headline": "Highlights and challenges from covering an historic month in South America",
+     "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+     "sources": [
+      {
+       "outlet": "NPR World",
+       "title": "Highlights and challenges from covering an historic month in South America",
+       "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:01 PM",
+     "headline": "A grieving family in Lebanon returns to their village",
+     "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+     "sources": [
+      {
+       "outlet": "NPR World",
+       "title": "A grieving family in Lebanon returns to their village",
+       "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:01 PM",
+     "headline": "Lock of former US President George Washington's hair sells for $4,000",
+     "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Lock of former US President George Washington's hair sells for $4,000",
+       "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:57 PM",
      "headline": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
      "summary": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
      "sources": [
@@ -147,85 +199,43 @@
     },
     {
      "date": "2026-11-21",
-     "time": "10:49 AM",
-     "headline": "US midterms 2026: What happens before the new Congress takes office?",
-     "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "US midterms 2026: What happens before the new Congress takes office?",
-       "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:46 AM",
-     "headline": "French presidential candidate blames media for racist attack",
+     "time": "4:11 PM",
+     "headline": "Impunity fuels surge in settler violence across occupied West Bank",
      "summary": "",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "French presidential candidate blames media for racist attack",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+       "title": "Impunity fuels surge in settler violence across occupied West Bank",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "10:43 AM",
-     "headline": "Princess Kate announces she's in remission from cancer",
-     "summary": "Princess Kate made the announcement on social media after visiting the London hospital where she received treatment.",
+     "time": "4:09 PM",
+     "headline": "Indian man jailed over plot to kill Sikh separatist in US",
+     "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Princess Kate announces she's in remission from cancer",
-       "url": "https://www.cbsnews.com/news/kate-princess-of-wales-remission-cancer/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:35 AM",
-     "headline": "How China gets access to American AI chips",
-     "summary": "Jensen Huang resigned from his role as Nvidia CEO following an extramarital affair with a suspected Chinese spy. After the Nvidia scandal, China's access to American-made technology and advanced AI chips came under renewed scrutiny.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "How China gets access to American AI chips",
-       "url": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:32 AM",
-     "headline": "Britain's Princess Kate climbs 3 mountains in 24 hours for charity",
-     "summary": "The challenge was undertaken to raise awareness for a charity she has been involved with since her own cancer treatment.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Britain's Princess Kate climbs 3 mountains in 24 hours for charity",
-       "url": "https://www.cbsnews.com/news/royals-kate-princess-of-wales-3-peaks-challenge-uk-cancer-mountains/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:30 AM",
-     "headline": "Virginia child dies in state’s first measles-associated death of 2026",
-     "summary": "Death adds to national measles outbreak that recently cost the US its measles elimination status after 26 years Virginia reported its first measles-associated death of 2026 ⁠on Friday, involving a child who tested positive for the infectious disease, the…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Virginia child dies in state’s first measles-associated death of 2026",
-       "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+       "outlet": "Al Jazeera",
+       "title": "Indian man jailed over plot to kill Sikh separatist in US",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:05 PM",
+     "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
       }
      ]
     }
@@ -258,6 +268,72 @@
        "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
        "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
        "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
+       "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:20 PM",
+     "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+     "summary": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+       "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+       "bias": 0
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Trump vows to work with Democrats to cap credit card interest rates",
+       "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "3:55 PM",
+     "headline": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+     "summary": "The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history…",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+       "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "FBI investigating apparent hack of a key criminal justice information database, AP source says",
+       "url": "https://abcnews.com/US/wireStory/fbi-investigating-apparent-hack-key-criminal-justice-information-138345950",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "2:13 PM",
+     "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+     "summary": "Fausto Isidro Meza Flores was one of the FBI's 10 most wanted fugitives. He climbed the cartel ranks to lead the Beltrán Leyva cartel and later became the leader of his own group, the Meza-Flores Transnational Criminal Organization.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+       "url": "https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa",
+       "bias": 0
+      },
+      {
+       "outlet": "NPR",
+       "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+       "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+       "bias": -1
       }
      ]
     },
@@ -283,195 +359,141 @@
     },
     {
      "date": "2026-11-21",
-     "time": "10:12 AM",
-     "headline": "Eye Opener: Man found guilty of starting Palisades fire",
-     "summary": "LOS ANGELES — Almost five months after a first trial ended in a mistrial, a jury found a man guilty of starting what would become the devastating 2025 Palisades Fire in Los Angeles that displaced thousands of people and became the most destructive wildfire in…",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Eye Opener: Man found guilty of starting Palisades fire",
-       "url": "https://www.cbsnews.com/video/eye-opener-man-found-guilty-of-starting-palisades-fire/",
-       "bias": 0
-      },
-      {
-       "outlet": "NBC News",
-       "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
-       "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:39 AM",
-     "headline": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-     "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
+     "time": "5:43 PM",
+     "headline": "San Francisco braces for massive tides, mayor urges residents to reconsider travel",
+     "summary": "Scattered rain is exacerbating the impacts of historic flooding across central Florida, as Northern California braces for an unprecedented deluge accompanied by high tides ahead of the Thanksgiving holiday",
      "sources": [
       {
        "outlet": "ABC News",
-       "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-       "url": "https://abcnews.com/US/wireStory/nations-talks-ai-killer-robots-agree-talks-firm-138339624",
+       "title": "San Francisco braces for massive tides, mayor urges residents to reconsider travel",
+       "url": "https://abcnews.com/US/wireStory/san-francisco-braces-massive-tides-mayor-urges-residents-138349973",
        "bias": -1
-      },
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:39 PM",
+     "headline": "At least four injured after rapper OsamaSon’s New York show",
+     "summary": "At least four people were injured following rapper OsamaSon’s concert in New York City on Thursday evening, police said.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "At least four injured after rapper OsamaSon’s New York show",
+       "url": "https://www.nbcnews.com/news/us-news/least-four-injured-rapper-osamasons-new-york-show-rcna610614",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:30 PM",
+     "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+     "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+       "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:10 PM",
+     "headline": "Lock of George Washington's hair sells at auction for $4,000",
+     "summary": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Lock of George Washington's hair sells at auction for $4,000",
+       "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:57 PM",
+     "headline": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
+     "summary": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
+       "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:22 PM",
+     "headline": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+     "summary": "U.S. Immigration and Customs Enforcement arrested a Princeton University Ph.D.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+       "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "3:37 PM",
+     "headline": "Bayer reaches Roundup settlement that could cost the company billions",
+     "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
+     "sources": [
       {
        "outlet": "NPR",
-       "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-       "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+       "title": "Bayer reaches Roundup settlement that could cost the company billions",
+       "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:47 AM",
-     "headline": "NYC's \"Wayan\" pairs Indonesian cuisine with French technique",
-     "summary": "While training in Indonesia, Chef Cedric Vongerichten fell in love with the cuisine and his wife Ochi. The couple then opened \"Wayan,\" a Michelin-recommended French-Indonesian restaurant in New York City.",
+     "time": "3:30 PM",
+     "headline": "Trump says he wants \"permanent\" deal with Iran",
+     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "NYC's \"Wayan\" pairs Indonesian cuisine with French technique",
-       "url": "https://www.cbsnews.com/video/nycs-wayan-pairs-indonesian-cuisine-with-french-technique/",
+       "title": "Trump says he wants \"permanent\" deal with Iran",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:46 AM",
-     "headline": "Texas says an execution went as planned. A witness says screams showed 'tremendous distress'",
-     "summary": "Executions across the U.S. have garnered more attention since Christa Pike survived two doses of pentobarbital in Tennessee in September. The drug didn't enter her bloodstream correctly.",
+     "time": "2:46 PM",
+     "headline": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
+     "summary": "Changes in appetite, smaller portion tolerance, limits on alcohol consumption, medication side effects and the desire to maintain progress can make navigating holiday traditions feel a little different.",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "Texas says an execution went as planned. A witness says screams showed 'tremendous distress'",
-       "url": "https://www.pbs.org/newshour/nation/texas-says-an-execution-went-as-planned-a-witness-says-screams-showed-tremendous-distress",
+       "title": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
+       "url": "https://www.pbs.org/newshour/health/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp%e2%80%911-medication",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:41 AM",
-     "headline": "Kelsey Grammer celebrates America's 250th birthday in \"The America Opus\"",
-     "summary": "Emmy Award-winning actor Kelsey Grammer shares his love of American history and holidays. Grammer wrote the introduction to \"The America Opus,\" a new book celebrating 250 years of American history through archival photos and essays.",
+     "time": "2:46 PM",
+     "headline": "US senator says Pentagon restrictions on Canada focus on think tanks and social events",
+     "summary": "A Republican senator says Pentagon restrictions on Canada largely target U.S. military officials’ participation in think tank events and social engagements rather than military operations or intelligence sharing",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Kelsey Grammer celebrates America's 250th birthday in \"The America Opus\"",
-       "url": "https://www.cbsnews.com/video/kelsey-grammer-celebrates-americas-250th-birthday-in-the-america-opus/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:29 AM",
-     "headline": "The mysterious migration of monarch butterflies",
-     "summary": "Photographer Jaime Rojo says an iconic 1976 National Geographic cover showing monarch butterflies captivated him, inspiring his own photography. Rojo's new book \"Monarchs\" chronicles ways we can help save this beloved insect.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "The mysterious migration of monarch butterflies",
-       "url": "https://www.cbsnews.com/video/the-mysterious-migration-of-monarch-butterflies/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:28 AM",
-     "headline": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
-     "summary": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been curtailed.\"",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
-       "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:21 AM",
-     "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-       "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:20 AM",
-     "headline": "Kansas City Current, Washington Spirit players excited for NWSL final",
-     "summary": "Kansas City Current and Washington Spirit players look ahead to the National Women's Soccer League championship final.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Kansas City Current, Washington Spirit players excited for NWSL final",
-       "url": "https://www.cbsnews.com/video/kansas-city-current-washington-spirit-players-excited-for-nwsl-final/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:13 AM",
-     "headline": "Bon Appétit's tips for a perfect Thanksgiving gathering",
-     "summary": "Whether you're hosting Thanksgiving or enjoying the holiday as a guest, Bon Appétit editor-in-chief Jamila Robinson has some tips for you.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Bon Appétit's tips for a perfect Thanksgiving gathering",
-       "url": "https://www.cbsnews.com/video/bon-apptits-tips-for-a-perfect-thanksgiving-gathering/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:11 AM",
-     "headline": "Second opinion saves career of pro athlete told to amputate leg",
-     "summary": "Doctors said his leg would need to be amputated. Here's how this athlete got back on the field after a rare diagnosis.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Second opinion saves career of pro athlete told to amputate leg",
-       "url": "https://www.cbsnews.com/news/henry-nell-knee-cancer-health-story/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:11 AM",
-     "headline": "Exclusive discounts from CBS Mornings Deals",
-     "summary": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Exclusive discounts from CBS Mornings Deals",
-       "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112126/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:09 AM",
-     "headline": "More changes are coming for Southwest Airlines, CEO says",
-     "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "More changes are coming for Southwest Airlines, CEO says",
-       "url": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says/",
-       "bias": 0
+       "outlet": "ABC News",
+       "title": "US senator says Pentagon restrictions on Canada focus on think tanks and social events",
+       "url": "https://abcnews.com/US/wireStory/us-senator-pentagon-restrictions-canada-focus-tanks-social-138347622",
+       "bias": -1
       }
      ]
     }
@@ -481,6 +503,118 @@
    "id": "local",
    "name": "Local: Cabarrus County & North Carolina",
    "items": [
+    {
+     "date": "2026-11-21",
+     "time": "5:22 PM",
+     "headline": "‘Failed to do the basics’: Man in psychiatric hospital strangled by another patient, lawsuit says",
+     "summary": "Two parents are suing the Florida State Hospital in Chattahoochee and Florida’s Department of Children and Families after their son was allegedly strangled and killed inside the psychiatric hospital.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "‘Failed to do the basics’: Man in psychiatric hospital strangled by another patient, lawsuit says",
+       "url": "https://www.wbtv.com/2026/11/21/failed-do-basics-man-psychiatric-hospital-strangled-by-another-patient-lawsuit-says/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:00 PM",
+     "headline": "Thousands return to Concord Christmas tree lighting a year after shooting",
+     "summary": "‘I feel very safe. There’s an increased presence and there’s a good vibe.’",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Thousands return to Concord Christmas tree lighting a year after shooting",
+       "url": "https://www.wbtv.com/2026/11/21/thousands-return-concord-christmas-tree-lighting-year-after-shooting/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:49 PM",
+     "headline": "94-year-old arrested after mother, infant critically injured in hit-and-run",
+     "summary": "A 94-year-old man faces two counts of first-degree assault after a hit-and-run on Thursday that left a mother and her 2-month-old daughter in critical condition.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "94-year-old arrested after mother, infant critically injured in hit-and-run",
+       "url": "https://www.wbtv.com/2026/11/21/94-year-old-arrested-after-mother-infant-critically-injured-hit-and-run/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:21 PM",
+     "headline": "Paramedic loses several pets in early morning Salisbury house fire",
+     "summary": "A family is Salisbury lost several animals in a house fire early Saturday morning.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Paramedic loses several pets in early morning Salisbury house fire",
+       "url": "https://www.wsoctv.com/news/local/paramedic-loses-several-pets-early-morning-salisbury-house-fire/CZSNEILE7NEPRBBKA2XMEOYD44/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "4:12 PM",
+     "headline": "Sen. Mark Kelly, Olivia Munn introduce ‘Know Your Risk Act’",
+     "summary": "Sen. Mark Kelly, D-Ariz., is introducing the “Know Your Risk Act,” legislation meant to help women learn their breast cancer risk and detect the disease early.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Sen. Mark Kelly, Olivia Munn introduce ‘Know Your Risk Act’",
+       "url": "https://www.wbtv.com/2026/11/21/sen-mark-kelly-olivia-munn-introduce-know-your-risk-act/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "3:34 PM",
+     "headline": "What grocery stores are open on Thanksgiving? Your 2026 guide",
+     "summary": "Several grocery stores will remain open, albeit with modified hours, in case you forgot something.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "What grocery stores are open on Thanksgiving? Your 2026 guide",
+       "url": "https://www.wbtv.com/2026/11/21/what-grocery-stores-are-open-thanksgiving/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "2:51 PM",
+     "headline": "Fire guts paramedic’s home, leaving more than a dozen animals dead",
+     "summary": "Officials said the family and four pets escaped while more than a dozen animals were killed in fire.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Fire guts paramedic’s home, leaving more than a dozen animals dead",
+       "url": "https://www.wbtv.com/2026/11/21/fire-guts-paramedics-home-kills-more-than-dozen-animals/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "2:26 PM",
+     "headline": "Suspect charged after police identify man found dead in east Charlotte park",
+     "summary": "The suspect in this case has been identified as Franz Menchu Dominguez.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Suspect charged after police identify man found dead in east Charlotte park",
+       "url": "https://www.wsoctv.com/news/local/police-identify-man-found-dead-east-charlotte-park/H4FIWYTPBZHCNLGJPTM4XRVPJQ/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-21",
      "time": "10:31 AM",
@@ -578,118 +712,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "8:01 AM",
-     "headline": "Street lights to be upgraded at intersection where 6-year-old was killed",
-     "summary": "New street lights will be added and existing ones upgraded at the east Charlotte intersection where a little girl was hit and killed last month.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Street lights to be upgraded at intersection where 6-year-old was killed",
-       "url": "https://www.wsoctv.com/news/local/street-lights-be-upgraded-intersection-where-6-year-old-was-killed/F2R5ZCY7OJBYNFK74A5T5XOKNA/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "7:53 AM",
-     "headline": "Charlotte City Council will review possible changes to minimum housing code",
-     "summary": "Changes could be coming to Charlotte’s minimum housing code.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Charlotte City Council will review possible changes to minimum housing code",
-       "url": "https://www.wsoctv.com/news/local/charlotte-city-council-will-review-possible-changes-minimum-housing-code/HR4WGNV6GFCK3MYLVVT3DXWNIU/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "7:40 AM",
-     "headline": "Voting rights watchdog claims some provisional ballots were ignored",
-     "summary": "A longtime voting rights advocate and watchdog is calling on the State Board of Elections to direct the Mecklenburg County Board of Elections to review dozens of ballots that may not have been counted.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Voting rights watchdog claims some provisional ballots were ignored",
-       "url": "https://www.wsoctv.com/news/local/voting-rights-watchdog-claims-some-provisional-ballots-were-ignored/SASPWQBQHJBQPGVR2TS46KI4ZM/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "7:37 AM",
-     "headline": "First Alert: Rainy weekend before a Thanksgiving week cooldown in the Carolinas",
-     "summary": "Storm system to impact coast, while inland impacts remain uncertain",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "First Alert: Rainy weekend before a Thanksgiving week cooldown in the Carolinas",
-       "url": "https://www.wbtv.com/2026/11/21/first-alert-weekend-rain-returns-before-thanksgiving-week-rain-cooldown/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "7:06 AM",
-     "headline": "One seriously injured following early Saturday morning crash on I-77",
-     "summary": "MEDIC says one person is in the hospital following a crash on I-77 in north Charlotte.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "One seriously injured following early Saturday morning crash on I-77",
-       "url": "https://www.wsoctv.com/news/local/one-seriously-injured-following-early-morning-crash-i-77/2VTNYR5BQFCJVOT5XSJGAECTPA/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:59 AM",
-     "headline": "Charlotte could see new e-bike rules",
-     "summary": "New rules may soon be coming for e-bike riders in Charlotte.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Charlotte could see new e-bike rules",
-       "url": "https://www.wsoctv.com/news/local/charlotte-could-see-new-e-bike-rules/EHHAMIEWXJD2TOHCHHZR2LOVTQ/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:58 AM",
-     "headline": "Two men were arrested following a late-night shooting in Monroe",
-     "summary": "Officers in Monroe arrested two men following a shooting at Sammy’s Mini Mart shortly before midnight Friday night.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Two men were arrested following a late-night shooting in Monroe",
-       "url": "https://www.wsoctv.com/news/local/two-men-were-arrested-following-late-night-shooting-monroe/5I6H3QHQGFEPRPBHIC4IARXFKI/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:47 AM",
-     "headline": "FORECAST: Dry start before rain chances head our way",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "FORECAST: Dry start before rain chances head our way",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-dry-start-before-rain-chances-head-our-way/45MXY4U64BBABJ2FC6JHFD4AR4/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -699,210 +721,216 @@
    "items": [
     {
      "date": "2026-11-21",
-     "time": "11:42 AM",
-     "headline": "Ex-captain Moody joins England in emotional haka response",
-     "summary": "Former England captain Lewis Moody joins the current team to face New Zealand's haka in an emotional start to Saturday's Test match at Allianz Stadium.",
+     "time": "5:37 PM",
+     "headline": "Titans DL Harrell hospitalized after car accident in Tampa",
+     "summary": "The Titans said edge defender Jaylen Harrell remains hospitalized and is receiving care after a serious car accident Friday night in his hometown of Tampa",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Titans DL Harrell hospitalized after car accident in Tampa",
+       "url": "https://www.espn.com/nfl/story/_/id/50551434/titans-dl-jaylen-harrell-hospitalized-car-accident-tampa",
+       "bias": 0
+      },
+      {
+       "outlet": "CBS Sports",
+       "title": "Titans' Jaylen Harrell hospitalized after serious car accident, remains in hospital in Tampa",
+       "url": "https://www.cbssports.com/nfl/news/titans-jaylen-harrell-car-accident-hospital-tampa/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "6:52 PM",
+     "headline": "Watch all 29 of Saturday's Scottish Premiership goals",
+     "summary": "Highlights from a full Scottish Premiership fixture card.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Ex-captain Moody joins England in emotional haka response",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5vg2ppp90w8o?at_medium=RSS&at_campaign=rss",
+       "title": "Watch all 29 of Saturday's Scottish Premiership goals",
+       "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:37 AM",
-     "headline": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
-     "summary": "SportsLine's model has revealed its 2026 Week 12 college football picks for matchups such as Georgia vs. South Carolina, UCLA vs. Michigan and LSU vs. Tennessee",
+     "time": "5:37 PM",
+     "headline": "'This one is for them': Huskers dedicate streak-snapping win over Ohio State to fans",
+     "summary": "Nebraska broke its 31-game losing streak against AP Top 25 opponents with a 31-28 victory over No. 16 Ohio State on Saturday.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
-       "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-lines-spreads-predictions-best-bets-for-week-12-2026/",
+       "outlet": "ESPN",
+       "title": "'This one is for them': Huskers dedicate streak-snapping win over Ohio State to fans",
+       "url": "https://www.espn.com/college-football/story/_/id/50553426/nebraska-snaps-ap-top-25-losing-skid-upsets-ohio-state",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:33 AM",
-     "headline": "College basketball rankings: No. 25 Indiana dominates Kentucky as impressive start for Hoosiers continues",
-     "summary": "The Hoosiers remain at No. 25 after cruising past rival Kentucky and putting Mark Pope's squad in serious early-season trouble",
+     "time": "5:37 PM",
+     "headline": "New Cardinals QB Johnson, on 15th team, set to start with Beck out",
+     "summary": "Cardinals rookie quarterback Carson Beck has been downgraded to out, paving the way for 40-year-old Josh Johnson to start against the Chiefs.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "College basketball rankings: No. 25 Indiana dominates Kentucky as impressive start for Hoosiers continues",
-       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-top-25-and-1-indiana-dominates-kentucky/",
+       "outlet": "ESPN",
+       "title": "New Cardinals QB Johnson, on 15th team, set to start with Beck out",
+       "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:28 AM",
-     "headline": "England beat New Zealand by record margin",
-     "summary": "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week.",
+     "time": "5:37 PM",
+     "headline": "BYU survives 3OT thriller against Kansas to retain CFP hopes",
+     "summary": "Bear Bachmeier connected with Jojo Phillips in the back of the end zone in the third overtime, helping No. 10 BYU beat Kansas to keep its CFP hopes alive.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "England beat New Zealand by record margin",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "BYU survives 3OT thriller against Kansas to retain CFP hopes",
+       "url": "https://www.espn.com/college-football/story/_/id/50553754/byu-retains-cfp-hopes-beats-kansas-triple-over",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:23 AM",
-     "headline": "McConnell shines as 11-try Scotland dismantle Japan",
-     "summary": "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield.",
+     "time": "5:37 PM",
+     "headline": "PSG star Doué 'sad' and 'worried' after suffering 'serious' knee injury",
+     "summary": "PSG forward Désiré Doué was carried off on a stretcher with a serious knee injury late in the first half of the team's 3-2 win at Nice in Ligue 1 on Saturday.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "McConnell shines as 11-try Scotland dismantle Japan",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "PSG star Doué 'sad' and 'worried' after suffering 'serious' knee injury",
+       "url": "https://www.espn.com/soccer/story/_/id/50554155/psg-desire-doue-injury-nice-knee",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:22 AM",
-     "headline": "MLB rumors: Freddy Peralta market picking up steam, top Japanese pitcher visits Chicago, more",
-     "summary": "Here are the latest news and rumors in the MLB offseason on Saturday, Nov. 21",
+     "time": "5:37 PM",
+     "headline": "Mets, CF Ewing agree on 8-year, $95M extension, sources say",
+     "summary": "The Mets and 22-year-old center fielder A.J. Ewing have agreed to an eight-year, $95 million contract extension, sources confirmed to ESPN.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "MLB rumors: Freddy Peralta market picking up steam, top Japanese pitcher visits Chicago, more",
-       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-freddy-peralta-hiromi-itoh-mark-vientos-mets-cubs-white-sox/",
+       "outlet": "ESPN",
+       "title": "Mets, CF Ewing agree on 8-year, $95M extension, sources say",
+       "url": "https://www.espn.com/mlb/story/_/id/50552088/mets-aj-ewing-reach-8-year-95m-extension-sources-say",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:19 AM",
-     "headline": "Mark Pope misses again by pointing to Kentucky's lack of experience after loss to Indiana",
-     "summary": "Pope said his team is a \"young team in terms of Division I experience,\" but here's why that claim is wrong",
+     "time": "5:37 PM",
+     "headline": "Steelers activate WR Wilson off IR for Eagles game",
+     "summary": "The Steelers have activated wide receiver Roman Wilson from injured reserve ahead of Sunday's game against the Eagles.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Mark Pope misses again by pointing to Kentucky's lack of experience after loss to Indiana",
-       "url": "https://www.cbssports.com/college-basketball/news/mark-pope-kentucky-indiana-hot-seat/",
+       "outlet": "ESPN",
+       "title": "Steelers activate WR Wilson off IR for Eagles game",
+       "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:15 AM",
-     "headline": "Kalshi promo code CBSSPORTS55: Claim $55 bonus for UCLA-Michigan, SMU-Notre Dame, college football predictions",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Saturday's games",
+     "time": "5:37 PM",
+     "headline": "Raiders owner Davis upset by 'Madden' version of his father: 'Totally unfair'",
+     "summary": "Saying \"I did the best I could to protect him,\" Raiders owner Mark Davis expressed frustration with the depiction of his father, the late Al Davis, in the new movie \"Madden.\"",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Kalshi promo code CBSSPORTS55: Claim $55 bonus for UCLA-Michigan, SMU-Notre Dame, college football predictions",
-       "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-claim-55-bonus-for-ucla-michigan-smu-notre-dame-college-football-predictions/",
+       "outlet": "ESPN",
+       "title": "Raiders owner Davis upset by 'Madden' version of his father: 'Totally unfair'",
+       "url": "https://www.espn.com/nfl/story/_/id/50549761/mark-davis-upset-father-portrayal-movie-madden",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:15 AM",
-     "headline": "BYU vs. Kansas prediction, odds, time: 2026 college football Week 12 picks from proven model",
-     "summary": "SportsLine's model revealed its best bets for Saturday's Big 12 contest between the BYU Cougars and the Kansas Jayhawks",
+     "time": "5:37 PM",
+     "headline": "🔮 NFL Week 11 crystal ball: Predictions on upsets, TD scorers, more",
+     "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "BYU vs. Kansas prediction, odds, time: 2026 college football Week 12 picks from proven model",
-       "url": "https://www.cbssports.com/betting/news/byu-kansas-prediction-odds-time-2026-week-12-college-football-picks-best-bets/",
+       "outlet": "ESPN",
+       "title": "🔮 NFL Week 11 crystal ball: Predictions on upsets, TD scorers, more",
+       "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:14 AM",
-     "headline": "Use FanDuel promo code to get $200 bonus bets by targeting TCU-Utah, Georgia-South Carolina, college football",
-     "summary": "Sign up and bet with the latest FanDuel promo code on Saturday to get your bonus bets",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Use FanDuel promo code to get $200 bonus bets by targeting TCU-Utah, Georgia-South Carolina, college football",
-       "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-tcu-utah-georgia-south-carolina-college-football/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:08 AM",
-     "headline": "Superb England run up record win over New Zealand",
-     "summary": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
+     "time": "5:28 PM",
+     "headline": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
+     "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Superb England run up record win over New Zealand",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+       "title": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:07 AM",
-     "headline": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for Miami-Virginia Tech, LSU-Tennessee, college football",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on college football action Saturday in Week 12",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for Miami-Virginia Tech, LSU-Tennessee, college football",
-       "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-receive-55-bonus-miami-virginia-tech-lsu-tennessee-college-football/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:07 AM",
-     "headline": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-     "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+     "time": "5:28 PM",
+     "headline": "Kim holds one-shot lead at LPGA finale as Korda closes in",
+     "summary": "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+       "title": "Kim holds one-shot lead at LPGA finale as Korda closes in",
+       "url": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "11:00 AM",
-     "headline": "UFC Fight Night predictions -- Jiri Prochazka vs. Navajo Stirling: Fight card, odds and expert picks in Qatar",
-     "summary": "The pair of light heavyweights headline a loaded fight card featuring 11 ranked fighters in Qatar",
+     "time": "5:27 PM",
+     "headline": "Can win over All Blacks finally break England's boom-bust cycle?",
+     "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "UFC Fight Night predictions -- Jiri Prochazka vs. Navajo Stirling: Fight card, odds and expert picks in Qatar",
-       "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-card-jiri-prochazka-navajo-stirling-predictions-odds/",
+       "outlet": "BBC Sport",
+       "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "10:59 AM",
-     "headline": "SportsLine Newsletter November 21, 2026",
-     "summary": "Saturday Betting Guide: How to pick CFB Week 12, the Las Vegas Grand Prix and more",
+     "time": "5:25 PM",
+     "headline": "Australia hold on for narrow win against Wales",
+     "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "SportsLine Newsletter November 21, 2026",
-       "url": "https://www.cbssports.com/",
+       "outlet": "BBC Sport",
+       "title": "Australia hold on for narrow win against Wales",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "5:22 PM",
+     "headline": "France secure Nations Championship final with Springboks",
+     "summary": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "France secure Nations Championship final with Springboks",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
