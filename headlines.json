@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:52:59Z",
+ "generated_at": "2026-11-21T16:56:38Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -713,6 +713,20 @@
     },
     {
      "date": "2026-11-21",
+     "time": "11:37 AM",
+     "headline": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
+     "summary": "SportsLine's model has revealed its 2026 Week 12 college football picks for matchups such as Georgia vs. South Carolina, UCLA vs. Michigan and LSU vs. Tennessee",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
+       "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-lines-spreads-predictions-best-bets-for-week-12-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
      "time": "11:33 AM",
      "headline": "College basketball rankings: No. 25 Indiana dominates Kentucky as impressive start for Hoosiers continues",
      "summary": "The Hoosiers remain at No. 25 after cruising past rival Kentucky and putting Mark Pope's squad in serious early-season trouble",
@@ -889,20 +903,6 @@
        "outlet": "CBS Sports",
        "title": "SportsLine Newsletter November 21, 2026",
        "url": "https://www.cbssports.com/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:57 AM",
-     "headline": "Week 11 NFL betting promos: Get almost $4,000 in bonuses from betting apps, sportsbooks for Sunday's games",
-     "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Week 11 NFL betting promos: Get almost $4,000 in bonuses from betting apps, sportsbooks for Sunday's games",
-       "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-almost-4000-in-bonuses-betting-apps-sportsbooks-sundays-games/",
        "bias": 0
       }
      ]
