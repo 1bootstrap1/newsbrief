@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:56:21Z",
+ "generated_at": "2026-11-22T22:51:04Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,6 +13,46 @@
    "id": "world",
    "name": "World",
    "items": [
+    {
+     "date": "2026-11-22",
+     "time": "5:19 PM",
+     "headline": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+     "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+       "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+       "bias": -1
+      },
+      {
+       "outlet": "BBC News",
+       "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+       "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "3:28 PM",
+     "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Suspected drone attack causes explosion on Russian ship in Libya",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-22",
      "time": "8:18 AM",
@@ -35,21 +75,63 @@
     },
     {
      "date": "2026-11-22",
-     "time": "11:33 AM",
-     "headline": "International climate talks end in disappointment",
-     "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
+     "time": "5:41 PM",
+     "headline": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+     "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
      "sources": [
       {
-       "outlet": "NPR World",
-       "title": "International climate talks end in disappointment",
-       "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+       "outlet": "The Guardian",
+       "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:30 AM",
+     "time": "5:40 PM",
+     "headline": "Ukraine war spilling into NATO territory",
+     "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+     "sources": [
+      {
+       "outlet": "NPR World",
+       "title": "Ukraine war spilling into NATO territory",
+       "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:39 PM",
+     "headline": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+     "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+     "sources": [
+      {
+       "outlet": "NPR World",
+       "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+       "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:37 PM",
+     "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+       "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:29 PM",
      "headline": "Trump says he wants \"permanent\" deal with Iran",
      "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
@@ -63,21 +145,63 @@
     },
     {
      "date": "2026-11-22",
-     "time": "11:14 AM",
-     "headline": "Cop31 climate talks break down as key deal rejected",
-     "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called…",
+     "time": "5:24 PM",
+     "headline": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+     "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Ian ‘Molly’ Meldrum – obituary Molly Meldrum, the Australian music journalist, broadcaster and producer, has died at the age of 83.",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Cop31 climate talks break down as key deal rejected",
-       "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+       "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+       "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:12 AM",
+     "time": "5:13 PM",
+     "headline": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+     "summary": "Armenia launches the U.S.-backed Trump Route corridor despite Iran's stark warning it would \"break their legs\" if Trump crossed its red line.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+       "url": "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:01 PM",
+     "headline": "Second ship targeted in series of naval drone attacks off Libyan coast",
+     "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:01 PM",
+     "headline": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+     "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald Trump as long as it…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+       "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:00 PM",
      "headline": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit…",
      "sources": [
@@ -91,140 +215,28 @@
     },
     {
      "date": "2026-11-22",
-     "time": "11:06 AM",
-     "headline": "Canada’s PM appears next to Trump impersonator at press dinner",
-     "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:05 AM",
-     "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:54 AM",
-     "headline": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
-     "summary": "Former presidential candidate Flávio Bolsonaro alleges election interference by Brazil’s Supreme Court and discusses political persecution and the future of his family’s political movement.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
-       "url": "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:53 AM",
-     "headline": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
-     "summary": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures Bigfoot has quietly appeared again. Well, not Sasquatch directly, but new files about the cryptid.",
+     "time": "4:46 PM",
+     "headline": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
+     "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian prime…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
-       "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+       "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
+       "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "10:43 AM",
-     "headline": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
-     "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns…",
+     "time": "4:33 PM",
+     "headline": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
-       "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:41 AM",
-     "headline": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-     "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-       "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:30 AM",
-     "headline": "Can we build a more ethical AI future?",
-     "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Can we build a more ethical AI future?",
-       "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:24 AM",
-     "headline": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-     "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:22 AM",
-     "headline": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
-     "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
-       "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:07 AM",
-     "headline": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-     "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-       "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+       "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+       "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
        "bias": -1
       }
      ]
@@ -235,6 +247,26 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-22",
+     "time": "5:13 PM",
+     "headline": "Democrats reach historic House majority not seen since 1992",
+     "summary": "\"House Democrats have just secured the largest majority any party in Congress has held this century. BOOM,\" Democratic leader Hakeem Jeffries of New York said Sunday.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Democrats reach historic House majority not seen since 1992",
+       "url": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "Democrats win the largest House majority since 1992",
+       "url": "https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-22",
      "time": "11:30 AM",
@@ -257,49 +289,21 @@
     },
     {
      "date": "2026-11-22",
-     "time": "11:41 AM",
-     "headline": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-     "summary": "BepiColombo is only the third spacecraft to visit Mercury — the sun's closest planet and barely bigger than our moon — and the first in more than a decade.",
+     "time": "5:50 PM",
+     "headline": "Natural gas pipeline fire in Alabama lights up night sky",
+     "summary": "Photos and videos posted on social media appeared to show flames rising dozens of yards above the trees near Ward, Alabama, with smoke billowing into the air.",
      "sources": [
       {
-       "outlet": "PBS NewsHour",
-       "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-       "url": "https://www.pbs.org/newshour/science/mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
+       "outlet": "CBS News",
+       "title": "Natural gas pipeline fire in Alabama lights up night sky",
+       "url": "https://www.cbsnews.com/news/natural-gas-pipeline-fire-ward-alabama/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:38 AM",
-     "headline": "Delta tech issue delays Atlanta-bound flights head of Thanksgiving",
-     "summary": "A problem with the system Delta Air Lines uses to calculate aircraft weight and balance delayed flights into its Atlanta hub Sunday, as travelers headed out ahead of Thanksgiving.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Delta tech issue delays Atlanta-bound flights head of Thanksgiving",
-       "url": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:33 AM",
-     "headline": "International climate talks end in disappointment",
-     "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "International climate talks end in disappointment",
-       "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:33 AM",
+     "time": "5:45 PM",
      "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
      "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
      "sources": [
@@ -313,7 +317,21 @@
     },
     {
      "date": "2026-11-22",
-     "time": "11:30 AM",
+     "time": "5:40 PM",
+     "headline": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+     "summary": "Earlier Sunday, the Federal Aviation Administration issued about an hourlong ground stop to some flights into Hartsfield-Jackson Atlanta International Airport, which is Delta's hub and one of the busiest airports in the world.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+       "url": "https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:29 PM",
      "headline": "Trump says he wants \"permanent\" deal with Iran",
      "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
@@ -327,126 +345,126 @@
     },
     {
      "date": "2026-11-22",
-     "time": "11:18 AM",
-     "headline": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
-     "summary": "Video of the incident showed officers dragging away at least one person at Seattle-Tacoma International Airport as a woman screams that her daughter is being taken and she has a work permit.",
+     "time": "5:20 PM",
+     "headline": "9 people shot at a central California concert; 1 in critical condition",
+     "summary": "Nine people have been shot at a concert in central California, leaving one person critically injured",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "9 people shot at a central California concert; 1 in critical condition",
+       "url": "https://abcnews.com/US/wireStory/9-people-shot-central-california-concert-1-critical-138363670",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:18 PM",
+     "headline": "Today's Thanksgiving holiday was invented amid the Civil War to unite a divided country",
+     "summary": "The idea of a straight line connecting that \"first Thanksgiving\" to Thanksgivings today is, in fact, an American myth.",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
-       "url": "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
+       "title": "Today's Thanksgiving holiday was invented amid the Civil War to unite a divided country",
+       "url": "https://www.pbs.org/newshour/nation/todays-thanksgiving-holiday-was-invented-amid-the-civil-war-to-unite-a-divided-country",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:02 AM",
-     "headline": "California prepares for flooding as king tides and storms threaten Thanksgiving week",
-     "summary": "California officials this weekend are preparing for storms that could coincide with the year’s highest tides, Thanksgiving and some of its busiest holiday travel days.",
+     "time": "4:21 PM",
+     "headline": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+     "summary": "The appeals court said the act was unconstitutional because a majority of U.S. House members weren't physically present when it was approved as part of a spending package in December 2022.",
      "sources": [
       {
-       "outlet": "NBC News",
-       "title": "California prepares for flooding as king tides and storms threaten Thanksgiving week",
-       "url": "https://www.nbcnews.com/news/us-news/california-prepares-flooding-rain-wind-thanksgiving-approaches-rcna610537",
-       "bias": -1
+       "outlet": "PBS NewsHour",
+       "title": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+       "url": "https://www.pbs.org/newshour/nation/appeals-court-says-federal-law-requiring-accommodations-for-pregnant-workers-is-unconstitutional",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "10:59 AM",
-     "headline": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-     "summary": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
+     "time": "4:06 PM",
+     "headline": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
+     "summary": "Democratic Sen. Jon Ossoff's commanding victory in Georgia relied on a broad coalition, and this is fueling 2028 presidential interest in him, even though he says he'll be in the Senate for the next six years.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-       "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
+       "title": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
+       "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "10:57 AM",
-     "headline": "Progressives unveil $25 minimum wage push to solve affordability crisis despite economist inflation warning",
-     "summary": "House Democrats push a $25 minimum wage to fight the affordability crisis, but Heritage economist E.J. Antoni warns it could raise costs and unemployment.",
+     "time": "4:03 PM",
+     "headline": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
+     "summary": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
+       "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:01 PM",
+     "headline": "Delta Air Lines hit with delays after baggage network system issue",
+     "summary": "The Delta Air Lines delays are most impacting flights in and out of Hartsfield-Jackson Atlanta International Airport in Georgia.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Delta Air Lines hit with delays after baggage network system issue",
+       "url": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "3:34 PM",
+     "headline": "Democrats clinch historic House majority as Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx",
+     "summary": "Democrats secured their largest House majority since 1992, setting up clashes with Trump over investigations, health care and Republican policies.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "Progressives unveil $25 minimum wage push to solve affordability crisis despite economist inflation warning",
-       "url": "https://www.foxnews.com/politics/progressives-unveil-25-minimum-wage-push-solve-affordability-crisis-despite-economist-inflation-warning",
+       "title": "Democrats clinch historic House majority as Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx",
+       "url": "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
        "bias": 1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "10:55 AM",
-     "headline": "Jeffries talks about where Democrats may be able to work with Trump",
-     "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
+     "time": "3:21 PM",
+     "headline": "Russian warship struck by suspected Ukrainian drones at Libya naval base",
+     "summary": "Libyan officials say a suspected Ukrainian drone strike has hit a Russian warship at a naval base in Libya.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Jeffries talks about where Democrats may be able to work with Trump",
-       "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+       "title": "Russian warship struck by suspected Ukrainian drones at Libya naval base",
+       "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "10:51 AM",
-     "headline": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader",
-     "summary": "Sen. Chris Van Hollen, D-Md., said “momentum is in our direction” on his bid to serve as the Senate majority leader in the next Congress",
+     "time": "3:18 PM",
+     "headline": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+     "summary": "Environmental groups criticized the government's move, decrying it as a maneuver to get around a court order and avoid public demands for safety and transparency.",
      "sources": [
       {
-       "outlet": "NBC News",
-       "title": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader",
-       "url": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:48 AM",
-     "headline": "DHS, Dem officials clash after ICE arrest at Seattle airport",
-     "summary": "DHS says a passenger threw hot coffee at ICE officers during a Seattle airport arrest of a visa overstay, as Washington Democrats blast the operation.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "DHS, Dem officials clash after ICE arrest at Seattle airport",
-       "url": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:41 AM",
-     "headline": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-     "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-       "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:30 AM",
-     "headline": "Nature: Turkeys in New Hampshire",
-     "summary": "We leave you this Sunday with turkeys on the run in Rye, New Hampshire. Videographer: Michael Clark.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Nature: Turkeys in New Hampshire",
-       "url": "https://www.cbsnews.com/video/nature-turkeys-in-new-hampshire/",
+       "outlet": "PBS NewsHour",
+       "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+       "url": "https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa",
        "bias": 0
       }
      ]
@@ -459,211 +477,211 @@
    "items": [
     {
      "date": "2026-11-22",
-     "time": "11:49 AM",
-     "headline": "Delta says ‘automation’ issues causing delays nationwide",
-     "summary": "Delays are mounting across the country for Delta Air Lines flights after a ground stop and ground delay caused by a technical issue, the Atlanta-based airline said.",
+     "time": "5:28 PM",
+     "headline": "Tarik Skubal agrees to a record 9-year, $450 million contract with Mets, reports say",
+     "summary": "Tarik Skubal, the two-time Cy Young Award winner who was the top free agent on this offseason’s market, has a agreed to record $450 million, nine-year contract with the New York Mets, reports say.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Delta says ‘automation’ issues causing delays nationwide",
-       "url": "https://www.wbtv.com/2026/11/22/delta-says-automation-issues-causing-delays-nationwide/",
+       "title": "Tarik Skubal agrees to a record 9-year, $450 million contract with Mets, reports say",
+       "url": "https://www.wbtv.com/2026/11/22/tarik-skubal-agrees-record-9-year-450-million-contract-with-mets-reports-say/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:07 AM",
-     "headline": "Tom Jackson, former Broncos star and ‘Sunday NFL Countdown’ analyst, dead at 75",
-     "summary": "Broncos legend and ESPN sportscaster Tom Jackson has died. He was 75.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Tom Jackson, former Broncos star and ‘Sunday NFL Countdown’ analyst, dead at 75",
-       "url": "https://www.wbtv.com/2026/11/22/former-broncos-star-espn-broadcaster-tom-jackson-dead-75/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:48 AM",
-     "headline": "Inspire Soccer League host Championship weekend at Winthrop Univ.",
-     "summary": "Inspire Soccer League will host its Championship Weekend and season finale on Nov. 20-22 in Rock Hill, at Winthrop University’s Eagle Field.",
+     "time": "5:27 PM",
+     "headline": "Investigation underway after two found dead in Troutman home",
+     "summary": "Troutman Police say they’re investigating the deaths of two people.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Inspire Soccer League host Championship weekend at Winthrop Univ.",
-       "url": "https://www.wsoctv.com/news/local/inspire-soccer-league-host-championship-weekend-winthrop-univ/JNH2TZ2DUNGFDE4ZFE4567OXA4/",
+       "title": "Investigation underway after two found dead in Troutman home",
+       "url": "https://www.wsoctv.com/news/local/investigation-underway-after-two-found-dead-troutman-home/2YSXID727VDRFCZRDLMO5PGUZ4/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "10:43 AM",
-     "headline": "Motorcyclist dies after hitting curb, street sign in west Charlotte, police say",
-     "summary": "The crash happened just after midnight Saturday, Nov. 21, on Steele Creek Road",
+     "time": "5:06 PM",
+     "headline": "National outages, emergency alerts become fodder for doomsday conspiracy theories",
+     "summary": "Stock up on food and medicine. Fill containers with water. Prepare to live off the grid for at least 90 days. Those were among the warnings circulating on social media in recent weeks, as online posts predicted a looming national catastrophe and urged…",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Motorcyclist dies after hitting curb, street sign in west Charlotte, police say",
-       "url": "https://www.wbtv.com/2026/11/22/motorcyclist-dies-after-hitting-curb-street-sign-west-charlotte-police-say/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "10:35 AM",
-     "headline": "Fiona to be honored at upcoming Macy’s Thanksgiving Day Parade",
-     "summary": "Macy’s has announced that Fiona will be honored at the upcoming 100th Macy’s Thanksgiving Day Parade.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Fiona to be honored at upcoming Macy’s Thanksgiving Day Parade",
-       "url": "https://www.wbtv.com/2026/11/22/fiona-be-honored-upcoming-macys-thanksgiving-day-parade/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "9:52 AM",
-     "headline": "Man arrested for shooting a person in the leg during argument",
-     "summary": "A man has been arrested following a Saturday night shooting in Huntersville.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Man arrested for shooting a person in the leg during argument",
-       "url": "https://www.wsoctv.com/news/local/man-arrested-shooting-person-leg-during-argument/3B3T4KAJ65FPJLGRSIIE7A5UNU/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "9:51 AM",
-     "headline": "Woman killed in hit-and-run crash while crossing south Charlotte street, police say",
-     "summary": "Paramedics found a 59-year-old woman unresponsive in the middle of S. Tryon St.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Woman killed in hit-and-run crash while crossing south Charlotte street, police say",
-       "url": "https://www.wbtv.com/2026/11/22/woman-killed-hit-and-run-crash-while-crossing-street-south-charlotte-police-say/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "9:27 AM",
-     "headline": "Chadwick Boseman’s father, Leroy Boseman, dies at 82",
-     "summary": "Leroy Boseman, the father of actor Chadwick Boseman, died at 82 after a brief illness, according to a statement from his family. The family announced his death Saturday.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Chadwick Boseman’s father, Leroy Boseman, dies at 82",
-       "url": "https://www.wbtv.com/2026/11/22/chadwick-bosemans-father-leroy-boseman-dies-82/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "9:01 AM",
-     "headline": "Light the Knights Festival starts Wednesday, Nov. 25",
-     "summary": "The seventh annual Light the Knights Festival begins on Wednesday, Nov. 25.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Light the Knights Festival starts Wednesday, Nov. 25",
-       "url": "https://www.wsoctv.com/news/local/light-knights-festival-starts-wednesday-nov-25/6RONROLO75EDJFH6JRG3QNS5FM/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "9:00 AM",
-     "headline": "NCAA to scrap pregame handshakes at women’s tournament",
-     "summary": "The NCAA women’s basketball tournament will no longer require head coaches to shake hands before games.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "NCAA to scrap pregame handshakes at women’s tournament",
-       "url": "https://www.wsoctv.com/news/local/ncaa-scrap-pregame-handshakes-womens-tournament/NNNPCGNKFJEFLJT2KLWQLQXMLM/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "8:30 AM",
-     "headline": "Second Publix location coming to Gaston County",
-     "summary": "A second Publix is coming to Gaston County.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Second Publix location coming to Gaston County",
-       "url": "https://www.wsoctv.com/news/local/second-publix-location-coming-gaston-county/6FUZAXGISRHCBMQJJTDBWGD2KE/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "8:16 AM",
-     "headline": "Coddle Creek Elementary School will reopen Monday after mold cleanup",
-     "summary": "An Iredell County School will reopen on Monday after cleanup from serious mold issues.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Coddle Creek Elementary School will reopen Monday after mold cleanup",
-       "url": "https://www.wsoctv.com/news/local/coddle-creek-elementary-school-will-reopen-monday-after-mold-cleanup/NPRAYUW4NRESLHZLJWO2VK2OIU/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "8:04 AM",
-     "headline": "First Alert: Showers linger Sunday before more rain threatens Thanksgiving travel",
-     "summary": "Storm system to impact coast, while inland impacts remain uncertain",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "First Alert: Showers linger Sunday before more rain threatens Thanksgiving travel",
-       "url": "https://www.wbtv.com/2026/11/22/first-alert-showers-linger-sunday-before-more-rain-threatens-thanksgiving-travel/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "8:03 AM",
-     "headline": "Boutique Hilton hotel planned as part of major development near Dilworth, South End",
-     "summary": "Quality Oil Co. and its hospitality division, Quality Hospitality, will develop a luxury boutique hotel at the edge of South End and Dilworth, where a mixed-use tower is also under construction.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Boutique Hilton hotel planned as part of major development near Dilworth, South End",
-       "url": "https://www.wsoctv.com/news/local/boutique-hilton-hotel-planned-part-major-development-near-dilworth-south-end/XK74YNCDDBH7ZIPHE77FWS4IOE/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "8:00 AM",
-     "headline": "New book examines impact of 1898 Wilmington Massacre",
-     "summary": "In 1898, a white mob massacred dozens of Black residents in Wilmington, North Carolina. They used a machine gun and stoked fear to stage what is considered the only successful coup in U.S. history.",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "New book examines impact of 1898 Wilmington Massacre",
-       "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-22/new-book-examines-impact-of-1898-wilmington-massacre",
+       "outlet": "NC Newsline",
+       "title": "National outages, emergency alerts become fodder for doomsday conspiracy theories",
+       "url": "https://ncnewsline.com/2026/11/22/repub/national-outages-emergency-alerts-become-fodder-for-doomsday-conspiracy-theories/",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:01 PM",
+     "headline": "Veterans Day US House vote on contentious bill incenses vets",
+     "summary": "WASHINGTON — Many military veterans are opposing a U.S. House-passed proposal to revamp retirement and disability benefits, saying it threatens future veterans’ compensation. The House passed two bills last week that address the issue.",
+     "sources": [
+      {
+       "outlet": "NC Newsline",
+       "title": "Veterans Day US House vote on contentious bill incenses vets",
+       "url": "https://ncnewsline.com/2026/11/22/repub/veterans-day-us-house-vote-on-contentious-bill-incenses-vets/",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:56 PM",
+     "headline": "Bryce Young throws 2 TD passes, Chuba Hubbard scores twice as Panthers beat Ravens 35-33",
+     "summary": "Bryce Young threw for 254 yards and two touchdowns, Chuba Hubbard ran for 120 yards and two more scores and the Carolina Panthers made a late defensive stop to beat Baltimore 35-33 on Sunday, sending the Ravens to their sixth straight loss.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Bryce Young throws 2 TD passes, Chuba Hubbard scores twice as Panthers beat Ravens 35-33",
+       "url": "https://www.wsoctv.com/news/local/bryce-young-throws-2-td-passes-chuba-hubbard-scores-twice-panthers-beat-ravens-35-33/7DG7NRSVAJEQLNC4TBPOE6ISGU/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:50 PM",
+     "headline": "Virginia Foxx concedes long-held seat in NC’s closely watched 5th Congressional District",
+     "summary": "“The voters of the Fifth Congressional District exercised their Constitutional rights and made their voices heard,” U.S. Rep. Virginia Foxx wrote on Sunday as she conceded her seat to Democratic challenger Chuck Hubbard.",
+     "sources": [
+      {
+       "outlet": "NC Newsline",
+       "title": "Virginia Foxx concedes long-held seat in NC’s closely watched 5th Congressional District",
+       "url": "https://ncnewsline.com/2026/11/22/virginia-foxx-concedes-congressional-seat-in-ncs-closely-watched-5th-congressional-district/",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "3:50 PM",
+     "headline": "2 found dead in Iredell County home after family loses contact for over a week, police say",
+     "summary": "Welfare check leads to discovery of 2 people dead in home",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "2 found dead in Iredell County home after family loses contact for over a week, police say",
+       "url": "https://www.wbtv.com/2026/11/22/2-found-dead-troutman-home-after-family-loses-contact-over-week-police-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "3:44 PM",
+     "headline": "36-year-old veteran and mother dies after being attacked by dogs, investigators say",
+     "summary": "The GBI said preliminary autopsy results show she “sustained fatal injuries after being attacked by dogs.”",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "36-year-old veteran and mother dies after being attacked by dogs, investigators say",
+       "url": "https://www.wbtv.com/2026/11/22/36-year-old-veteran-mother-dies-after-being-attacked-by-dogs-investigators-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "2:51 PM",
+     "headline": "Community remembers Willie “Dub” Massey at Celebration of Life service",
+     "summary": "Rock Hill is remembering one of the men who helped shape its civil rights history.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Community remembers Willie “Dub” Massey at Celebration of Life service",
+       "url": "https://www.wbtv.com/2026/11/22/community-remembers-willie-dub-massey-celebration-life-service/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "2:42 PM",
+     "headline": "Man arrested after 1 shot in leg during a large ‘altercation’ in Huntersville, police say",
+     "summary": "Victim hospitalized with non-life threating injuries, police say",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Man arrested after 1 shot in leg during a large ‘altercation’ in Huntersville, police say",
+       "url": "https://www.wbtv.com/2026/11/22/man-arrested-after-1-shot-leg-during-large-altercation-huntersville-police-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "2:39 PM",
+     "headline": "8-year-old critically hurt after falling out of trailer onto road",
+     "summary": "An 8-year-old boy was critically hurt after falling from a box trailer, police said.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "8-year-old critically hurt after falling out of trailer onto road",
+       "url": "https://www.wbtv.com/2026/11/22/8-year-old-critically-hurt-after-falling-out-trailer-onto-road/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "2:21 PM",
+     "headline": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race",
+     "summary": "The 5th Congressional District covers a rural stretch of western North Carolina.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race",
+       "url": "https://www.wbtv.com/2026/11/22/chuck-hubbard-defeats-rep-virginia-foxx-after-recount-their-north-carolina-house-race/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "1:53 PM",
+     "headline": "High school tennis coach fired after student overheats, passes out at tournament",
+     "summary": "A high school tennis coach was fired after a player overheated and passed out during a September tournament.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "High school tennis coach fired after student overheats, passes out at tournament",
+       "url": "https://www.wbtv.com/2026/11/22/high-school-tennis-coach-fired-after-student-overheats-passes-out-tournament/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "1:14 PM",
+     "headline": "Week Ahead in Washington: November 22",
+     "summary": "A holiday week means festivities at the White House, an empty Capitol Hill, and the courts still booked and busy. This is your Week Ahead in Washington for the holiday week of November 22.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Week Ahead in Washington: November 22",
+       "url": "https://www.wbtv.com/2026/11/22/week-ahead-washington-november-22/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "12:48 PM",
+     "headline": "3 dead, including teen, 1 injured in baby shower shooting",
+     "summary": "Three people are dead, and one person is injured after a shooting during a baby shower Saturday evening.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "3 dead, including teen, 1 injured in baby shower shooting",
+       "url": "https://www.wbtv.com/2026/11/22/3-dead-including-teen-1-injured-baby-shower-shooting/",
+       "bias": 0
       }
      ]
     }
@@ -675,210 +693,210 @@
    "items": [
     {
      "date": "2026-11-22",
-     "time": "11:50 AM",
-     "headline": "Buccaneers vs. Lions odds, picks: Use Kalshi promo code CBSSPORTS55 for $55 bonus for picks for NFL Week 11",
-     "summary": "We'll break down the prediction markets available at Kalshi for Bucs vs. Lions in NFL Week 11 action",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Buccaneers vs. Lions odds, picks: Use Kalshi promo code CBSSPORTS55 for $55 bonus for picks for NFL Week 11",
-       "url": "https://www.cbssports.com/prediction/news/buccaneers-vs-lions-odds-picks-use-kalshi-promo-code-cbssports55-for-55-bonus-for-picks-for-nfl-week-11/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:48 AM",
-     "headline": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Jaguars-Giants, Vikings-49ers, NFL Week 11 predictions",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Sunday's NFL games",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Jaguars-Giants, Vikings-49ers, NFL Week 11 predictions",
-       "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-claim-55-bonus-jaguars-giants-vikings-49ers-nfl-week-11-predictions/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:45 AM",
-     "headline": "College basketball rankings: Coming off loss to Illinois, Duke survives Washington State's comeback bid",
-     "summary": "The Blue Devils are No. 14 in the Top 25 And 1 after holding off the Cougars for a 78-74 win on Saturday",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "College basketball rankings: Coming off loss to Illinois, Duke survives Washington State's comeback bid",
-       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-duke-washington-state-top-25-and-1/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:44 AM",
-     "headline": "College football odds, lines, schedule for Week 13: USC opens as favorite vs. UCLA",
-     "summary": "The opening lines for rivalry week are here with a lot at stake in some marquee matchups",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "College football odds, lines, schedule for Week 13: USC opens as favorite vs. UCLA",
-       "url": "https://www.cbssports.com/college-football/news/college-football-odds-lines-schedule-week-13-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:40 AM",
-     "headline": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 11",
-     "summary": "Here's everything bettors need to know for Ravens vs. Panthers in NFL Week 11",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 11",
-       "url": "https://www.cbssports.com/betting/news/ravens-vs-panthers-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-11/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:39 AM",
-     "headline": "Best Kalshi promo code CBSSPORTS55: Score $55 bonus for Bears-Saints, Broncos-Raiders, 49ers-Vikings, NFL",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on all of Sunday's NFL Week 11 action",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Best Kalshi promo code CBSSPORTS55: Score $55 bonus for Bears-Saints, Broncos-Raiders, 49ers-Vikings, NFL",
-       "url": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-score-55-bonus-for-bears-saints-broncos-raiders-49ers-vikings-nfl/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:33 AM",
-     "headline": "Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus in NFL Week 11",
-     "summary": "Use the latest Polymarket promo code to make predictions for Titans vs. Cowboys in NFL Week 11 action",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus in NFL Week 11",
-       "url": "https://www.cbssports.com/prediction/news/titans-vs-cowboys-odds-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus-in-nfl-week-11/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:31 AM",
-     "headline": "Week 11 NFL odds, picks: Brinson's best bets, player props, anytime TD scorers for Sunday",
-     "summary": "Steer clear of bloated double-digit spreads, grab the extra points with Philadelphia, and count on Dak Prescott to clear his passing total in a shootout",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Week 11 NFL odds, picks: Brinson's best bets, player props, anytime TD scorers for Sunday",
-       "url": "https://www.cbssports.com/betting/news/week-11-nfl-odds-picks-brinsons-best-bets-player-props-anytime-td-scorers-for-sunday/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:25 AM",
-     "headline": "Spurs 'a match for anyone' as European hopes boosted",
-     "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
+     "time": "6:22 PM",
+     "headline": "Match of the Day",
+     "summary": "Highlights of Liverpool v Manchester United and Hull City v Brighton.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Spurs 'a match for anyone' as European hopes boosted",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+       "title": "Match of the Day",
+       "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:24 AM",
-     "headline": "Vikings vs. 49ers prediction, odds, time: 'Sunday Night Football' in Mexico City picks by proven model",
-     "summary": "SportsLine's model has revealed its Minnesota Vikings vs. San Francisco 49ers picks for 'Sunday Night Football' matchup in Mexico City",
+     "time": "5:45 PM",
+     "headline": "DK Metcalf ejected: Steelers WR tossed after poking Cooper DeJean in the eye, could face suspension",
+     "summary": "Metcalf had more penalty than receiving yards against the Eagles, in jeopardy of suspension as repeat offender",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Vikings vs. 49ers prediction, odds, time: 'Sunday Night Football' in Mexico City picks by proven model",
-       "url": "https://www.cbssports.com/betting/news/vikings-49ers-prediction-odds-time-spread-2026-sunday-night-football-mexico-city-picks/",
+       "title": "DK Metcalf ejected: Steelers WR tossed after poking Cooper DeJean in the eye, could face suspension",
+       "url": "https://www.cbssports.com/nfl/news/dk-metcalf-ejected-steelers-receiver-tossed-after-poking-cooper-dejean-eye/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:21 AM",
-     "headline": "NFL odds, picks, predictions: Cowboys, Vikings keys to parlays involving favorites, underdogs in Week 11",
-     "summary": "SportsLine football expert Mike Tierney locks in his top parlays for Week 11 NFL games",
+     "time": "5:40 PM",
+     "headline": "Tomorrow's Top 25 Today: Houston is new No. 1, Duke plummets in college basketball rankings prediction",
+     "summary": "The Cougars are expected to move to the top spot in Monday's AP Top 25",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "NFL odds, picks, predictions: Cowboys, Vikings keys to parlays involving favorites, underdogs in Week 11",
-       "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-cowboys-vikings-keys-to-parlays-involving-favorites-underdogs-in-week-11/",
+       "title": "Tomorrow's Top 25 Today: Houston is new No. 1, Duke plummets in college basketball rankings prediction",
+       "url": "https://www.cbssports.com/college-basketball/news/tomorrows-top-25-today-houston-no-1-duke-college-basketball-rankings/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:16 AM",
-     "headline": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
-     "summary": "The Giants are reportedly finally open to moving Webb, but the asking price is predictably high",
+     "time": "5:34 PM",
+     "headline": "Why a long-term mega deal for Tarik Skubal isn't actually all that risky",
+     "summary": "The two-time Cy Young winner and best available free agent has landed a nine-year, $450 million contract with the Mets",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
-       "url": "https://www.cbssports.com/mlb/news/logan-webb-landing-spots-giants-trade/",
+       "title": "Why a long-term mega deal for Tarik Skubal isn't actually all that risky",
+       "url": "https://www.cbssports.com/mlb/news/tarik-skubal-contract-risk-long-term-deal/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:15 AM",
-     "headline": "Vikings vs. 49ers odds, Sunday Night Football predictions: Use Polymarket promo code CBSSPORTS for $25 bonus",
-     "summary": "Use the latest Polymarket promo code to make predictions for Vikings vs. 49ers in NFL Week 11 action",
+     "time": "5:32 PM",
+     "headline": "2026-27 MLB free agent tracker: Mets land Tarik Skubal on nine-year, $450 million contract",
+     "summary": "Where will the best players in free agency wind up? Follow along as we keep track of all the moves from an unusual offseason",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Vikings vs. 49ers odds, Sunday Night Football predictions: Use Polymarket promo code CBSSPORTS for $25 bonus",
-       "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-sunday-night-football-predictions-use-polymarket-promo-code-cbssports-25-bonus/",
+       "title": "2026-27 MLB free agent tracker: Mets land Tarik Skubal on nine-year, $450 million contract",
+       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:07 AM",
-     "headline": "Why the Daniel Jones release looks even worse for Colts after reported Ravens offer",
-     "summary": "Indianapolis reportedly rejected a trade offer from Baltimore at the deadline, only to release its $88 million quarterback two weeks later",
+     "time": "5:31 PM",
+     "headline": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
+     "summary": "The free agent ace will join a rotation that includes Nolan McLean and Christian Scott",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Why the Daniel Jones release looks even worse for Colts after reported Ravens offer",
-       "url": "https://www.cbssports.com/nfl/news/daniel-jones-release-colts-qb-ravens-nfl-trade-deadline/",
+       "title": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
+       "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "11:02 AM",
-     "headline": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
-     "summary": "Tony Pollard faces his former team, Justin Jefferson reunites with Kirk Cousins on an international stage and Josh Downs makes his Chiefs home debut",
+     "time": "5:31 PM",
+     "headline": "All the records broken by Tarik Skubal's nine-year, $450 million contract with the Mets",
+     "summary": "Skubal's new deal beats both the total value for a pitcher and the average annual value",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
-       "url": "https://www.cbssports.com/nfl/news/nfl-week-11-anytime-td-best-bets-mark-andrews/",
+       "title": "All the records broken by Tarik Skubal's nine-year, $450 million contract with the Mets",
+       "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract-records-total-value-aav/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:09 PM",
+     "headline": "Derrick Henry injury: Ravens star RB clears concussion protocol after leaving game post-TD",
+     "summary": "Baltimore avoids yet another key loss to injury",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Derrick Henry injury: Ravens star RB clears concussion protocol after leaving game post-TD",
+       "url": "https://www.cbssports.com/nfl/news/derrick-henry-injury-ravens-star-rb-leaves-evaluated-concussion-after-scoring-touchdown/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:08 PM",
+     "headline": "NCAA eliminates mandatory pregame handshakes for women's coaches after Geno Auriemma-Dawn Staley incident",
+     "summary": "Coaches are still encouraged to \"informally\" shake hands",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NCAA eliminates mandatory pregame handshakes for women's coaches after Geno Auriemma-Dawn Staley incident",
+       "url": "https://www.cbssports.com/womens-college-basketball/news/ncaa-eliminates-mandatory-pregame-handshakes-womens-coaches-staley-auriemma/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:54 PM",
+     "headline": "Thitikul wins third title in a row at LPGA finale",
+     "summary": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Thitikul wins third title in a row at LPGA finale",
+       "url": "https://www.bbc.co.uk/sport/golf/articles/ckjwjvwexd12o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:49 PM",
+     "headline": "Dwight Howard admits he told Magic not to trade for Stephen Curry before he became 'one of the greatest'",
+     "summary": "Howard said his priority at the time was getting Monta Ellis to Orlando",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Dwight Howard admits he told Magic not to trade for Stephen Curry before he became 'one of the greatest'",
+       "url": "https://www.cbssports.com/nba/news/dwight-howard-stephen-curry-trade-magic-monta-ellis/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:44 PM",
+     "headline": "Fifa to confirm UK as host for 2035 Women's World Cup",
+     "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:41 PM",
+     "headline": "Cowboys vs. Titans ends in historic scorigami after late Tennessee touchdown",
+     "summary": "The Cowboys' 51-30 victory became the 1,101st unique final score in NFL history after a late Titans touchdown",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Cowboys vs. Titans ends in historic scorigami after late Tennessee touchdown",
+       "url": "https://www.cbssports.com/nfl/news/cowboys-titans-final-score-scorigami-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:36 PM",
+     "headline": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 roll",
+     "summary": "R.J. White reveals his picks for Minnesota Vikings vs. San Francisco 49ers in the 2026 Week 11 'Sunday Night Football' matchup in Mexico City",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 roll",
+       "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-mexico-city-odds-time-49ers-vikings-expert-picks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:36 PM",
+     "headline": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+     "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
