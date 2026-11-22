@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:51:04Z",
+ "generated_at": "2026-11-22T22:53:46Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -75,15 +75,15 @@
     },
     {
      "date": "2026-11-22",
-     "time": "5:41 PM",
-     "headline": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
-     "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
+     "time": "5:43 PM",
+     "headline": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
+     "summary": "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
-       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-       "bias": -1
+       "outlet": "Fox News",
+       "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
+       "url": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
+       "bias": 1
       }
      ]
     },
@@ -111,6 +111,20 @@
        "outlet": "NPR World",
        "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
        "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:39 PM",
+     "headline": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+     "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
        "bias": -1
       }
      ]
@@ -223,20 +237,6 @@
        "outlet": "The Guardian",
        "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
        "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "4:33 PM",
-     "headline": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-       "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
        "bias": -1
       }
      ]
