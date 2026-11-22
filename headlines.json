@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:53:27Z",
+ "generated_at": "2026-11-22T16:56:21Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -29,20 +29,6 @@
        "outlet": "The Guardian",
        "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
        "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:33 AM",
-     "headline": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-     "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-       "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -225,6 +211,20 @@
        "outlet": "The Guardian",
        "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
        "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:07 AM",
+     "headline": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
+     "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
+       "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
        "bias": -1
       }
      ]
@@ -459,6 +459,20 @@
    "items": [
     {
      "date": "2026-11-22",
+     "time": "11:49 AM",
+     "headline": "Delta says ‘automation’ issues causing delays nationwide",
+     "summary": "Delays are mounting across the country for Delta Air Lines flights after a ground stop and ground delay caused by a technical issue, the Atlanta-based airline said.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Delta says ‘automation’ issues causing delays nationwide",
+       "url": "https://www.wbtv.com/2026/11/22/delta-says-automation-issues-causing-delays-nationwide/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
      "time": "11:07 AM",
      "headline": "Tom Jackson, former Broncos star and ‘Sunday NFL Countdown’ analyst, dead at 75",
      "summary": "Broncos legend and ESPN sportscaster Tom Jackson has died. He was 75.",
@@ -652,20 +666,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "7:40 AM",
-     "headline": "Mother’s of Murdered Offspring holds Thanksgiving event for local families",
-     "summary": "A nonprofit brought families together who lost loved ones to violence.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Mother’s of Murdered Offspring holds Thanksgiving event for local families",
-       "url": "https://www.wsoctv.com/news/local/mothers-murdered-offspring-holds-thanksgiving-event-local-families/COSJ6FZZQRDQJFBPWGA746ZXWY/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -673,6 +673,20 @@
    "id": "sports",
    "name": "Sports",
    "items": [
+    {
+     "date": "2026-11-22",
+     "time": "11:50 AM",
+     "headline": "Buccaneers vs. Lions odds, picks: Use Kalshi promo code CBSSPORTS55 for $55 bonus for picks for NFL Week 11",
+     "summary": "We'll break down the prediction markets available at Kalshi for Bucs vs. Lions in NFL Week 11 action",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Buccaneers vs. Lions odds, picks: Use Kalshi promo code CBSSPORTS55 for $55 bonus for picks for NFL Week 11",
+       "url": "https://www.cbssports.com/prediction/news/buccaneers-vs-lions-odds-picks-use-kalshi-promo-code-cbssports55-for-55-bonus-for-picks-for-nfl-week-11/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-22",
      "time": "11:48 AM",
@@ -739,20 +753,6 @@
        "outlet": "CBS Sports",
        "title": "Best Kalshi promo code CBSSPORTS55: Score $55 bonus for Bears-Saints, Broncos-Raiders, 49ers-Vikings, NFL",
        "url": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-score-55-bonus-for-bears-saints-broncos-raiders-49ers-vikings-nfl/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "11:37 AM",
-     "headline": "NFL Week 11 Cardinals vs. Chiefs odds, picks, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
-     "summary": "Here's a closer look at the top trading markets available at Kalshi for Sunday's game between Arizona and Kansas City in NFL Week 11",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "NFL Week 11 Cardinals vs. Chiefs odds, picks, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
-       "url": "https://www.cbssports.com/prediction/news/nfl-week-11-cardinals-vs-chiefs-odds-picks-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus/",
        "bias": 0
       }
      ]
