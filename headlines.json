@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:52:40Z",
+ "generated_at": "2026-11-22T16:53:27Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -15,55 +15,55 @@
    "items": [
     {
      "date": "2026-11-22",
-     "time": "4:20 AM",
-     "headline": "South Korea education minister resigns over exam cheating scandal",
-     "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the…",
+     "time": "8:18 AM",
+     "headline": "Indonesia candy factory fire leaves multiple dead, dozens missing",
+     "summary": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says.",
      "sources": [
       {
-       "outlet": "BBC News",
-       "title": "South Korea education minister resigns over exam cheating scandal",
-       "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-       "bias": 0
+       "outlet": "Fox News",
+       "title": "Indonesia candy factory fire leaves multiple dead, dozens missing",
+       "url": "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing",
+       "bias": 1
       },
       {
        "outlet": "The Guardian",
-       "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-       "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+       "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+       "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "6:41 AM",
-     "headline": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
-     "summary": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoining UK politics live – latest updates Closer links with the EU will mean the UK having a say on decisions made by Brussels, Ed Miliband…",
+     "time": "11:33 AM",
+     "headline": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+     "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
-       "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+       "outlet": "Al Jazeera",
+       "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+       "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "6:37 AM",
-     "headline": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
-     "summary": "Former PM who opted for minimal ties with bloc says moves towards membership would dominate government’s time UK politics live – latest updates Theresa May has said she feels “aghast” at Andy Burnham’s plan for potentially rejoining the EU, arguing in a rare…",
+     "time": "11:33 AM",
+     "headline": "International climate talks end in disappointment",
+     "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
      "sources": [
       {
-       "outlet": "The Guardian",
-       "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
-       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
+       "outlet": "NPR World",
+       "title": "International climate talks end in disappointment",
+       "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "6:36 AM",
+     "time": "11:30 AM",
      "headline": "Trump says he wants \"permanent\" deal with Iran",
      "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
@@ -77,154 +77,154 @@
     },
     {
      "date": "2026-11-22",
-     "time": "6:36 AM",
-     "headline": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-     "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU European Relations Minister Hamish Falconer on Sky this morning criticised the post from earlier this…",
+     "time": "11:14 AM",
+     "headline": "Cop31 climate talks break down as key deal rejected",
+     "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+       "title": "Cop31 climate talks break down as key deal rejected",
+       "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "6:25 AM",
-     "headline": "Russia-bound ship still on fire after attack in Gulf of Finland",
-     "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+     "time": "11:12 AM",
+     "headline": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+     "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:06 AM",
+     "headline": "Canada’s PM appears next to Trump impersonator at press dinner",
+     "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Canada’s PM appears next to Trump impersonator at press dinner",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:05 AM",
+     "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "6:15 AM",
-     "headline": "Russian ship attacked by drone in Baltic Sea off Finland",
-     "summary": "",
+     "time": "10:54 AM",
+     "headline": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+     "summary": "Former presidential candidate Flávio Bolsonaro alleges election interference by Brazil’s Supreme Court and discusses political persecution and the future of his family’s political movement.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+       "url": "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:53 AM",
+     "headline": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
+     "summary": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures Bigfoot has quietly appeared again. Well, not Sasquatch directly, but new files about the cryptid.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
+       "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:43 AM",
+     "headline": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
+     "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
+       "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:41 AM",
+     "headline": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+     "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+       "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:30 AM",
+     "headline": "Can we build a more ethical AI future?",
+     "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Russian ship attacked by drone in Baltic Sea off Finland",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+       "title": "Can we build a more ethical AI future?",
+       "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "6:07 AM",
-     "headline": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-     "summary": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
+     "time": "10:24 AM",
+     "headline": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+     "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-       "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+       "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "6:00 AM",
-     "headline": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-     "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts…",
+     "time": "10:22 AM",
+     "headline": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+     "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-       "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "6:00 AM",
-     "headline": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
-     "summary": "Jay Stewart joined search party after two-year-old Vella Campillo wandered off into desert from front yard of home An Arizona granddad has been formally recognized as a hero after recently volunteering to help search for a toddler who wandered off alone into…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
-       "url": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "6:00 AM",
-     "headline": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
-     "summary": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long British producers have broadly welcomed the UK’s deal with the EU, designed to remove the vast majority of physical checks on food, plants and animal…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
-       "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "5:59 AM",
-     "headline": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
-     "summary": "Working-class man who covered mansions with William Morris’s patterns spent his nights filling his Cambridge terrace house with his own designs As a Victorian working-class labourer, David Parr was paid to spend his days decorating the interiors of private…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
-       "url": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "5:39 AM",
-     "headline": "Russian cargo ship still on fire off Finland after drone attack",
-     "summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Russian cargo ship still on fire off Finland after drone attack",
-       "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "4:49 AM",
-     "headline": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
-     "summary": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson There is a worrying rise in “reckless and intimidating” vigilantes posing as security guards around far-right figures, security experts have said.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
-       "url": "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "4:45 AM",
-     "headline": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
-     "summary": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
-       "url": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+       "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+       "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
        "bias": -1
       }
      ]
@@ -237,7 +237,83 @@
    "items": [
     {
      "date": "2026-11-22",
-     "time": "6:36 AM",
+     "time": "11:30 AM",
+     "headline": "UN climate talks break down over bitter disagreements on fossil fuels",
+     "summary": "Expectations had already been low heading into the two-week negotiations in Turkey, but impasses over explicitly including fossil fuels and other issues, including money, proved irreconcilable.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "UN climate talks break down over bitter disagreements on fossil fuels",
+       "url": "https://www.pbs.org/newshour/world/un-climate-talks-break-down-over-bitter-disagreements-on-fossil-fuels",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "COP31 climate talks break down after angry dispute over fossil fuels",
+       "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:41 AM",
+     "headline": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+     "summary": "BepiColombo is only the third spacecraft to visit Mercury — the sun's closest planet and barely bigger than our moon — and the first in more than a decade.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+       "url": "https://www.pbs.org/newshour/science/mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:38 AM",
+     "headline": "Delta tech issue delays Atlanta-bound flights head of Thanksgiving",
+     "summary": "A problem with the system Delta Air Lines uses to calculate aircraft weight and balance delayed flights into its Atlanta hub Sunday, as travelers headed out ahead of Thanksgiving.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Delta tech issue delays Atlanta-bound flights head of Thanksgiving",
+       "url": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:33 AM",
+     "headline": "International climate talks end in disappointment",
+     "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "International climate talks end in disappointment",
+       "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:33 AM",
+     "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+       "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:30 AM",
      "headline": "Trump says he wants \"permanent\" deal with Iran",
      "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
@@ -251,239 +327,127 @@
     },
     {
      "date": "2026-11-22",
-     "time": "6:00 AM",
-     "headline": "Jeffries calling Jerusalem NYC's ‘sixth borough’ resurfaces as progressives swing against Israel",
-     "summary": "Hakeem Jeffries once called Jerusalem the \"6th Borough\" in a resurfaced AIPAC clip, raising questions as he heads toward a January House speaker vote.",
+     "time": "11:18 AM",
+     "headline": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
+     "summary": "Video of the incident showed officers dragging away at least one person at Seattle-Tacoma International Airport as a woman screams that her daughter is being taken and she has a work permit.",
      "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Jeffries calling Jerusalem NYC's ‘sixth borough’ resurfaces as progressives swing against Israel",
-       "url": "https://www.foxnews.com/politics/jeffries-calling-jerusalem-nycs-sixth-borough-resurfaces-progressives-swing-against-israel",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "5:00 AM",
-     "headline": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
-     "summary": "Minnesota farmer Shayne Isane says gray wolves killed three calves in one night, costing thousands as Trump moves to reconsider federal protections.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
-       "url": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "5:00 AM",
-     "headline": "NPR's Senior Podcast Challenge: Early entries we love",
-     "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "NPR's Senior Podcast Challenge: Early entries we love",
-       "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "5:00 AM",
-     "headline": "He expected a small-business loan. It turned out to be a trap",
-     "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "He expected a small-business loan. It turned out to be a trap",
-       "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "12:20 AM",
-     "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-       "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "8:58 AM",
-     "headline": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
-     "summary": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-       "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-       "bias": -1
-      },
-      {
-       "outlet": "ABC News",
-       "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-       "url": "https://abcnews.com/US/wireStory/federal-jury-convicts-man-starting-deadly-2025-palisades-138333574",
-       "bias": -1
-      },
       {
        "outlet": "PBS NewsHour",
-       "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
-       "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+       "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
+       "url": "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "6:54 PM",
-     "headline": "Princeton student detained by ICE at Reagan Airport after conference",
-     "summary": "Eva Yi Xie, a third-year Ph.D. Princeton student, was detained following a presentation she gave at the Society for Neuroscience.",
+     "date": "2026-11-22",
+     "time": "11:02 AM",
+     "headline": "California prepares for flooding as king tides and storms threaten Thanksgiving week",
+     "summary": "California officials this weekend are preparing for storms that could coincide with the year’s highest tides, Thanksgiving and some of its busiest holiday travel days.",
      "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Princeton student detained by ICE at Reagan Airport after conference",
-       "url": "https://www.cbsnews.com/news/princeton-student-ice/",
-       "bias": 0
-      },
       {
        "outlet": "NBC News",
-       "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
-       "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+       "title": "California prepares for flooding as king tides and storms threaten Thanksgiving week",
+       "url": "https://www.nbcnews.com/news/us-news/california-prepares-flooding-rain-wind-thanksgiving-approaches-rcna610537",
        "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "5:40 PM",
-     "headline": "Trump orders federal contractors to check with White House before responding to Congress",
-     "summary": "The order is the Republican administration's latest effort to resist what are expected to be wide-ranging and aggressive oversight efforts from Democrats when they take over Congress in January.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Trump orders federal contractors to check with White House before responding to Congress",
-       "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
-       "bias": -1
-      },
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Trump orders federal contractors to check with White House before responding to Congress",
-       "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:20 PM",
-     "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-     "summary": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-       "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
-       "bias": 0
-      },
-      {
-       "outlet": "CBS News",
-       "title": "Trump vows to work with Democrats to cap credit card interest rates",
-       "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "3:55 PM",
-     "headline": "AP source: FBI investigating apparent hack of its key national criminal justice database",
-     "summary": "The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history…",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
-       "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "FBI investigating apparent hack of a key criminal justice information database, AP source says",
-       "url": "https://abcnews.com/US/wireStory/fbi-investigating-apparent-hack-key-criminal-justice-information-138345950",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:53 AM",
-     "headline": "Mamdani's plan to close Rikers Island, revamp NYC jails",
-     "summary": "New York City Mayor Zohran Mamdani is moving forward with his plan to close Rikers Island and replace it with four smaller jails. Anna Schecter reports.",
+     "date": "2026-11-22",
+     "time": "10:59 AM",
+     "headline": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+     "summary": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Mamdani's plan to close Rikers Island, revamp NYC jails",
-       "url": "https://www.cbsnews.com/video/mamdanis-plan-to-close-rikers-island-revamp-nyc-jails/",
-       "bias": 0
-      },
-      {
-       "outlet": "ABC News",
-       "title": "Mamdani sets plan to close NYC's notorious Rikers Island jail",
-       "url": "https://abcnews.com/US/wireStory/mamdani-sets-plan-close-nycs-notorious-rikers-island-138314719",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:15 PM",
-     "headline": "Kansas City Current capture first NWSL trophy",
-     "summary": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Kansas City Current capture first NWSL trophy",
-       "url": "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/",
+       "title": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+       "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "9:56 PM",
-     "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-     "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "ICE officers arrest 2 passengers boarding flight in Seattle",
-       "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "8:36 PM",
-     "headline": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
-     "summary": "A new Government Accountability Office report found 17 of 22 federal agencies, including HHS and DHS, failed to fully address zero trust guidance, raising cyberattack risks.",
+     "date": "2026-11-22",
+     "time": "10:57 AM",
+     "headline": "Progressives unveil $25 minimum wage push to solve affordability crisis despite economist inflation warning",
+     "summary": "House Democrats push a $25 minimum wage to fight the affordability crisis, but Heritage economist E.J. Antoni warns it could raise costs and unemployment.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
-       "url": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
+       "title": "Progressives unveil $25 minimum wage push to solve affordability crisis despite economist inflation warning",
+       "url": "https://www.foxnews.com/politics/progressives-unveil-25-minimum-wage-push-solve-affordability-crisis-despite-economist-inflation-warning",
        "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:55 AM",
+     "headline": "Jeffries talks about where Democrats may be able to work with Trump",
+     "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Jeffries talks about where Democrats may be able to work with Trump",
+       "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:51 AM",
+     "headline": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader",
+     "summary": "Sen. Chris Van Hollen, D-Md., said “momentum is in our direction” on his bid to serve as the Senate majority leader in the next Congress",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader",
+       "url": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:48 AM",
+     "headline": "DHS, Dem officials clash after ICE arrest at Seattle airport",
+     "summary": "DHS says a passenger threw hot coffee at ICE officers during a Seattle airport arrest of a visa overstay, as Washington Democrats blast the operation.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "DHS, Dem officials clash after ICE arrest at Seattle airport",
+       "url": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:41 AM",
+     "headline": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+     "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+       "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:30 AM",
+     "headline": "Nature: Turkeys in New Hampshire",
+     "summary": "We leave you this Sunday with turkeys on the run in Rye, New Hampshire. Videographer: Michael Clark.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Nature: Turkeys in New Hampshire",
+       "url": "https://www.cbsnews.com/video/nature-turkeys-in-new-hampshire/",
+       "bias": 0
       }
      ]
     }
@@ -495,210 +459,210 @@
    "items": [
     {
      "date": "2026-11-22",
-     "time": "6:41 AM",
-     "headline": "FORECAST: Damp start, scattered showers across the area",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "time": "11:07 AM",
+     "headline": "Tom Jackson, former Broncos star and ‘Sunday NFL Countdown’ analyst, dead at 75",
+     "summary": "Broncos legend and ESPN sportscaster Tom Jackson has died. He was 75.",
      "sources": [
       {
-       "outlet": "WSOC",
-       "title": "FORECAST: Damp start, scattered showers across the area",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-damp-start-scattered-showers-across-area/CMP32LWDZNC6LL73SZX7YRHO5A/",
+       "outlet": "WBTV",
+       "title": "Tom Jackson, former Broncos star and ‘Sunday NFL Countdown’ analyst, dead at 75",
+       "url": "https://www.wbtv.com/2026/11/22/former-broncos-star-espn-broadcaster-tom-jackson-dead-75/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "5:51 AM",
-     "headline": "Father stabbed to death by ex in middle of the night in front of 3-year-old son, authorities say",
-     "summary": "A family is grieving after a father was allegedly stabbed to death by his ex in the middle of the night in front of their young son.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Father stabbed to death by ex in middle of the night in front of 3-year-old son, authorities say",
-       "url": "https://www.wbtv.com/2026/11/22/father-stabbed-death-by-ex-middle-night-front-3-year-old-son-authorities-say/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "11:27 PM",
-     "headline": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5",
-     "summary": "It’ll be No. 5 Miami and No. 10 Wake Forest facing off for the Atlantic Coast Conference title, a game that will send one team to the College Football Playoff and have the other wondering if an at-large berth is coming its way.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5",
-       "url": "https://www.wbtv.com/2026/11/22/acc-title-game-is-set-its-miami-wake-forest-rematch-charlotte-dec-5/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "9:58 PM",
-     "headline": "Bigfoot files quietly released by US Forest Service",
-     "summary": "Forest Service records describe reported Bigfoot tracks in Montana and Washington, including an investigation that found signs of a possible hoax.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Bigfoot files quietly released by US Forest Service",
-       "url": "https://www.wbtv.com/2026/11/22/bigfoot-files-quietly-released-by-us-forest-service/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "9:45 PM",
-     "headline": "Volunteers feed more than 600 families with turkey giveaway in Gastonia",
-     "summary": "Thanksgiving dinner is taken care of for more than 600 Gastonia families that are in need.",
+     "time": "10:48 AM",
+     "headline": "Inspire Soccer League host Championship weekend at Winthrop Univ.",
+     "summary": "Inspire Soccer League will host its Championship Weekend and season finale on Nov. 20-22 in Rock Hill, at Winthrop University’s Eagle Field.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Volunteers feed more than 600 families with turkey giveaway in Gastonia",
-       "url": "https://www.wsoctv.com/news/local/volunteers-feed-more-than-600-families-with-turkey-giveaway-gastonia/QJ22B33ABFC5HNTU5WYS52QBNQ/",
+       "title": "Inspire Soccer League host Championship weekend at Winthrop Univ.",
+       "url": "https://www.wsoctv.com/news/local/inspire-soccer-league-host-championship-weekend-winthrop-univ/JNH2TZ2DUNGFDE4ZFE4567OXA4/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "9:11 PM",
-     "headline": "First Alert: Tracking 2 rounds of rain through Thanksgiving Day",
+     "date": "2026-11-22",
+     "time": "10:43 AM",
+     "headline": "Motorcyclist dies after hitting curb, street sign in west Charlotte, police say",
+     "summary": "The crash happened just after midnight Saturday, Nov. 21, on Steele Creek Road",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Motorcyclist dies after hitting curb, street sign in west Charlotte, police say",
+       "url": "https://www.wbtv.com/2026/11/22/motorcyclist-dies-after-hitting-curb-street-sign-west-charlotte-police-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "10:35 AM",
+     "headline": "Fiona to be honored at upcoming Macy’s Thanksgiving Day Parade",
+     "summary": "Macy’s has announced that Fiona will be honored at the upcoming 100th Macy’s Thanksgiving Day Parade.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Fiona to be honored at upcoming Macy’s Thanksgiving Day Parade",
+       "url": "https://www.wbtv.com/2026/11/22/fiona-be-honored-upcoming-macys-thanksgiving-day-parade/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "9:52 AM",
+     "headline": "Man arrested for shooting a person in the leg during argument",
+     "summary": "A man has been arrested following a Saturday night shooting in Huntersville.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Man arrested for shooting a person in the leg during argument",
+       "url": "https://www.wsoctv.com/news/local/man-arrested-shooting-person-leg-during-argument/3B3T4KAJ65FPJLGRSIIE7A5UNU/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "9:51 AM",
+     "headline": "Woman killed in hit-and-run crash while crossing south Charlotte street, police say",
+     "summary": "Paramedics found a 59-year-old woman unresponsive in the middle of S. Tryon St.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Woman killed in hit-and-run crash while crossing south Charlotte street, police say",
+       "url": "https://www.wbtv.com/2026/11/22/woman-killed-hit-and-run-crash-while-crossing-street-south-charlotte-police-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "9:27 AM",
+     "headline": "Chadwick Boseman’s father, Leroy Boseman, dies at 82",
+     "summary": "Leroy Boseman, the father of actor Chadwick Boseman, died at 82 after a brief illness, according to a statement from his family. The family announced his death Saturday.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Chadwick Boseman’s father, Leroy Boseman, dies at 82",
+       "url": "https://www.wbtv.com/2026/11/22/chadwick-bosemans-father-leroy-boseman-dies-82/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "9:01 AM",
+     "headline": "Light the Knights Festival starts Wednesday, Nov. 25",
+     "summary": "The seventh annual Light the Knights Festival begins on Wednesday, Nov. 25.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Light the Knights Festival starts Wednesday, Nov. 25",
+       "url": "https://www.wsoctv.com/news/local/light-knights-festival-starts-wednesday-nov-25/6RONROLO75EDJFH6JRG3QNS5FM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "9:00 AM",
+     "headline": "NCAA to scrap pregame handshakes at women’s tournament",
+     "summary": "The NCAA women’s basketball tournament will no longer require head coaches to shake hands before games.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "NCAA to scrap pregame handshakes at women’s tournament",
+       "url": "https://www.wsoctv.com/news/local/ncaa-scrap-pregame-handshakes-womens-tournament/NNNPCGNKFJEFLJT2KLWQLQXMLM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "8:30 AM",
+     "headline": "Second Publix location coming to Gaston County",
+     "summary": "A second Publix is coming to Gaston County.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Second Publix location coming to Gaston County",
+       "url": "https://www.wsoctv.com/news/local/second-publix-location-coming-gaston-county/6FUZAXGISRHCBMQJJTDBWGD2KE/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "8:16 AM",
+     "headline": "Coddle Creek Elementary School will reopen Monday after mold cleanup",
+     "summary": "An Iredell County School will reopen on Monday after cleanup from serious mold issues.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Coddle Creek Elementary School will reopen Monday after mold cleanup",
+       "url": "https://www.wsoctv.com/news/local/coddle-creek-elementary-school-will-reopen-monday-after-mold-cleanup/NPRAYUW4NRESLHZLJWO2VK2OIU/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "8:04 AM",
+     "headline": "First Alert: Showers linger Sunday before more rain threatens Thanksgiving travel",
      "summary": "Storm system to impact coast, while inland impacts remain uncertain",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "First Alert: Tracking 2 rounds of rain through Thanksgiving Day",
-       "url": "https://www.wbtv.com/2026/11/21/first-alert-weekend-rain-returns-before-thanksgiving-week-rain-cooldown/",
+       "title": "First Alert: Showers linger Sunday before more rain threatens Thanksgiving travel",
+       "url": "https://www.wbtv.com/2026/11/22/first-alert-showers-linger-sunday-before-more-rain-threatens-thanksgiving-travel/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "7:13 PM",
-     "headline": "FORECAST: Rain off and on overnight",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "date": "2026-11-22",
+     "time": "8:03 AM",
+     "headline": "Boutique Hilton hotel planned as part of major development near Dilworth, South End",
+     "summary": "Quality Oil Co. and its hospitality division, Quality Hospitality, will develop a luxury boutique hotel at the edge of South End and Dilworth, where a mixed-use tower is also under construction.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Rain off and on overnight",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-rain-off-overnight/M6KTIMYHNRCRLIOOGV3CTBWYZY/",
+       "title": "Boutique Hilton hotel planned as part of major development near Dilworth, South End",
+       "url": "https://www.wsoctv.com/news/local/boutique-hilton-hotel-planned-part-major-development-near-dilworth-south-end/XK74YNCDDBH7ZIPHE77FWS4IOE/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "6:52 PM",
-     "headline": "Pedestrian struck, killed by vehicle in west Charlotte",
-     "summary": "A pedestrian was struck and killed by a vehicle in west Charlotte Thursday night.",
+     "date": "2026-11-22",
+     "time": "8:00 AM",
+     "headline": "New book examines impact of 1898 Wilmington Massacre",
+     "summary": "In 1898, a white mob massacred dozens of Black residents in Wilmington, North Carolina. They used a machine gun and stoked fear to stage what is considered the only successful coup in U.S. history.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "New book examines impact of 1898 Wilmington Massacre",
+       "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-22/new-book-examines-impact-of-1898-wilmington-massacre",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "7:40 AM",
+     "headline": "Mother’s of Murdered Offspring holds Thanksgiving event for local families",
+     "summary": "A nonprofit brought families together who lost loved ones to violence.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Pedestrian struck, killed by vehicle in west Charlotte",
-       "url": "https://www.wsoctv.com/news/local/pedestrian-struck-killed-by-vehicle-west-charlotte/7553JASRDVAGTKXE7TG5KJPEDI/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:32 PM",
-     "headline": "Speed was factor in motorcycle crash that claimed the life of 59-year-old man",
-     "summary": "The Charlotte-Mecklenburg Police Department is investigating a fatal motorcycle crash that took place in the Steele Creek Division early Saturday morning.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Speed was factor in motorcycle crash that claimed the life of 59-year-old man",
-       "url": "https://www.wsoctv.com/news/local/speed-was-factor-motorcycle-crash-that-claimed-life-59-year-old-man/LB225RC6OBERHMDZK2DZTWIER4/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "6:14 PM",
-     "headline": "Victim identified following fatal hit-and-run in southwest Charlotte, CMPD investigating",
-     "summary": "MEDIC said the person was pronounced deceased at the scene. 59-year-old Ada Deneire Dennis has been identified as the victim.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Victim identified following fatal hit-and-run in southwest Charlotte, CMPD investigating",
-       "url": "https://www.wsoctv.com/news/local/cmpd-investigating-after-person-fatal-hit-by-car-southwest-charlotte/WVCSACX4TBEKRDTGZGDMDOKPU4/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:22 PM",
-     "headline": "‘Failed to do the basics’: Man in psychiatric hospital strangled by another patient, lawsuit says",
-     "summary": "Two parents are suing the Florida State Hospital in Chattahoochee and Florida’s Department of Children and Families after their son was allegedly strangled and killed inside the psychiatric hospital.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "‘Failed to do the basics’: Man in psychiatric hospital strangled by another patient, lawsuit says",
-       "url": "https://www.wbtv.com/2026/11/21/failed-do-basics-man-psychiatric-hospital-strangled-by-another-patient-lawsuit-says/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:00 PM",
-     "headline": "Thousands return to Concord Christmas tree lighting a year after shooting",
-     "summary": "‘I feel very safe. There’s an increased presence and there’s a good vibe.’",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Thousands return to Concord Christmas tree lighting a year after shooting",
-       "url": "https://www.wbtv.com/2026/11/21/thousands-return-concord-christmas-tree-lighting-year-after-shooting/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:49 PM",
-     "headline": "94-year-old arrested after mother, infant critically injured in hit-and-run",
-     "summary": "A 94-year-old man faces two counts of first-degree assault after a hit-and-run on Thursday that left a mother and her 2-month-old daughter in critical condition.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "94-year-old arrested after mother, infant critically injured in hit-and-run",
-       "url": "https://www.wbtv.com/2026/11/21/94-year-old-arrested-after-mother-infant-critically-injured-hit-and-run/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:21 PM",
-     "headline": "Paramedic loses several pets in early morning Salisbury house fire",
-     "summary": "A family in Salisbury lost several animals in a house fire early Saturday morning.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Paramedic loses several pets in early morning Salisbury house fire",
-       "url": "https://www.wsoctv.com/news/local/paramedic-loses-several-pets-early-morning-salisbury-house-fire/CZSNEILE7NEPRBBKA2XMEOYD44/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:12 PM",
-     "headline": "Sen. Mark Kelly, Olivia Munn introduce ‘Know Your Risk Act’",
-     "summary": "Sen. Mark Kelly, D-Ariz., is introducing the “Know Your Risk Act,” legislation meant to help women learn their breast cancer risk and detect the disease early.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Sen. Mark Kelly, Olivia Munn introduce ‘Know Your Risk Act’",
-       "url": "https://www.wbtv.com/2026/11/21/sen-mark-kelly-olivia-munn-introduce-know-your-risk-act/",
+       "title": "Mother’s of Murdered Offspring holds Thanksgiving event for local families",
+       "url": "https://www.wsoctv.com/news/local/mothers-murdered-offspring-holds-thanksgiving-event-local-families/COSJ6FZZQRDQJFBPWGA746ZXWY/",
        "bias": 0
       }
      ]
@@ -711,210 +675,210 @@
    "items": [
     {
      "date": "2026-11-22",
-     "time": "6:09 AM",
-     "headline": "Did Springboks win change the narrative for Ireland?",
-     "summary": "After a 20-17 win on Saturday, did Ireland's victory over South Africa change the narrative for Andy Farrell's side?",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Did Springboks win change the narrative for Ireland?",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c64gnry013mko?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "6:07 AM",
-     "headline": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-     "summary": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "6:00 AM",
-     "headline": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks: Who wins 49ers or Vikings?",
-     "summary": "NFL Week 11 odds, how to watch, streaming: Expert selections, best bets, teasers, survivor picks and more CBSSports.com and SportsLine break down every single NFL game in Week 17",
+     "time": "11:48 AM",
+     "headline": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Jaguars-Giants, Vikings-49ers, NFL Week 11 predictions",
+     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Sunday's NFL games",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks: Who wins 49ers or Vikings?",
-       "url": "https://www.cbssports.com/nfl/news/nfl-week-11-expert-picks-odds-best-bets-teasers-predictions-survivor-picks/",
+       "title": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Jaguars-Giants, Vikings-49ers, NFL Week 11 predictions",
+       "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-claim-55-bonus-jaguars-giants-vikings-49ers-nfl-week-11-predictions/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "5:59 AM",
-     "headline": "'Let fantastically promising McConnell loose against Pumas'",
-     "summary": "Scotland head into their Nations Championship finale against Argentina on a high and should unleash Liam McConnell on the Pumas after his hat-trick against Japan, writes Tom English.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "'Let fantastically promising McConnell loose against Pumas'",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgqxvzyq959o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "5:30 AM",
-     "headline": "NFL player Harrell in hospital after alleged driver assault",
-     "summary": "Tennessee Titans linebacker Jaylen Harrell is in hospital after a car crash in Florida, with police investigating whether he assaulted a taxi driver.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "NFL player Harrell in hospital after alleged driver assault",
-       "url": "https://www.bbc.co.uk/sport/american-football/articles/c3ly71pg27wvo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "5:01 AM",
-     "headline": "Prisco's Week 11 NFL picks: 49ers over Vikings, Cowboys rout Titans, Panthers edge Ravens",
-     "summary": "Pete Prisco reveals all of his Week 11 picks, including the Jaguars to handle the Giants on the road",
+     "time": "11:45 AM",
+     "headline": "College basketball rankings: Coming off loss to Illinois, Duke survives Washington State's comeback bid",
+     "summary": "The Blue Devils are No. 14 in the Top 25 And 1 after holding off the Cougars for a 78-74 win on Saturday",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Prisco's Week 11 NFL picks: 49ers over Vikings, Cowboys rout Titans, Panthers edge Ravens",
-       "url": "https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-odds-expert-picks-predictions/",
+       "title": "College basketball rankings: Coming off loss to Illinois, Duke survives Washington State's comeback bid",
+       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-duke-washington-state-top-25-and-1/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "5:01 AM",
-     "headline": "NFL Week 11 Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus",
-     "summary": "Use the latest Polymarket promo code to make predictions for Titans vs. Cowboys in NFL Week 11 action",
+     "time": "11:44 AM",
+     "headline": "College football odds, lines, schedule for Week 13: USC opens as favorite vs. UCLA",
+     "summary": "The opening lines for rivalry week are here with a lot at stake in some marquee matchups",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "NFL Week 11 Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus",
-       "url": "https://www.cbssports.com/prediction/news/nfl-week-11-titans-vs-cowboys-odds-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus/",
+       "title": "College football odds, lines, schedule for Week 13: USC opens as favorite vs. UCLA",
+       "url": "https://www.cbssports.com/college-football/news/college-football-odds-lines-schedule-week-13-2026/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "5:01 AM",
-     "headline": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, NFL Week 11 betting preview, best bets",
+     "time": "11:40 AM",
+     "headline": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 11",
      "summary": "Here's everything bettors need to know for Ravens vs. Panthers in NFL Week 11",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, NFL Week 11 betting preview, best bets",
-       "url": "https://www.cbssports.com/betting/news/ravens-vs-panthers-odds-picks-prediction-spread-start-time-nfl-week-11-betting-preview-best-bets/",
+       "title": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 11",
+       "url": "https://www.cbssports.com/betting/news/ravens-vs-panthers-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-11/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "5:00 AM",
-     "headline": "Injured Jacks out of T20 Australia tour",
-     "summary": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Injured Jacks out of T20 Australia tour",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "time": "4:58 AM",
-     "headline": "Vanessa DiBernardo caps 12-year wait with 'saucy' title-winning olimpico for Current and MVP honors",
-     "summary": "After a decade of postseason heartbreak, the Kansas City Current midfielder scored a stunning olimpico to win the NWSL Championship and claim MVP honors months after returning from maternity leave",
+     "time": "11:39 AM",
+     "headline": "Best Kalshi promo code CBSSPORTS55: Score $55 bonus for Bears-Saints, Broncos-Raiders, 49ers-Vikings, NFL",
+     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on all of Sunday's NFL Week 11 action",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Vanessa DiBernardo caps 12-year wait with 'saucy' title-winning olimpico for Current and MVP honors",
-       "url": "https://www.cbssports.com/soccer/news/vanessa-dibernardo-olimpico-nwsl-current-mvp/",
+       "title": "Best Kalshi promo code CBSSPORTS55: Score $55 bonus for Bears-Saints, Broncos-Raiders, 49ers-Vikings, NFL",
+       "url": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-score-55-bonus-for-bears-saints-broncos-raiders-49ers-vikings-nfl/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "4:49 AM",
-     "headline": "Verstappen wins extraordinary race as Ferraris collide",
-     "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+     "time": "11:37 AM",
+     "headline": "NFL Week 11 Cardinals vs. Chiefs odds, picks, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
+     "summary": "Here's a closer look at the top trading markets available at Kalshi for Sunday's game between Arizona and Kansas City in NFL Week 11",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Verstappen wins extraordinary race as Ferraris collide",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "NFL Week 11 Cardinals vs. Chiefs odds, picks, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
+       "url": "https://www.cbssports.com/prediction/news/nfl-week-11-cardinals-vs-chiefs-odds-picks-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "4:35 AM",
-     "headline": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
-     "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Las Vegas Grand Prix weekend.",
+     "time": "11:33 AM",
+     "headline": "Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus in NFL Week 11",
+     "summary": "Use the latest Polymarket promo code to make predictions for Titans vs. Cowboys in NFL Week 11 action",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus in NFL Week 11",
+       "url": "https://www.cbssports.com/prediction/news/titans-vs-cowboys-odds-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus-in-nfl-week-11/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "4:07 AM",
-     "headline": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-     "summary": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
+     "time": "11:31 AM",
+     "headline": "Week 11 NFL odds, picks: Brinson's best bets, player props, anytime TD scorers for Sunday",
+     "summary": "Steer clear of bloated double-digit spreads, grab the extra points with Philadelphia, and count on Dak Prescott to clear his passing total in a shootout",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Week 11 NFL odds, picks: Brinson's best bets, player props, anytime TD scorers for Sunday",
+       "url": "https://www.cbssports.com/betting/news/week-11-nfl-odds-picks-brinsons-best-bets-player-props-anytime-td-scorers-for-sunday/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "3:41 AM",
-     "headline": "'Not the right time' - Fernandes pauses Man Utd contract talks",
-     "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+     "time": "11:25 AM",
+     "headline": "Spurs 'a match for anyone' as European hopes boosted",
+     "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+       "title": "Spurs 'a match for anyone' as European hopes boosted",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-22",
-     "time": "2:42 AM",
-     "headline": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
-     "summary": "San Antonio Spurs star Victor Wembanyama hits 50 points as his side beats the New Orleans Pelicans 114-91.",
+     "time": "11:24 AM",
+     "headline": "Vikings vs. 49ers prediction, odds, time: 'Sunday Night Football' in Mexico City picks by proven model",
+     "summary": "SportsLine's model has revealed its Minnesota Vikings vs. San Francisco 49ers picks for 'Sunday Night Football' matchup in Mexico City",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
-       "url": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Vikings vs. 49ers prediction, odds, time: 'Sunday Night Football' in Mexico City picks by proven model",
+       "url": "https://www.cbssports.com/betting/news/vikings-49ers-prediction-odds-time-spread-2026-sunday-night-football-mexico-city-picks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:21 AM",
+     "headline": "NFL odds, picks, predictions: Cowboys, Vikings keys to parlays involving favorites, underdogs in Week 11",
+     "summary": "SportsLine football expert Mike Tierney locks in his top parlays for Week 11 NFL games",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL odds, picks, predictions: Cowboys, Vikings keys to parlays involving favorites, underdogs in Week 11",
+       "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-cowboys-vikings-keys-to-parlays-involving-favorites-underdogs-in-week-11/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:16 AM",
+     "headline": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
+     "summary": "The Giants are reportedly finally open to moving Webb, but the asking price is predictably high",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
+       "url": "https://www.cbssports.com/mlb/news/logan-webb-landing-spots-giants-trade/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:15 AM",
+     "headline": "Vikings vs. 49ers odds, Sunday Night Football predictions: Use Polymarket promo code CBSSPORTS for $25 bonus",
+     "summary": "Use the latest Polymarket promo code to make predictions for Vikings vs. 49ers in NFL Week 11 action",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Vikings vs. 49ers odds, Sunday Night Football predictions: Use Polymarket promo code CBSSPORTS for $25 bonus",
+       "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-sunday-night-football-predictions-use-polymarket-promo-code-cbssports-25-bonus/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:07 AM",
+     "headline": "Why the Daniel Jones release looks even worse for Colts after reported Ravens offer",
+     "summary": "Indianapolis reportedly rejected a trade offer from Baltimore at the deadline, only to release its $88 million quarterback two weeks later",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Why the Daniel Jones release looks even worse for Colts after reported Ravens offer",
+       "url": "https://www.cbssports.com/nfl/news/daniel-jones-release-colts-qb-ravens-nfl-trade-deadline/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "11:02 AM",
+     "headline": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
+     "summary": "Tony Pollard faces his former team, Justin Jefferson reunites with Kirk Cousins on an international stage and Josh Downs makes his Chiefs home debut",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
+       "url": "https://www.cbssports.com/nfl/news/nfl-week-11-anytime-td-best-bets-mark-andrews/",
        "bias": 0
       }
      ]
