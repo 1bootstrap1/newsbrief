@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:51:19Z",
+ "generated_at": "2026-11-22T11:49:46Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -14,8 +14,56 @@
    "name": "World",
    "items": [
     {
-     "date": "2026-11-21",
-     "time": "3:30 PM",
+     "date": "2026-11-22",
+     "time": "4:20 AM",
+     "headline": "South Korea education minister resigns over exam cheating scandal",
+     "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the…",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "South Korea education minister resigns over exam cheating scandal",
+       "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+       "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "6:41 AM",
+     "headline": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+     "summary": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoining UK politics live – latest updates Closer links with the EU will mean the UK having a say on decisions made by Brussels, Ed Miliband…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+       "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "6:37 AM",
+     "headline": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
+     "summary": "Former PM who opted for minimal ties with bloc says moves towards membership would dominate government’s time UK politics live – latest updates Theresa May has said she feels “aghast” at Andy Burnham’s plan for potentially rejoining the EU, arguing in a rare…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
+       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "6:36 AM",
      "headline": "Trump says he wants \"permanent\" deal with Iran",
      "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
      "sources": [
@@ -24,219 +72,159 @@
        "title": "Trump says he wants \"permanent\" deal with Iran",
        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
        "bias": 0
-      },
-      {
-       "outlet": "Al Jazeera",
-       "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-       "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "12:46 PM",
-     "headline": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-     "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday…",
+     "date": "2026-11-22",
+     "time": "6:36 AM",
+     "headline": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+     "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU European Relations Minister Hamish Falconer on Sky this morning criticised the post from earlier this…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-       "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-       "bias": -1
-      },
-      {
-       "outlet": "Al Jazeera",
-       "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-       "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+       "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
        "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "9:28 AM",
-     "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-     "summary": "Denmark's PET accuses Russia of an assassination plot against Kyivstoner, expelling Moscow's defense attache as two gang-affiliated men plead guilty.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on Danish soil",
-       "url": "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil",
-       "bias": 1
-      },
-      {
-       "outlet": "BBC News",
-       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-       "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:30 PM",
-     "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-     "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-       "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:19 PM",
-     "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+     "date": "2026-11-22",
+     "time": "6:25 AM",
+     "headline": "Russia-bound ship still on fire after attack in Gulf of Finland",
+     "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+       "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "5:02 PM",
-     "headline": "Bahrain says Iranian attack hits industrial facility",
+     "date": "2026-11-22",
+     "time": "6:15 AM",
+     "headline": "Russian ship attacked by drone in Baltic Sea off Finland",
      "summary": "",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Bahrain says Iranian attack hits industrial facility",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+       "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "5:01 PM",
-     "headline": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-     "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
-     "sources": [
-      {
-       "outlet": "NPR World",
-       "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-       "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:01 PM",
-     "headline": "Highlights and challenges from covering an historic month in South America",
-     "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-     "sources": [
-      {
-       "outlet": "NPR World",
-       "title": "Highlights and challenges from covering an historic month in South America",
-       "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:01 PM",
-     "headline": "A grieving family in Lebanon returns to their village",
-     "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-     "sources": [
-      {
-       "outlet": "NPR World",
-       "title": "A grieving family in Lebanon returns to their village",
-       "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:01 PM",
-     "headline": "Lock of former US President George Washington's hair sells for $4,000",
-     "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Lock of former US President George Washington's hair sells for $4,000",
-       "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:57 PM",
-     "headline": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
-     "summary": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
-       "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:11 PM",
-     "headline": "Impunity fuels surge in settler violence across occupied West Bank",
-     "summary": "",
+     "date": "2026-11-22",
+     "time": "6:07 AM",
+     "headline": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+     "summary": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Impunity fuels surge in settler violence across occupied West Bank",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+       "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+       "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "4:09 PM",
-     "headline": "Indian man jailed over plot to kill Sikh separatist in US",
-     "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+     "date": "2026-11-22",
+     "time": "6:00 AM",
+     "headline": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+     "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts…",
      "sources": [
       {
-       "outlet": "Al Jazeera",
-       "title": "Indian man jailed over plot to kill Sikh separatist in US",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+       "outlet": "The Guardian",
+       "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+       "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
        "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "4:05 PM",
-     "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+     "date": "2026-11-22",
+     "time": "6:00 AM",
+     "headline": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
+     "summary": "Jay Stewart joined search party after two-year-old Vella Campillo wandered off into desert from front yard of home An Arizona granddad has been formally recognized as a hero after recently volunteering to help search for a toddler who wandered off alone into…",
      "sources": [
       {
-       "outlet": "BBC News",
-       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
+       "outlet": "The Guardian",
+       "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
+       "url": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
+       "bias": -1
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "4:02 PM",
-     "headline": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-     "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+     "date": "2026-11-22",
+     "time": "6:00 AM",
+     "headline": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+     "summary": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long British producers have broadly welcomed the UK’s deal with the EU, designed to remove the vast majority of physical checks on food, plants and animal…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+       "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:59 AM",
+     "headline": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
+     "summary": "Working-class man who covered mansions with William Morris’s patterns spent his nights filling his Cambridge terrace house with his own designs As a Victorian working-class labourer, David Parr was paid to spend his days decorating the interiors of private…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
+       "url": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:39 AM",
+     "headline": "Russian cargo ship still on fire off Finland after drone attack",
+     "summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-       "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+       "title": "Russian cargo ship still on fire off Finland after drone attack",
+       "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:49 AM",
+     "headline": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
+     "summary": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson There is a worrying rise in “reckless and intimidating” vigilantes posing as security guards around far-right figures, security experts have said.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
+       "url": "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:45 AM",
+     "headline": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+     "summary": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+       "url": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -247,6 +235,90 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-22",
+     "time": "6:36 AM",
+     "headline": "Trump says he wants \"permanent\" deal with Iran",
+     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump says he wants \"permanent\" deal with Iran",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "6:00 AM",
+     "headline": "Jeffries calling Jerusalem NYC's ‘sixth borough’ resurfaces as progressives swing against Israel",
+     "summary": "Hakeem Jeffries once called Jerusalem the \"6th Borough\" in a resurfaced AIPAC clip, raising questions as he heads toward a January House speaker vote.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Jeffries calling Jerusalem NYC's ‘sixth borough’ resurfaces as progressives swing against Israel",
+       "url": "https://www.foxnews.com/politics/jeffries-calling-jerusalem-nycs-sixth-borough-resurfaces-progressives-swing-against-israel",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:00 AM",
+     "headline": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
+     "summary": "Minnesota farmer Shayne Isane says gray wolves killed three calves in one night, costing thousands as Trump moves to reconsider federal protections.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
+       "url": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:00 AM",
+     "headline": "NPR's Senior Podcast Challenge: Early entries we love",
+     "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "NPR's Senior Podcast Challenge: Early entries we love",
+       "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:00 AM",
+     "headline": "He expected a small-business loan. It turned out to be a trap",
+     "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "He expected a small-business loan. It turned out to be a trap",
+       "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "12:20 AM",
+     "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+       "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-21",
      "time": "8:58 AM",
@@ -270,11 +342,25 @@
        "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
        "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "6:54 PM",
+     "headline": "Princeton student detained by ICE at Reagan Airport after conference",
+     "summary": "Eva Yi Xie, a third-year Ph.D. Princeton student, was detained following a presentation she gave at the Society for Neuroscience.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Princeton student detained by ICE at Reagan Airport after conference",
+       "url": "https://www.cbsnews.com/news/princeton-student-ice/",
+       "bias": 0
       },
       {
        "outlet": "NBC News",
-       "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
-       "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+       "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+       "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
        "bias": -1
       }
      ]
@@ -341,26 +427,6 @@
     },
     {
      "date": "2026-11-21",
-     "time": "2:13 PM",
-     "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
-     "summary": "Fausto Isidro Meza Flores was one of the FBI's 10 most wanted fugitives. He climbed the cartel ranks to lead the Beltrán Leyva cartel and later became the leader of his own group, the Meza-Flores Transnational Criminal Organization.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
-       "url": "https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa",
-       "bias": 0
-      },
-      {
-       "outlet": "NPR",
-       "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-       "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
      "time": "10:53 AM",
      "headline": "Mamdani's plan to close Rikers Island, revamp NYC jails",
      "summary": "New York City Mayor Zohran Mamdani is moving forward with his plan to close Rikers Island and replace it with four smaller jails. Anna Schecter reports.",
@@ -381,127 +447,43 @@
     },
     {
      "date": "2026-11-21",
-     "time": "5:43 PM",
-     "headline": "San Francisco braces for massive tides, mayor urges residents to reconsider travel",
-     "summary": "Scattered rain is exacerbating the impacts of historic flooding across central Florida, as Northern California braces for an unprecedented deluge accompanied by high tides ahead of the Thanksgiving holiday",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "San Francisco braces for massive tides, mayor urges residents to reconsider travel",
-       "url": "https://abcnews.com/US/wireStory/san-francisco-braces-massive-tides-mayor-urges-residents-138349973",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:39 PM",
-     "headline": "At least four injured after rapper OsamaSon’s New York show",
-     "summary": "At least four people were injured following rapper OsamaSon’s concert in New York City on Thursday evening, police said.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "At least four injured after rapper OsamaSon’s New York show",
-       "url": "https://www.nbcnews.com/news/us-news/least-four-injured-rapper-osamasons-new-york-show-rcna610614",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:30 PM",
-     "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-     "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
+     "time": "11:15 PM",
+     "headline": "Kansas City Current capture first NWSL trophy",
+     "summary": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-       "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+       "title": "Kansas City Current capture first NWSL trophy",
+       "url": "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "5:10 PM",
-     "headline": "Lock of George Washington's hair sells at auction for $4,000",
-     "summary": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
+     "time": "9:56 PM",
+     "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
+     "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Lock of George Washington's hair sells at auction for $4,000",
-       "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
+       "title": "ICE officers arrest 2 passengers boarding flight in Seattle",
+       "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-21",
-     "time": "4:57 PM",
-     "headline": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
-     "summary": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
+     "time": "8:36 PM",
+     "headline": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
+     "summary": "A new Government Accountability Office report found 17 of 22 federal agencies, including HHS and DHS, failed to fully address zero trust guidance, raising cyberattack risks.",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
-       "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:22 PM",
-     "headline": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
-     "summary": "U.S. Immigration and Customs Enforcement arrested a Princeton University Ph.D.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
-       "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "3:37 PM",
-     "headline": "Bayer reaches Roundup settlement that could cost the company billions",
-     "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Bayer reaches Roundup settlement that could cost the company billions",
-       "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "3:30 PM",
-     "headline": "Trump says he wants \"permanent\" deal with Iran",
-     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump says he wants \"permanent\" deal with Iran",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "2:46 PM",
-     "headline": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
-     "summary": "Changes in appetite, smaller portion tolerance, limits on alcohol consumption, medication side effects and the desire to maintain progress can make navigating holiday traditions feel a little different.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
-       "url": "https://www.pbs.org/newshour/health/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp%e2%80%911-medication",
-       "bias": 0
+       "outlet": "Fox News",
+       "title": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
+       "url": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
+       "bias": 1
       }
      ]
     }
@@ -511,6 +493,146 @@
    "id": "local",
    "name": "Local: Cabarrus County & North Carolina",
    "items": [
+    {
+     "date": "2026-11-22",
+     "time": "6:41 AM",
+     "headline": "FORECAST: Damp start, scattered showers across the area",
+     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "FORECAST: Damp start, scattered showers across the area",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-damp-start-scattered-showers-across-area/CMP32LWDZNC6LL73SZX7YRHO5A/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:51 AM",
+     "headline": "Father stabbed to death by ex in middle of the night in front of 3-year-old son, authorities say",
+     "summary": "A family is grieving after a father was allegedly stabbed to death by his ex in the middle of the night in front of their young son.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Father stabbed to death by ex in middle of the night in front of 3-year-old son, authorities say",
+       "url": "https://www.wbtv.com/2026/11/22/father-stabbed-death-by-ex-middle-night-front-3-year-old-son-authorities-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "11:27 PM",
+     "headline": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5",
+     "summary": "It’ll be No. 5 Miami and No. 10 Wake Forest facing off for the Atlantic Coast Conference title, a game that will send one team to the College Football Playoff and have the other wondering if an at-large berth is coming its way.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "ACC title game is set: It’s a Miami-Wake Forest rematch in Charlotte on Dec. 5",
+       "url": "https://www.wbtv.com/2026/11/22/acc-title-game-is-set-its-miami-wake-forest-rematch-charlotte-dec-5/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "9:58 PM",
+     "headline": "Bigfoot files quietly released by US Forest Service",
+     "summary": "Forest Service records describe reported Bigfoot tracks in Montana and Washington, including an investigation that found signs of a possible hoax.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Bigfoot files quietly released by US Forest Service",
+       "url": "https://www.wbtv.com/2026/11/22/bigfoot-files-quietly-released-by-us-forest-service/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "9:45 PM",
+     "headline": "Volunteers feed more than 600 families with turkey giveaway in Gastonia",
+     "summary": "Thanksgiving dinner is taken care of for more than 600 Gastonia families that are in need.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Volunteers feed more than 600 families with turkey giveaway in Gastonia",
+       "url": "https://www.wsoctv.com/news/local/volunteers-feed-more-than-600-families-with-turkey-giveaway-gastonia/QJ22B33ABFC5HNTU5WYS52QBNQ/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "9:11 PM",
+     "headline": "First Alert: Tracking 2 rounds of rain through Thanksgiving Day",
+     "summary": "Storm system to impact coast, while inland impacts remain uncertain",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "First Alert: Tracking 2 rounds of rain through Thanksgiving Day",
+       "url": "https://www.wbtv.com/2026/11/21/first-alert-weekend-rain-returns-before-thanksgiving-week-rain-cooldown/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "7:13 PM",
+     "headline": "FORECAST: Rain off and on overnight",
+     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "FORECAST: Rain off and on overnight",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-rain-off-overnight/M6KTIMYHNRCRLIOOGV3CTBWYZY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "6:52 PM",
+     "headline": "Pedestrian struck, killed by vehicle in west Charlotte",
+     "summary": "A pedestrian was struck and killed by a vehicle in west Charlotte Thursday night.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Pedestrian struck, killed by vehicle in west Charlotte",
+       "url": "https://www.wsoctv.com/news/local/pedestrian-struck-killed-by-vehicle-west-charlotte/7553JASRDVAGTKXE7TG5KJPEDI/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "6:32 PM",
+     "headline": "Speed was factor in motorcycle crash that claimed the life of 59-year-old man",
+     "summary": "The Charlotte-Mecklenburg Police Department is investigating a fatal motorcycle crash that took place in the Steele Creek Division early Saturday morning.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Speed was factor in motorcycle crash that claimed the life of 59-year-old man",
+       "url": "https://www.wsoctv.com/news/local/speed-was-factor-motorcycle-crash-that-claimed-life-59-year-old-man/LB225RC6OBERHMDZK2DZTWIER4/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "time": "6:14 PM",
+     "headline": "Victim identified following fatal hit-and-run in southwest Charlotte, CMPD investigating",
+     "summary": "MEDIC said the person was pronounced deceased at the scene. 59-year-old Ada Deneire Dennis has been identified as the victim.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Victim identified following fatal hit-and-run in southwest Charlotte, CMPD investigating",
+       "url": "https://www.wsoctv.com/news/local/cmpd-investigating-after-person-fatal-hit-by-car-southwest-charlotte/WVCSACX4TBEKRDTGZGDMDOKPU4/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-21",
      "time": "5:22 PM",
@@ -557,7 +679,7 @@
      "date": "2026-11-21",
      "time": "4:21 PM",
      "headline": "Paramedic loses several pets in early morning Salisbury house fire",
-     "summary": "A family is Salisbury lost several animals in a house fire early Saturday morning.",
+     "summary": "A family in Salisbury lost several animals in a house fire early Saturday morning.",
      "sources": [
       {
        "outlet": "WSOC",
@@ -580,146 +702,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "3:34 PM",
-     "headline": "What grocery stores are open on Thanksgiving? Your 2026 guide",
-     "summary": "Several grocery stores will remain open, albeit with modified hours, in case you forgot something.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "What grocery stores are open on Thanksgiving? Your 2026 guide",
-       "url": "https://www.wbtv.com/2026/11/21/what-grocery-stores-are-open-thanksgiving/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "2:51 PM",
-     "headline": "Fire guts paramedic’s home, leaving more than a dozen animals dead",
-     "summary": "Officials said the family and four pets escaped while more than a dozen animals were killed in fire.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Fire guts paramedic’s home, leaving more than a dozen animals dead",
-       "url": "https://www.wbtv.com/2026/11/21/fire-guts-paramedics-home-kills-more-than-dozen-animals/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "2:26 PM",
-     "headline": "Suspect charged after police identify man found dead in east Charlotte park",
-     "summary": "The suspect in this case has been identified as Franz Menchu Dominguez.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Suspect charged after police identify man found dead in east Charlotte park",
-       "url": "https://www.wsoctv.com/news/local/police-identify-man-found-dead-east-charlotte-park/H4FIWYTPBZHCNLGJPTM4XRVPJQ/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:31 AM",
-     "headline": "Former Mecklenburg County commissioner, ABC commissioner Norman Mitchell Sr. dies at 79",
-     "summary": "Former Mecklenburg County commissioner and North Carolina ABC commissioner Norman Mitchell, Sr. has died at age 79.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Former Mecklenburg County commissioner, ABC commissioner Norman Mitchell Sr. dies at 79",
-       "url": "https://www.wsoctv.com/news/local/former-mecklenburg-county-commissioner-norman-mitchell-sr-dies-79/BLO5NJE3YNEBPBOVCYFLAKQWRM/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:13 AM",
-     "headline": "Man charged with murder after deadly shooting at Monroe convenience store, police say",
-     "summary": "Police say the shooting began with a physical altercation just before midnight.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Man charged with murder after deadly shooting at Monroe convenience store, police say",
-       "url": "https://www.wbtv.com/2026/11/21/man-charged-with-murder-after-deadly-shooting-monroe-convenience-store-police-say/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:00 AM",
-     "headline": "When the leaves take their time turning in Western NC",
-     "summary": "Climate change is a key factor in delaying when leaves change color. But western NC tourism economy can ill afford weak or late ‘leaf season.’",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "When the leaves take their time turning in Western NC",
-       "url": "https://www.wfae.org/energy-environment/2026-11-21/when-the-leaves-take-their-time-turning-in-western-nc",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "10:00 AM",
-     "headline": "Two legacies, one future: How Queens' and Elon's archives are navigating the merger",
-     "summary": "Queens University of Charlotte and Elon University's merger marks a new chapter in the legacy of both institutions. But as Queens looks toward the future, questions emerge about the history it carries — and the role its archives play in preserving it.",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "Two legacies, one future: How Queens' and Elon's archives are navigating the merger",
-       "url": "https://www.wfae.org/education/2026-11-21/two-legacies-one-future-how-queens-and-elons-archives-are-navigating-the-merger",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "9:16 AM",
-     "headline": "Man accused of pouring toxic oil into woman’s Waffle House drink before child drank from it, reports say",
-     "summary": "A Florida man is accused of pouring essential oil into a woman’s Waffle House drink, which a child later drank from, according to multiple reports.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Man accused of pouring toxic oil into woman’s Waffle House drink before child drank from it, reports say",
-       "url": "https://www.wbtv.com/2026/11/21/man-accused-pouring-toxic-oil-into-womans-waffle-house-drink-before-child-drank-it-reports-say/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "8:26 AM",
-     "headline": "CATS will offer free rides in West Microtransit Zone during Thanksgiving week",
-     "summary": "The Charlotte Area Transit System will offer free rides in its West Microtransit Zone from Monday, Nov. 23 through Sunday, Nov. 29.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "CATS will offer free rides in West Microtransit Zone during Thanksgiving week",
-       "url": "https://www.wsoctv.com/news/local/cats-will-offer-free-rides-west-microtransit-zone-during-thanksgiving-week/7VGP2H4XCJB67MQ24WKUXS5QTE/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "8:14 AM",
-     "headline": "Jalon Walker provides holiday meals for nearly 400 families in Rowan County",
-     "summary": "NFL linebacker and former Big 22 Player of the Year Jalon Walker was back home in Rowan County to bless local families for the holidays.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Jalon Walker provides holiday meals for nearly 400 families in Rowan County",
-       "url": "https://www.wsoctv.com/news/local/jalon-walker-provides-holiday-meals-nearly-400-families-rowan-county/Q72NZZ366RCYJB2QG7L5R5BXBQ/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -728,211 +710,211 @@
    "name": "Sports",
    "items": [
     {
-     "date": "2026-11-21",
-     "time": "6:52 PM",
-     "headline": "Watch all 29 of Saturday's Scottish Premiership goals",
-     "summary": "Highlights from a full Scottish Premiership fixture card.",
+     "date": "2026-11-22",
+     "time": "6:09 AM",
+     "headline": "Did Springboks win change the narrative for Ireland?",
+     "summary": "After a 20-17 win on Saturday, did Ireland's victory over South Africa change the narrative for Andy Farrell's side?",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Watch all 29 of Saturday's Scottish Premiership goals",
-       "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+       "title": "Did Springboks win change the narrative for Ireland?",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c64gnry013mko?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "5:50 PM",
-     "headline": "Alcaraz to face Zverev in ATP Finals title decider",
-     "summary": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
+     "date": "2026-11-22",
+     "time": "6:07 AM",
+     "headline": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+     "summary": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Alcaraz to face Zverev in ATP Finals title decider",
-       "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
+       "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+       "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "5:37 PM",
-     "headline": "Highlights: Wallabies edge Wales in Cardiff",
-     "summary": "Watch the best of the action as Australia edge Wales in Cardiff",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Highlights: Wallabies edge Wales in Cardiff",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cjwy57n2rqwyo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:28 PM",
-     "headline": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
-     "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:28 PM",
-     "headline": "Kim holds one-shot lead at LPGA finale as Korda closes in",
-     "summary": "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Kim holds one-shot lead at LPGA finale as Korda closes in",
-       "url": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:27 PM",
-     "headline": "Can win over All Blacks finally break England's boom-bust cycle?",
-     "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Can win over All Blacks finally break England's boom-bust cycle?",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:25 PM",
-     "headline": "Australia hold on for narrow win against Wales",
-     "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Australia hold on for narrow win against Wales",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "5:22 PM",
-     "headline": "France secure Nations Championship final with Springboks",
-     "summary": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "France secure Nations Championship final with Springboks",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:51 PM",
-     "headline": "Rising star Stirling knocks out Prochazka",
-     "summary": "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Rising star Stirling knocks out Prochazka",
-       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:39 PM",
-     "headline": "UFC Fight Night takeaways: Navajo Stirling emerging as a star, Kevin Vallejos closing in on title shot",
-     "summary": "Saturday's action in Doha provided plenty of interesting talking points heading toward the end of the year",
+     "date": "2026-11-22",
+     "time": "6:00 AM",
+     "headline": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks: Who wins 49ers or Vikings?",
+     "summary": "NFL Week 11 odds, how to watch, streaming: Expert selections, best bets, teasers, survivor picks and more CBSSports.com and SportsLine break down every single NFL game in Week 17",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "UFC Fight Night takeaways: Navajo Stirling emerging as a star, Kevin Vallejos closing in on title shot",
-       "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-qatar-results-takeaways-navajo-stirling-kevin-vallejos-brian-ortega/",
+       "title": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks: Who wins 49ers or Vikings?",
+       "url": "https://www.cbssports.com/nfl/news/nfl-week-11-expert-picks-odds-best-bets-teasers-predictions-survivor-picks/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "4:31 PM",
-     "headline": "College Football Playoff bubble: Where Ohio State, Wake Forest, BYU, others stand after Week 12 upsets",
-     "summary": "Expect some major movement on the bubble next week after some surprising Week 12 results",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "College Football Playoff bubble: Where Ohio State, Wake Forest, BYU, others stand after Week 12 upsets",
-       "url": "https://www.cbssports.com/college-football/news/college-football-playoff-bubble-watch-teams-week-12-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:27 PM",
-     "headline": "Ryan Day buyout, contract details: How much it would cost Ohio State to fire coach after 4th loss in 2026",
-     "summary": "Day finds himself under fire again in Columbus after a fourth loss of the season at Nebraska",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Ryan Day buyout, contract details: How much it would cost Ohio State to fire coach after 4th loss in 2026",
-       "url": "https://www.cbssports.com/college-football/news/ryan-day-buyout-contract-ohio-state-coach/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "time": "4:14 PM",
-     "headline": "Raya set to have scan on injury - how much would Arsenal miss him?",
-     "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+     "date": "2026-11-22",
+     "time": "5:59 AM",
+     "headline": "'Let fantastically promising McConnell loose against Pumas'",
+     "summary": "Scotland head into their Nations Championship finale against Argentina on a high and should unleash Liam McConnell on the Pumas after his hat-trick against Japan, writes Tom English.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+       "title": "'Let fantastically promising McConnell loose against Pumas'",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgqxvzyq959o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "4:10 PM",
-     "headline": "Fantasy football rankings Week 11: David Montgomery poised to shine as bye weeks force tough lineup decisions",
-     "summary": "Injuries, shifting roles and tough matchups complicate Week 11 Fantasy lineup decisions, making every start/sit call crucial",
+     "date": "2026-11-22",
+     "time": "5:30 AM",
+     "headline": "NFL player Harrell in hospital after alleged driver assault",
+     "summary": "Tennessee Titans linebacker Jaylen Harrell is in hospital after a car crash in Florida, with police investigating whether he assaulted a taxi driver.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Fantasy football rankings Week 11: David Montgomery poised to shine as bye weeks force tough lineup decisions",
-       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-11-david-montgomery-poised-to-shine/",
+       "outlet": "BBC Sport",
+       "title": "NFL player Harrell in hospital after alleged driver assault",
+       "url": "https://www.bbc.co.uk/sport/american-football/articles/c3ly71pg27wvo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-21",
-     "time": "4:06 PM",
-     "headline": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
-     "summary": "Curry isn't going to win the award for a number of reasons, but his absence is speaking volumes right now",
+     "date": "2026-11-22",
+     "time": "5:01 AM",
+     "headline": "Prisco's Week 11 NFL picks: 49ers over Vikings, Cowboys rout Titans, Panthers edge Ravens",
+     "summary": "Pete Prisco reveals all of his Week 11 picks, including the Jaguars to handle the Giants on the road",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
-       "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-absence-nba-mvp-warriors/",
+       "title": "Prisco's Week 11 NFL picks: 49ers over Vikings, Cowboys rout Titans, Panthers edge Ravens",
+       "url": "https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-odds-expert-picks-predictions/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:01 AM",
+     "headline": "NFL Week 11 Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus",
+     "summary": "Use the latest Polymarket promo code to make predictions for Titans vs. Cowboys in NFL Week 11 action",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL Week 11 Titans vs. Cowboys odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus",
+       "url": "https://www.cbssports.com/prediction/news/nfl-week-11-titans-vs-cowboys-odds-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:01 AM",
+     "headline": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, NFL Week 11 betting preview, best bets",
+     "summary": "Here's everything bettors need to know for Ravens vs. Panthers in NFL Week 11",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Ravens vs. Panthers odds, picks, prediction, spread: Start time, NFL Week 11 betting preview, best bets",
+       "url": "https://www.cbssports.com/betting/news/ravens-vs-panthers-odds-picks-prediction-spread-start-time-nfl-week-11-betting-preview-best-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "5:00 AM",
+     "headline": "Injured Jacks out of T20 Australia tour",
+     "summary": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Injured Jacks out of T20 Australia tour",
+       "url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:58 AM",
+     "headline": "Vanessa DiBernardo caps 12-year wait with 'saucy' title-winning olimpico for Current and MVP honors",
+     "summary": "After a decade of postseason heartbreak, the Kansas City Current midfielder scored a stunning olimpico to win the NWSL Championship and claim MVP honors months after returning from maternity leave",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Vanessa DiBernardo caps 12-year wait with 'saucy' title-winning olimpico for Current and MVP honors",
+       "url": "https://www.cbssports.com/soccer/news/vanessa-dibernardo-olimpico-nwsl-current-mvp/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:49 AM",
+     "headline": "Verstappen wins extraordinary race as Ferraris collide",
+     "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Verstappen wins extraordinary race as Ferraris collide",
+       "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:35 AM",
+     "headline": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
+     "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Las Vegas Grand Prix weekend.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
+       "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "4:07 AM",
+     "headline": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+     "summary": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+       "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "3:41 AM",
+     "headline": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+     "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "time": "2:42 AM",
+     "headline": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
+     "summary": "San Antonio Spurs star Victor Wembanyama hits 50 points as his side beats the New Orleans Pelicans 114-91.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
+       "url": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
