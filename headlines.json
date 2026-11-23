@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:12:36Z",
+ "generated_at": "2026-11-23T22:59:22Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -13,26 +13,6 @@
    "id": "world",
    "name": "World",
    "items": [
-    {
-     "date": "2026-11-23",
-     "time": "11:49 AM",
-     "headline": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-     "summary": "President says he spoke with board ‘directly and indirectly’ and assured them on national security risks Nvidia reinstates Jensen Huang – latest updates US politics – live updates Donald Trump said on Monday that he spoke “directly and indirectly” with…",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-       "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "The Guardian",
-       "title": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
-       "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-       "bias": -1
-      }
-     ]
-    },
     {
      "date": "2026-11-23",
      "time": "11:38 AM",
@@ -75,106 +55,6 @@
     },
     {
      "date": "2026-11-23",
-     "time": "11:00 AM",
-     "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-     "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-       "bias": 0
-      },
-      {
-       "outlet": "Al Jazeera",
-       "title": "Iran says it will use ‘all available means’ to counter US blockade",
-       "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:41 AM",
-     "headline": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-     "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "NPR World",
-       "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
-       "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:23 AM",
-     "headline": "Jensen Huang reinstated as Nvidia CEO",
-     "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates US politics – live updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Jensen Huang reinstated as Nvidia CEO",
-       "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-       "bias": -1
-      },
-      {
-       "outlet": "Al Jazeera",
-       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "7:23 AM",
-     "headline": "Search continues for dozens missing after Indonesia candy factory fire",
-     "summary": "A massive fire tore through PT Fonusa Agung Mulia's candy factory in Indonesia's Banten, killing at least three with up to 50 workers missing.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Search continues for dozens missing after Indonesia candy factory fire",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss",
-       "bias": -1
-      },
-      {
-       "outlet": "Fox News",
-       "title": "Indonesia candy factory fire leaves multiple dead, dozens missing",
-       "url": "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "6:34 AM",
-     "headline": "Ukraine shares video of strikes on Russian ships off Libya",
-     "summary": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war's spread.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Ukraine shares video of strikes on Russian ships off Libya",
-       "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "Al Jazeera",
-       "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-       "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
      "time": "12:45 AM",
      "headline": "Three killed and dozens missing after fire at Indonesian factory",
      "summary": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for…",
@@ -195,41 +75,55 @@
     },
     {
      "date": "2026-11-23",
-     "time": "12:07 PM",
-     "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-     "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+     "time": "5:45 PM",
+     "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+     "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-       "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+       "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:59 AM",
-     "headline": "U.S. will host the 2031 Women's World Cup, FIFA announces",
-     "summary": "FIFA has confirmed a United States-led bid to host the 2031 Women's World Cup and a U.K. project led by England for the 2035 edition.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "U.S. will host the 2031 Women's World Cup, FIFA announces",
-       "url": "https://www.cbsnews.com/news/us-host-2031-fifa-women-world-cup-announcement/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:55 AM",
-     "headline": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
-     "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start…",
+     "time": "5:44 PM",
+     "headline": "Australian politics live: Australian politics live: Chalmers to ‘save more than we spend’ in budget update: King Charles ‘deeply saddened’ by Meldrum’s death",
+     "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update.",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+       "title": "Australian politics live: Australian politics live: Chalmers to ‘save more than we spend’ in budget update: King Charles ‘deeply saddened’ by Meldrum’s death",
+       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:41 PM",
+     "headline": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+     "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+       "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:37 PM",
+     "headline": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+     "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
        "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
        "bias": -1
       }
@@ -237,43 +131,113 @@
     },
     {
      "date": "2026-11-23",
-     "time": "11:54 AM",
-     "headline": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
-     "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
+     "time": "5:23 PM",
+     "headline": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+     "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+       "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+       "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:53 AM",
-     "headline": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-     "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a…",
+     "time": "5:22 PM",
+     "headline": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+     "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday halted the planned detonation of several tons of degraded bomb-making material at an Iowa ammunition plant, urging a…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-       "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+       "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+       "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:48 AM",
-     "headline": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
-     "summary": "Deltona officials say parade is getting cancelled due to the state’s voter-approved Amendment 3 property tax overhaul A city in southwestern Florida has cancelled its Christmas parade, citing pending state legislation, to ensure the city remains “fiscally…",
+     "time": "5:21 PM",
+     "headline": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+     "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” that the California Democrat had…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
-       "url": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
+       "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+       "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:19 PM",
+     "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
+     "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:30 PM",
+     "headline": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+     "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+       "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:19 PM",
+     "headline": "Israel’s southern Syria incursion triggers fear and destruction",
+     "summary": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israel’s southern Syria incursion triggers fear and destruction",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:15 PM",
+     "headline": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
+     "summary": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
+       "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:11 PM",
+     "headline": "Russia warns of 'preventive nuclear attack' as Medvedev claims Ukraine, NATO crossed line",
+     "summary": "Dmitry Medvedev claims Ukraine and NATO have crossed thresholds that could make a preventive nuclear attack by Russia possible, warning Kyiv's allies.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Russia warns of 'preventive nuclear attack' as Medvedev claims Ukraine, NATO crossed line",
+       "url": "https://www.foxnews.com/world/russia-warns-preventive-nuclear-attack-medvedev-claims-ukraine-nato-crossed-line",
+       "bias": 1
       }
      ]
     }
@@ -285,9 +249,9 @@
    "items": [
     {
      "date": "2026-11-23",
-     "time": "11:10 AM",
+     "time": "4:13 PM",
      "headline": "Nvidia reinstates Jensen Huang as CEO",
-     "summary": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker's chief executive, calling him the \"right person\" to lead the company.",
+     "summary": "Trump, who has a close personal relationship with Huang, called for the reinstatement as recently as Sunday night and took credit for the board's decision in an interview Monday with CNBC.",
      "sources": [
       {
        "outlet": "CBS News",
@@ -300,10 +264,24 @@
        "title": "Nvidia board unanimously reinstates Jensen Huang as CEO and chairman",
        "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:02 PM",
+     "headline": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
+     "summary": "Jensen Huang will return as Nvidia’s president and CEO, the company’s board announced Monday, in a stunning reversal after he resigned two weeks ago.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
+       "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
+       "bias": 0
       },
       {
        "outlet": "NBC News",
-       "title": "Jensen Huang returns as Nvidia CEO",
+       "title": "Jensen Huang reinstated as Nvidia CEO after Trump pushes board",
        "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
        "bias": -1
       }
@@ -311,214 +289,194 @@
     },
     {
      "date": "2026-11-23",
-     "time": "12:07 PM",
-     "headline": "Stock market jumps after Jensen Huang reinstated as Nvidia CEO",
-     "summary": "Nvidia's board of directors announced that Jensen Huang has been reinstated as its president and chief executive officer. NBC News' Jared Perlo reports on the scandal that caused Huang's original resignation and the decision to return him to the role.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Stock market jumps after Jensen Huang reinstated as Nvidia CEO",
-       "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
-       "bias": 0
-      },
-      {
-       "outlet": "NBC News",
-       "title": "Jensen Huang reinstated as CEO of Nvidia",
-       "url": "https://www.nbcnews.com/now/video/jensen-huang-reinstated-as-ceo-of-nvidia-274010181643",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "9:32 AM",
-     "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-     "summary": "Distressing video shows two passengers, a father and his adult daughter, being arrested while boarding a flight in Seattle over the weekend, with the masked agents forcibly removing them from the jetbridge.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "ICE officers arrest 2 passengers boarding flight in Seattle",
-       "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
-       "bias": 0
-      },
-      {
-       "outlet": "NBC News",
-       "title": "ICE Officers Arrest 2 Passenger Boarding Flight, Sparking Outrage",
-       "url": "https://www.today.com/video/video-shows-distressing-ice-arrests-of-father-and-daughter-274005061831",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "8:27 AM",
-     "headline": "How a billionaire tax proposal failed in California despite big election wins for progressives",
-     "summary": "In an election with major wins for Democrats and progressives nationwide, California voters not only rejected the biggest test yet for a state wealth tax, they also approved a measure making it much harder to enact one in the future.",
+     "time": "2:25 PM",
+     "headline": "Trump says Army will not detonate bomb-making chemicals in Iowa without court approval",
+     "summary": "President Trump said Monday he is ordering the Army not to carry out a planned detonation of unstable explosives in Iowa until it gets court approval.",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "How a billionaire tax proposal failed in California despite big election wins for progressives",
-       "url": "https://www.pbs.org/newshour/politics/how-a-billionaire-tax-proposal-failed-in-california-despite-big-election-wins-for-progressives",
+       "title": "Trump says Army will not detonate bomb-making chemicals in Iowa without court approval",
+       "url": "https://www.pbs.org/newshour/nation/trump-says-army-will-not-detonate-bomb-making-chemicals-in-iowa-without-court-approval",
        "bias": 0
       },
       {
-       "outlet": "ABC News",
-       "title": "A California billionaire tax proposal faced a major setback despite big wins for progressives",
-       "url": "https://abcnews.com/US/wireStory/california-billionaire-tax-proposal-faced-major-setback-despite-138356414",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "12:07 PM",
-     "headline": "Democrats announce 12 debates starting in June for 2028 race",
-     "summary": "In announcing the debate framework, DNC chair Ken Martin leaned heavily into one of his signature causes, ending dark money in politics.",
-     "sources": [
-      {
        "outlet": "CBS News",
-       "title": "Democrats announce 12 debates starting in June for 2028 race",
-       "url": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/",
+       "title": "Trump orders Army not to detonate unstable explosives in Iowa without court approval",
+       "url": "https://www.cbsnews.com/video/trump-orders-army-not-to-detonate-unstable-explosives-in-iowa-without-court-approval/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "12:05 PM",
-     "headline": "Medicare for All was once a long shot. Now universal healthcare is on the Democrats' agenda",
-     "summary": "The details are still taking shape, and there will almost certainly be pushback from moderate and centrist Democrats.",
+     "time": "9:13 AM",
+     "headline": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+     "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "Medicare for All was once a long shot. Now universal healthcare is on the Democrats' agenda",
-       "url": "https://www.pbs.org/newshour/politics/medicare-for-all-was-once-a-long-shot-now-universal-healthcare-is-on-the-democrats-agenda",
+       "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+       "url": "https://www.pbs.org/newshour/world/zelenskyy-hails-ukraines-attack-on-a-russian-warship-docked-at-a-naval-base-in-libya",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:59 AM",
-     "headline": "Trump says he called into Nvidia board meeting and convinced them to reinstate Jensen Huang",
-     "summary": "President Trump says he called into an Nvidia board of directors' meeting and \"convinced them\" to reinstate Jensen Huang. CBS News' Natalie Brand reports.",
-     "sources": [
+      },
       {
-       "outlet": "CBS News",
-       "title": "Trump says he called into Nvidia board meeting and convinced them to reinstate Jensen Huang",
-       "url": "https://www.cbsnews.com/video/trump-says-he-called-into-nvidia-board-meeting-to-convince-them-to-reinstate-jensen-huang/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:59 AM",
-     "headline": "U.S. will host the 2031 Women's World Cup, FIFA announces",
-     "summary": "FIFA has confirmed a United States-led bid to host the 2031 Women's World Cup and a U.K. project led by England for the 2035 edition.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "U.S. will host the 2031 Women's World Cup, FIFA announces",
-       "url": "https://www.cbsnews.com/news/us-host-2031-fifa-women-world-cup-announcement/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:54 AM",
-     "headline": "Major national security concerns persist as Nvidia reinstates Jensen Huang, expert says",
-     "summary": "CBS News' Aaron MacLean breaks down the national security risks that will persist despite Nvidia reinstating CEO Jensen Huang.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Major national security concerns persist as Nvidia reinstates Jensen Huang, expert says",
-       "url": "https://www.cbsnews.com/video/major-national-security-concerns-persist-after-nvidia-reinstates-jensen-huang-expert-says/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:45 AM",
-     "headline": "The 25+ best holiday gifts for sober-curious people",
-     "summary": "Shop gifts for sober-curious people, including nonalcoholic spirits, mocktail kits, cozy sleep upgrades and Swedish candy.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "The 25+ best holiday gifts for sober-curious people",
-       "url": "https://www.nbcnews.com/select/shopping/gifts-for-sober-curious-people-rcna610883",
+       "outlet": "NPR",
+       "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+       "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:37 AM",
-     "headline": "Bo Derek and John Corbett adopted Gene Hackman’s dog, Bear, after actor’s death",
-     "summary": "Hollywood power couple Bo Derek and John Corbett adopted Gene Hackman’s dog after the actor and his wife were found dead last year at their New Mexico home.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Bo Derek and John Corbett adopted Gene Hackman’s dog, Bear, after actor’s death",
-       "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/bo-derek-john-corbett-adopted-gene-hackmans-dog-bear-actors-death-rcna610884",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:37 AM",
-     "headline": "Capture of drug lord on FBI's most wanted list leads to more arrests",
-     "summary": "Fausto Isidro Meza Flores, alias \"Chapo Isidro,\" was captured in Sinaloa during a special forces raid in coordination with U.S. intelligence.",
+     "time": "5:47 PM",
+     "headline": "Rep. Jimmy Gomez resigning after panel finds evidence of misconduct",
+     "summary": "The bipartisan committee said Rep. Jimmy Gomez made unwanted sexual advances and sexual contact with a House staffer.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Capture of drug lord on FBI's most wanted list leads to more arrests",
-       "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
+       "title": "Rep. Jimmy Gomez resigning after panel finds evidence of misconduct",
+       "url": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:33 AM",
-     "headline": "Oregon, Virginia attorneys general sue Musk's SpaceX over Grok deepfakes",
-     "summary": "Two states are suing SpaceX over safety concerns surrounding deepfakes appearing on Grok. Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones join CBS News with more details on the lawsuits.",
+     "time": "5:43 PM",
+     "headline": "Latest on Jensen Huang's reinstatement as Nvidia CEO, Megaspeed's trade blacklisting",
+     "summary": "Jensen Huang was reinstated Monday as CEO of Nvidia, less than two weeks after Huang resigned amid a scandal over an affair with a woman U.S. intelligence agencies suspected of spying for China.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Oregon, Virginia attorneys general sue Musk's SpaceX over Grok deepfakes",
-       "url": "https://www.cbsnews.com/video/oregon-virginia-attorneys-general-on-lawsuit-against-spacex-over-grok-deepfakes/",
+       "title": "Latest on Jensen Huang's reinstatement as Nvidia CEO, Megaspeed's trade blacklisting",
+       "url": "https://www.cbsnews.com/video/latest-on-jensen-huangs-reinstatement-as-nvidia-ceo/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:30 AM",
-     "headline": "Sheila Mangubat, ‘90 Day Fiancé’ star, dies at 35",
-     "summary": "Sheila Mangubat, a fan favorite cast member of reality TV hit “90 Day Fiancé: Before the 90 Days,” has died, according to her former husband-to-be and a family member.",
+     "time": "5:36 PM",
+     "headline": "Trump tells Army to halt detonation for now in Iowa this week",
+     "summary": "President Trump said he will wait for the courts and Iowa Gov.-elect Rob Sand to agree with the Army's plan.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump tells Army to halt detonation for now in Iowa this week",
+       "url": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:35 PM",
+     "headline": "Democratic Rep. Jimmy Gomez to resign after Ethics Committee finds he engaged in sexual misconduct",
+     "summary": "Rep. Jimmy Gomez, D-Calif., said Monday he will resign next week after the House Ethics Committee found that he engaged in sexual misconduct .",
      "sources": [
       {
        "outlet": "NBC News",
-       "title": "Sheila Mangubat, ‘90 Day Fiancé’ star, dies at 35",
-       "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/sheila-mangubat-90-day-fiance-star-dies-35-rcna610890",
+       "title": "Democratic Rep. Jimmy Gomez to resign after Ethics Committee finds he engaged in sexual misconduct",
+       "url": "https://www.nbcnews.com/politics/congress/rep-jimmy-gomez-resign-ethics-report-sexual-misconduct-rcna610895",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:24 AM",
-     "headline": "Ukraine strikes Russian warship near Libya",
-     "summary": "Ukraine says it used sea drones to attack a Russian warship at the Benghazi naval base in Libya. CBS News' Aidan Stretch reports.",
+     "time": "5:29 PM",
+     "headline": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+     "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+       "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:19 PM",
+     "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
+     "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Ukraine strikes Russian warship near Libya",
-       "url": "https://www.cbsnews.com/video/ukraine-strikes-russian-warship-near-libya/",
+       "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:16 PM",
+     "headline": "U.S. adds Megaspeed to trade blacklist after Nvidia scandal",
+     "summary": "The Trump administration restricted Megaspeed from buying advanced semiconductor chips, after the firm's alleged links to China helped kick-start the scandal surrounding Nvidia CEO Jensen Huang.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "U.S. adds Megaspeed to trade blacklist after Nvidia scandal",
+       "url": "https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:14 PM",
+     "headline": "Former Navy SEAL says New Jersey’s Islamophobia bill puts protected speech in the crosshairs",
+     "summary": "A former Navy SEAL and lawyer warns that New Jersey's Assembly Bill 1146 could function as a \"backdoor blasphemy law\" chilling public debate.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Former Navy SEAL says New Jersey’s Islamophobia bill puts protected speech in the crosshairs",
+       "url": "https://www.foxnews.com/politics/former-navy-seal-says-new-jerseys-islamophobia-bill-puts-protected-speech-crosshairs",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:11 PM",
+     "headline": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+     "summary": "The House Ethics Committee said in a report released Monday that there is \"substantial evidence\" that Democratic Rep. Jimmy Gomez of California engaged in sexual misconduct by making unwelcome sexual advances and sexual contact toward a House staffer.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+       "url": "https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:06 PM",
+     "headline": "Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings",
+     "summary": "Nvidia was already facing sharp scrutiny from Congress after Huang acknowledged a relationship with a Chinese businesswoman whom U.S. officials believed to be a spy.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings",
+       "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:05 PM",
+     "headline": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+     "summary": "The U.S. Army's controlled detonation of 68 barrels of unstable lead azide in Iowa on Wednesday is expected to produce a plume of dust containing lead particles that could extend as far as 100 miles away, a plan that residents, lawmakers and environmental…",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+       "url": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
        "bias": 0
       }
      ]
@@ -531,7 +489,55 @@
    "items": [
     {
      "date": "2026-11-23",
-     "time": "12:08 PM",
+     "time": "4:44 PM",
+     "headline": "Charlotte’s Thanksgiving Eve parade canceled due to expected bad weather",
+     "summary": "Organizers have canceled the 80th Annual Novant Health Thanksgiving Eve Parade in Charlotte because of severe weather conditions.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Charlotte’s Thanksgiving Eve parade canceled due to expected bad weather",
+       "url": "https://www.wsoctv.com/news/local/charlottes-thanksgiving-eve-parade-canceled-due-expected-bad-weather/XNKCCNTPBBF4DBYLGPSDDCCZPE/",
+       "bias": 0
+      },
+      {
+       "outlet": "WBTV",
+       "title": "Charlotte’s 2026 Thanksgiving eve parade cancelled due to weather",
+       "url": "https://www.wbtv.com/2026/11/23/charlottes-2026-thanksgiving-eve-parade-cancelled-due-weather/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:48 PM",
+     "headline": "Deadly crash closes I-485 Outer in northeast Charlotte",
+     "summary": "The collision happened on I-485 Outer near the I-85 exit in the University City area.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Deadly crash closes I-485 Outer in northeast Charlotte",
+       "url": "https://www.wbtv.com/2026/11/23/deadly-crash-closes-i-485-outer-northeast-charlotte/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:44 PM",
+     "headline": "Church prepares 1,200 Thanksgiving meals",
+     "summary": "As Thanksgiving dinner costs rise, a Rock Hill church is preparing 1,200 meals to help families struggling to make ends meet.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Church prepares 1,200 Thanksgiving meals",
+       "url": "https://www.wsoctv.com/news/local/church-prepares-1200-thanksgiving-meals/OHLBJ6GCFBFMHHMSUESVIYUG6E/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:32 PM",
      "headline": "Students return after $1M mold cleanup at Iredell County school",
      "summary": "Students and staff are back in school after a $1 million effort to clean up mold.",
      "sources": [
@@ -545,196 +551,154 @@
     },
     {
      "date": "2026-11-23",
-     "time": "12:03 PM",
-     "headline": "Feeding 10 for Thanksgiving? Here’s what the classic meal could cost",
-     "summary": "A Farm Bureau survey finds Thanksgiving dinner for 10 costs about $58.63 this year, up more than 6% but below the 2022 record.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Feeding 10 for Thanksgiving? Here’s what the classic meal could cost",
-       "url": "https://www.wbtv.com/2026/11/23/feeding-10-thanksgiving-heres-what-classic-meal-could-cost/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "12:01 PM",
-     "headline": "Live stream: Voiceover artists shares what it’s really like to have your childhood dream job",
-     "summary": "Watch Coffee & Conversations live stream at 11 a.m. on Nov. 24",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Live stream: Voiceover artists shares what it’s really like to have your childhood dream job",
-       "url": "https://www.wbtv.com/2026/11/23/live-stream-voiceover-artists-shares-what-its-really-like-have-your-childhood-dream-job/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "12:00 PM",
-     "headline": "Police investigate man’s death after alleged altercation before 49ers-Cowboys game",
-     "summary": "Police are investigating the death of a man who was allegedly involved in an altercation before last Sunday’s game between the Dallas Cowboys and San Francisco 49ers at AT&T Stadium.",
+     "time": "5:20 PM",
+     "headline": "Woman’s fresh start in Charlotte ends in a deadly hit-and-run",
+     "summary": "Loved ones gathered Monday to remember a woman killed in a southwest Charlotte hit-and-run while trying to catch a bus home from work, just one month after she moved to the city to start a new chapter in her life.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Police investigate man’s death after alleged altercation before 49ers-Cowboys game",
-       "url": "https://www.wsoctv.com/news/local/police-investigate-mans-death-after-alleged-altercation-before-49ers-cowboys-game/36MHEWVCF5AZ7MWLM3MEFPPYGI/",
+       "title": "Woman’s fresh start in Charlotte ends in a deadly hit-and-run",
+       "url": "https://www.wsoctv.com/news/local/family-seeks-justice-after-woman-killed-southwest-charlotte-hit-and-run/N5FFT4F4PBFJBIJP22KDYPL4PY/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:56 AM",
-     "headline": "Shoppers who are not tech savvy may miss grocery savings, expert says",
-     "summary": "A ConsumerAffairs writer calls grocery apps a \"technology tax\" for shoppers who are not tech savvy. Here is what he suggests to avoid missing savings.",
+     "time": "5:11 PM",
+     "headline": "Mother accused of spraying 2 children with bear spray indicted",
+     "summary": "A mother in Alabama accused of spraying her children with bear spray has been indicted, according to court records.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Shoppers who are not tech savvy may miss grocery savings, expert says",
-       "url": "https://www.wbtv.com/2026/11/23/shoppers-who-are-not-tech-savvy-may-miss-grocery-savings-expert-says/",
+       "title": "Mother accused of spraying 2 children with bear spray indicted",
+       "url": "https://www.wbtv.com/2026/11/23/mother-accused-spraying-2-children-with-bear-spray-indicted/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:53 AM",
-     "headline": "FORECAST: Storm system targets region with heavy rain, wind through Thanksgiving",
-     "summary": "To stay on top of changing weather conditions, be sure to download our free WSOC-TV Weather app.",
+     "time": "5:00 PM",
+     "headline": "Insurer seeks to avoid paying claims for Charlotte transit violence",
+     "summary": "Three acts of violence on Charlotte’s mass transit, and now there’s a fight over who should cover any insurance claims involving those three cases.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Storm system targets region with heavy rain, wind through Thanksgiving",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-storm-system-targets-region-with-heavy-rain-wind-through-thanksgiving/EYRWRUBKINFJPJREDCDB2Y666E/",
+       "title": "Insurer seeks to avoid paying claims for Charlotte transit violence",
+       "url": "https://www.wsoctv.com/news/local/insurer-seeks-avoid-paying-claims-charlotte-transit-violence/NS47OKTA6FCPVFTLSCAOEWB2DA/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:45 AM",
-     "headline": "Former Broncos linebacker, ESPN broadcaster Tom Jackson, dies",
-     "summary": "Former Bronco and NFL commentator Tom Jackson dies at 75. Tributes pour in from teammates like Randy Moss and Chris Berman.",
+     "time": "4:59 PM",
+     "headline": "Small business owners urge shoppers to buy local this holiday season",
+     "summary": "With Black Friday right around the corner, small business owners are reminding people to shop local this holiday season.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Former Broncos linebacker, ESPN broadcaster Tom Jackson, dies",
-       "url": "https://www.wsoctv.com/news/trending/former-broncos-linebacker-espn-broadcaster-tom-jackson-dies/4G3EZGJWVBGY5GVW4EO3IPG2H4/",
+       "title": "Small business owners urge shoppers to buy local this holiday season",
+       "url": "https://www.wsoctv.com/news/local/small-business-owners-urge-shoppers-buy-local-this-holiday-season/ZDOXQPIL3BDSDJPXQIA2YNDUN4/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:39 AM",
-     "headline": "Thanksgiving travel rush ramps up as gas prices dip",
-     "summary": "Airports across the country are preparing for one of the busiest travel periods of the year, with recent airline disruptions putting potential travel troubles top of mind.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Thanksgiving travel rush ramps up as gas prices dip",
-       "url": "https://www.wsoctv.com/news/local/thanksgiving-travel-rush-ramps-up-gas-prices-dip/E35PBQXEHRGAVLY5KTZGYO6ZRY/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:35 AM",
-     "headline": "Panthers playoff picture: Postseason chances after thrilling win over Ravens",
-     "summary": "Carolina holds a 2-game lead in the NFC South after their Week 11 win.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Panthers playoff picture: Postseason chances after thrilling win over Ravens",
-       "url": "https://www.wbtv.com/2026/11/23/panthers-playoff-picture-postseason-chances-after-thrilling-win-over-ravens/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:23 AM",
-     "headline": "‘Pure shock’: Nearly 2 dozen animals killed as fire incinerates Rowan County paramedics’ home",
-     "summary": "Firefighters said flames had engulfed the home when they arrived, and the blaze reduced it to ashes.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "‘Pure shock’: Nearly 2 dozen animals killed as fire incinerates Rowan County paramedics’ home",
-       "url": "https://www.wbtv.com/2026/11/23/pure-shock-nearly-2-dozen-animals-killed-fire-incinerates-rowan-county-paramedics-home/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:02 AM",
-     "headline": "What travelers should know as storms threaten Thanksgiving week travel",
-     "summary": "Storms could bring heavy rain, strong winds and flooding to the Bay Area and East Coast as millions travel for Thanksgiving.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "What travelers should know as storms threaten Thanksgiving week travel",
-       "url": "https://www.wbtv.com/2026/11/23/what-travelers-should-know-storms-threaten-thanksgiving-week-travel/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:41 AM",
-     "headline": "Federal ban looms for NC hemp products industry, but high hopes remain for change",
-     "summary": "Farm legislation accidentally allowed intoxicating hemp products. Feds poised to close loophole. Some NC businesses hope that doesn’t happen.",
+     "time": "4:59 PM",
+     "headline": "Bad weather forecast forces cancellation of Thanksgiving Eve Parade",
+     "summary": "Projected wind, rain and cold forced Charlotte Center City Partners to cancel the annual, 80-year-old parade uptown.",
      "sources": [
       {
        "outlet": "WFAE",
-       "title": "Federal ban looms for NC hemp products industry, but high hopes remain for change",
-       "url": "https://www.wfae.org/politics/2026-11-23/federal-ban-looms-for-nc-hemp-products-industry-but-high-hopes-remain-for-change",
+       "title": "Bad weather forecast forces cancellation of Thanksgiving Eve Parade",
+       "url": "https://www.wfae.org/charlotte-area/2026-11-23/bad-weather-forecast-forces-cancellation-of-thanksgiving-eve-parade",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "10:30 AM",
-     "headline": "FIFA selects US for 2031 Women’s World Cup",
-     "summary": "The U.S., Mexico, Costa Rica, and Jamaica will host the 2031 FIFA Women’s World Cup.",
+     "time": "4:58 PM",
+     "headline": "FORECAST: Rain threatens Thanksgiving travel across the Charlotte area",
+     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FIFA selects US for 2031 Women’s World Cup",
-       "url": "https://www.wsoctv.com/news/trending/fifa-selects-us-2031-womens-world-cup/I6KVDT2DJRFVVLOQSTLEXCRAXU/",
+       "title": "FORECAST: Rain threatens Thanksgiving travel across the Charlotte area",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-rain-threatens-thanksgiving-travel-across-charlotte-area/UV65GAGF4NECRK6AAWVFXO27VE/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "10:28 AM",
-     "headline": "CMS breakup might not happen. But lawmaker says both parties want special school board election",
-     "summary": "Republican State Sen. David Willis said this week that his plan to split Charlotte-Mecklenburg Schools into smaller districts is on hold — for now. He said it’s too complicated to do in a month and first needs a feasibility study.",
+     "time": "4:29 PM",
+     "headline": "Mother charged in crash that killed her 8-year-old child, injured another",
+     "summary": "A North Carolina woman is in jail after a crash that killed her 8-year-old child and injured another child, authorities said.",
      "sources": [
       {
-       "outlet": "WFAE",
-       "title": "CMS breakup might not happen. But lawmaker says both parties want special school board election",
-       "url": "https://www.wfae.org/politics/2026-11-23/cms-breakup-might-not-happen-but-lawmaker-says-both-parties-want-special-school-board-election",
-       "bias": -1
+       "outlet": "WBTV",
+       "title": "Mother charged in crash that killed her 8-year-old child, injured another",
+       "url": "https://www.wbtv.com/2026/11/23/mother-charged-crash-that-killed-her-8-year-old-child-injured-another/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "10:28 AM",
-     "headline": "Morning 3: Uber driver assaulted during attempted carjacking in Charlotte -- and other news",
-     "summary": "Here are the top stories for the morning of Nov. 23, 2026",
+     "time": "4:29 PM",
+     "headline": "Woman shot while dropping off child in deadly Alexander County triple shooting",
+     "summary": "A woman who was shot in a deadly triple shooting Sunday night in Alexander County was dropping off her child at the time, according to the owner of Ridgecrest Apartments.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Woman shot while dropping off child in deadly Alexander County triple shooting",
+       "url": "https://www.wsoctv.com/news/local/one-dead-two-hurt-after-triple-shooting-taylorsville/RRBFF3OQLBFXFHLWQXYZRJRWUY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:28 PM",
+     "headline": "‘My Love is a Fire’: Singer Donny Osmond douses flames to spare a family’s home",
+     "summary": "Self-described singer, entertainer, and family man Donny Osmond took on a different role this weekend – firefighter.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Morning 3: Uber driver assaulted during attempted carjacking in Charlotte -- and other news",
-       "url": "https://www.wbtv.com/2026/11/23/morning-3-uber-driver-assaulted-during-attempted-carjacking-charlotte-other-news/",
+       "title": "‘My Love is a Fire’: Singer Donny Osmond douses flames to spare a family’s home",
+       "url": "https://www.wbtv.com/2026/11/23/my-love-is-fire-singer-donny-osmond-douses-flames-spare-familys-home/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:01 PM",
+     "headline": "Monroe councilmember explains vote on controversial development",
+     "summary": "A Monroe city councilmember explained why he voted to approve a controversial development that has raised concerns about increased traffic.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Monroe councilmember explains vote on controversial development",
+       "url": "https://www.wsoctv.com/news/local/monroe-councilmember-explains-vote-controversial-development/HHPOMLWP3VHM7EPF323GLREQVI/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:00 PM",
+     "headline": "Midweek storm to bring wind and rain to the Carolinas: Latest forecast",
+     "summary": "A storm is expected to develop on Wednesday and could last into Thursday.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Midweek storm to bring wind and rain to the Carolinas: Latest forecast",
+       "url": "https://www.wbtv.com/2026/11/23/mid-week-storm-bring-wind-rain-carolinas-latest-forecast/",
        "bias": 0
       }
      ]
@@ -747,105 +711,161 @@
    "items": [
     {
      "date": "2026-11-23",
-     "time": "12:03 PM",
+     "time": "5:43 PM",
+     "headline": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+     "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:41 PM",
+     "headline": "Dave Richard's Fantasy Football Week 11 winners and losers: DeVonta Smith & Ladd McConkey bounce back",
+     "summary": "Mark Andrews is droppable as DeVonta Smith and Ladd McConkey thrive, while Jordyn Tyson's shrinking role raises concerns",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Dave Richard's Fantasy Football Week 11 winners and losers: DeVonta Smith & Ladd McConkey bounce back",
+       "url": "https://www.cbssports.com/fantasy/football/news/dave-richards-fantasy-football-week-11-winners-and-losers/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:31 PM",
+     "headline": "Janelt scores stunner as Brentford beat 10-man Everton",
+     "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+       "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:49 PM",
+     "headline": "LSU's MiLaysia Fulwiley back with Tigers, cleared to play after felony charges dropped",
+     "summary": "Fulwiley still faces three misdemeanor charges after allegedly hitting a police officer with a vehicle",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "LSU's MiLaysia Fulwiley back with Tigers, cleared to play after felony charges dropped",
+       "url": "https://www.cbssports.com/womens-college-basketball/news/lsu-milaysia-fulwiley-returns-team-felony-charges-dropped-arrest/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:45 PM",
      "headline": "'Monday Night Football' prediction, odds, time: Bengals vs. Commanders picks from expert on a 35-18 roll",
      "summary": "R.J. White reveals his picks for Cincinnati Bengals vs. Washington Commanders in the 2026 Week 11 'Monday Night Football' matchup",
      "sources": [
       {
        "outlet": "CBS Sports",
        "title": "'Monday Night Football' prediction, odds, time: Bengals vs. Commanders picks from expert on a 35-18 roll",
-       "url": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-spread-time-bengals-commanders-expert-picks/",
+       "url": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-spread-time-bengals-commanders-expert-picks-bets/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "12:02 PM",
-     "headline": "Jayden Daniels on relationship with fellow LSU alum Joe Burrow: 'It's all love'",
-     "summary": "Daniels and Burrow meet for the second time on 'Monday Night Football'",
+     "time": "4:42 PM",
+     "headline": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for Commanders vs. Bengals on MNF",
+     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Commanders vs. Bengals on Monday Night Football",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Jayden Daniels on relationship with fellow LSU alum Joe Burrow: 'It's all love'",
-       "url": "https://www.cbssports.com/nfl/news/jayden-daniels-relationship-lsu-alum-joe-burrow-its-all-love-beef/",
+       "title": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for Commanders vs. Bengals on MNF",
+       "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-commanders-vs-bengals-mnf/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:51 AM",
-     "headline": "'A forced decision' - Gallagher retires from MMA",
-     "summary": "Northern Ireland fighter James Gallagher says circumstances outside his control have \"forced\" him to retire from MMA aged 30.",
+     "time": "4:41 PM",
+     "headline": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+     "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "'A forced decision' - Gallagher retires from MMA",
-       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckp80denz7qyo?at_medium=RSS&at_campaign=rss",
+       "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:51 AM",
+     "time": "4:34 PM",
+     "headline": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+     "summary": "Find the best Arkansas sports betting apps in November 2026, and all you need to know about Arkansas sports betting.",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+       "url": "https://www.cbssports.com/betting/news/arkansas/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:30 PM",
      "headline": "76ers vs. Blazers prediction, odds, time: 2026 NBA picks for Monday, Nov. 23 from proven model",
      "summary": "SportsLine's model reveals its Portland Trail Blazers vs. Philadelphia 76ers best bets on Monday night",
      "sources": [
       {
        "outlet": "CBS Sports",
        "title": "76ers vs. Blazers prediction, odds, time: 2026 NBA picks for Monday, Nov. 23 from proven model",
-       "url": "https://www.cbssports.com/betting/news/76ers-blazers-prediction-odds-time-2026-nba-picks-for-monday-november-23/",
+       "url": "https://www.cbssports.com/betting/news/76ers-blazers-prediction-odds-time-2026-nba-picks-best-bets-monday-november-23/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:49 AM",
-     "headline": "Bengals vs. Commanders odds: Monday Night Football first touchdown scorer picks, NFL predictions",
-     "summary": "Here are our top picks for first touchdown prediction markets on Bengals vs. Commanders in NFL Week 11 on Monday Night Football",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Bengals vs. Commanders odds: Monday Night Football first touchdown scorer picks, NFL predictions",
-       "url": "https://www.cbssports.com/prediction/news/bengals-vs-commanders-odds-monday-night-football-first-touchdown-scorer-picks-nfl-predictions/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:30 AM",
-     "headline": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-     "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+     "time": "4:27 PM",
+     "headline": "Penge wins four-man play-off to claim first PGA Tour title and earn 2027 card",
+     "summary": "England's Marco Penge birdies the first extra hole in a four-man play-off to win the RSM Classic in Georgia and secure his PGA Tour card for 2027.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+       "title": "Penge wins four-man play-off to claim first PGA Tour title and earn 2027 card",
+       "url": "https://www.bbc.co.uk/sport/golf/articles/cv0l3nxgw5jno?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:29 AM",
-     "headline": "Predicting MLB's next mega contracts: Paul Skenes, Junior Caminero, James Wood and more in line to get paid",
-     "summary": "After Tarik Skubal's nine-year, $450 million deal, who's next to break the bank?",
+     "time": "4:19 PM",
+     "headline": "DK Metcalf will not be suspended by the NFL after getting ejected during Steelers' loss to Eagles",
+     "summary": "Metcalf may face other discipline by the NFL for his actions",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Predicting MLB's next mega contracts: Paul Skenes, Junior Caminero, James Wood and more in line to get paid",
-       "url": "https://www.cbssports.com/mlb/news/predicting-mlb-next-mega-contracts-paul-skenes-junior-caminero-james-wood-elly-de-la-cruz/",
+       "title": "DK Metcalf will not be suspended by the NFL after getting ejected during Steelers' loss to Eagles",
+       "url": "https://www.cbssports.com/nfl/news/dk-metcalf-not-suspended-nfl-ejected-steelers-loss-eagles-cooper-dejean-eyes/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:25 AM",
+     "time": "4:18 PM",
      "headline": "UCLA optimistic Ty Dieffenbach could return from lower body injury as Bruins face potential CFP run",
      "summary": "Good news could be on the horizon for UCLA in the Big Ten title and CFP picture",
      "sources": [
@@ -859,98 +879,42 @@
     },
     {
      "date": "2026-11-23",
-     "time": "11:22 AM",
-     "headline": "Would JuJu Watkins skip the 2027 WNBA Draft? Pros and cons of USC superstar spending another year in school",
-     "summary": "Watkins would likely be Toronto's No. 1 pick if she leaves the Trojans after the 2026-27 NCAA season ... but she has some reasons to stay in L.A.",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Would JuJu Watkins skip the 2027 WNBA Draft? Pros and cons of USC superstar spending another year in school",
-       "url": "https://www.cbssports.com/wnba/news/juju-watkins-skip-2027-wnba-draft-pros-cons-of-usc-another-year/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:18 AM",
-     "headline": "2027 NBA Draft Big Board: Quentin Coleman's meteoric rise, Tyran Stokes stays at No. 1, returners boost stock",
-     "summary": "The NBA Draft scouting revelations just three weeks into the college basketball season",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "2027 NBA Draft Big Board: Quentin Coleman's meteoric rise, Tyran Stokes stays at No. 1, returners boost stock",
-       "url": "https://www.cbssports.com/nba/news/2027-nba-draft-big-board-quentin-coleman-tyran-stokes-ivan-kharchenkov/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:17 AM",
-     "headline": "Hibernian boss Reedijk rejects talk of Easter Road jinx",
-     "summary": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership.",
+     "time": "4:05 PM",
+     "headline": "De Bruyne's feelings for Man City will 'never change'",
+     "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Hibernian boss Reedijk rejects talk of Easter Road jinx",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
+       "title": "De Bruyne's feelings for Man City will 'never change'",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "11:14 AM",
-     "headline": "CBS Sports 138: Texas, Tennessee move up as UCLA, Indiana tumble in college football rankings",
-     "summary": "A five-game SEC winning streak pushes Steve Sarkisian's squad to No. 4 as the nation's top two-loss team",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "CBS Sports 138: Texas, Tennessee move up as UCLA, Indiana tumble in college football rankings",
-       "url": "https://www.cbssports.com/college-football/news/college-football-rankings-cbs-sports-138-week-13-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:59 AM",
-     "headline": "The buyout economics of the 2026-27 coaching carousel: Florida State faces steep Mike Norvell payout",
-     "summary": "The 2026-27 college football coaching carousel is in full swing, and these teams will have to pony up to pay off their former coaches",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "The buyout economics of the 2026-27 coaching carousel: Florida State faces steep Mike Norvell payout",
-       "url": "https://www.cbssports.com/college-football/news/buyout-2026-27-coaching-carousel/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:56 AM",
-     "headline": "College basketball's Thanksgiving week primer: Most intriguing matchups, top NBA Draft prospects, predictions",
-     "summary": "A bevy of college basketball tournaments tip off this week, including the beloved Maui Invitational, the Battle 4 Atlantis and a jam-packed Players Era 16 field in Las Vegas. Get ready here",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "College basketball's Thanksgiving week primer: Most intriguing matchups, top NBA Draft prospects, predictions",
-       "url": "https://www.cbssports.com/college-basketball/news/thanksgiving-week-primer-maui-invitational-battle-4-atlantis-players-era/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:50 AM",
-     "headline": "Marquez collects eighth MotoGP title",
-     "summary": "Marc Marquez was presented with a golden helmet by Italian legend Giacomo Agostini, with a goat shadow following him up the stairs after clinching a record-equalling eighth MotoGP title in Portimao, Portugal on Sunday.",
+     "time": "4:03 PM",
+     "headline": "Hosting World Cup means decade of excitement - Weir",
+     "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Marquez collects eighth MotoGP title",
-       "url": "https://www.bbc.co.uk/sport/motorsport/videos/cr930y14v3n4o?at_medium=RSS&at_campaign=rss",
+       "title": "Hosting World Cup means decade of excitement - Weir",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "4:03 PM",
+     "headline": "Cardinals fire defensive coordinator Nick Rallis, per reports",
+     "summary": "Rallis is out after working with the Cardinals since 2023. Teryl Austin will serve as Arizona's temporary DC",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Cardinals fire defensive coordinator Nick Rallis, per reports",
+       "url": "https://www.cbssports.com/nfl/news/cardinals-fire-defensive-coordinator-nick-rallis-per-reports/",
        "bias": 0
       }
      ]
