@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:00:04Z",
+ "generated_at": "2026-11-23T12:04:00Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -70,6 +70,48 @@
        "title": "Three killed and dozens missing after fire at Indonesian factory",
        "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "7:02 AM",
+     "headline": "Search on for lioness seen roaming Istanbul's outskirts",
+     "summary": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city's outskirts, Turkish officials say.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Search on for lioness seen roaming Istanbul's outskirts",
+       "url": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "6:59 AM",
+     "headline": "Arctic air brings colder temperatures to Europe this week",
+     "summary": "After a warmer-than-average November so far globally, a cold snap is on the horizon in parts of Europe While average global temperatures continue to set records through one of the strongest El Niños on record, temperatures across a large swathe of Europe…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Arctic air brings colder temperatures to Europe this week",
+       "url": "https://www.theguardian.com/environment/2026/nov/23/arctic-air-colder-temperatures-europe-this-week",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "6:56 AM",
+     "headline": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
+     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992 Sign up to the Breaking News US email Democrats have won their largest…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+       "bias": -1
       }
      ]
     },
@@ -198,38 +240,16 @@
        "bias": -1
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "national",
+   "name": "Regional & National",
+   "items": [
     {
      "date": "2026-11-23",
-     "time": "6:26 AM",
-     "headline": "Flights grounded in Belgium due to strike against austerity measures",
-     "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Flights grounded in Belgium due to strike against austerity measures",
-       "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "6:25 AM",
-     "headline": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
-     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992 Sign up to the Breaking News US email The Trump administration recently…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "6:15 AM",
+     "time": "7:02 AM",
      "headline": "Search on for lioness seen roaming Istanbul's outskirts",
      "summary": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city's outskirts, Turkish officials say.",
      "sources": [
@@ -240,22 +260,16 @@
        "bias": 0
       }
      ]
-    }
-   ]
-  },
-  {
-   "id": "national",
-   "name": "Regional & National",
-   "items": [
+    },
     {
      "date": "2026-11-23",
-     "time": "6:55 AM",
-     "headline": "Plastic surgeon sentenced to death for of killing lawyer in Florida",
+     "time": "7:00 AM",
+     "headline": "Plastic surgeon sentenced to death for killing lawyer in Florida",
      "summary": "Prosecutors said Tomasz Kosowski had supplies to kill Steven Cozzi, including a syringe containing a paralyzing drug and a wagon to haul the corpse out.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Plastic surgeon sentenced to death for of killing lawyer in Florida",
+       "title": "Plastic surgeon sentenced to death for killing lawyer in Florida",
        "url": "https://www.cbsnews.com/news/plastic-surgeon-tomasz-kosowski-death-sentence-killing-lawyer-florida/",
        "bias": 0
       }
@@ -299,20 +313,6 @@
        "outlet": "CBS News",
        "title": "Pro golfer, chef arrested for 111 pounds of alleged drugs in luggage",
        "url": "https://www.cbsnews.com/news/pro-golfer-arrested-cannabis-luggage-nigeria/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "6:15 AM",
-     "headline": "Search on for lioness seen roaming Istanbul's outskirts",
-     "summary": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city's outskirts, Turkish officials say.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Search on for lioness seen roaming Istanbul's outskirts",
-       "url": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
        "bias": 0
       }
      ]
