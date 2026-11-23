@@ -1,12 +1,10 @@
 {
- "generated_at": "2026-11-23T22:59:22Z",
+ "generated_at": "2026-11-23T23:02:32Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 19,
+  "ok": 20,
   "total": 20,
-  "failed": [
-   "ESPN (sports): empty response"
-  ]
+  "failed": []
  },
  "sections": [
   {
@@ -75,6 +73,20 @@
     },
     {
      "date": "2026-11-23",
+     "time": "5:57 PM",
+     "headline": "Australian politics live: Chalmers to ‘save more than we spend’ in budget update: King Charles ‘deeply saddened’ by Meldrum’s death",
+     "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Australian politics live: Chalmers to ‘save more than we spend’ in budget update: King Charles ‘deeply saddened’ by Meldrum’s death",
+       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
      "time": "5:45 PM",
      "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
@@ -84,20 +96,6 @@
        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "5:44 PM",
-     "headline": "Australian politics live: Australian politics live: Chalmers to ‘save more than we spend’ in budget update: King Charles ‘deeply saddened’ by Meldrum’s death",
-     "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Australian politics live: Australian politics live: Chalmers to ‘save more than we spend’ in budget update: King Charles ‘deeply saddened’ by Meldrum’s death",
-       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-       "bias": -1
       }
      ]
     },
@@ -413,6 +411,20 @@
     },
     {
      "date": "2026-11-23",
+     "time": "5:17 PM",
+     "headline": "They attended Trump's controversial meme coin dinner. It didn't go well",
+     "summary": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+       "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
      "time": "5:16 PM",
      "headline": "U.S. adds Megaspeed to trade blacklist after Nvidia scandal",
      "summary": "The Trump administration restricted Megaspeed from buying advanced semiconductor chips, after the firm's alleged links to China helped kick-start the scandal surrounding Nvidia CEO Jensen Huang.",
@@ -463,20 +475,6 @@
        "outlet": "PBS NewsHour",
        "title": "Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings",
        "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "5:05 PM",
-     "headline": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
-     "summary": "The U.S. Army's controlled detonation of 68 barrels of unstable lead azide in Iowa on Wednesday is expected to produce a plume of dust containing lead particles that could extend as far as 100 miles away, a plan that residents, lawmakers and environmental…",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
-       "url": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
        "bias": 0
       }
      ]
@@ -711,6 +709,88 @@
    "items": [
     {
      "date": "2026-11-23",
+     "time": "5:02 PM",
+     "headline": "Metcalf denies trying to poke DeJean in eye; NFL won't suspend Steelers WR",
+     "summary": "Steelers wide receiver DK Metcalf on Monday denied trying to poke Eagles cornerback Cooper DeJean in the eye before he was ejected Sunday.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Metcalf denies trying to poke DeJean in eye; NFL won't suspend Steelers WR",
+       "url": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye",
+       "bias": 0
+      },
+      {
+       "outlet": "CBS Sports",
+       "title": "Steelers' DK Metcalf denies trying to poke Eagles' Cooper DeJean in the eye",
+       "url": "https://www.cbssports.com/nfl/news/steelers-dk-metcalf-denies-poke-eagles-cooper-dejean-eye/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:02 PM",
+     "headline": "Cardinals fire defensive coordinator Nick Rallis, sources say",
+     "summary": "Rallis is out after working with the Cardinals since 2023. Teryl Austin will serve as Arizona's temporary DC",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Cardinals fire defensive coordinator Nick Rallis, sources say",
+       "url": "https://www.espn.com/nfl/story/_/id/50575938/cardinals-fire-defensive-coordinator-nick-rallis-sources-say",
+       "bias": 0
+      },
+      {
+       "outlet": "CBS Sports",
+       "title": "Cardinals fire defensive coordinator Nick Rallis, per reports",
+       "url": "https://www.cbssports.com/nfl/news/cardinals-fire-defensive-coordinator-nick-rallis-per-reports/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:55 PM",
+     "headline": "Inside the gymnastics lore of Bengals superstar Ja'Marr Chase",
+     "summary": "Ja'Marr Chase's skill set suggests formal gymnastics training, but the reality isn't quite that simple.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Inside the gymnastics lore of Bengals superstar Ja'Marr Chase",
+       "url": "https://www.espn.com/nfl/story/_/id/50565876/bengals-jamarr-chase-gymnastics",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:55 PM",
+     "headline": "How a 1988 Honda Prelude and pet python shaped Commanders DC Daronte Jones",
+     "summary": "From living in his car to various college offices, Washington defensive coordinator Daronte Jones has paid his dues.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "How a 1988 Honda Prelude and pet python shaped Commanders DC Daronte Jones",
+       "url": "https://www.espn.com/nfl/story/_/id/49828234/washington-commanders-daronte-jones-2026-defense",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "time": "5:54 PM",
+     "headline": "Moyes questions Tarkowski red in Brentford loss",
+     "summary": "Everton manager David Moyes questions whether force of James Tarkowski's challenge was taken into consideration after the defender was shown a red card in his side's 4-0 loss at Brentford.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Moyes questions Tarkowski red in Brentford loss",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
      "time": "5:43 PM",
      "headline": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
      "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
@@ -753,168 +833,98 @@
     },
     {
      "date": "2026-11-23",
-     "time": "4:49 PM",
-     "headline": "LSU's MiLaysia Fulwiley back with Tigers, cleared to play after felony charges dropped",
-     "summary": "Fulwiley still faces three misdemeanor charges after allegedly hitting a police officer with a vehicle",
+     "time": "5:20 PM",
+     "headline": "Picking up the pieces after Week 12 and what it all means for Rivalry Week",
+     "summary": "After another chaotic weekend, we look at the playoff and conference races on the line with one game to go.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "LSU's MiLaysia Fulwiley back with Tigers, cleared to play after felony charges dropped",
-       "url": "https://www.cbssports.com/womens-college-basketball/news/lsu-milaysia-fulwiley-returns-team-felony-charges-dropped-arrest/",
+       "outlet": "ESPN",
+       "title": "Picking up the pieces after Week 12 and what it all means for Rivalry Week",
+       "url": "https://www.espn.com/college-football/story/_/id/50563018/week-12-results-rivalry-week",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "4:45 PM",
-     "headline": "'Monday Night Football' prediction, odds, time: Bengals vs. Commanders picks from expert on a 35-18 roll",
-     "summary": "R.J. White reveals his picks for Cincinnati Bengals vs. Washington Commanders in the 2026 Week 11 'Monday Night Football' matchup",
+     "time": "5:20 PM",
+     "headline": "Bowl, CFP projections: Big shake-up to the postseason picture after a wild Week 12",
+     "summary": "Our bowl gurus take a look at how the postseason picture shifted after Week 12.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "'Monday Night Football' prediction, odds, time: Bengals vs. Commanders picks from expert on a 35-18 roll",
-       "url": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-spread-time-bengals-commanders-expert-picks-bets/",
+       "outlet": "ESPN",
+       "title": "Bowl, CFP projections: Big shake-up to the postseason picture after a wild Week 12",
+       "url": "https://www.espn.com/college-football/story/_/id/50564492/2026-week-12-college-football-playoff-bowl-projections",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "4:42 PM",
-     "headline": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for Commanders vs. Bengals on MNF",
-     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Commanders vs. Bengals on Monday Night Football",
+     "time": "5:11 PM",
+     "headline": "AP Top 25 men's poll Week 3 breakdown: Houston, Virginia are 1-2",
+     "summary": "Stats, records and upcoming games for the Top-25 teams in the AP men's basketball poll. Houston rises, Duke falls.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for Commanders vs. Bengals on MNF",
-       "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-commanders-vs-bengals-mnf/",
+       "outlet": "ESPN",
+       "title": "AP Top 25 men's poll Week 3 breakdown: Houston, Virginia are 1-2",
+       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50566772/ap-mens-top-25-poll-reaction-week-3",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "4:41 PM",
-     "headline": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
-     "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
+     "time": "5:11 PM",
+     "headline": "The ultimate Feast Week menu: Games, players, records to watch",
+     "summary": "With so many games on the schedule this Feast week, we've curated a menu, if you will, for you. You're welcome.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "The ultimate Feast Week menu: Games, players, records to watch",
+       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50565294/mens-feast-week-watch-guide",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "4:34 PM",
-     "headline": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
-     "summary": "Find the best Arkansas sports betting apps in November 2026, and all you need to know about Arkansas sports betting.",
+     "time": "5:11 PM",
+     "headline": "Women's Feast Week guide: Iowa's 1-2 punch puts away Utah",
+     "summary": "The top nonconference matchups over the next week also include South Carolina-UConn.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
-       "url": "https://www.cbssports.com/betting/news/arkansas/",
+       "outlet": "ESPN",
+       "title": "Women's Feast Week guide: Iowa's 1-2 punch puts away Utah",
+       "url": "https://www.espn.com/womens-college-basketball/story/_/id/50513465/2026-womens-feast-week-thanksgiving-tournament-schedule",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "4:30 PM",
-     "headline": "76ers vs. Blazers prediction, odds, time: 2026 NBA picks for Monday, Nov. 23 from proven model",
-     "summary": "SportsLine's model reveals its Portland Trail Blazers vs. Philadelphia 76ers best bets on Monday night",
+     "time": "5:11 PM",
+     "headline": "Women's AP Top 25 poll breakdown: What to know about each team",
+     "summary": "How did the AP Top 25 change following Week 3?",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "76ers vs. Blazers prediction, odds, time: 2026 NBA picks for Monday, Nov. 23 from proven model",
-       "url": "https://www.cbssports.com/betting/news/76ers-blazers-prediction-odds-time-2026-nba-picks-best-bets-monday-november-23/",
+       "outlet": "ESPN",
+       "title": "Women's AP Top 25 poll breakdown: What to know about each team",
+       "url": "https://www.espn.com/womens-college-basketball/story/_/id/50568676/ap-womens-top-25-poll-reaction-2026-27-week-3",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-23",
-     "time": "4:27 PM",
-     "headline": "Penge wins four-man play-off to claim first PGA Tour title and earn 2027 card",
-     "summary": "England's Marco Penge birdies the first extra hole in a four-man play-off to win the RSM Classic in Georgia and secure his PGA Tour card for 2027.",
+     "time": "5:02 PM",
+     "headline": "Sources: 49ers releasing Aiyuk, ending WR's tumultuous tenure with team",
+     "summary": "The 49ers released wide receiver Brandon Aiyuk on Monday.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Penge wins four-man play-off to claim first PGA Tour title and earn 2027 card",
-       "url": "https://www.bbc.co.uk/sport/golf/articles/cv0l3nxgw5jno?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "4:19 PM",
-     "headline": "DK Metcalf will not be suspended by the NFL after getting ejected during Steelers' loss to Eagles",
-     "summary": "Metcalf may face other discipline by the NFL for his actions",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "DK Metcalf will not be suspended by the NFL after getting ejected during Steelers' loss to Eagles",
-       "url": "https://www.cbssports.com/nfl/news/dk-metcalf-not-suspended-nfl-ejected-steelers-loss-eagles-cooper-dejean-eyes/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "4:18 PM",
-     "headline": "UCLA optimistic Ty Dieffenbach could return from lower body injury as Bruins face potential CFP run",
-     "summary": "Good news could be on the horizon for UCLA in the Big Ten title and CFP picture",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "UCLA optimistic Ty Dieffenbach could return from lower body injury as Bruins face potential CFP run",
-       "url": "https://www.cbssports.com/college-football/news/ty-dieffenbach-injury-update-ucla-optimistic-cfp-run/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "4:05 PM",
-     "headline": "De Bruyne's feelings for Man City will 'never change'",
-     "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "De Bruyne's feelings for Man City will 'never change'",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "4:03 PM",
-     "headline": "Hosting World Cup means decade of excitement - Weir",
-     "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Hosting World Cup means decade of excitement - Weir",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "4:03 PM",
-     "headline": "Cardinals fire defensive coordinator Nick Rallis, per reports",
-     "summary": "Rallis is out after working with the Cardinals since 2023. Teryl Austin will serve as Arizona's temporary DC",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Cardinals fire defensive coordinator Nick Rallis, per reports",
-       "url": "https://www.cbssports.com/nfl/news/cardinals-fire-defensive-coordinator-nick-rallis-per-reports/",
+       "outlet": "ESPN",
+       "title": "Sources: 49ers releasing Aiyuk, ending WR's tumultuous tenure with team",
+       "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
        "bias": 0
       }
      ]
