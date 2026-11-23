@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:10:35Z",
+ "generated_at": "2026-11-23T17:12:36Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -223,6 +223,20 @@
     },
     {
      "date": "2026-11-23",
+     "time": "11:55 AM",
+     "headline": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+     "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
      "time": "11:54 AM",
      "headline": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
      "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
@@ -259,20 +273,6 @@
        "outlet": "The Guardian",
        "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
        "url": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:48 AM",
-     "headline": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
-     "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
        "bias": -1
       }
      ]
@@ -531,6 +531,20 @@
    "items": [
     {
      "date": "2026-11-23",
+     "time": "12:08 PM",
+     "headline": "Students return after $1M mold cleanup at Iredell County school",
+     "summary": "Students and staff are back in school after a $1 million effort to clean up mold.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Students return after $1M mold cleanup at Iredell County school",
+       "url": "https://www.wsoctv.com/news/local/students-return-after-1m-mold-cleanup-iredell-county-school/F5FF3PZGOBC7JP2LV4S5ITO45E/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
      "time": "12:03 PM",
      "headline": "Feeding 10 for Thanksgiving? Here’s what the classic meal could cost",
      "summary": "A Farm Bureau survey finds Thanksgiving dinner for 10 costs about $58.63 this year, up more than 6% but below the 2022 record.",
@@ -722,20 +736,6 @@
        "title": "Morning 3: Uber driver assaulted during attempted carjacking in Charlotte -- and other news",
        "url": "https://www.wbtv.com/2026/11/23/morning-3-uber-driver-assaulted-during-attempted-carjacking-charlotte-other-news/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:03 AM",
-     "headline": "New book examines impact of 1898 Wilmington Massacre",
-     "summary": "In 1898, a white mob massacred dozens of Black residents in Wilmington, North Carolina. They used a machine gun and stoked fear to stage what is considered the only successful coup in U.S. history.",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "New book examines impact of 1898 Wilmington Massacre",
-       "url": "https://www.wfae.org/podcast/charlotte-talks-with-mike-collins/2026-11-23/new-book-examines-impact-of-1898-wilmington-massacre",
-       "bias": -1
       }
      ]
     }
