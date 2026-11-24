@@ -1,12 +1,10 @@
 {
- "generated_at": "2026-11-24T12:04:26Z",
+ "generated_at": "2026-11-24T12:08:38Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 19,
+  "ok": 20,
   "total": 20,
-  "failed": [
-   "ESPN (sports): empty response"
-  ]
+  "failed": []
  },
  "sections": [
   {
@@ -237,6 +235,20 @@
    "items": [
     {
      "date": "2026-11-24",
+     "time": "7:05 AM",
+     "headline": "Congress questions Jensen Huang’s return and court clears way for toxic detonation in Iowa: Morning Rundown",
+     "summary": "",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Congress questions Jensen Huang’s return and court clears way for toxic detonation in Iowa: Morning Rundown",
+       "url": "https://www.nbcnews.com/news/us-news/congress-huang-nvidia-return-army-iowa-detonation-morning-rundown-rcna611054",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
      "time": "7:00 AM",
      "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
      "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
@@ -260,6 +272,20 @@
        "title": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
        "url": "https://www.cbsnews.com/video/is-gen-z-gambling-away-its-retirement-money-moves-with-jill-schlesinger/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "6:59 AM",
+     "headline": "US Army to proceed with Iowa detonation of degraded bomb materials: ‘A consensus decision’",
+     "summary": "The Army will detonate 68 barrels of crystallized lead azide at the Iowa Army Ammunition Plant near Middletown after a federal appeals court ruling.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "US Army to proceed with Iowa detonation of degraded bomb materials: ‘A consensus decision’",
+       "url": "https://www.foxnews.com/politics/us-army-proceed-iowa-detonation-degraded-bomb-materials-consensus-decision",
+       "bias": 1
       }
      ]
     },
@@ -413,34 +439,6 @@
        "outlet": "NPR",
        "title": "They attended Trump's meme coin dinner. It didn't go well",
        "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:00 AM",
-     "headline": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
-     "summary": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
-       "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:00 AM",
-     "headline": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
-     "summary": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
-       "url": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
        "bias": -1
       }
      ]
@@ -781,6 +779,20 @@
     },
     {
      "date": "2026-11-24",
+     "time": "3:48 AM",
+     "headline": "Transfer rumors, news: PSG eye Estêvão and Luis Díaz amid injury woes",
+     "summary": "Paris Saint-Germain have added Bayern Munich's Luis Díaz and Chelsea's Estêvão to their shortlist. Transfer Talk has the latest.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Transfer rumors, news: PSG eye Estêvão and Luis Díaz amid injury woes",
+       "url": "https://www.espn.com/soccer/story/_/id/50580721/transfer-rumors-news-psg-estevao-luis-diaz-chelsea-bayern",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
      "time": "3:36 AM",
      "headline": "Why Potts swapped West Ham for Club Brugge after 16 years",
      "summary": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts.",
@@ -809,70 +821,56 @@
     },
     {
      "date": "2026-11-24",
-     "time": "1:57 AM",
-     "headline": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
-     "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career.",
+     "time": "2:35 AM",
+     "headline": "What to make of NFL Week 11 -- including wins for the Giants, Jets: Our reporters break down every game",
+     "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "What to make of NFL Week 11 -- including wins for the Giants, Jets: Our reporters break down every game",
+       "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "1:45 AM",
-     "headline": "Two goals in 15 games - what's going on with Gyokeres?",
-     "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
+     "time": "2:35 AM",
+     "headline": "The Joe Brady difference in Buffalo? We're judging big overreactions from Sunday",
+     "summary": "Is Brady the coach that can vault the Bills over the top? Is an NFC East three-peat still in play in Philly?",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Two goals in 15 games - what's going on with Gyokeres?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "The Joe Brady difference in Buffalo? We're judging big overreactions from Sunday",
+       "url": "https://www.espn.com/nfl/story/_/id/50563318/week-11-overreactions-2026-graziano-bills-eagles-nfc-east",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "1:42 AM",
-     "headline": "Who am I? Plus today's other quizzes",
-     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+     "time": "2:32 AM",
+     "headline": "With Skubal off the board, where will other top free agents land?",
+     "summary": "We surveyed the sport on the biggest free agents and trade candidates as baseball's hot stove heats up.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Who am I? Plus today's other quizzes",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "With Skubal off the board, where will other top free agents land?",
+       "url": "https://www.espn.com/mlb/story/_/id/50552449/offseason-survey-free-agents-trades",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "1:16 AM",
-     "headline": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
-     "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
+     "time": "2:15 AM",
+     "headline": "'I live for these moments': Daniels again delivers in clutch for Commanders",
+     "summary": "After failing multiple times in late-game situations earlier this season, Commanders quarterback Jayden Daniels put together a second consecutive winning drive Monday night as Washington kicked a last-second field goal to beat Cincinnati 22-20.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:01 AM",
-     "headline": "NFL Week 11 grades for every team: Commanders earn 'A-' for stunning Monday win",
-     "summary": "We're handing out grades for every team that played in Week 11",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "NFL Week 11 grades for every team: Commanders earn 'A-' for stunning Monday win",
-       "url": "https://www.cbssports.com/nfl/news/nfl-week-11-grades-every-team-cowboys-earn-a-high-flying-win-steelers-nearly-fail/",
+       "outlet": "ESPN",
+       "title": "'I live for these moments': Daniels again delivers in clutch for Commanders",
+       "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
        "bias": 0
       }
      ]
