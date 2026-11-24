@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-11-24T17:10:58Z",
+ "generated_at": "2026-11-24T17:12:36Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
@@ -28,6 +30,34 @@
        "title": "Israeli air strike kills senior Hamas security official in Gaza",
        "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:05 PM",
+     "headline": "After Libya, where will Ukraine strike Russia next?",
+     "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "After Libya, where will Ukraine strike Russia next?",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:04 PM",
+     "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+     "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+       "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
       }
      ]
     },
@@ -195,34 +225,6 @@
        "outlet": "The Guardian",
        "title": "DEA allowed 1.4m fentanyl pills to be ‘walked’ into US during sting operation, report alleges",
        "url": "https://www.theguardian.com/society/2026/nov/24/dea-fentanyl-new-mexico-sting",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "11:24 AM",
-     "headline": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-     "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "11:18 AM",
-     "headline": "Jerusalem Daily: Clash in Israeli parliament",
-     "summary": "An alleged altercation between Arab Israeli lawmaker Ahmad Tibi and comedian Guy Hochman sparks controversy.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Jerusalem Daily: Clash in Israeli parliament",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -481,6 +483,34 @@
    "items": [
     {
      "date": "2026-11-24",
+     "time": "12:11 PM",
+     "headline": "Man dies in crash on I-85 in Gaston County",
+     "summary": "A 42-year-old man was killed after rear-ending a tractor-trailer in Gaston County Monday night.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Man dies in crash on I-85 in Gaston County",
+       "url": "https://www.wsoctv.com/news/local/serious-crash-impacts-i-85-north-gaston-county/XR3DXYBJTNBYRO4BIRPDI756NI/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:07 PM",
+     "headline": "FORECAST: Cooler and breezy ahead of holiday rain",
+     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "FORECAST: Cooler and breezy ahead of holiday rain",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-cooler-breezy-ahead-holiday-rain/5ROE6FZ3EZEDBECFGZX3DUNQKM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
      "time": "11:57 AM",
      "headline": "Mecklenburg County leads state in permits for vegetation removal near billboards",
      "summary": "The North Carolina Department of Transportation has approved 187 permits for annual vegetation removal across the state since Adams Outdoor Advertising cleared out hundreds of trees in Plaza Midwood.",
@@ -660,34 +690,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "10:39 AM",
-     "headline": "City Council discusses plan to require landlords to provide working AC for all housing units",
-     "summary": "The Charlotte City Council is considering requiring landlords to provide air conditioning in at least two rooms. City officials said Monday they are trying to protect residents from increasingly hot summers.",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "City Council discusses plan to require landlords to provide working AC for all housing units",
-       "url": "https://www.wfae.org/politics/2026-11-24/city-council-discusses-plan-to-require-landlords-to-provide-working-ac-for-all-housing-units",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "10:39 AM",
-     "headline": "GoFundMe alerts donors of data breach",
-     "summary": "GoFundMe alerts donors of a data breach involving personal info and nonprofit organization records via a third party.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "GoFundMe alerts donors of data breach",
-       "url": "https://www.wsoctv.com/news/trending/gofundme-alerts-donors-data-breach/WSYJCTJU3BD4XPYVUBIKF7SFUM/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -695,132 +697,6 @@
    "id": "sports",
    "name": "Sports",
    "items": [
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "🏀 NBA Rookie Rankings: Which stars are rising early in season?",
-     "summary": "Our first edition of rookie rankings features 10 players standing out early from a strong 2026 draft class.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "🏀 NBA Rookie Rankings: Which stars are rising early in season?",
-       "url": "https://www.espn.com/nba/story/_/id/50544296/nba-rookie-rankings-early-stats",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "Sources: Cubs continue spending spree, add 2-time Japanese MVP Sato for $120M",
-     "summary": "The Cubs reached a 6-year, $120 million agreement with Japanese INF/OF Teruaki Sato on Tuesday, sources told ESPN's Jeff Passan.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Sources: Cubs continue spending spree, add 2-time Japanese MVP Sato for $120M",
-       "url": "https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "Alberts told he won't be next AD at Michigan, attorney says",
-     "summary": "Trev Alberts has been informed by the search firm representing Michigan that he will not be the Wolverines' next athletic director, attorney Tom Mars told ESPN.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Alberts told he won't be next AD at Michigan, attorney says",
-       "url": "https://www.espn.com/college-football/story/_/id/50583155/attorney-trev-alberts-told-next-ad-michigan",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "Sources: Peralta stays in AL East, gets $125M deal to top Orioles rotation",
-     "summary": "Freddy Peralta has agreed to a five-year, $125M deal with the Orioles, who have landed an ace starter after losing Trevor Rogers, sources told ESPN.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Sources: Peralta stays in AL East, gets $125M deal to top Orioles rotation",
-       "url": "https://www.espn.com/mlb/story/_/id/50583512/sources-freddy-peralta-orioles-5-years-125-million",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "SEC to consider termination of LSU's membership at Dec. 3 meeting",
-     "summary": "For the second time this year, the SEC is threatening to hold a vote of its chancellors and presidents on whether to kick LSU out of the league, according to a filing in federal court in Alabama on Monday.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "SEC to consider termination of LSU's membership at Dec. 3 meeting",
-       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50577602/sec-consider-termination-lsu-membership",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "Africa Cup given back to Senegal in latest twist as court rejects Morocco ruling",
-     "summary": "Senegal won back the Africa Cup of Nations title in a legal fight on Tuesday after the Court of Arbitration for Sport overturned an earlier ruling.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Africa Cup given back to Senegal in latest twist as court rejects Morocco ruling",
-       "url": "https://www.espn.com/soccer/story/_/id/50582074/senegal-africa-cup-nations-morocco-cas",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "'I live for these moments': Daniels again delivers in clutch for Commanders",
-     "summary": "After failing multiple times in late-game situations earlier this season, Commanders quarterback Jayden Daniels put together a second consecutive winning drive Monday night as Washington kicked a last-second field goal to beat Cincinnati 22-20.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "'I live for these moments': Daniels again delivers in clutch for Commanders",
-       "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "Luis plans to sue SEC, Sankey for damages over LSU saga, attorney says",
-     "summary": "RJ Luis Jr. will sue the SEC and commissioner Greg Sankey for damages in the days ahead, his attorney, Tony Clayton, told ESPN on Monday.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Luis plans to sue SEC, Sankey for damages over LSU saga, attorney says",
-       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50578772/rj-luis-plans-sue-sec-greg-sankey-damages-lsu-eligibility-saga-attorney-says",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:04 PM",
-     "headline": "Caitlin Clark: Playing Augusta on her 'bucket list' during WNBA offseason",
-     "summary": "During the WNBA offseason, Caitlin Clark said it's on her \"bucket list\" to play at Augusta for the first time.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Caitlin Clark: Playing Augusta on her 'bucket list' during WNBA offseason",
-       "url": "https://www.espn.com/golf/story/_/id/50583744/caitlin-clark-wants-play-augusta-wnba-offseason",
-       "bias": 0
-      }
-     ]
-    },
     {
      "date": "2026-11-24",
      "time": "12:00 PM",
@@ -831,34 +707,6 @@
        "outlet": "BBC Sport",
        "title": "Yoro red card overturned, but refs' chief Webb backs decision",
        "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "11:58 AM",
-     "headline": "Duran to Phillies! Seager to Rays! Trades we want to see before baseball shuts down",
-     "summary": "An MLB lockout is looming. Our experts suggest some last-minute deals.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Duran to Phillies! Seager to Rays! Trades we want to see before baseball shuts down",
-       "url": "https://www.espn.com/mlb/story/_/id/50541491/offseason-trades-lockout-red-sox-yankees",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "11:58 AM",
-     "headline": "Did Mets just win NL East? How Tarik Skubal raises New York's 2027 projections",
-     "summary": "Only one team could land MLB's biggest free agent. Here's what that means for the Mets.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Did Mets just win NL East? How Tarik Skubal raises New York's 2027 projections",
-       "url": "https://www.espn.com/mlb/story/_/id/50574273/tarik-skubal-mets-projections-2027",
        "bias": 0
       }
      ]
@@ -879,20 +727,6 @@
     },
     {
      "date": "2026-11-24",
-     "time": "11:22 AM",
-     "headline": "Why loyalty runs so deep for Cowboys fans",
-     "summary": "The '90s dynasty made them fans for life. Three decades later, generations of supporters are still wearing the faith.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Why loyalty runs so deep for Cowboys fans",
-       "url": "https://www.espn.com/nfl/story/_/id/50541839/thanksgiving-dallas-cowboys-fans-jay-novacek-jersey-got-away",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
      "time": "11:18 AM",
      "headline": "Rees-Zammit 2.0",
      "summary": "Wales wing Louis Rees-Zammit may not have made the cut in American football, but his gridiron crucible has seen him reformed as an improved version on his rugby union return.",
@@ -901,6 +735,174 @@
        "outlet": "BBC Sport",
        "title": "Rees-Zammit 2.0",
        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3n0lgxrwn4qo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:15 AM",
+     "headline": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 24",
+     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 24",
+       "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-nov-24/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:15 AM",
+     "headline": "Louisville vs. Texas Tech prediction, odds, time: 2026 Players Era 16 picks by proven model",
+     "summary": "SportsLine model reveals its college basketball picks for Louisville vs. Texas Tech in the Players Era 16 tournament",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Louisville vs. Texas Tech prediction, odds, time: 2026 Players Era 16 picks by proven model",
+       "url": "https://www.cbssports.com/betting/news/louisville-texas-tech-prediction-odds-time-2026-players-era-16-picks/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:12 AM",
+     "headline": "MLB rumors: Guardians add veteran pitcher; Mets, Cubs may not be done yet",
+     "summary": "Here are your offseason hot stove rumors on Tuesday, Nov. 24",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "MLB rumors: Guardians add veteran pitcher; Mets, Cubs may not be done yet",
+       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mets-cubs-twins-guardians-kris-bubic/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:11 AM",
+     "headline": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
+     "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
+       "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:06 AM",
+     "headline": "Tom Fornelli's College Football Power Ratings: Georgia leaving everyone else behind",
+     "summary": "The Dawgs have separated from the pack with four dominant wins over ranked foes, while inconsistency continues to define the rest of the field",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Tom Fornelli's College Football Power Ratings: Georgia leaving everyone else behind",
+       "url": "https://www.cbssports.com/college-football/news/college-football-power-ratings-georgia-pulling-away/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:03 AM",
+     "headline": "Michigan will not hire Trev Alberts as next AD: School could owe full buyout to ex-Texas A&M administrator",
+     "summary": "Alberts was set to leave for his third job in three years, but is now thrown into flux",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Michigan will not hire Trev Alberts as next AD: School could owe full buyout to ex-Texas A&M administrator",
+       "url": "https://www.cbssports.com/college-football/news/michigan-will-not-hire-texas-a-m-ad-trev-alberts-could-still-owe-full-buyout/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:58 AM",
+     "headline": "2026-27 MLB free agent tracker: Mets land Skubal, Cubs go holiday shopping with Trevor Rogers, Teruaki Sato",
+     "summary": "Where will the best players in free agency wind up? Follow along as we keep track of all the moves from an unusual offseason",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "2026-27 MLB free agent tracker: Mets land Skubal, Cubs go holiday shopping with Trevor Rogers, Teruaki Sato",
+       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:53 AM",
+     "headline": "Freddy Peralta lands with Orioles: After post-trade turnaround, ALCS MVP scores five-year, $125 million deal",
+     "summary": "Peralta had a disastrous stint with the Mets before being traded to the Rays at the deadline",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Freddy Peralta lands with Orioles: After post-trade turnaround, ALCS MVP scores five-year, $125 million deal",
+       "url": "https://www.cbssports.com/mlb/news/freddy-peralta-orioles-free-agency-contract/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:53 AM",
+     "headline": "Bengals may have been robbed twice by refs in final five seconds of stunning loss to Commanders",
+     "summary": "The Monday night matchup seemed to end with two botched situations from the officials",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Bengals may have been robbed twice by refs in final five seconds of stunning loss to Commanders",
+       "url": "https://www.cbssports.com/nfl/news/bengals-commanders-mnf-refs-two-seconds-off-clock/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:43 AM",
+     "headline": "College football odds, picks, predictions for Rivalry Week, 2026: Computer likes North Carolina, Arizona",
+     "summary": "SportsLine's model has revealed its 2026 Week 13 college football picks for Rivalry Week matchups such as Ohio State vs. Michigan, USC vs. UCLA and Auburn vs. Alabama",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College football odds, picks, predictions for Rivalry Week, 2026: Computer likes North Carolina, Arizona",
+       "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-bets-rivalry-week-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:42 AM",
+     "headline": "2026 NFL playoff picture: Ranking NFC wild card contenders, from stout NFC North to rising Seahawks, Rams",
+     "summary": "Which teams in the NFC wild card race are tracking toward entering the playoffs through the side door?",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "2026 NFL playoff picture: Ranking NFC wild card contenders, from stout NFC North to rising Seahawks, Rams",
+       "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-picture-ranking-nfc-wild-card-contenders-nfc-north-rising-seahawks-rams/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:40 AM",
+     "headline": "Use FanDuel promo code to get $250 in bonus bets for Western Michigan-Miami (OH), NBA, college basketball",
+     "summary": "Sign up to wager on Tuesday's top games with the latest FanDuel promo code to get your bonus bets",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Use FanDuel promo code to get $250 in bonus bets for Western Michigan-Miami (OH), NBA, college basketball",
+       "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-western-michigan-miami-oh-nba-college-basketball-tuesday/",
        "bias": 0
       }
      ]
