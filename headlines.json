@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-11-24T23:03:51Z",
+ "generated_at": "2026-11-24T23:06:48Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
@@ -393,6 +395,20 @@
     },
     {
      "date": "2026-11-24",
+     "time": "5:16 PM",
+     "headline": "States sue HUD over a rule that would end housing aid for mixed-status families",
+     "summary": "HUD defends the rule, saying it prevents illegal immigrants from exploiting eligibility requirements.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "States sue HUD over a rule that would end housing aid for mixed-status families",
+       "url": "https://www.pbs.org/newshour/nation/states-sue-hud-over-a-rule-that-would-end-housing-aid-for-mixed-status-families",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
      "time": "5:13 PM",
      "headline": "Shein to pay $100 million to settle claims it deceived customers",
      "summary": "The Singapore fast-fashion company misled millions of U.S. consumers about its products and policies, FTC alleges.",
@@ -444,20 +460,6 @@
        "title": "Armed men take hostages at supermarket in Cartagena, Colombia",
        "url": "https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "4:48 PM",
-     "headline": "Sen. Gillibrand says 60-seat Senate majority ‘on the table’ in 2028",
-     "summary": "NBC News’ Sahil Kapur goes one-on-one with DSCC Chair Sen. Kirsten Gillibrand (D-N.Y.) on Democrats’ path to expanding their Senate majority in 2028 and whether a filibuster-proof majority is within reach.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Sen. Gillibrand says 60-seat Senate majority ‘on the table’ in 2028",
-       "url": "https://www.nbcnews.com/meet-the-press/video/sen-gillibrand-says-60-seat-senate-majority-on-the-table-in-2028-274118725698",
-       "bias": -1
       }
      ]
     }
@@ -699,188 +701,6 @@
     },
     {
      "date": "2026-11-24",
-     "time": "5:51 PM",
-     "headline": "Bracketology: Houston, the new No. 1 overall seed, is chasing history",
-     "summary": "Kelvin Sampson's legacy is secure, and if the Players Era 8 was any indication, the Cougars are serious about that elusive national title.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Bracketology: Houston, the new No. 1 overall seed, is chasing history",
-       "url": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2027-march-madness-men-field-predictions",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:51 PM",
-     "headline": "Men's Feast Week guide: Ole Miss, TCU notch wins, more Tuesday matchups",
-     "summary": "Miami vs. TCU and Texas Tech vs. Louisville at the Players Era 16 are among the biggest games on Tuesday.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Men's Feast Week guide: Ole Miss, TCU notch wins, more Tuesday matchups",
-       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50575102/feast-week-matchups-analysis",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "Broncos' Payton: RB Dobbins suspended one game for detrimental conduct",
-     "summary": "The Broncos have suspended running back J.K. Dobbins for one game for conduct detrimental to the team.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Broncos' Payton: RB Dobbins suspended one game for detrimental conduct",
-       "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "Aiyuk scheduled for visit Wednesday with Commanders, agent says",
-     "summary": "Wide receiver Brandon Aiyuk is scheduled to visit Wednesday with the Commanders, agent Drew Rosenhaus told ESPN's Adam Schefter.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Aiyuk scheduled for visit Wednesday with Commanders, agent says",
-       "url": "https://www.espn.com/nfl/story/_/id/50586505/brandon-aiyuk-scheduled-visit-wednesday-commanders",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "'Shocked' Alberts told he won't be AD after Michigan flip; owed $17.2M, lawyers say",
-     "summary": "Trev Alberts was \"shocked and disheartened\" to be informed by the search firm representing Michigan that he will not be the Wolverines' next AD, he told ESPN.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "'Shocked' Alberts told he won't be AD after Michigan flip; owed $17.2M, lawyers say",
-       "url": "https://www.espn.com/college-football/story/_/id/50583155/attorney-trev-alberts-told-next-ad-michigan",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "Ortiz's wife urged Guardians pitcher to 'delete the evidence,' texts say",
-     "summary": "Guardians pitcher Luis Ortiz's wife told him to \"delete the evidence\" in texts sent after a game in which he allegedly rigged a pitch.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Ortiz's wife urged Guardians pitcher to 'delete the evidence,' texts say",
-       "url": "https://www.espn.com/mlb/story/_/id/50584679/luis-ortiz-wife-text-messages-trial-evidence",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "Ravens cut punt returner Wester after his two muffs in loss to Panthers",
-     "summary": "The Ravens waived returner LaJohntay Wester after he muffed two punts in Sunday's loss at Carolina.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Ravens cut punt returner Wester after his two muffs in loss to Panthers",
-       "url": "https://www.espn.com/nfl/story/_/id/50585397/source-ravens-cut-punt-returner-wester-two-muffs-loss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "Leaked FIFA documents show 96-year plan for stakes in WC sell-off",
-     "summary": "Gianni Infantino 's failed private equity plan that started the biggest crisis of his FIFA presidency intended to sell stakes in the FIFA World Cup for 96 years.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Leaked FIFA documents show 96-year plan for stakes in WC sell-off",
-       "url": "https://www.espn.com/soccer/story/_/id/50585622/leaked-fifa-documents-96-year-world-cup-selloff",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "Colorado's Sanders shrugs off hot-seat chatter before UCF",
-     "summary": "Deion Sanders handles outside chatter -- in this case, speculation over his future as coach at Colorado -- by simply tuning out the noise.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Colorado's Sanders shrugs off hot-seat chatter before UCF",
-       "url": "https://www.espn.com/college-football/story/_/id/50585728/colorado-sanders-shrugs-hot-seat-chatter-ucf",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "Sources: Cubs continue spending spree, add 2-time Japanese MVP Sato for $120M",
-     "summary": "The Cubs reached a 6-year, $120 million agreement with Japanese INF/OF Teruaki Sato on Tuesday, sources told ESPN's Jeff Passan.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Sources: Cubs continue spending spree, add 2-time Japanese MVP Sato for $120M",
-       "url": "https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:41 PM",
-     "headline": "🏀 NBA Rookie Rankings: Which stars are on the rise this season?",
-     "summary": "Our first edition of rookie rankings features 10 players standing out early from a strong 2026 draft class.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "🏀 NBA Rookie Rankings: Which stars are on the rise this season?",
-       "url": "https://www.espn.com/nba/story/_/id/50544296/nba-rookie-rankings-early-stats",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:36 PM",
-     "headline": "How will the CFP committee judge the Big Ten in its fourth ranking?",
-     "summary": "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "How will the CFP committee judge the Big Ten in its fourth ranking?",
-       "url": "https://www.espn.com/college-football/story/_/id/50575185/cfp-playoff-2026-bubble-watch-week-fourth-ranking",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:36 PM",
-     "headline": "Bowl, CFP projections: Big shake-up to the postseason picture after a wild Week 12",
-     "summary": "Our bowl gurus take a look at how the postseason picture shifted after Week 12.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Bowl, CFP projections: Big shake-up to the postseason picture after a wild Week 12",
-       "url": "https://www.espn.com/college-football/story/_/id/50564492/2026-week-12-college-football-playoff-bowl-projections",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
      "time": "5:05 PM",
      "headline": "Pochettino leads Man Utd fury at Yoro red card ruling",
      "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
@@ -889,6 +709,188 @@
        "outlet": "BBC Sport",
        "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
        "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "5:00 PM",
+     "headline": "Pistons vs. Magic prediction, odds, time: 2026 NBA Cup picks for Tuesday, Nov. 24 from proven model",
+     "summary": "SportsLine's model reveals its Magic vs. Pistons best bets for NBA Cup 2026 group stage action on Tuesday",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Pistons vs. Magic prediction, odds, time: 2026 NBA Cup picks for Tuesday, Nov. 24 from proven model",
+       "url": "https://www.cbssports.com/betting/news/pistons-magic-prediction-odds-time-2026-nba-cup-picks-best-bets-tuesday-november-24/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "5:00 PM",
+     "headline": "Eastern Michigan vs. Kent State prediction, odds: Rivalry Week MACtion Tuesday picks from proven model",
+     "summary": "SportsLine's model revealed its best bets for Tuesday's MACtion between the Kent State Golden Flashes and the Eastern Michigan Eagles",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Eastern Michigan vs. Kent State prediction, odds: Rivalry Week MACtion Tuesday picks from proven model",
+       "url": "https://www.cbssports.com/betting/news/eastern-michigan-kent-state-prediction-odds-2026-rivalry-week-maction-tuesday-picks-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "4:57 PM",
+     "headline": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Nuggets-Mavericks, Texas Tech-Louisville Tuesday",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Tuesday",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Nuggets-Mavericks, Texas Tech-Louisville Tuesday",
+       "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nuggets-mavericks-texas-tech-louisville/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "4:51 PM",
+     "headline": "Fantasy Football Week 12 QB preview looks beyond the hype to explain Caleb Williams' modest projections",
+     "summary": "Caleb Williams' touchdown drought keeps him behind Tyler Shough in the projections, while Fernando Mendoza is a must-add",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy Football Week 12 QB preview looks beyond the hype to explain Caleb Williams' modest projections",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-12-qb-preview/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "4:30 PM",
+     "headline": "Week 12 Super Bowl stock report: 49ers separate from pack, Jaguars show imperfections",
+     "summary": "We assess the NFL title race after Week 11 and identify three upcoming games that could reshape the Super Bowl picture",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Week 12 Super Bowl stock report: 49ers separate from pack, Jaguars show imperfections",
+       "url": "https://www.cbssports.com/nfl/news/week-12-super-bowl-stock-report-49ers-separate-from-pack-jaguars-show-imperfections/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "4:20 PM",
+     "headline": "Week 12 NFL odds, picks, predictions: Computer model backs Vikings and Dolphins",
+     "summary": "SportsLine's advanced model has simulated every game on the Week 12 NFL schedule 10,000 times and locked in its NFL best bets today",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Week 12 NFL odds, picks, predictions: Computer model backs Vikings and Dolphins",
+       "url": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-predictions-week-12-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "4:19 PM",
+     "headline": "MLB rumors: Corey Seager willing to waive his NTC for Phillies, plus news on Mets, Nationals, Yankees, more",
+     "summary": "Here are your offseason hot stove rumors on Tuesday, Nov. 24",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "MLB rumors: Corey Seager willing to waive his NTC for Phillies, plus news on Mets, Nationals, Yankees, more",
+       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mets-cubs-twins-guardians-kris-bubic/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "4:13 PM",
+     "headline": "Best horse racing betting sites: Where to bet on horse racing",
+     "summary": "Discover the best horse racing betting sites, plus how to bet on horse racing online, bet types, and expert tips.",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Best horse racing betting sites: Where to bet on horse racing",
+       "url": "https://www.cbssports.com/betting/news/horse-racing/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "3:55 PM",
+     "headline": "Fantasy football Week 12 WR preview puts Antonio Williams' breakout to the test with no teams on bye",
+     "summary": "Antonio Williams makes his case for a starting spot, while Mike Evans and Ladd McConkey bolster the Week 12 receiver pool",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy football Week 12 WR preview puts Antonio Williams' breakout to the test with no teams on bye",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-12-wr-preview/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "3:55 PM",
+     "headline": "Fantasy football Week 12 RB preview puts Emmett Johnson's upside in the hands of Kenneth Walker's health",
+     "summary": "Kenneth Walker's injury clouds Emmett Johnson's outlook, while Chris Rodriguez Jr. could emerge as a top-20 running back",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy football Week 12 RB preview puts Emmett Johnson's upside in the hands of Kenneth Walker's health",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-12-rb-preview/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "3:51 PM",
+     "headline": "Man Utd target Collins - Wednesday's gossip",
+     "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Man Utd target Collins - Wednesday's gossip",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "3:40 PM",
+     "headline": "Fantasy Baseball Offseason Tracker: Orioles swap out Trevor Rogers for Freddy Peralta",
+     "summary": "Here's a rundown of the offseason moves that matter",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Fantasy Baseball Offseason Tracker: Orioles swap out Trevor Rogers for Freddy Peralta",
+       "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-orioles-swap-out-trevor-rogers-for-freddy-peralta/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "3:33 PM",
+     "headline": "Projecting every Big Ten starting quarterback for the 2027 college football season",
+     "summary": "More than half of conference teams are expected to go transfer portal fishing in a few weeks to find next year's starter",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Projecting every Big Ten starting quarterback for the 2027 college football season",
+       "url": "https://www.cbssports.com/college-football/news/projecting-big-ten-starting-quarterback-for-2027-college-football-season/",
        "bias": 0
       }
      ]
