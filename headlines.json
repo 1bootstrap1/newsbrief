@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:08:38Z",
+ "generated_at": "2026-11-24T17:10:58Z",
  "window_days": 3,
  "feed_status": {
   "ok": 20,
@@ -13,103 +13,33 @@
    "items": [
     {
      "date": "2026-11-24",
-     "time": "2:35 AM",
-     "headline": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-     "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
+     "time": "10:35 AM",
+     "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
+     "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
      "sources": [
       {
-       "outlet": "Al Jazeera",
-       "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-       "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-       "bias": -1
+       "outlet": "BBC News",
+       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+       "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
       },
       {
-       "outlet": "BBC News",
-       "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-       "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "7:00 AM",
-     "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-     "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:57 AM",
-     "headline": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-     "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-       "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+       "outlet": "Al Jazeera",
+       "title": "Israeli air strike kills senior Hamas security official in Gaza",
+       "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "6:56 AM",
-     "headline": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-     "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email US…",
+     "time": "11:59 AM",
+     "headline": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+     "summary": "Youngest title match in chess history starts Tuesday Sindarov and Gukesh open Game 1 with Berlin defense Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:53 AM",
-     "headline": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
-     "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:45 AM",
-     "headline": "Car bomb tears through Colombian city wounding more than 20",
-     "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Car bomb tears through Colombian city wounding more than 20",
-       "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:45 AM",
-     "headline": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live buildup",
-     "summary": "Youngest title match in chess history starts Tuesday First move at 3pm local (2pm GMT, 9am EST, 7.30pm IST) Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live buildup",
+       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
        "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
        "bias": -1
       }
@@ -117,41 +47,167 @@
     },
     {
      "date": "2026-11-24",
-     "time": "6:40 AM",
-     "headline": "Istanbul lioness never existed, Turkish officials say after search",
-     "summary": "A 24-hour search for a lioness in the Istanbul suburbs that sparked panic among local residents was thrown into fresh confusion late Monday when Turkish officials said the animal didn't exist.",
+     "time": "11:47 AM",
+     "headline": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+     "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Istanbul lioness never existed, Turkish officials say after search",
-       "url": "https://www.cbsnews.com/news/istanbul-lioness-never-existed-turkish-officials-say-after-24-hour-search-for-her/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:30 AM",
-     "headline": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-     "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-       "url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+       "outlet": "The Guardian",
+       "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "6:29 AM",
-     "headline": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-     "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Ukraine’s president Volodymyr Zelenskyy ⁠has confirmed that Ukraine was ⁠responsible for ⁠Saturday’s ​drone strike on a Russian cargo…",
+     "time": "11:41 AM",
+     "headline": "How Senegal got their AFCON trophy back",
+     "summary": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "How Senegal got their AFCON trophy back",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:39 AM",
+     "headline": "Cold case murder mystery solved 58 years after girl found dead",
+     "summary": "Canadian police say they've solved a teen girl's mysterious murder case, nearly six decades after she was found dead.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Cold case murder mystery solved 58 years after girl found dead",
+       "url": "https://www.cbsnews.com/news/cold-case-murder-solved-jackie-dunleavy-dead-1968-canada/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:37 AM",
+     "headline": "Southport attack families’ fury after 13 survivors miss out on school funding",
+     "summary": "Six schools attended by girls injured in mass stabbing miss out on £1m allocated for staff, counselling and specialist support Families of girls injured in the Southport attack have said they are “horrified” that their daughters’ schools received no financial…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+       "title": "Southport attack families’ fury after 13 survivors miss out on school funding",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/24/southport-attack-survivors-miss-out-on-school-funding",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:37 AM",
+     "headline": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+     "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+       "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:35 AM",
+     "headline": "New details emerge about U.S. involvement in drug lord's capture",
+     "summary": "The U.S. has sought to line up allies across Latin America to allow U.S. forces to operate in their territories, with mixed responses from across the region.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "New details emerge about U.S. involvement in drug lord's capture",
+       "url": "https://www.cbsnews.com/news/chapo-isidro-arrest-us-drone-mexico-help-capture-drug-lord/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:35 AM",
+     "headline": "Man on cruise ship goes overboard off Bahamas, search underway",
+     "summary": "The Allure of the Seas is on an eight-day Thanksgiving cruise in the Caribbean that departed from Miami on Sunday.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Man on cruise ship goes overboard off Bahamas, search underway",
+       "url": "https://www.cbsnews.com/news/royal-caribbean-allure-of-the-seas-man-overboard-bahamas/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:33 AM",
+     "headline": "‘Unfinished Beginnings’: Art installation for children affected by war",
+     "summary": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:31 AM",
+     "headline": "African rivals fret over Morocco’s growing football dominance",
+     "summary": "As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "African rivals fret over Morocco’s growing football dominance",
+       "url": "https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:31 AM",
+     "headline": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+     "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+       "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:26 AM",
+     "headline": "DEA allowed 1.4m fentanyl pills to be ‘walked’ into US during sting operation, report alleges",
+     "summary": "Investigation finds DEA permitted the pills to be trafficked during a New Mexico sting operation The US Drug Enforcement Administration (DEA) allowed 1.4m fentanyl pills to be “walked” into the country during a New Mexico sting operation, billed as the…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "DEA allowed 1.4m fentanyl pills to be ‘walked’ into US during sting operation, report alleges",
+       "url": "https://www.theguardian.com/society/2026/nov/24/dea-fentanyl-new-mexico-sting",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:24 AM",
+     "headline": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
+     "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
        "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
        "bias": -1
       }
@@ -159,70 +215,14 @@
     },
     {
      "date": "2026-11-24",
-     "time": "6:27 AM",
-     "headline": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-     "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
+     "time": "11:18 AM",
+     "headline": "Jerusalem Daily: Clash in Israeli parliament",
+     "summary": "An alleged altercation between Arab Israeli lawmaker Ahmad Tibi and comedian Guy Hochman sparks controversy.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-       "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:24 AM",
-     "headline": "Man admits murdering Soham killer Ian Huntley at high-security jail",
-     "summary": "Anthony Russell attacked Huntley with a metal bar while they were in a recycling workshop at HMP Frankland A whole-life prisoner has admitted murdering the Soham killer Ian Huntley at a high-security jail.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Man admits murdering Soham killer Ian Huntley at high-security jail",
-       "url": "https://www.theguardian.com/uk-news/2026/nov/24/man-admits-murdering-soham-killer-ian-huntley-jail",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:23 AM",
-     "headline": "Man with Alzheimer's found alive after 11 days lost in jungle",
-     "summary": "Rescue workers said the man survived in the jungle by eating berries, drinking water from natural sources and making bedlike structures with the leaves of acai palms.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Man with Alzheimer's found alive after 11 days lost in jungle",
-       "url": "https://www.cbsnews.com/news/man-alzheimers-found-alive-11-days-amazon-rainforest/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:19 AM",
-     "headline": "Iraq orders takeover of oilfields in areas under Kurdish control",
-     "summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
-       "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:17 AM",
-     "headline": "Vietnam restaurant blast kills at least six",
-     "summary": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Vietnam restaurant blast kills at least six",
-       "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+       "title": "Jerusalem Daily: Clash in Israeli parliament",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -235,211 +235,241 @@
    "items": [
     {
      "date": "2026-11-24",
-     "time": "7:05 AM",
-     "headline": "Congress questions Jensen Huang’s return and court clears way for toxic detonation in Iowa: Morning Rundown",
-     "summary": "",
+     "time": "12:10 PM",
+     "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
+     "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
      "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Army to detonate unstable explosives in Iowa Wednesday morning",
+       "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/",
+       "bias": 0
+      },
       {
        "outlet": "NBC News",
-       "title": "Congress questions Jensen Huang’s return and court clears way for toxic detonation in Iowa: Morning Rundown",
-       "url": "https://www.nbcnews.com/news/us-news/congress-huang-nvidia-return-army-iowa-detonation-morning-rundown-rcna611054",
+       "title": "Army to detonate lead explosives in Iowa on Wednesday morning as officials insist plan is necessary",
+       "url": "https://www.nbcnews.com/news/us-news/army-detonate-lead-explosives-iowa-rcna611086",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "7:00 AM",
-     "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-     "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+     "time": "11:44 AM",
+     "headline": "Trump presenting Rudy Giuliani with Presidential Medal of Freedom",
+     "summary": "President Donald Trump is set to award former New York City Mayor Rudy Giuliani the Presidential Medal of Freedom on Tuesday, honoring his public service and 9/11 leadership.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+       "title": "Trump presenting Rudy Giuliani with Presidential Medal of Freedom",
+       "url": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "7:00 AM",
-     "headline": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
-     "summary": "Gen Z is already skeptical they'll ever see a Social Security check. Now, a new survey suggests they're dipping into investment money to bet on sports.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
-       "url": "https://www.cbsnews.com/video/is-gen-z-gambling-away-its-retirement-money-moves-with-jill-schlesinger/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:59 AM",
-     "headline": "US Army to proceed with Iowa detonation of degraded bomb materials: ‘A consensus decision’",
-     "summary": "The Army will detonate 68 barrels of crystallized lead azide at the Iowa Army Ammunition Plant near Middletown after a federal appeals court ruling.",
-     "sources": [
+      },
       {
        "outlet": "Fox News",
-       "title": "US Army to proceed with Iowa detonation of degraded bomb materials: ‘A consensus decision’",
-       "url": "https://www.foxnews.com/politics/us-army-proceed-iowa-detonation-degraded-bomb-materials-consensus-decision",
+       "title": "Trump to award Giuliani Presidential Medal of Freedom",
+       "url": "https://www.foxnews.com/politics/trump-award-giuliani-presidential-medal-freedom",
        "bias": 1
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "6:40 AM",
-     "headline": "Istanbul lioness never existed, Turkish officials say after search",
-     "summary": "A 24-hour search for a lioness in the Istanbul suburbs that sparked panic among local residents was thrown into fresh confusion late Monday when Turkish officials said the animal didn't exist.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Istanbul lioness never existed, Turkish officials say after search",
-       "url": "https://www.cbsnews.com/news/istanbul-lioness-never-existed-turkish-officials-say-after-24-hour-search-for-her/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:30 AM",
-     "headline": "What should it cost to insure a home in wildfire country?",
-     "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "What should it cost to insure a home in wildfire country?",
-       "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:23 AM",
-     "headline": "Man with Alzheimer's found alive after 11 days lost in jungle",
-     "summary": "Rescue workers said the man survived in the jungle by eating berries, drinking water from natural sources and making bedlike structures with the leaves of acai palms.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Man with Alzheimer's found alive after 11 days lost in jungle",
-       "url": "https://www.cbsnews.com/news/man-alzheimers-found-alive-11-days-amazon-rainforest/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:00 AM",
-     "headline": "Turkey farmer dishes on preparing birds for Trump's Thanksgiving presidential pardon",
-     "summary": "West Virginia farmer Scott Rightsell trained \"Freedom\" and \"Feathers\" for the White House turkey pardon, getting the 40-pound birds used to loud noises.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Turkey farmer dishes on preparing birds for Trump's Thanksgiving presidential pardon",
-       "url": "https://www.foxnews.com/politics/turkey-farmer-dishes-preparing-birds-trumps-thanksgiving-presidential-pardon",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:00 AM",
-     "headline": "Millions of Americans have medical debt. Experts worry the problem is about to get worse",
-     "summary": "Medical debt is increasingly a risk for people with health insurance, experts say.",
+     "time": "11:37 AM",
+     "headline": "2 men arrested over suspected burglary at Prince William and Kate's country home",
+     "summary": "Intruders have broken into the country residence of Prince William and Princess Catherine, British media reported Tuesday.",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "Millions of Americans have medical debt. Experts worry the problem is about to get worse",
-       "url": "https://www.pbs.org/newshour/nation/millions-of-americans-have-medical-debt-experts-worry-the-problem-is-about-to-get-worse",
+       "title": "2 men arrested over suspected burglary at Prince William and Kate's country home",
+       "url": "https://www.pbs.org/newshour/world/2-men-arrested-over-suspected-burglary-at-prince-william-and-kates-country-home",
+       "bias": 0
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Prince William and Kate's country home broken into, 2 arrested",
+       "url": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "6:00 AM",
-     "headline": "What the US gets from Israel alliance as support for aid to the Jewish State erodes on left and right: report",
-     "summary": "A new report calls Israel \"the largest U.S. aircraft carrier\" in the Middle East, citing missile-defense co-production across 34 states as a key return.",
+     "time": "11:29 AM",
+     "headline": "Federal court releases Rep. Ilhan Omar D.C. home raid documents",
+     "summary": "A federal judge unsealed more than 160 pages worth of court documents related to the search of Rep. Ilhan Omar's home. NBC News' Julie Tsirkin breaks down the latest details in this ongoing probe.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Federal court releases Rep. Ilhan Omar D.C. home raid documents",
+       "url": "https://www.cbsnews.com/news/congresswoman-ilhan-omar-house-raid-documents-release/",
+       "bias": 0
+      },
+      {
+       "outlet": "NBC News",
+       "title": "A federal judge unseals court documents in connection with the search of Rep. Ilhan Omar's home",
+       "url": "https://www.nbcnews.com/video/a-federal-judge-unseals-court-documents-in-connection-with-the-search-of-rep-ilhan-omar-s-home-274098245999",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:56 AM",
+     "headline": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+     "summary": "A magistrate judge who authorized a search of U.S. Rep. Ilhan Omar’s home by federal agents has ruled that the Minnesota Democrat was entitled to assert her right to privacy protections afforded to sitting members of Congress at the outset of the search",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+       "url": "https://www.pbs.org/newshour/politics/records-show-how-doj-judge-debated-constitutional-implications-of-searching-rep-ilhan-omars-home",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Records: Government, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+       "url": "https://abcnews.com/US/wireStory/records-government-judge-debated-constitutional-implications-searching-rep-138398454",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:56 AM",
+     "headline": "Full remarks: Trump officials on plan to detonate toxic lead azide 1 day before Thanksgiving",
+     "summary": "Trump administration and military officials spoke on the U.S. Army's plan to detonate thousands of pounds of lead azide in Iowa on Wednesday morning.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Full remarks: Trump officials on plan to detonate toxic lead azide 1 day before Thanksgiving",
+       "url": "https://www.cbsnews.com/video/full-remarks-trump-officials-plan-to-detonate-toxic-lead-azide-1-day-before-thanksgiving/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:51 AM",
+     "headline": "Some AI toys may not be safe for kids. Here's what parents need to know.",
+     "summary": "New AI toys, which use generative technology similar to that of chatbots like ChatGPT, have raised concerns among parents of the young kids to whom they're marketed.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Some AI toys may not be safe for kids. Here's what parents need to know.",
+       "url": "https://www.cbsnews.com/news/some-ai-toys-may-not-be-safe-kids-what-experts-want-parents-to-know/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:39 AM",
+     "headline": "Cold case murder mystery solved 58 years after girl found dead",
+     "summary": "Canadian police say they've solved a teen girl's mysterious murder case, nearly six decades after she was found dead.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Cold case murder mystery solved 58 years after girl found dead",
+       "url": "https://www.cbsnews.com/news/cold-case-murder-solved-jackie-dunleavy-dead-1968-canada/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:36 AM",
+     "headline": "Rep. Omar D.C. home search sought evidence going back to 1980",
+     "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Rep. Omar D.C. home search sought evidence going back to 1980",
+       "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:35 AM",
+     "headline": "New details emerge about U.S. involvement in drug lord's capture",
+     "summary": "The U.S. has sought to line up allies across Latin America to allow U.S. forces to operate in their territories, with mixed responses from across the region.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "New details emerge about U.S. involvement in drug lord's capture",
+       "url": "https://www.cbsnews.com/news/chapo-isidro-arrest-us-drone-mexico-help-capture-drug-lord/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:35 AM",
+     "headline": "Man on cruise ship goes overboard off Bahamas, search underway",
+     "summary": "The Allure of the Seas is on an eight-day Thanksgiving cruise in the Caribbean that departed from Miami on Sunday.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Man on cruise ship goes overboard off Bahamas, search underway",
+       "url": "https://www.cbsnews.com/news/royal-caribbean-allure-of-the-seas-man-overboard-bahamas/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:34 AM",
+     "headline": "Trump to award Rudy Giuliani the Medal of Freedom, the nation’s highest civilian honor",
+     "summary": "President Donald Trump will award the Presidential Medal of Freedom on Tuesday to Rudy Giuliani, the controversial former mayor of New York City and ally to the president.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Trump to award Rudy Giuliani the Medal of Freedom, the nation’s highest civilian honor",
+       "url": "https://www.nbcnews.com/politics/trump-administration/trump-giuliani-medal-freedom-2020-election-nyc-mayor-911-attacks-rcna611099",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:29 AM",
+     "headline": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+     "summary": "U.S. Attorney General Todd Blanche says the Justice Department charged more than 800 defendants and recovered $8 billion in intended victim losses.",
      "sources": [
       {
        "outlet": "Fox News",
-       "title": "What the US gets from Israel alliance as support for aid to the Jewish State erodes on left and right: report",
-       "url": "https://www.foxnews.com/politics/us-gets-israel-alliance-support-aid-jewish-state-erodes-left-right-report",
+       "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+       "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
        "bias": 1
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "5:42 AM",
-     "headline": "Pacific Coast king tides could break decades-old records and flood communities",
-     "summary": "High tides along the Pacific Coast could break records and flood low-lying areas, complicating travel during Thanksgiving week",
+     "time": "11:19 AM",
+     "headline": "Draft plan to overhaul Smithsonian spotted on White House staffer's laptop: report",
+     "summary": "A commuter's photos of a White House adviser's laptop show a draft plan to overhaul the National Museum of American History, ProPublica reported.",
      "sources": [
       {
-       "outlet": "ABC News",
-       "title": "Pacific Coast king tides could break decades-old records and flood communities",
-       "url": "https://abcnews.com/US/wireStory/pacific-coast-king-tides-break-decades-records-flood-138401520",
-       "bias": -1
+       "outlet": "Fox News",
+       "title": "Draft plan to overhaul Smithsonian spotted on White House staffer's laptop: report",
+       "url": "https://www.foxnews.com/politics/draft-plan-overhaul-smithsonian-spotted-white-house-staffer-laptop-report",
+       "bias": 1
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "5:40 AM",
-     "headline": "Newly found farthest quasar from Earth is also oldest known to man",
-     "summary": "Scientists have discovered the most distant quasar yet, the core of a galaxy with a slow-chomping black hole at its center dating back to nearly the dawn of the universe.",
+     "time": "11:12 AM",
+     "headline": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
+     "summary": "Still euphoric over their sweeping midterm victories, many ambitious Democrats are still feeling around for the right message on artificial intelligence, which carries both promise and peril as it becomes increasingly intertwined with the economy…",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Newly found farthest quasar from Earth is also oldest known to man",
-       "url": "https://www.cbsnews.com/news/quasar-farthest-oldest-found/",
+       "outlet": "PBS NewsHour",
+       "title": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
+       "url": "https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:30 AM",
-     "headline": "Too young to be vaccinated for measles? Babies face growing threats from outbreaks",
-     "summary": "As measles outbreaks continue to soar, a new question has emerged: Should doctors give measles shots earlier to better protect babies?",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Too young to be vaccinated for measles? Babies face growing threats from outbreaks",
-       "url": "https://www.nbcnews.com/health/health-news/measles-babies-vaccine-dose-protect-outbreaks-rcna610383",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:00 AM",
-     "headline": "Doctors struggle to save babies after parents refuse vitamin K",
-     "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Doctors struggle to save babies after parents refuse vitamin K",
-       "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:00 AM",
-     "headline": "They attended Trump's meme coin dinner. It didn't go well",
-     "summary": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "They attended Trump's meme coin dinner. It didn't go well",
-       "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
-       "bias": -1
       }
      ]
     }
@@ -451,210 +481,210 @@
    "items": [
     {
      "date": "2026-11-24",
-     "time": "6:52 AM",
-     "headline": "Thanksgiving could get off to wet start in Carolinas: Holiday forecast",
-     "summary": "Rain is possible Thursday morning but could dry out by the afternoon.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Thanksgiving could get off to wet start in Carolinas: Holiday forecast",
-       "url": "https://www.wbtv.com/2026/11/24/thanksgiving-could-get-off-wet-start-carolinas-holiday-forecast/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:27 AM",
-     "headline": "Teen accused of chasing mother with chainsaw, threatening pets after Xbox taken away",
-     "summary": "The 16-year-old was arrested and faces charges of aggravated assault with a deadly weapon.",
+     "time": "11:57 AM",
+     "headline": "Mecklenburg County leads state in permits for vegetation removal near billboards",
+     "summary": "The North Carolina Department of Transportation has approved 187 permits for annual vegetation removal across the state since Adams Outdoor Advertising cleared out hundreds of trees in Plaza Midwood.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Teen accused of chasing mother with chainsaw, threatening pets after Xbox taken away",
-       "url": "https://www.wsoctv.com/news/trending/teen-accused-chasing-mother-with-chainsaw-threatening-pets-after-xbox-taken-away/BP7KVGRFPJEARBWROM3KVM3IJU/",
+       "title": "Mecklenburg County leads state in permits for vegetation removal near billboards",
+       "url": "https://www.wsoctv.com/news/local/mecklenburg-county-leads-state-permits-vegetation-removal-near-billboards/7PUEUCIERJHT7C6MNDIP37CI5E/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "6:01 AM",
-     "headline": "Man accused of making anti-Muslim threats against Ilhan Omar, Zohran Mamdani and others",
-     "summary": "A man is facing federal charges after authorities say he used social media to issue violent, anti-Muslim threats against several elected officials.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Man accused of making anti-Muslim threats against Ilhan Omar, Zohran Mamdani and others",
-       "url": "https://www.wbtv.com/2026/11/24/man-accused-making-anti-muslim-threats-against-ilhan-omar-zohran-mamdani-others/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "5:59 AM",
-     "headline": "Consumer Reports tests lipstick for heavy metals. Here’s what they found",
-     "summary": "Lead in lipstick is a familiar issue that made headlines 20 years ago, prompting Food and Drug Administration testing and new industry guidelines. Has anything changed since then?",
+     "time": "11:57 AM",
+     "headline": "Family mourns 12-year-old killed in Kannapolis house fire",
+     "summary": "A Kannapolis family is mourning the loss of their 12-year-old son, Eli, after a fire tore through their home earlier this month.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Consumer Reports tests lipstick for heavy metals. Here’s what they found",
-       "url": "https://www.wsoctv.com/news/local/consumer-reports-tests-lipstick-heavy-metals-heres-what-they-found/QPO3X3HNCBHBDDYTXYJTDUEFJY/",
+       "title": "Family mourns 12-year-old killed in Kannapolis house fire",
+       "url": "https://www.wsoctv.com/news/local/family-mourns-12-year-old-killed-kannapolis-house-fire/XZR4ONZ7K5GLBMIAC2E4WL5UCE/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "5:21 AM",
-     "headline": "FORECAST: Cooler and breezy ahead of holiday rain",
-     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
+     "time": "11:56 AM",
+     "headline": "Driver dies in Gaston County crash after possible medical emergency on way to hospital",
+     "summary": "The wreck happened on Tuesday, Nov. 24, along CaroMount Parkway in Belmont.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Driver dies in Gaston County crash after possible medical emergency on way to hospital",
+       "url": "https://www.wbtv.com/2026/11/24/driver-dies-gaston-county-crash-after-possible-medical-emergency-way-hospital/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:33 AM",
+     "headline": "Police investigate fatal crash in Belmont",
+     "summary": "A 69-year-old man died Tuesday morning after crashing his vehicle near CaroMont Regional Medical Center in Belmont, police said.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Cooler and breezy ahead of holiday rain",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-cooler-breezy-ahead-holiday-rain/5ROE6FZ3EZEDBECFGZX3DUNQKM/",
+       "title": "Police investigate fatal crash in Belmont",
+       "url": "https://www.wsoctv.com/news/local/police-investigate-fatal-crash-belmont/ERM67ZCJLBHGFIMYI5O2D6RBVQ/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "5:17 AM",
-     "headline": "Man accused of shooting wife, stepdaughter and her boyfriend while they were sleeping",
-     "summary": "A motive remains unclear, and the investigation continues.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Man accused of shooting wife, stepdaughter and her boyfriend while they were sleeping",
-       "url": "https://www.wbtv.com/2026/11/24/man-accused-shooting-wife-stepdaughter-her-boyfriend-while-they-were-sleeping/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "1:59 AM",
-     "headline": "Wife of burn surgeon killed in plane crash shares moments she will miss the most",
-     "summary": "A burn surgeon killed in a plane crash is being remembered not only as a dedicated doctor but also as a loving husband and father.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Wife of burn surgeon killed in plane crash shares moments she will miss the most",
-       "url": "https://www.wbtv.com/2026/11/24/wife-burn-surgeon-killed-plane-crash-shares-moments-she-will-miss-most/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:24 AM",
-     "headline": "Man accused of ‘impulse’ hiking trail murder before killing friend with crossbow 2 days later",
-     "summary": "Authorities say a man accused of killing a stranger on a hiking trail days before he allegedly shot his friend with a crossbow has confessed to both murders.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Man accused of ‘impulse’ hiking trail murder before killing friend with crossbow 2 days later",
-       "url": "https://www.wbtv.com/2026/11/24/man-accused-impulse-hiking-trail-murder-before-killing-friend-with-crossbow-2-days-later/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:18 AM",
-     "headline": "Ty Jerome scores 29, Cam Spencer has 24 as Grizzlies hand Hornets their 5th straight loss, 117-111",
-     "summary": "Ty Jerome made seven 3-pointers and finished with 29 points, and the Memphis Grizzlies handed the Charlotte Hornets their fifth straight loss, 117-111.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Ty Jerome scores 29, Cam Spencer has 24 as Grizzlies hand Hornets their 5th straight loss, 117-111",
-       "url": "https://www.wbtv.com/2026/11/24/ty-jerome-scores-29-cam-spencer-has-24-grizzlies-hand-hornets-their-5th-straight-loss-117-111/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "12:13 AM",
-     "headline": "No. 8 Wake Forest loses running back Ty Clark to season-ending injury",
-     "summary": "Wake Forest coach Jake Dickert says running back Ty Clark has a season-ending injury. Clark has rushed for a team-high 591 yards and 11 touchdowns on 115 carries this season.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "No. 8 Wake Forest loses running back Ty Clark to season-ending injury",
-       "url": "https://www.wbtv.com/2026/11/24/no-8-wake-forest-loses-running-back-ty-clark-season-ending-injury/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "11:23 PM",
-     "headline": "‘She spoke life into any and everybody’: Family mourns woman killed in Charlotte hit-and-run",
-     "summary": "Vigil held for 59-year-old woman killed in hit-and-run on Friday, Nov. 20",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "‘She spoke life into any and everybody’: Family mourns woman killed in Charlotte hit-and-run",
-       "url": "https://www.wbtv.com/2026/11/24/she-spoke-life-into-any-everybody-family-mourns-woman-killed-charlotte-hit-and-run/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "time": "10:54 PM",
-     "headline": "Charlotte weighing AC mandate",
-     "summary": "When Charlotte residents have air conditioning problems, they frequently turn to Channel 9. Soon they may be able to turn to Charlotte code enforcement.",
+     "time": "11:31 AM",
+     "headline": "Lights briefly go out during Commanders-Bengals ‘MNF’ game",
+     "summary": "The lighting vendor at Northwest Stadium never disabled the regularly scheduled maintenance for 10 p.m. ET, causing the lights to go out.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Charlotte weighing AC mandate",
-       "url": "https://www.wsoctv.com/news/local/charlotte-weighing-ac-mandate/2IE4HIFOBNHCTFZMIY3WCYYM5I/",
+       "title": "Lights briefly go out during Commanders-Bengals ‘MNF’ game",
+       "url": "https://www.wsoctv.com/news/trending/lights-briefly-go-out-during-commanders-bengals-mnf-game/W3HXEMAKDJCHHIGFJJRZOAYFT4/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-23",
-     "time": "10:47 PM",
-     "headline": "Woman’s fresh start in Charlotte ends in a deadly hit-and-run",
-     "summary": "Loved ones gathered Monday to remember a woman killed in a southwest Charlotte hit-and-run while trying to catch a bus home from work, just one month after she moved to the city to start a new chapter in her life.",
+     "date": "2026-11-24",
+     "time": "11:31 AM",
+     "headline": "Democrats plan investigations of Trump. Here’s how his Justice Department is fighting back.",
+     "summary": "As the Trump administration prepares for Democrats to launch an onslaught of investigations in the next Congress, the U.S. Department of Justice is turning to a three-word phrase to preemptively fight back: “Legitimate legislative purpose.” The Justice…",
      "sources": [
       {
-       "outlet": "WSOC",
-       "title": "Woman’s fresh start in Charlotte ends in a deadly hit-and-run",
-       "url": "https://www.wsoctv.com/news/local/family-seeks-justice-after-woman-killed-southwest-charlotte-hit-and-run/N5FFT4F4PBFJBIJP22KDYPL4PY/",
+       "outlet": "NC Newsline",
+       "title": "Democrats plan investigations of Trump. Here’s how his Justice Department is fighting back.",
+       "url": "https://ncnewsline.com/2026/11/24/repub/democrats-plan-investigations-of-trump-heres-how-his-justice-department-is-fighting-back/",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:22 AM",
+     "headline": "Charlotte leaders consider requiring air conditioning in every home",
+     "summary": "Under the proposal, cooling equipment would have to keep at least two rooms at 80 degrees or cooler from May through September.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Charlotte leaders consider requiring air conditioning in every home",
+       "url": "https://www.wbtv.com/2026/11/24/charlotte-leaders-consider-requiring-air-conditioning-every-home/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-23",
-     "time": "10:35 PM",
-     "headline": "Charlotte City Council approves new rules for e-bikes",
-     "summary": "On Monday, Charlotte City Council voted to approve new rules for e-bikes.",
+     "date": "2026-11-24",
+     "time": "11:21 AM",
+     "headline": "Charlotte City Council approves new e-bike rules, including potential misdemeanor penalty",
+     "summary": "Council approved the rules in a 9-2 vote Monday night after months of discussions about e-bike safety.",
      "sources": [
       {
-       "outlet": "WSOC",
-       "title": "Charlotte City Council approves new rules for e-bikes",
-       "url": "https://www.wsoctv.com/news/local/charlotte-could-see-new-e-bike-rules/EHHAMIEWXJD2TOHCHHZR2LOVTQ/",
+       "outlet": "WBTV",
+       "title": "Charlotte City Council approves new e-bike rules, including potential misdemeanor penalty",
+       "url": "https://www.wbtv.com/2026/11/24/charlotte-city-council-approves-new-e-bike-rules-including-potential-misdemeanor-penalty/",
        "bias": 0
       }
      ]
     },
     {
-     "date": "2026-11-23",
-     "time": "10:31 PM",
-     "headline": "Deadly northeast Charlotte shooting under investigation",
-     "summary": "One person was fatally shot in northeast Charlotte late Sunday night.",
+     "date": "2026-11-24",
+     "time": "11:20 AM",
+     "headline": "Blue Ridge Parkway fully reopens after Helene",
+     "summary": "The final stretch of the Blue Ridge Parkway is back open after damage from Hurricane Helene forced it to close.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Deadly northeast Charlotte shooting under investigation",
-       "url": "https://www.wsoctv.com/news/local/deadly-northeast-charlotte-shooting-under-investigation/347PAXHKNFCHFICSSCW2OXDR2I/",
+       "title": "Blue Ridge Parkway fully reopens after Helene",
+       "url": "https://www.wsoctv.com/news/local/blue-ridge-parkway-fully-reopens-after-helene/VA3TL4MUF5GSJDM7PITM3DDADQ/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:19 AM",
+     "headline": "Piedmont Natural Gas representative speaks about signs of a gas leak",
+     "summary": "A Piedmont Natural Gas spokesperson said customers who suspect a natural gas leak should get to a safe location and call the company as the coldest part of the year begins.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Piedmont Natural Gas representative speaks about signs of a gas leak",
+       "url": "https://www.wbtv.com/2026/11/24/piedmont-natural-gas-representative-speaks-about-signs-gas-leak/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:05 AM",
+     "headline": "You’ll be able to see a beaver supermoon Tuesday night",
+     "summary": "The November beaver moon will also be a supermoon. Here’s when to look up and why the full moon is called a Beaver Moon.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "You’ll be able to see a beaver supermoon Tuesday night",
+       "url": "https://www.wbtv.com/2026/11/24/youll-be-able-see-beaver-supermoon-tuesday-night/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:40 AM",
+     "headline": "‘Our hearts are broken’: 7 puppies allegedly thrown from bridge into North Carolina creek",
+     "summary": "The puppies were found in a duct-taped cardboard box that had been thrown from a bridge.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "‘Our hearts are broken’: 7 puppies allegedly thrown from bridge into North Carolina creek",
+       "url": "https://www.wbtv.com/2026/11/24/our-hearts-are-broken-7-puppies-allegedly-thrown-bridge-into-north-carolina-creek/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:40 AM",
+     "headline": "Morning 3: Teenager arrested after deadly triple shooting in North Carolina -- and other news",
+     "summary": "Here are the top stories for the morning of Nov. 24, 2026",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Morning 3: Teenager arrested after deadly triple shooting in North Carolina -- and other news",
+       "url": "https://www.wbtv.com/2026/11/24/morning-3-teenager-arrested-after-deadly-triple-shooting-north-carolina-other-news/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:39 AM",
+     "headline": "City Council discusses plan to require landlords to provide working AC for all housing units",
+     "summary": "The Charlotte City Council is considering requiring landlords to provide air conditioning in at least two rooms. City officials said Monday they are trying to protect residents from increasingly hot summers.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "City Council discusses plan to require landlords to provide working AC for all housing units",
+       "url": "https://www.wfae.org/politics/2026-11-24/city-council-discusses-plan-to-require-landlords-to-provide-working-ac-for-all-housing-units",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "10:39 AM",
+     "headline": "GoFundMe alerts donors of data breach",
+     "summary": "GoFundMe alerts donors of a data breach involving personal info and nonprofit organization records via a third party.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "GoFundMe alerts donors of data breach",
+       "url": "https://www.wsoctv.com/news/trending/gofundme-alerts-donors-data-breach/WSYJCTJU3BD4XPYVUBIKF7SFUM/",
        "bias": 0
       }
      ]
@@ -667,203 +697,91 @@
    "items": [
     {
      "date": "2026-11-24",
-     "time": "6:57 AM",
-     "headline": "Welshmen Donald & Salt demolish Australia as England level series",
-     "summary": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Welshmen Donald & Salt demolish Australia as England level series",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:36 AM",
-     "headline": "Glens boss Ferguson apologises after seven-game ban",
-     "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Glens boss Ferguson apologises after seven-game ban",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "6:10 AM",
-     "headline": "What to watch in UEFA Champions League: Could Real Madrid, Manchester City exploit PSG and Bayern woes?",
-     "summary": "With Harry Kane sidelined in Germany and knee injuries wrecking Paris Saint-Germain's front line, a suddenly vulnerable top tier gives the rest of Europe a rare chance to break through",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "What to watch in UEFA Champions League: Could Real Madrid, Manchester City exploit PSG and Bayern woes?",
-       "url": "https://www.cbssports.com/soccer/news/uefa-champions-league-real-madrid-manchester-city-psg-bayern/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "4:51 AM",
-     "headline": "49ers win in Mexico and Bills stay top - NFL week 11",
-     "summary": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "49ers win in Mexico and Bills stay top - NFL week 11",
-       "url": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "4:43 AM",
-     "headline": "Dead hippo to be honoured on football club tifo",
-     "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Dead hippo to be honoured on football club tifo",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "4:28 AM",
-     "headline": "UK Championship match schedule, seeds & BBC TV coverage",
-     "summary": "The 2026 UK Championship starts on Saturday in York - check out the match schedule, seeds, prize money, previous winners and BBC TV coverage times.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "UK Championship match schedule, seeds & BBC TV coverage",
-       "url": "https://www.bbc.co.uk/sport/snooker/articles/cke8r17en52qo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "4:10 AM",
-     "headline": "The youngest Premier League goalscorers this season",
-     "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "The youngest Premier League goalscorers this season",
-       "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "3:50 AM",
-     "headline": "League Two footballer charged with rape",
-     "summary": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "League Two footballer charged with rape",
-       "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "3:48 AM",
-     "headline": "Transfer rumors, news: PSG eye Estêvão and Luis Díaz amid injury woes",
-     "summary": "Paris Saint-Germain have added Bayern Munich's Luis Díaz and Chelsea's Estêvão to their shortlist. Transfer Talk has the latest.",
+     "time": "12:04 PM",
+     "headline": "🏀 NBA Rookie Rankings: Which stars are rising early in season?",
+     "summary": "Our first edition of rookie rankings features 10 players standing out early from a strong 2026 draft class.",
      "sources": [
       {
        "outlet": "ESPN",
-       "title": "Transfer rumors, news: PSG eye Estêvão and Luis Díaz amid injury woes",
-       "url": "https://www.espn.com/soccer/story/_/id/50580721/transfer-rumors-news-psg-estevao-luis-diaz-chelsea-bayern",
+       "title": "🏀 NBA Rookie Rankings: Which stars are rising early in season?",
+       "url": "https://www.espn.com/nba/story/_/id/50544296/nba-rookie-rankings-early-stats",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "3:36 AM",
-     "headline": "Why Potts swapped West Ham for Club Brugge after 16 years",
-     "summary": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "3:10 AM",
-     "headline": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
-     "summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the Las Vegas Grand Prix.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "time": "2:35 AM",
-     "headline": "What to make of NFL Week 11 -- including wins for the Giants, Jets: Our reporters break down every game",
-     "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
+     "time": "12:04 PM",
+     "headline": "Sources: Cubs continue spending spree, add 2-time Japanese MVP Sato for $120M",
+     "summary": "The Cubs reached a 6-year, $120 million agreement with Japanese INF/OF Teruaki Sato on Tuesday, sources told ESPN's Jeff Passan.",
      "sources": [
       {
        "outlet": "ESPN",
-       "title": "What to make of NFL Week 11 -- including wins for the Giants, Jets: Our reporters break down every game",
-       "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
+       "title": "Sources: Cubs continue spending spree, add 2-time Japanese MVP Sato for $120M",
+       "url": "https://www.espn.com/mlb/story/_/id/50583163/sources-cubs-teruaki-sato-reach-6-year-120m-deal",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "2:35 AM",
-     "headline": "The Joe Brady difference in Buffalo? We're judging big overreactions from Sunday",
-     "summary": "Is Brady the coach that can vault the Bills over the top? Is an NFC East three-peat still in play in Philly?",
+     "time": "12:04 PM",
+     "headline": "Alberts told he won't be next AD at Michigan, attorney says",
+     "summary": "Trev Alberts has been informed by the search firm representing Michigan that he will not be the Wolverines' next athletic director, attorney Tom Mars told ESPN.",
      "sources": [
       {
        "outlet": "ESPN",
-       "title": "The Joe Brady difference in Buffalo? We're judging big overreactions from Sunday",
-       "url": "https://www.espn.com/nfl/story/_/id/50563318/week-11-overreactions-2026-graziano-bills-eagles-nfc-east",
+       "title": "Alberts told he won't be next AD at Michigan, attorney says",
+       "url": "https://www.espn.com/college-football/story/_/id/50583155/attorney-trev-alberts-told-next-ad-michigan",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "2:32 AM",
-     "headline": "With Skubal off the board, where will other top free agents land?",
-     "summary": "We surveyed the sport on the biggest free agents and trade candidates as baseball's hot stove heats up.",
+     "time": "12:04 PM",
+     "headline": "Sources: Peralta stays in AL East, gets $125M deal to top Orioles rotation",
+     "summary": "Freddy Peralta has agreed to a five-year, $125M deal with the Orioles, who have landed an ace starter after losing Trevor Rogers, sources told ESPN.",
      "sources": [
       {
        "outlet": "ESPN",
-       "title": "With Skubal off the board, where will other top free agents land?",
-       "url": "https://www.espn.com/mlb/story/_/id/50552449/offseason-survey-free-agents-trades",
+       "title": "Sources: Peralta stays in AL East, gets $125M deal to top Orioles rotation",
+       "url": "https://www.espn.com/mlb/story/_/id/50583512/sources-freddy-peralta-orioles-5-years-125-million",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-24",
-     "time": "2:15 AM",
+     "time": "12:04 PM",
+     "headline": "SEC to consider termination of LSU's membership at Dec. 3 meeting",
+     "summary": "For the second time this year, the SEC is threatening to hold a vote of its chancellors and presidents on whether to kick LSU out of the league, according to a filing in federal court in Alabama on Monday.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "SEC to consider termination of LSU's membership at Dec. 3 meeting",
+       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50577602/sec-consider-termination-lsu-membership",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:04 PM",
+     "headline": "Africa Cup given back to Senegal in latest twist as court rejects Morocco ruling",
+     "summary": "Senegal won back the Africa Cup of Nations title in a legal fight on Tuesday after the Court of Arbitration for Sport overturned an earlier ruling.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Africa Cup given back to Senegal in latest twist as court rejects Morocco ruling",
+       "url": "https://www.espn.com/soccer/story/_/id/50582074/senegal-africa-cup-nations-morocco-cas",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:04 PM",
      "headline": "'I live for these moments': Daniels again delivers in clutch for Commanders",
      "summary": "After failing multiple times in late-game situations earlier this season, Commanders quarterback Jayden Daniels put together a second consecutive winning drive Monday night as Washington kicked a last-second field goal to beat Cincinnati 22-20.",
      "sources": [
@@ -871,6 +789,118 @@
        "outlet": "ESPN",
        "title": "'I live for these moments': Daniels again delivers in clutch for Commanders",
        "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:04 PM",
+     "headline": "Luis plans to sue SEC, Sankey for damages over LSU saga, attorney says",
+     "summary": "RJ Luis Jr. will sue the SEC and commissioner Greg Sankey for damages in the days ahead, his attorney, Tony Clayton, told ESPN on Monday.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Luis plans to sue SEC, Sankey for damages over LSU saga, attorney says",
+       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50578772/rj-luis-plans-sue-sec-greg-sankey-damages-lsu-eligibility-saga-attorney-says",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:04 PM",
+     "headline": "Caitlin Clark: Playing Augusta on her 'bucket list' during WNBA offseason",
+     "summary": "During the WNBA offseason, Caitlin Clark said it's on her \"bucket list\" to play at Augusta for the first time.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Caitlin Clark: Playing Augusta on her 'bucket list' during WNBA offseason",
+       "url": "https://www.espn.com/golf/story/_/id/50583744/caitlin-clark-wants-play-augusta-wnba-offseason",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "12:00 PM",
+     "headline": "Yoro red card overturned, but refs' chief Webb backs decision",
+     "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Yoro red card overturned, but refs' chief Webb backs decision",
+       "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:58 AM",
+     "headline": "Duran to Phillies! Seager to Rays! Trades we want to see before baseball shuts down",
+     "summary": "An MLB lockout is looming. Our experts suggest some last-minute deals.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Duran to Phillies! Seager to Rays! Trades we want to see before baseball shuts down",
+       "url": "https://www.espn.com/mlb/story/_/id/50541491/offseason-trades-lockout-red-sox-yankees",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:58 AM",
+     "headline": "Did Mets just win NL East? How Tarik Skubal raises New York's 2027 projections",
+     "summary": "Only one team could land MLB's biggest free agent. Here's what that means for the Mets.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Did Mets just win NL East? How Tarik Skubal raises New York's 2027 projections",
+       "url": "https://www.espn.com/mlb/story/_/id/50574273/tarik-skubal-mets-projections-2027",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:34 AM",
+     "headline": "FA chief signs NDA to view Fifa sell-off plot documents",
+     "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:22 AM",
+     "headline": "Why loyalty runs so deep for Cowboys fans",
+     "summary": "The '90s dynasty made them fans for life. Three decades later, generations of supporters are still wearing the faith.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Why loyalty runs so deep for Cowboys fans",
+       "url": "https://www.espn.com/nfl/story/_/id/50541839/thanksgiving-dallas-cowboys-fans-jay-novacek-jersey-got-away",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "time": "11:18 AM",
+     "headline": "Rees-Zammit 2.0",
+     "summary": "Wales wing Louis Rees-Zammit may not have made the cut in American football, but his gridiron crucible has seen him reformed as an improved version on his rugby union return.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Rees-Zammit 2.0",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3n0lgxrwn4qo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
