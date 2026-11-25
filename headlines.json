@@ -1,16 +1,46 @@
 {
- "generated_at": "2026-11-25T23:00:14Z",
+ "generated_at": "2026-11-25T23:04:11Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 20,
+  "ok": 19,
   "total": 20,
-  "failed": []
+  "failed": [
+   "ESPN (sports): empty response"
+  ]
  },
  "sections": [
   {
    "id": "world",
    "name": "World",
    "items": [
+    {
+     "date": "2026-11-25",
+     "time": "5:48 PM",
+     "headline": "Deadly truck fire is latest of Egypt’s transport disasters",
+     "summary": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Deadly truck fire is latest of Egypt’s transport disasters",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:41 PM",
+     "headline": "Malen and Roma deny injury-hit PSG in Champions League draw",
+     "summary": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
+       "url": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-25",
      "time": "5:37 PM",
@@ -192,34 +222,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "3:50 PM",
-     "headline": "Liberal senator Leah Blyth announces defection to One Nation",
-     "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Liberal senator Leah Blyth announces defection to One Nation",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "3:42 PM",
-     "headline": "Baby Aliyah steals the show during Australian Senate debate",
-     "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Baby Aliyah steals the show during Australian Senate debate",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -249,15 +251,15 @@
     },
     {
      "date": "2026-11-25",
-     "time": "5:49 PM",
-     "headline": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots to Georgia election board",
-     "summary": "A judge has paused an order for Georgia's Fulton County to hand over digital copies of ballots and other records from the 2020 election to the State Election Board",
+     "time": "5:48 PM",
+     "headline": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+     "summary": "A judge on Tuesday ordered Georgia's Fulton County to turn over a digital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board, which had been trying for more than two years to obtain certain records from…",
      "sources": [
       {
-       "outlet": "NBC News",
-       "title": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots to Georgia election board",
-       "url": "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353",
-       "bias": -1
+       "outlet": "PBS NewsHour",
+       "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+       "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
+       "bias": 0
       },
       {
        "outlet": "ABC News",
@@ -349,6 +351,34 @@
     },
     {
      "date": "2026-11-25",
+     "time": "6:00 PM",
+     "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+     "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+       "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:49 PM",
+     "headline": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots",
+     "summary": "The judge previously ruled the county had to turn over unredacted digital copies of election materials to the State Election Board, which is run by Trump allies.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots",
+       "url": "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
      "time": "5:49 PM",
      "headline": "Army calls Iowa detonation a success, EPA says no lead in air around plant",
      "summary": "The U.S. Army says Wednesday's detonation of a stockpile of degraded bomb-making chemicals in Iowa was a success. CBS News' Ian Lee reports.",
@@ -363,15 +393,15 @@
     },
     {
      "date": "2026-11-25",
-     "time": "5:48 PM",
-     "headline": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
-     "summary": "A judge on Tuesday ordered Georgia's Fulton County to turn over a digital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board, which had been trying for more than two years to obtain certain records from…",
+     "time": "5:45 PM",
+     "headline": "Officials provide update after Macy's Thanksgiving Day Parade postponed",
+     "summary": "Watch live coverage as officials from New York City and Macy’s provide updates after the Macy’s Thanksgiving Day Parade was postponed to Saturday due to severe weather.",
      "sources": [
       {
-       "outlet": "PBS NewsHour",
-       "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
-       "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
-       "bias": 0
+       "outlet": "NBC News",
+       "title": "Officials provide update after Macy's Thanksgiving Day Parade postponed",
+       "url": "https://www.nbcnews.com/video/watch-live-officials-provide-update-after-macy-s-thanksgiving-day-parade-postponed-274192965532",
+       "bias": -1
       }
      ]
     },
@@ -444,34 +474,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:18 PM",
-     "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-     "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-       "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:17 PM",
-     "headline": "King tides, strong waves destroy part of Pacifica pier as officials warn of flooding",
-     "summary": "King tides combined with powerful waves have destroyed part of a pier in Northern California",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "King tides, strong waves destroy part of Pacifica pier as officials warn of flooding",
-       "url": "https://abcnews.com/US/wireStory/king-tides-strong-waves-destroy-part-pacifica-pier-138453621",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -481,20 +483,42 @@
    "items": [
     {
      "date": "2026-11-25",
-     "time": "5:22 PM",
-     "headline": "Macy’s Thanksgiving Day Parade postponed due to weather",
+     "time": "6:00 PM",
+     "headline": "Is Charlotte poised for more license plate readers?",
+     "summary": "On Sept. 8, the city issued a request for proposals seeking a company to replace its existing license plate recognition system.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Is Charlotte poised for more license plate readers?",
+       "url": "https://www.wbtv.com/2026/11/25/is-charlotte-poised-more-license-plate-readers/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "6:00 PM",
+     "headline": "‘Times are tough’: Toys for Tots encourages donors to help meet increased need",
+     "summary": "It’s always busy at Keyerra George’s household, and she works hard to take care of her seven kids.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "‘Times are tough’: Toys for Tots encourages donors to help meet increased need",
+       "url": "https://www.wsoctv.com/news/local/times-are-tough-toys-tots-encourages-donors-help-meet-increased-need/FMJ3VRVC5BHHDDDOK5CDKLTYBY/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:56 PM",
+     "headline": "LIVE: Officials hold press conference after postponing Macy’s Thanksgiving Day Parade",
      "summary": "The 100th annual Macy’s Thanksgiving Day Parade in New York City will be postponed to Saturday due to weather.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Macy’s Thanksgiving Day Parade postponed due to weather",
+       "title": "LIVE: Officials hold press conference after postponing Macy’s Thanksgiving Day Parade",
        "url": "https://www.wbtv.com/2026/11/24/will-storms-disrupt-macys-thanksgiving-day-parade-heres-what-we-know/",
-       "bias": 0
-      },
-      {
-       "outlet": "WSOC",
-       "title": "Macy’s 100th Thanksgiving Day parade postponed",
-       "url": "https://www.wsoctv.com/news/trending/macys-100th-thanksgiving-day-parade-postponed/73TRTMERGRCSVPUX6ITMBMM2FI/",
        "bias": 0
       }
      ]
@@ -666,34 +690,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "4:38 PM",
-     "headline": "NC opts into 6-month grace period for Medicaid work requirements",
-     "summary": "North Carolina is opting into a six-month federal grace period that will temporarily prevent Medicaid expansion enrollees from losing health insurance coverage because they fail to meet new work requirements, state health officials announced Wednesday.",
-     "sources": [
-      {
-       "outlet": "NC Newsline",
-       "title": "NC opts into 6-month grace period for Medicaid work requirements",
-       "url": "https://ncnewsline.com/2026/11/25/nc-opts-into-6-month-grace-period-for-medicaid-work-requirements/",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "4:34 PM",
-     "headline": "Building community in an age of loneliness could start with your neighbors",
-     "summary": "Americans are more digitally connected than ever, yet more often isolated from the people living closest to them. A national survey last year showed only about a quarter of adults know all or most of their neighbors.",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "Building community in an age of loneliness could start with your neighbors",
-       "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-25/building-community-in-an-age-of-loneliness-could-start-with-your-neighbors",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -701,34 +697,6 @@
    "id": "sports",
    "name": "Sports",
    "items": [
-    {
-     "date": "2026-11-25",
-     "time": "5:53 PM",
-     "headline": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
-     "summary": "The Steelers have waived Aaron Rodgers after the quarterback said Wednesday on \"The Pat McAfee Show\" that coach Mike McCarthy has been sleeping through team meetings.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
-       "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:53 PM",
-     "headline": "How did things get so bad for Aaron Rodgers and Mike McCarthy, and what's next?",
-     "summary": "Today's news shook the NFL, and ESPN's insiders share insights on the QB, the coach and their futures.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "How did things get so bad for Aaron Rodgers and Mike McCarthy, and what's next?",
-       "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
-       "bias": 0
-      }
-     ]
-    },
     {
      "date": "2026-11-25",
      "time": "5:47 PM",
@@ -745,160 +713,6 @@
     },
     {
      "date": "2026-11-25",
-     "time": "5:45 PM",
-     "headline": "Couple from Wake Forest-Georgia Tech game addresses viral intense discussion",
-     "summary": "The couple's intense discussion was caught on an ESPN broadcast of Wake Forest and Georgia Tech's Week 12 game and went viral.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Couple from Wake Forest-Georgia Tech game addresses viral intense discussion",
-       "url": "https://www.espn.com/college-football/story/_/id/50584732/wake-forest-georgia-tech-viral-couple-speaks",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:45 PM",
-     "headline": "Cameron Brink marries Ben Felter in ceremony at Stanford's Memorial Church",
-     "summary": "The couple met in 2021 and was engaged in 2024 before marrying at their alma mater's Memorial Church.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Cameron Brink marries Ben Felter in ceremony at Stanford's Memorial Church",
-       "url": "https://www.espn.com/wnba/story/_/id/50587846/cameron-brink-ben-felter-wedding",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:45 PM",
-     "headline": "Week 13 Game Day Kickoff: Nothing compares to the outright hatred of a rival",
-     "summary": "What to expect in Rivalry Week, from top games and players to teams on upset alert.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Week 13 Game Day Kickoff: Nothing compares to the outright hatred of a rival",
-       "url": "https://www.espn.com/college-football/story/_/page/gamedaykickoff112526/week-13-top-games-upsets-preview",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:45 PM",
-     "headline": "Bottom 10: Putting the 'L' in UCLA -- and setting up the Pillow Fight of the Century",
-     "summary": "While UCLA suffered its first loss, we still have a team looking for its first win -- and time is running out.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Bottom 10: Putting the 'L' in UCLA -- and setting up the Pillow Fight of the Century",
-       "url": "https://www.espn.com/college-football/story/_/id/50585901/bottom-10-week-12-ucla",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:44 PM",
-     "headline": "Preview: WarGames, USA vs. Mexico and The Rock's return",
-     "summary": "Greg Wyshynski gets you caught up on all the key WWE storylines before Saturday's PLE in Houston.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Preview: WarGames, USA vs. Mexico and The Rock's return",
-       "url": "https://www.espn.com/wwe/story/_/id/50585520/wwe-survivor-series-wargames-2026-preview",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:43 PM",
-     "headline": "LaMelo Ball and the squad lifting the Ant-less Timberwolves",
-     "summary": "Through \"giddiness,\" an enhanced focus on defense and an ensemble cast, LaMelo Ball and the Timberwolves are thriving.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "LaMelo Ball and the squad lifting the Ant-less Timberwolves",
-       "url": "https://www.espn.com/nba/story/_/id/50587119/lamelo-ball-minnesota-timberwolves-anthony-edwards",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:43 PM",
-     "headline": "Inside LeBron's first game in Philly -- more than two decades ago",
-     "summary": "Nearly 25 years ago, LeBron won over Philly for the first time -- inside one of the most iconic basketball arenas in the world.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Inside LeBron's first game in Philly -- more than two decades ago",
-       "url": "https://www.espn.com/nba/story/_/id/50389727/lebron-james-palestra-maureece-rice-philadelphia",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:43 PM",
-     "headline": "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
-     "summary": "Next best move for Mets? Best free agency timing? We have a yearbook's worth of awards for the top MLB free agents.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
-       "url": "https://www.espn.com/mlb/story/_/id/50575214/free-agent-class-superlatives",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:43 PM",
-     "headline": "The ripple effects of Tarik Skubal's signing on the Mets, Dodgers and more",
-     "summary": "The impact of the record deal for MLB's top free agent extends past his new team.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "The ripple effects of Tarik Skubal's signing on the Mets, Dodgers and more",
-       "url": "https://www.espn.com/mlb/story/_/id/50575245/ripple-effects-skubal-signing-dodgers-padres-blue-jays",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:42 PM",
-     "headline": "Dortmund draw shows that the jury is still out on Gyökeres",
-     "summary": "Brought in to provide the cutting edge that Arsenal needed up front, it's games like Tuesday's draw with Dortmund that show why Viktor Gyökeres continues to divide opinion.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Dortmund draw shows that the jury is still out on Gyökeres",
-       "url": "https://www.espn.com/soccer/story/_/id/50586544/arsenal-champions-league-dortmund-jury-viktor-gyokeres",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:42 PM",
-     "headline": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
-     "summary": "Borussia Dortmund earned a crucial point away at Arsenal, while Real Madrid got an easy win over PSV on the first day of Matchday 5 of the UEFA Champions League.",
-     "sources": [
-      {
-       "outlet": "ESPN",
-       "title": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
-       "url": "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
      "time": "5:42 PM",
      "headline": "Champions League contenders ranked: Real Madrid and PSG near top, but who is No. 1?",
      "summary": "Arsenal are still up there after falling just short in the 2026 final, while key injuries dent PSG's three-peat bid and Jose Mourinho has Real Madrid surging",
@@ -907,6 +721,188 @@
        "outlet": "CBS Sports",
        "title": "Champions League contenders ranked: Real Madrid and PSG near top, but who is No. 1?",
        "url": "https://www.cbssports.com/soccer/news/champions-league-contenders-ranked-arsenal-psg-real-madrid-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:42 PM",
+     "headline": "Rams vs. Packers prediction: Can Green Bay continue success with deep ball? Will L.A. overcome injuries?",
+     "summary": "Micah Parsons makes his season debut for Green Bay as an injury-depleted Los Angeles offense leans on its ground attack in the NFL's first Thanksgiving Eve showdown",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Rams vs. Packers prediction: Can Green Bay continue success with deep ball? Will L.A. overcome injuries?",
+       "url": "https://www.cbssports.com/nfl/news/rams-vs-packers-prediction-odds-how-to-watch-thanksgiving-eve/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:41 PM",
+     "headline": "Use FanDuel promo code to get $200 bonus bets by targeting Rams vs. Packers, NFL Thanksgiving Eve 2026",
+     "summary": "Sign up and bet with the latest FanDuel promo code on Wednesday to get your bonus bets",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Use FanDuel promo code to get $200 bonus bets by targeting Rams vs. Packers, NFL Thanksgiving Eve 2026",
+       "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-by-targeting-rams-vs-packers-nfl-thanksgiving-eve-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:32 PM",
+     "headline": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+     "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+       "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:31 PM",
+     "headline": "College football bets: Iowa, Oklahoma included in expert's Rivalry Week parlays for favorites, underdogs",
+     "summary": "SportsLine football expert Mike Tierney locks in his best parlay bets for college football's Rivalry Week",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "College football bets: Iowa, Oklahoma included in expert's Rivalry Week parlays for favorites, underdogs",
+       "url": "https://www.cbssports.com/betting/news/college-football-bets-iowa-oklahoma-included-in-experts-rivalry-week-parlays-for-favorites-underdogs/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:30 PM",
+     "headline": "Timberwolves vs. Thunder prediction, odds, time: 2026 NBA Cup picks for Wednesday, Nov. 25 from proven model",
+     "summary": "SportsLine's model reveals its Minnesota Timberwolves vs. Oklahoma City Thunder NBA Cup Western Conference Group B best bets on Wednesday night",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Timberwolves vs. Thunder prediction, odds, time: 2026 NBA Cup picks for Wednesday, Nov. 25 from proven model",
+       "url": "https://www.cbssports.com/betting/news/timberwolves-thunder-prediction-odds-time-2026-nba-cup-picks-best-bets-wednesday-november-25/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:27 PM",
+     "headline": "PSG held by Roma as in-form Malen scores again",
+     "summary": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "PSG held by Roma as in-form Malen scores again",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:24 PM",
+     "headline": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+     "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:24 PM",
+     "headline": "Mike McCarthy responds to Aaron Rodgers, confirms QB gave him 'ultimatum:' 'I know how to win'",
+     "summary": "McCarthy responded to Rodgers' tirade against him",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Mike McCarthy responds to Aaron Rodgers, confirms QB gave him 'ultimatum:' 'I know how to win'",
+       "url": "https://www.cbssports.com/nfl/news/steelers-mike-mccarthy-responds-to-aaron-rodgers-after-pat-mcafee-interview/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:12 PM",
+     "headline": "Isak scores twice as clinical Liverpool beat Brugge",
+     "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Isak scores twice as clinical Liverpool beat Brugge",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:12 PM",
+     "headline": "Farrell picks side to 'back up' South Africa win",
+     "summary": "Ireland head coach Andy Farrell believes the Nations Championship can be good preparation for next year's World Cup.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Farrell picks side to 'back up' South Africa win",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6p3elx72l7qo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:07 PM",
+     "headline": "Gordon stars in comfortable Barca win over Sabah",
+     "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Gordon stars in comfortable Barca win over Sabah",
+       "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:05 PM",
+     "headline": "Borussia Dortmund fight back to draw with Arsenal",
+     "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Borussia Dortmund fight back to draw with Arsenal",
+       "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:05 PM",
+     "headline": "Blunt Villa beaten by late Galatasaray winner",
+     "summary": "Deniz Gul scores a late winner for Galatasaray as Aston Villa slip to successive Champions League defeats.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Blunt Villa beaten by late Galatasaray winner",
+       "url": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
