@@ -1,12 +1,10 @@
 {
- "generated_at": "2026-11-25T12:09:53Z",
+ "generated_at": "2026-11-25T12:13:45Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 19,
+  "ok": 20,
   "total": 20,
-  "failed": [
-   "ESPN (sports): empty response"
-  ]
+  "failed": []
  },
  "sections": [
   {
@@ -77,6 +75,20 @@
     },
     {
      "date": "2026-11-25",
+     "time": "6:58 AM",
+     "headline": "Overnight RSF drone attacks kill 19 in Sudan",
+     "summary": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Overnight RSF drone attacks kill 19 in Sudan",
+       "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
      "time": "6:54 AM",
      "headline": "Burnham to face Badenoch at PMQs ahead of statement on nuclear test veterans – UK politics live",
      "summary": "Wes Streeting earlier said he believes a review will help ensure that ‘the cover-up is exposed’ Burnham launches inquiry into nuclear bomb test veterans’ records Diane Taylor is a Guardian reporter who covers migration.",
@@ -85,6 +97,34 @@
        "outlet": "The Guardian",
        "title": "Burnham to face Badenoch at PMQs ahead of statement on nuclear test veterans – UK politics live",
        "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "6:50 AM",
+     "headline": "Ex England star Sterling given suspended sentence for dangerous driving",
+     "summary": "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Ex England star Sterling given suspended sentence for dangerous driving",
+       "url": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "6:50 AM",
+     "headline": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+     "summary": "Flames seen engulfing a house in Sudan’s Blue Nile state, following a large-scale drone strike carried out by the RSF.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -186,48 +226,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:29 AM",
-     "headline": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-     "summary": "Jude Bellingham admits he had 'no idea' what he'd done after scoring a goal that drew comparisons with Zinedine Zidane.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-       "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:28 AM",
-     "headline": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
-     "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
-       "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:24 AM",
-     "headline": "Israeli strike kills Hamas official, his wife and children",
-     "summary": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Israeli strike kills Hamas official, his wife and children",
-       "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-       "bias": -1
-      }
-     ]
     }
    ]
   },
@@ -272,6 +270,34 @@
        "title": "Iran denounces U.S. use of AI in war",
        "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:03 AM",
+     "headline": "Iowans prepare for toxic lead detonation and experts criticize Trump’s role in Huang’s return: Morning Rundown",
+     "summary": "The Army is set to detonate an estimated 9,700 pounds of lead azide in Iowa.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Iowans prepare for toxic lead detonation and experts criticize Trump’s role in Huang’s return: Morning Rundown",
+       "url": "https://www.nbcnews.com/news/us-news/iowa-army-lead-detonation-trump-huang-nvidia-morning-rundown-rcna611257",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:00 AM",
+     "headline": "How are you affording the holidays?",
+     "summary": "After a year of high gas prices, inflation ticking back up and a lot of Americans feeling pessimistic about the economy, we want to know how people are affording the annual wave of holiday gifts, travel and entertainment costs.",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "How are you affording the holidays?",
+       "url": "https://www.nbcnews.com/news/us-news/holidays-affording-presents-spending-rcna610963",
+       "bias": -1
       }
      ]
     },
@@ -426,34 +452,6 @@
        "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
        "url": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:04 AM",
-     "headline": "2 men charged with burglary after break-in at Prince William and Princess Kate’s country home",
-     "summary": "Two men have been charged in connection with a burglary at the Sandringham estate, police said, after a reported break-in at the home of Prince William and Kate.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "2 men charged with burglary after break-in at Prince William and Princess Kate’s country home",
-       "url": "https://www.nbcnews.com/world/united-kingdom/prince-william-princess-kate-break-in-sandringham-estate-charges-rcna611159",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:02 AM",
-     "headline": "Buying new things feels wonderful. But it can also be a trap",
-     "summary": "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "Buying new things feels wonderful. But it can also be a trap",
-       "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
-       "bias": -1
       }
      ]
     }
@@ -681,14 +679,196 @@
    "items": [
     {
      "date": "2026-11-25",
+     "time": "7:06 AM",
+     "headline": "Dortmund draw shows that the jury is still out on Gyökeres",
+     "summary": "Brought in to provide the cutting edge that Arsenal needed up front, it's games like Tuesday's draw with Dortmund that show why Viktor Gyökeres continues to divide opinion.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Dortmund draw shows that the jury is still out on Gyökeres",
+       "url": "https://www.espn.com/soccer/story/_/id/50586544/arsenal-champions-league-dortmund-jury-viktor-gyokeres",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:06 AM",
+     "headline": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
+     "summary": "Borussia Dortmund earned a crucial point away at Arsenal, while Real Madrid got an easy win over PSV on the first day of Matchday 5 of the UEFA Champions League.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
+       "url": "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:05 AM",
+     "headline": "Another U.S.-held Copa América? Great for USMNT, but not South America",
+     "summary": "For the third time in 12 years, the Copa América will be held in the U.S. That's exciting for the USMNT but it robs South America of the game it loves.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Another U.S.-held Copa América? Great for USMNT, but not South America",
+       "url": "https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:05 AM",
+     "headline": "Women's World Cup's 2031 return shows how game has grown",
+     "summary": "Women's soccer was forever changed when the U.S. hosted the 1999 World Cup. With it returning in 2031, ESPN charts the game's explosive growth.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Women's World Cup's 2031 return shows how game has grown",
+       "url": "https://www.espn.com/soccer/story/_/id/50576097/us-host-2031-womens-world-cup",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
      "time": "7:03 AM",
-     "headline": "'Random' move has Murrell flourishing at Falkirk",
+     "headline": "Murrell flourishing at high-flying Falkirk after 'random' move",
      "summary": "Jacob Murrell took a big step out of his comfort zone leaving the United States for Falkirk and is enjoying a blistering run of form in Scotland, if not the food.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "'Random' move has Murrell flourishing at Falkirk",
+       "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
        "url": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:02 AM",
+     "headline": "Which USMNT players could follow Pochettino to Manchester United?",
+     "summary": "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Which USMNT players could follow Pochettino to Manchester United?",
+       "url": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:02 AM",
+     "headline": "Transfer rumors, news: Man United's Bruno Fernandes wanted by Juventus",
+     "summary": "Manchester United captain Bruno Fernandes, who is out of contract at the end of the season, is a target for Juventus. Transfer Talk has the latest.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Transfer rumors, news: Man United's Bruno Fernandes wanted by Juventus",
+       "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:02 AM",
+     "headline": "Ten classic Survivor Series moments that shaped WWE history",
+     "summary": "Revisit the debuts, controversies and returns that have occurred at one of WWE's signature events.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Ten classic Survivor Series moments that shaped WWE history",
+       "url": "https://www.espn.com/wwe/story/_/id/50575859/ten-classic-survivor-series-moments-wwe-history",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:00 AM",
+     "headline": "Wysh List: Turkey, stuffing ... and anxiety? The NHL teams most worried about playoff position",
+     "summary": "Teams in playoff position on the holiday tend to stay there (77.1% since 2013-14). Who is in the best and worst shape?",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Wysh List: Turkey, stuffing ... and anxiety? The NHL teams most worried about playoff position",
+       "url": "https://www.espn.com/nhl/story/_/id/50587368/nhl-2026-27-playoffs-standings-all-32-thanksgiving-panic-index-rankings-tiers",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "7:00 AM",
+     "headline": "Why Alexis Lafreniere's breakout brings Rangers hope ... for 2026-27 and beyond",
+     "summary": "The 2020 first overall pick has had ups and downs in his development, but he leveled up this season.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Why Alexis Lafreniere's breakout brings Rangers hope ... for 2026-27 and beyond",
+       "url": "https://www.espn.com/nhl/story/_/id/50585269/nhl-2026-27-new-york-rangers-alexis-lafreniere-breakout-draft-stats-playoffs",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "6:59 AM",
+     "headline": "Bracketology: Has the bubble already burst for Kansas, Stanford?",
+     "summary": "It's early, but despite the expanded field, time might already be running out on teams like Kansas and Stanford.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Bracketology: Has the bubble already burst for Kansas, Stanford?",
+       "url": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2027-women-college-basketball-projections",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "6:59 AM",
+     "headline": "Women's Feast Week guide: South Carolina without Joyce Edwards roundly defeats UConn",
+     "summary": "The top nonconference matchups over the next week also South Carolina's win over UConn on Tuesday.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Women's Feast Week guide: South Carolina without Joyce Edwards roundly defeats UConn",
+       "url": "https://www.espn.com/womens-college-basketball/story/_/id/50513465/2026-womens-feast-week-thanksgiving-tournament-schedule",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "6:57 AM",
+     "headline": "Bracketology: Houston, the new No. 1 overall seed, is chasing history",
+     "summary": "Kelvin Sampson's legacy is secure, and if the Players Era 8 was any indication, the Cougars are serious about that elusive national title.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Bracketology: Houston, the new No. 1 overall seed, is chasing history",
+       "url": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2027-march-madness-men-field-predictions",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "6:57 AM",
+     "headline": "Men's Feast Week guide: Analyzing Players Era 16 results, Maui Invitational semis",
+     "summary": "TCU and Louisville were among the biggest winners on Tuesday.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "Men's Feast Week guide: Analyzing Players Era 16 results, Maui Invitational semis",
+       "url": "https://www.espn.com/mens-college-basketball/story/_/id/50575102/feast-week-matchups-analysis",
        "bias": 0
       }
      ]
@@ -703,188 +883,6 @@
        "outlet": "CBS Sports",
        "title": "College football score predictions for Rivalry Week, 2026: Model backs Wake Forest (-14.5) vs. Duke",
        "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-rivalry-week-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:47 AM",
-     "headline": "Ice hockey federation appeals against Russia ban ruling",
-     "summary": "The International Ice Hockey Federation (IIHF) will appeal to the Swiss Federal Tribunal against a Court of Arbitration for Sport (Cas) ruling to reinstate Russia in next year's World Championship.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Ice hockey federation appeals against Russia ban ruling",
-       "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cmy49n7pyl0yo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:35 AM",
-     "headline": "Timberwolves vs. Thunder prediction, odds, time: 2026 NBA Cup picks for Wednesday, Nov. 25 from proven model",
-     "summary": "SportsLine's model reveals its Minnesota Timberwolves vs. Oklahoma City Thunder NBA Cup Western Conference Group B best bets on Wednesday night",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Timberwolves vs. Thunder prediction, odds, time: 2026 NBA Cup picks for Wednesday, Nov. 25 from proven model",
-       "url": "https://www.cbssports.com/betting/news/timberwolves-thunder-prediction-odds-time-2026-nba-cup-picks-wednesday-november-25/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:32 AM",
-     "headline": "Lincoln sack head coach duo Cohen and Shaw",
-     "summary": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Lincoln sack head coach duo Cohen and Shaw",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:26 AM",
-     "headline": "What to watch in UEFA Champions League: Manchester United face defensive crisis in tough visit to Sporting",
-     "summary": "Elsewhere, Inter try to steady a mistake-prone defense in a vital match against Stuttgart, and Florian Wirtz might have turned a corner with Liverpool",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "What to watch in UEFA Champions League: Manchester United face defensive crisis in tough visit to Sporting",
-       "url": "https://www.cbssports.com/soccer/news/uefa-champions-league-manchester-united-crisis-sporting-inter-liverpool/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:23 AM",
-     "headline": "McCague 'understands' St Eunan's anger amid score controversy",
-     "summary": "Scotstown manager David McCague says he \"understands\" why St Eunan's have lodged a formal objection after the decision to award his side's late extra-time equaliser in their Ulster Club SFC semi-final win at Brewster Park on Saturday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "McCague 'understands' St Eunan's anger amid score controversy",
-       "url": "https://www.bbc.co.uk/sport/articles/cqy7rne2dzy2o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:15 AM",
-     "headline": "Watford appoint Iordanescu as head coach",
-     "summary": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Watford appoint Iordanescu as head coach",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:00 AM",
-     "headline": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
-     "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
-       "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "6:00 AM",
-     "headline": "NFL Thanksgiving 2026: A look at every NFL halftime show performer for the holiday slate",
-     "summary": "There will be four performances between Thanksgiving Eve and Thanksgiving",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "NFL Thanksgiving 2026: A look at every NFL halftime show performer for the holiday slate",
-       "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-halftime-show-performers-schedule/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:38 AM",
-     "headline": "Wales and West Ham's Morgan suffers serious injury",
-     "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Wales and West Ham's Morgan suffers serious injury",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:11 AM",
-     "headline": "EA adds AI-generated John Motson to FC 27 video game",
-     "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "EA adds AI-generated John Motson to FC 27 video game",
-       "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "5:00 AM",
-     "headline": "Northants begin T20 Blast defence at Hampshire",
-     "summary": "Northamptonshire Steelbacks will begin their T20 Blast defence at Hampshire, in a repeat of last season's final.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Northants begin T20 Blast defence at Hampshire",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "3:37 AM",
-     "headline": "Khawaja 'disappointed' by Cummins' personal attack",
-     "summary": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Khawaja 'disappointed' by Cummins' personal attack",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "3:10 AM",
-     "headline": "Rinderknech denies refusing doping test",
-     "summary": "French tennis player Arthur Rinderknech says he expects to be exonerated over allegations he refused a doping test.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Rinderknech denies refusing doping test",
-       "url": "https://www.bbc.co.uk/sport/tennis/articles/cr9d7gxjq99po?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
