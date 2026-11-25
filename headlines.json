@@ -1,12 +1,10 @@
 {
- "generated_at": "2026-11-25T17:14:07Z",
+ "generated_at": "2026-11-25T23:00:14Z",
  "window_days": 3,
  "feed_status": {
-  "ok": 19,
+  "ok": 20,
   "total": 20,
-  "failed": [
-   "ESPN (sports): empty response"
-  ]
+  "failed": []
  },
  "sections": [
   {
@@ -15,47 +13,77 @@
    "items": [
     {
      "date": "2026-11-25",
-     "time": "10:42 AM",
-     "headline": "South Africa's Ramaphosa wins court battle over impeachment threat",
-     "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+     "time": "5:37 PM",
+     "headline": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
+     "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer Sign up for the Breaking News US email US trade representative Jamieson Greer claimed this morning that he did not expect the new…",
      "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-       "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "Al Jazeera",
-       "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-       "url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "7:42 AM",
-     "headline": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-     "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of…",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-       "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
       {
        "outlet": "The Guardian",
-       "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
-       "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+       "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "12:10 PM",
+     "time": "5:37 PM",
+     "headline": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’",
+     "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’",
+       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:18 PM",
+     "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+     "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+       "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:15 PM",
+     "headline": "Man United denied at Sporting as referee overshadows Fernandes double",
+     "summary": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Man United denied at Sporting as referee overshadows Fernandes double",
+       "url": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:10 PM",
+     "headline": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+     "summary": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+       "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:03 PM",
      "headline": "Iran denounces U.S. use of AI in war",
      "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
      "sources": [
@@ -69,169 +97,127 @@
     },
     {
      "date": "2026-11-25",
-     "time": "11:59 AM",
-     "headline": "Serbia government wants to limit reality TV, adopt 4-day work week",
-     "summary": "Serbia's Student List party, which recently ousted the country's Russia-aligned strongman leader, wants to restrict reality TV.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Serbia government wants to limit reality TV, adopt 4-day work week",
-       "url": "https://www.cbsnews.com/news/serbia-reality-tv-student-list-government-4-day-work-week/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:59 AM",
-     "headline": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-     "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing Sign up for the Breaking News US email to get newsletter alerts in your inbox US trade representative Jamieson Greer claimed this morning that he did not…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:57 AM",
-     "headline": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
-     "summary": "The Libyan National Army mourns two soldiers who died Tuesday from a Ukrainian drone strike on a Russian warship in Benghazi, vowing retaliation.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
-       "url": "https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:56 AM",
-     "headline": "US army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – live",
-     "summary": "Army detonates 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects Smoke seen from a mile away as army detonates bomb-making chemicals Sign up for the Breaking News US email The United…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "US army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – live",
-       "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:51 AM",
-     "headline": "Christians increasingly targeted across Europe as watchdog warns of rising hostility",
-     "summary": "Anti-Christian hate crimes in Europe rose 44% last year, says the Vienna Observatory, which documented 2,465 incidents in 2025 across the continent.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "Christians increasingly targeted across Europe as watchdog warns of rising hostility",
-       "url": "https://www.foxnews.com/world/christians-increasingly-targeted-across-europe-watchdog-warns-rising-hostility",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:46 AM",
-     "headline": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
-     "summary": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:41 AM",
-     "headline": "Poundland collapses into administration, putting 12,000 jobs at risk",
-     "summary": "US owner Gordon Brothers rejected at least two last-ditch bids for UK budget retailer Do you work for Poundland? Tell us how you’re affected Poundland has called in administrators, putting 12,000 jobs at risk in the run-up to Christmas after its owners…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
-       "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:36 AM",
-     "headline": "Why are school shootings continuing to shake the Balkans?",
-     "summary": "A shooting in Serbia has renewed concerns over firearm access, online warning signs and failures to prevent violence.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Why are school shootings continuing to shake the Balkans?",
-       "url": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:34 AM",
-     "headline": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
-     "summary": "Palestinian farmer and human rights defender Ghassan Najjar was arrested by Israeli forces.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:22 AM",
-     "headline": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
-     "summary": "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:20 AM",
-     "headline": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
-     "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:20 AM",
-     "headline": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-     "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+     "time": "4:51 PM",
+     "headline": "North Korea expels Swiss diplomat in sanctions row",
+     "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-       "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+       "title": "North Korea expels Swiss diplomat in sanctions row",
+       "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:43 PM",
+     "headline": "US stocks fall further as fears over AI intensify",
+     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "US stocks fall further as fears over AI intensify",
+       "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:41 PM",
+     "headline": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+     "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+       "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:32 PM",
+     "headline": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
+     "summary": "Fire making a ‘significant run’ towards the southwest of the island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Homes and properties on a picturesque remote island remain under threat from an…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:08 PM",
+     "headline": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
+     "summary": "Forecasters say high winds on Thursday may spoil the annual march of huge balloons and have moved the parade to Saturday New York City’s Macy’s Thanksgiving Day parade has been postponed due to excessively windy weather and will now be held on Saturday.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
+       "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:03 PM",
+     "headline": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+     "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+       "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "3:52 PM",
+     "headline": "US Education Department probes Virginia schools after sexual abuse scandal",
+     "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+       "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "3:50 PM",
+     "headline": "Liberal senator Leah Blyth announces defection to One Nation",
+     "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Liberal senator Leah Blyth announces defection to One Nation",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "3:42 PM",
+     "headline": "Baby Aliyah steals the show during Australian Senate debate",
+     "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Baby Aliyah steals the show during Australian Senate debate",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+       "bias": -1
       }
      ]
     }
@@ -243,21 +229,101 @@
    "items": [
     {
      "date": "2026-11-25",
-     "time": "11:37 AM",
-     "headline": "Trump administration to raise tariffs on China, EU, Brazil and others",
-     "summary": "The new tariffs stem from investigations into the trade practices of 12 countries, the 27-member EU and the self-governing island of Taiwan.",
+     "time": "5:53 PM",
+     "headline": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+     "summary": "A Republican official who oversees Alaska elections said she has ended an agreement under which the state shared its voter registration list with the U.S. Department of Justice and allowed the agency to flag voters for possible removal.",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "Trump administration to raise tariffs on China, EU, Brazil and others",
-       "url": "https://www.pbs.org/newshour/politics/trump-administration-to-raise-tariffs-on-china-eu-brazil-and-others",
+       "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+       "url": "https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens",
        "bias": 0
       },
       {
+       "outlet": "ABC News",
+       "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+       "url": "https://abcnews.com/US/wireStory/alaska-ends-voter-data-agreement-justice-department-searching-138422801",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:49 PM",
+     "headline": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots to Georgia election board",
+     "summary": "A judge has paused an order for Georgia's Fulton County to hand over digital copies of ballots and other records from the 2020 election to the State Election Board",
+     "sources": [
+      {
+       "outlet": "NBC News",
+       "title": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots to Georgia election board",
+       "url": "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353",
+       "bias": -1
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Judge halts order for Georgia's Fulton County to give 2020 election records to state election board",
+       "url": "https://abcnews.com/US/wireStory/judge-halts-order-georgias-fulton-county-give-2020-138451406",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:39 PM",
+     "headline": "Macy's Thanksgiving Day Parade postponed due to coastal storm",
+     "summary": "The 100th edition of Macy's Thanksgiving Day Parade in New York City has been postponed until Saturday due to a coastal storm. Tom Hanson has the details.",
+     "sources": [
+      {
        "outlet": "CBS News",
-       "title": "Trump administration to issue new tariffs on China, EU and others",
-       "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/",
+       "title": "Macy's Thanksgiving Day Parade postponed due to coastal storm",
+       "url": "https://www.cbsnews.com/video/macys-thanksgiving-day-parade-postponed-over-coastal-storm-sources-say/",
        "bias": 0
+      },
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Macy's Thanksgiving Day Parade postponed to Saturday due to expected bad weather",
+       "url": "https://www.pbs.org/newshour/nation/macys-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:08 PM",
+     "headline": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
+     "summary": "First lady Melania Trump has helped return a seventh group of Ukrainian and Russian children to their families, bringing the total number of kids in these wartime reunifications to 43, the White House announced Wednesday.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
+       "url": "https://www.pbs.org/newshour/world/melania-trump-reunites-her-seventh-group-of-ukrainian-and-russian-children-with-their-families",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Melania Trump reunites seventh group of Ukrainian and Russian children with families",
+       "url": "https://abcnews.com/US/wireStory/melania-trump-reunites-seventh-group-ukrainian-russian-children-138435802",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "11:59 AM",
+     "headline": "WATCH: Army offers update after detonating lead azide stockpile in Iowa",
+     "summary": "The U.S. Army says it's taking numerous precautions as it prepares to detonate 5 tons of degraded and dangerous lead azide in southeastern Iowa",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "WATCH: Army offers update after detonating lead azide stockpile in Iowa",
+       "url": "https://www.pbs.org/newshour/nation/watch-live-army-offers-update-after-detonating-lead-azide-stockpile-in-iowa",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "The US Army will be detonating a 5-ton stockpile of lead azide in Iowa. Here's what to know",
+       "url": "https://abcnews.com/US/wireStory/us-army-detonating-5-ton-stockpile-lead-azide-138426544",
+       "bias": -1
       }
      ]
     },
@@ -283,182 +349,126 @@
     },
     {
      "date": "2026-11-25",
-     "time": "12:13 PM",
-     "headline": "Maps show how far lead dust from Iowa detonation could travel",
-     "summary": "Maps released by the Army Tuesday show a possible plume of toxic dust after its detonation of munitions in Iowa drifting southwest toward northeast Missouri between 9 a.m. and 5 p.m. Wednesday.",
+     "time": "5:49 PM",
+     "headline": "Army calls Iowa detonation a success, EPA says no lead in air around plant",
+     "summary": "The U.S. Army says Wednesday's detonation of a stockpile of degraded bomb-making chemicals in Iowa was a success. CBS News' Ian Lee reports.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Maps show how far lead dust from Iowa detonation could travel",
-       "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/",
+       "title": "Army calls Iowa detonation a success, EPA says no lead in air around plant",
+       "url": "https://www.cbsnews.com/video/army-calls-iowa-detonation-a-success/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "12:10 PM",
-     "headline": "Iran denounces U.S. use of AI in war",
-     "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran denounces U.S. use of AI in war",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "12:03 PM",
-     "headline": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving",
-     "summary": "Thanksgiving travel is in full swing, with airline and road traffic ramping up across the U.S. But travelers in many spots are facing weather challenges, including rain on the East Coast, snow in the nation's mid-section and coastal flooding in the West",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "US travelers facing long airport lines, bad weather in the run up to Thanksgiving",
-       "url": "https://abcnews.com/US/wireStory/us-travelers-facing-long-airport-lines-bad-weather-138443585",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "12:03 PM",
-     "headline": "What's closed on Thanksgiving and when stores reopen on Black Friday",
-     "summary": "Thanksgiving is for diet busters",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "What's closed on Thanksgiving and when stores reopen on Black Friday",
-       "url": "https://abcnews.com/US/wireStory/closed-thanksgiving-stores-reopen-black-friday-138443831",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "12:03 PM",
-     "headline": "A timeline of key events in Kilmar Ábrego García's fight with the Trump administration",
-     "summary": "Kilmar Ábrego García has been a focal point in the debate over President Donald Trump’s immigration policies",
-     "sources": [
-      {
-       "outlet": "ABC News",
-       "title": "A timeline of key events in Kilmar Ábrego García's fight with the Trump administration",
-       "url": "https://abcnews.com/US/wireStory/timeline-key-events-kilmar-brego-garcas-fight-trump-138444539",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "12:01 PM",
-     "headline": "Inflation remains stubbornly high, despite a drop in gas prices",
-     "summary": "The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September.",
+     "time": "5:48 PM",
+     "headline": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+     "summary": "A judge on Tuesday ordered Georgia's Fulton County to turn over a digital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board, which had been trying for more than two years to obtain certain records from…",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "Inflation remains stubbornly high, despite a drop in gas prices",
-       "url": "https://www.pbs.org/newshour/economy/inflation-remains-stubbornly-high-despite-a-drop-in-gas-prices",
+       "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+       "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:59 AM",
-     "headline": "Serbia government wants to limit reality TV, adopt 4-day work week",
-     "summary": "Serbia's Student List party, which recently ousted the country's Russia-aligned strongman leader, wants to restrict reality TV.",
+     "time": "5:40 PM",
+     "headline": "How a new generation of AI agents could change holiday shopping",
+     "summary": "The internet revolutionized holiday shopping by allowing people to make purchases without leaving their homes. Now, a new generation of AI agents is promising an even bigger change: Doing the shopping for you.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Serbia government wants to limit reality TV, adopt 4-day work week",
-       "url": "https://www.cbsnews.com/news/serbia-reality-tv-student-list-government-4-day-work-week/",
+       "title": "How a new generation of AI agents could change holiday shopping",
+       "url": "https://www.cbsnews.com/video/how-a-new-generation-of-ai-agents-could-change-holiday-shopping/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:59 AM",
-     "headline": "WATCH LIVE: Army offers update after detonating lead azide stockpile in Iowa",
-     "summary": "The U.S. Army intentionally blew up the nation's entire stockpile of lead azide at an ammunition plant in southeastern Iowa on Wednesday after officials said the degraded materials were at risk of exploding uncontrollably as temperatures cooled.",
+     "time": "5:35 PM",
+     "headline": "Blindsided by Iowa detonation, White House scrambled, sources say",
+     "summary": "White House officials have expressed frustration in internal conversations that they had to scramble to deal with the crisis.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Blindsided by Iowa detonation, White House scrambled, sources say",
+       "url": "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:32 PM",
+     "headline": "This week on \"Sunday Morning\" (Nov. 29)",
+     "summary": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "This week on \"Sunday Morning\" (Nov. 29)",
+       "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-29-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:30 PM",
+     "headline": "Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+     "summary": "Kilmar Ábrego García, a Salvadoran national who fought his mistaken deportation from the United States, arrived in Spain on Wednesday after what his lawyer described as a temporary departure, with hopes of returning to his family's home in Maryland after…",
      "sources": [
       {
        "outlet": "PBS NewsHour",
-       "title": "WATCH LIVE: Army offers update after detonating lead azide stockpile in Iowa",
-       "url": "https://www.pbs.org/newshour/nation/watch-live-army-offers-update-after-detonating-lead-azide-stockpile-in-iowa",
+       "title": "Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+       "url": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:58 AM",
-     "headline": "Army detonates toxic explosives at Iowa plant despite concerns",
-     "summary": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+     "time": "5:26 PM",
+     "headline": "What to know as weather postpones Macy's Thanksgiving Day Parade",
+     "summary": "The 100th edition of Macy's Thanksgiving Day Parade has been postponed to Saturday as a nor'easter marches its way up the East Coast. CBS News' Tom Hanson and Kris Van Cleave have the latest on the weather and the Thanksgiving travel rush.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Army detonates toxic explosives at Iowa plant despite concerns",
-       "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
+       "title": "What to know as weather postpones Macy's Thanksgiving Day Parade",
+       "url": "https://www.cbsnews.com/video/what-to-know-as-weather-postpones-macys-thanksgiving-day/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:45 AM",
-     "headline": "Father of teen killed at campsite says it was \"a deliberate act\"",
-     "summary": "Carey Washington \"Wash\" Vinson, 19, was shot and killed while on an annual camping trip with friends in the Florida Panhandle.",
+     "time": "5:18 PM",
+     "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+     "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Father of teen killed at campsite says it was \"a deliberate act\"",
-       "url": "https://www.cbsnews.com/news/carey-vinson-florida-campsite-fatal-shooting/",
+       "title": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+       "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:40 AM",
-     "headline": "Federal grand jury hears evidence in Ilhan Omar investigation, as court records use 3 versions of her name",
-     "summary": "A federal grand jury in Minnesota is hearing evidence as investigators examine whether Ilhan Omar used a false name or birth date to get U.S. citizenship.",
+     "time": "5:17 PM",
+     "headline": "King tides, strong waves destroy part of Pacifica pier as officials warn of flooding",
+     "summary": "King tides combined with powerful waves have destroyed part of a pier in Northern California",
      "sources": [
       {
-       "outlet": "Fox News",
-       "title": "Federal grand jury hears evidence in Ilhan Omar investigation, as court records use 3 versions of her name",
-       "url": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-ilhan-omar-investigation-court-records-use-3-versions-her-name",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:38 AM",
-     "headline": "The answers to some of your most pressing questions about GLP-1s, bone health and ovarian cancer",
-     "summary": "Dr. Jennifer Ashton joins \"CBS Mornings\" to answer some of your most pressing women's health questions, from GLP-1s to ovarian cancer.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "The answers to some of your most pressing questions about GLP-1s, bone health and ovarian cancer",
-       "url": "https://www.cbsnews.com/video/the-answers-to-some-of-your-most-pressing-questions-about-glp-1s-bone-health-and-ovarian-cancer/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:35 AM",
-     "headline": "Drone video captures smoke plume after controlled Iowa detonation",
-     "summary": "A drone captures the moment a plume of smoke rose into the air after the U.S. Army carried out a controlled detonation of a cache of lead explosives in Middletown, Iowa.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Drone video captures smoke plume after controlled Iowa detonation",
-       "url": "https://www.nbcnews.com/video/drone-captures-plume-of-smoke-rising-into-air-after-army-detonated-cache-of-lead-explosives-274171461912",
+       "outlet": "ABC News",
+       "title": "King tides, strong waves destroy part of Pacifica pier as officials warn of flooding",
+       "url": "https://abcnews.com/US/wireStory/king-tides-strong-waves-destroy-part-pacifica-pier-138453621",
        "bias": -1
       }
      ]
@@ -471,211 +481,217 @@
    "items": [
     {
      "date": "2026-11-25",
-     "time": "12:06 PM",
-     "headline": "The Army detonated US stockpile of lead azide in Iowa. Here’s why",
-     "summary": "The U.S. Army detonated roughly five tons of lead azide at the Iowa Army Ammunition Plant. Officials explain why the disposal is necessary.",
+     "time": "5:22 PM",
+     "headline": "Macy’s Thanksgiving Day Parade postponed due to weather",
+     "summary": "The 100th annual Macy’s Thanksgiving Day Parade in New York City will be postponed to Saturday due to weather.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "The Army detonated US stockpile of lead azide in Iowa. Here’s why",
-       "url": "https://www.wbtv.com/2026/11/25/army-detonate-us-stockpile-lead-azide-iowa-heres-why/",
+       "title": "Macy’s Thanksgiving Day Parade postponed due to weather",
+       "url": "https://www.wbtv.com/2026/11/24/will-storms-disrupt-macys-thanksgiving-day-parade-heres-what-we-know/",
+       "bias": 0
+      },
+      {
+       "outlet": "WSOC",
+       "title": "Macy’s 100th Thanksgiving Day parade postponed",
+       "url": "https://www.wsoctv.com/news/trending/macys-100th-thanksgiving-day-parade-postponed/73TRTMERGRCSVPUX6ITMBMM2FI/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "12:06 PM",
-     "headline": "Tractor-trailer flips, hangs off bridge on Highway 74 Bypass",
-     "summary": "Traffic backed up along the Highway 74 Bypass in Union County on Wednesday after a tractor-trailer flipped over and was left hanging off a bridge.",
+     "time": "5:55 PM",
+     "headline": "After 21 homes fell into the ocean, a community is fighting to hold onto its shoreline",
+     "summary": "Jeff Dawson held his breath as he climbed the dunes across the street from his restaurant. He hadn’t seen Buxton’s beach since the second fall nor’easter battered the coastline.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Tractor-trailer flips, hangs off bridge on Highway 74 Bypass",
-       "url": "https://www.wsoctv.com/news/local/tractor-trailer-flips-hangs-off-bridge-highway-74-bypass/24AIVJYFAVBTZD53I6AU3QZZNU/",
+       "title": "After 21 homes fell into the ocean, a community is fighting to hold onto its shoreline",
+       "url": "https://www.wsoctv.com/news/local/after-21-homes-fell-into-ocean-buxton-is-fighting-hold-onto-its-shoreline/UFBN7HO7I5BL3F6XEKLNWGC5NA/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:57 AM",
-     "headline": "FORECAST: Major storm system moves in bringing rain, strong winds",
+     "time": "5:54 PM",
+     "headline": "Doctors warn of severe flu season as cases rise in Carolinas",
+     "summary": "Doctors are warning families to take precautions this Thanksgiving as flu cases rise across the Carolinas, with South Carolina reporting high flu activity and seven deaths so far this season.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Doctors warn of severe flu season as cases rise in Carolinas",
+       "url": "https://www.wsoctv.com/news/local/doctors-warn-severe-flu-season-cases-rise-carolinas/BA54BVAS6VF2XLOXKHE5GHMSYE/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:40 PM",
+     "headline": "Crash closes all I-485 inner lanes in northern Mecklenburg County",
+     "summary": "Interstate closed at Exit 18 on Wednesday, Nov. 25 following crash",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Crash closes all I-485 inner lanes in northern Mecklenburg County",
+       "url": "https://www.wbtv.com/2026/11/25/crash-closes-all-i-485-inner-lanes-northern-mecklenburg-county/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:32 PM",
+     "headline": "Father calls for CMPD changes after officer pushes teen off bike",
+     "summary": "The family of a teenager seen in a video being shoved off a bike by a former Charlotte-Mecklenburg police officer said the teen is still feeling the effects of what happened.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Father calls for CMPD changes after officer pushes teen off bike",
+       "url": "https://www.wsoctv.com/news/local/family-reacts-video-cmpd-officer-shoving-teen-off-bike/DYJ6X3J7QZGFDOAWSI4IBOQ6KQ/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:26 PM",
+     "headline": "Thanksgiving travel surges as storms threaten flights, roads",
+     "summary": "From the roads to the sky, millions are preparing to travel across the country this Thanksgiving holiday.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Thanksgiving travel surges as storms threaten flights, roads",
+       "url": "https://www.wsoctv.com/news/local/millions-set-heavy-holiday-travel-despite-storms-rising-fuel-costs/4KOE3WTWBBDVJDZOLSM62H46GM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:25 PM",
+     "headline": "Housing crisis grows in Cabarrus County",
+     "summary": "Nearly 600 students in Cabarrus County are spending the holidays without a permanent home as local organizations struggle to keep up with the growing demand for housing assistance.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Housing crisis grows in Cabarrus County",
+       "url": "https://www.wsoctv.com/news/local/housing-crisis-grows-cabarrus-county/TB3D7TCXERDDHDOW7U4JLOEHEM/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:19 PM",
+     "headline": "CMPD expands psychological screenings after racist text scandal",
+     "summary": "New recruits with the Charlotte-Mecklenburg Police Department will now be questioned about implicit bias before they get to wear a badge.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "CMPD expands psychological screenings after racist text scandal",
+       "url": "https://www.wsoctv.com/news/local/cmpd-expands-psychological-screenings-after-racist-text-scandal/6MLMUMWBP5DGBGQZEAS3DDA2DQ/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:18 PM",
+     "headline": "22-year-old killed in daycare parking lot by man she went on 1 date with 3 years ago, police say",
+     "summary": "Lauren Becker, 22, was stabbed while arriving at work at Kids Can Community Center in Omaha, police said. A suspect was arrested in Minnesota.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "22-year-old killed in daycare parking lot by man she went on 1 date with 3 years ago, police say",
+       "url": "https://www.wbtv.com/2026/11/25/22-year-old-killed-daycare-parking-lot-by-man-she-went-1-date-with-3-years-ago-police-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:09 PM",
+     "headline": "FORECAST: Up to 2 inches of rain possible as storms move through the Charlotte area",
      "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Major storm system moves in bringing rain, strong winds",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-major-storm-system-moves-bringing-rain-strong-winds/YIBEYMPRPJAI3ITEP34PYIXEQE/",
+       "title": "FORECAST: Up to 2 inches of rain possible as storms move through the Charlotte area",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-up-2-inches-rain-possible-storms-move-through-charlotte-area/Z5AHA25VCBHKHK6NJNA3D43GPE/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:53 AM",
-     "headline": "Thanksgiving travel: Gas prices fall, but still more than last year",
-     "summary": "National gas prices fell to $3.59 by Nov. 25, dropping 56 cents throughout November despite remaining higher than last year.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Thanksgiving travel: Gas prices fall, but still more than last year",
-       "url": "https://www.wsoctv.com/news/trending/thanksgiving-travel-gas-prices-fall-still-more-than-last-year/JX45Y5BZJNCYXM5I6HWLQ3D3YQ/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:47 AM",
-     "headline": "Overturned tractor-trailer shuts down westbound Monroe Expressway in Union County",
-     "summary": "The wreck happened on Monroe Expressway near Rocky River Road in Unionville.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Overturned tractor-trailer shuts down westbound Monroe Expressway in Union County",
-       "url": "https://www.wbtv.com/2026/11/25/overturned-tractor-trailer-shuts-down-westbound-monroe-expressway-union-county/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:35 AM",
-     "headline": "Adrienne Sanders named 2027 SC elementary assistant principal of the year",
-     "summary": "Gold Hill Elementary Assistant Principal Adrienne Sanders was surprised on Tuesday with the 2027 South Carolina Elementary Assistant Principal of the Year award.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Adrienne Sanders named 2027 SC elementary assistant principal of the year",
-       "url": "https://www.wsoctv.com/news/local/adrienne-sanders-named-2027-sc-elementary-assistant-principal-year/5NDARDWU4ZD73NBCLQHYHMG2JI/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:31 AM",
-     "headline": "Divorced parents reluctantly share cabin during cruise; kids post sign ‘warning’ passengers",
-     "summary": "A couple divorced for more than two decades found themselves sharing a stateroom after their daughters booked a family cruise to Mexico.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Divorced parents reluctantly share cabin during cruise; kids post sign ‘warning’ passengers",
-       "url": "https://www.wsoctv.com/news/trending/divorced-parents-reluctantly-share-cabin-during-cruise-kids-post-sign-warning-passengers/J4BMESNX6VDV7JGFJUAKDSH5SI/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:31 AM",
-     "headline": "Plaza Shamrock homeowner reports stolen lawnmower and fencing as police seek person of interest",
-     "summary": "Chris Keener wants to warn others about the incident and help find the person responsible.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Plaza Shamrock homeowner reports stolen lawnmower and fencing as police seek person of interest",
-       "url": "https://www.wbtv.com/2026/11/25/plaza-shamrock-homeowner-says-lawnmower-fencing-stolen-police-seek-person-interest/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:14 AM",
-     "headline": "Longtime Bob Seger and the Silver Bullet Band bassist, Chris Campbell, dies",
-     "summary": "Longtime bassist Chris Campbell, a staple of the Detroit music scene, passed away on November 22 at age 78.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Longtime Bob Seger and the Silver Bullet Band bassist, Chris Campbell, dies",
-       "url": "https://www.wsoctv.com/news/trending/longtime-bob-seger-silver-bullet-band-bassist-chris-campbell-dies/OR4Y2JRG5NB5PMODVZTNXXBP7U/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:12 AM",
-     "headline": "9 things to do in Charlotte this Thanksgiving weekend: Nov. 26-29, 2026",
-     "summary": "Where you can find Christmas lights, plus Derek Hough’s holiday show and Charlotte FC’s playoff game",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "9 things to do in Charlotte this Thanksgiving weekend: Nov. 26-29, 2026",
-       "url": "https://www.wbtv.com/2026/11/25/9-things-do-charlotte-this-thanksgiving-weekend-nov-26-29-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "10:56 AM",
-     "headline": "Ahead of Thanksgiving, more Americans struggle to put food on the table",
-     "summary": "KANSAS CITY, Kan. — It doesn’t take long for the line to pile up at Cross-Lines Community Outreach as more people flock to the nonprofit food pantry to help stock their cupboards.",
+     "time": "4:56 PM",
+     "headline": "‘Free of everything evil’: Kilmar Abrego Garcia speaks out from Spain after fleeing US",
+     "summary": "WASHINGTON — Kilmar Abrego Garcia, the wrongly deported immigrant who fought the Trump administration’s efforts to re-deport him to one of several African nations, said Wednesday that he felt joyful to choose to voluntarily depart from the United States to…",
      "sources": [
       {
        "outlet": "NC Newsline",
-       "title": "Ahead of Thanksgiving, more Americans struggle to put food on the table",
-       "url": "https://ncnewsline.com/2026/11/25/repub/ahead-of-thanksgiving-more-americans-struggle-to-put-food-on-the-table/",
+       "title": "‘Free of everything evil’: Kilmar Abrego Garcia speaks out from Spain after fleeing US",
+       "url": "https://ncnewsline.com/2026/11/25/repub/free-of-everything-evil-kilmar-abrego-garcia-speaks-out-from-spain-after-fleeing-us/",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "10:50 AM",
-     "headline": "Army detonates bomb-making material in Iowa",
-     "summary": "The Army conducted a controlled detonation of five tons of lead azide at the Iowa Army Ammunition Plant on Wednesday.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Army detonates bomb-making material in Iowa",
-       "url": "https://www.wsoctv.com/news/trending/army-detonates-bomb-making-material-iowa/RRPXDRGUWBESJBS2V4RLYBGDPU/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "10:50 AM",
-     "headline": "John Rogers, youngest son of ‘Mister Rogers’ Neighborhood’ star, dies at 65",
-     "summary": "He grew up in Pittsburgh and made appearances on his father's show, along with his older brother.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "John Rogers, youngest son of ‘Mister Rogers’ Neighborhood’ star, dies at 65",
-       "url": "https://www.wsoctv.com/news/trending/john-rogers-youngest-son-mister-rogers-neighborhood-star-dies-65/PB7MFUJXSNHWRNNVTTTLBKE6RU/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "10:39 AM",
-     "headline": "Father arrested after daughter brings gun to Union County elementary school",
-     "summary": "“If you own firearms, it is your responsibility to ensure they are properly secured at all times.”",
+     "time": "4:52 PM",
+     "headline": "Wind advisory active for several North Carolina, South Carolina counties in Charlotte region",
+     "summary": "Advisory in effect Wednesday into Thanksgiving Thursday: What to know",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Father arrested after daughter brings gun to Union County elementary school",
-       "url": "https://www.wbtv.com/2026/11/25/father-arrested-after-daughter-brings-gun-union-county-elementary-school/",
+       "title": "Wind advisory active for several North Carolina, South Carolina counties in Charlotte region",
+       "url": "https://www.wbtv.com/2026/11/25/wind-advisory-active-several-north-carolina-south-carolina-counties-charlotte-region/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "10:29 AM",
-     "headline": "Morning 3: NFL player from Charlotte area named starting quarterback in shocking move -- and other news",
-     "summary": "Here are the top stories for the morning of Nov. 25, 2026",
+     "time": "4:38 PM",
+     "headline": "Davidson College’s new solar-powered canopy makes renewable energy more visible",
+     "summary": "Visitors to the Baker Sports Complex at Davidson College can keep their cars cool under a new solar-powered canopy.",
      "sources": [
       {
-       "outlet": "WBTV",
-       "title": "Morning 3: NFL player from Charlotte area named starting quarterback in shocking move -- and other news",
-       "url": "https://www.wbtv.com/2026/11/25/morning-3-nfl-player-charlotte-area-named-starting-quarterback-shocking-move-other-news/",
-       "bias": 0
+       "outlet": "WFAE",
+       "title": "Davidson College’s new solar-powered canopy makes renewable energy more visible",
+       "url": "https://www.wfae.org/energy-environment/2026-11-25/davidson-colleges-new-solar-powered-canopy-makes-renewable-energy-more-visible",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:38 PM",
+     "headline": "NC opts into 6-month grace period for Medicaid work requirements",
+     "summary": "North Carolina is opting into a six-month federal grace period that will temporarily prevent Medicaid expansion enrollees from losing health insurance coverage because they fail to meet new work requirements, state health officials announced Wednesday.",
+     "sources": [
+      {
+       "outlet": "NC Newsline",
+       "title": "NC opts into 6-month grace period for Medicaid work requirements",
+       "url": "https://ncnewsline.com/2026/11/25/nc-opts-into-6-month-grace-period-for-medicaid-work-requirements/",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "4:34 PM",
+     "headline": "Building community in an age of loneliness could start with your neighbors",
+     "summary": "Americans are more digitally connected than ever, yet more often isolated from the people living closest to them. A national survey last year showed only about a quarter of adults know all or most of their neighbors.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "Building community in an age of loneliness could start with your neighbors",
+       "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-25/building-community-in-an-age-of-loneliness-could-start-with-your-neighbors",
+       "bias": -1
       }
      ]
     }
@@ -687,210 +703,210 @@
    "items": [
     {
      "date": "2026-11-25",
-     "time": "12:00 PM",
-     "headline": "GB, France and Germany launch new swimming competition",
-     "summary": "Aquatics GB organises a new Three Nations Cup event alongside France and Germany, saying it is time for \"elite swimming competition to evolve\".",
+     "time": "5:53 PM",
+     "headline": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
+     "summary": "The Steelers have waived Aaron Rodgers after the quarterback said Wednesday on \"The Pat McAfee Show\" that coach Mike McCarthy has been sleeping through team meetings.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "GB, France and Germany launch new swimming competition",
-       "url": "https://www.bbc.co.uk/sport/swimming/articles/cmdx1l4xly5no?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
+       "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:54 AM",
-     "headline": "Oklahoma State rewards Eric Morris with contract extension after Cowboys' dramatic turnaround",
-     "summary": "Morris will get a fresh six-year deal that adds two more years and a big raise amid a successful first year in Stillwater",
+     "time": "5:53 PM",
+     "headline": "How did things get so bad for Aaron Rodgers and Mike McCarthy, and what's next?",
+     "summary": "Today's news shook the NFL, and ESPN's insiders share insights on the QB, the coach and their futures.",
+     "sources": [
+      {
+       "outlet": "ESPN",
+       "title": "How did things get so bad for Aaron Rodgers and Mike McCarthy, and what's next?",
+       "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "5:47 PM",
+     "headline": "Duke vs. UConn picks, odds, prediction: 2026 college basketball betting preview, best bets, Thanksgiving Eve",
+     "summary": "Here's everything bettors need to know for Duke vs. UConn in men's basketball play from T-Mobile Arena in Las Vegas on Wednesday",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Oklahoma State rewards Eric Morris with contract extension after Cowboys' dramatic turnaround",
-       "url": "https://www.cbssports.com/college-football/news/eric-morris-oklahoma-state-contract-extension/",
+       "title": "Duke vs. UConn picks, odds, prediction: 2026 college basketball betting preview, best bets, Thanksgiving Eve",
+       "url": "https://www.cbssports.com/betting/news/duke-vs-uconn-picks-odds-prediction-2026-college-basketball-betting-preview-best-bets-thanksgiving-eve/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:46 AM",
-     "headline": "'Best midfielder in the world' - where does Bellingham rank?",
-     "summary": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
+     "time": "5:45 PM",
+     "headline": "Couple from Wake Forest-Georgia Tech game addresses viral intense discussion",
+     "summary": "The couple's intense discussion was caught on an ESPN broadcast of Wake Forest and Georgia Tech's Week 12 game and went viral.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "'Best midfielder in the world' - where does Bellingham rank?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Couple from Wake Forest-Georgia Tech game addresses viral intense discussion",
+       "url": "https://www.espn.com/college-football/story/_/id/50584732/wake-forest-georgia-tech-viral-couple-speaks",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:43 AM",
-     "headline": "Rams vs. Packers prediction, odds, time: 2026 NFL Thanksgiving Eve game picks by proven model",
-     "summary": "SportsLine's model has revealed its Green Bay Packers vs. Los Angeles Rams picks for Wednesday night NFC matchup as Micah Parsons is expected to return for the Packers",
+     "time": "5:45 PM",
+     "headline": "Cameron Brink marries Ben Felter in ceremony at Stanford's Memorial Church",
+     "summary": "The couple met in 2021 and was engaged in 2024 before marrying at their alma mater's Memorial Church.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Rams vs. Packers prediction, odds, time: 2026 NFL Thanksgiving Eve game picks by proven model",
-       "url": "https://www.cbssports.com/betting/news/rams-packers-prediction-odds-start-time-2026-nfl-thanksgiving-eve-game-picks-best-bets/",
+       "outlet": "ESPN",
+       "title": "Cameron Brink marries Ben Felter in ceremony at Stanford's Memorial Church",
+       "url": "https://www.espn.com/wnba/story/_/id/50587846/cameron-brink-ben-felter-wedding",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:32 AM",
-     "headline": "Aaron Rodgers' brother has a theory on why QB was shockingly benched by Steelers",
-     "summary": "Jordan Rodgers believes GM Omar Khan intervened to make the change rather than Mike McCarthy after the quarterback took subtle shots at the front office",
+     "time": "5:45 PM",
+     "headline": "Week 13 Game Day Kickoff: Nothing compares to the outright hatred of a rival",
+     "summary": "What to expect in Rivalry Week, from top games and players to teams on upset alert.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Aaron Rodgers' brother has a theory on why QB was shockingly benched by Steelers",
-       "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-brother-theory-why-qb-was-shockingly-benched-steelers/",
+       "outlet": "ESPN",
+       "title": "Week 13 Game Day Kickoff: Nothing compares to the outright hatred of a rival",
+       "url": "https://www.espn.com/college-football/story/_/page/gamedaykickoff112526/week-13-top-games-upsets-preview",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:28 AM",
-     "headline": "Confusion and anger - Yoro red card rescinded, but row goes on",
-     "summary": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
+     "time": "5:45 PM",
+     "headline": "Bottom 10: Putting the 'L' in UCLA -- and setting up the Pillow Fight of the Century",
+     "summary": "While UCLA suffered its first loss, we still have a team looking for its first win -- and time is running out.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Bottom 10: Putting the 'L' in UCLA -- and setting up the Pillow Fight of the Century",
+       "url": "https://www.espn.com/college-football/story/_/id/50585901/bottom-10-week-12-ucla",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:23 AM",
-     "headline": "Greatest catch ever? Man on motorbike takes incredible grab",
-     "summary": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+     "time": "5:44 PM",
+     "headline": "Preview: WarGames, USA vs. Mexico and The Rock's return",
+     "summary": "Greg Wyshynski gets you caught up on all the key WWE storylines before Saturday's PLE in Houston.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Greatest catch ever? Man on motorbike takes incredible grab",
-       "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Preview: WarGames, USA vs. Mexico and The Rock's return",
+       "url": "https://www.espn.com/wwe/story/_/id/50585520/wwe-survivor-series-wargames-2026-preview",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:20 AM",
-     "headline": "Packers vs. Rams odds, picks, prediction: NFL Week 12 best bets, player props for Thanksgiving Eve",
-     "summary": "Will Brinson breaks down his top value plays for Packers vs. Rams on Thanksgiving Eve, including a lean on the total and some anytime touchdown scorers",
+     "time": "5:43 PM",
+     "headline": "LaMelo Ball and the squad lifting the Ant-less Timberwolves",
+     "summary": "Through \"giddiness,\" an enhanced focus on defense and an ensemble cast, LaMelo Ball and the Timberwolves are thriving.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Packers vs. Rams odds, picks, prediction: NFL Week 12 best bets, player props for Thanksgiving Eve",
-       "url": "https://www.cbssports.com/betting/news/packers-vs-rams-odds-picks-prediction-nfl-week-12-best-bets-player-props-for-thanksgiving-eve/",
+       "outlet": "ESPN",
+       "title": "LaMelo Ball and the squad lifting the Ant-less Timberwolves",
+       "url": "https://www.espn.com/nba/story/_/id/50587119/lamelo-ball-minnesota-timberwolves-anthony-edwards",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:20 AM",
-     "headline": "Grading every NBA lottery pick from 2026 Draft: Yaxel Lendeborg gets an A+, plus which rookies need more time",
-     "summary": "More than a month into the 2026-27 season, let's take a look at the class of rookies",
+     "time": "5:43 PM",
+     "headline": "Inside LeBron's first game in Philly -- more than two decades ago",
+     "summary": "Nearly 25 years ago, LeBron won over Philly for the first time -- inside one of the most iconic basketball arenas in the world.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Grading every NBA lottery pick from 2026 Draft: Yaxel Lendeborg gets an A+, plus which rookies need more time",
-       "url": "https://www.cbssports.com/nba/news/2026-nba-draft-lottery-pick-grades-yaxel-lendeborg-caleb-wilson-aj-dybantsa-cam-boozer/",
+       "outlet": "ESPN",
+       "title": "Inside LeBron's first game in Philly -- more than two decades ago",
+       "url": "https://www.espn.com/nba/story/_/id/50389727/lebron-james-palestra-maureece-rice-philadelphia",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:19 AM",
-     "headline": "Leicester no longer for sale as owner looks to future",
-     "summary": "Leicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale.",
+     "time": "5:43 PM",
+     "headline": "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
+     "summary": "Next best move for Mets? Best free agency timing? We have a yearbook's worth of awards for the top MLB free agents.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Leicester no longer for sale as owner looks to future",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
+       "url": "https://www.espn.com/mlb/story/_/id/50575214/free-agent-class-superlatives",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:16 AM",
-     "headline": "Prisco's NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders",
-     "summary": "Pete Prisco shares his Week 12 Power Rankings for the 2026 NFL season, including the Jaguars falling five spots",
+     "time": "5:43 PM",
+     "headline": "The ripple effects of Tarik Skubal's signing on the Mets, Dodgers and more",
+     "summary": "The impact of the record deal for MLB's top free agent extends past his new team.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Prisco's NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders",
-       "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-12-power-rankings-thanksgiving-games/",
+       "outlet": "ESPN",
+       "title": "The ripple effects of Tarik Skubal's signing on the Mets, Dodgers and more",
+       "url": "https://www.espn.com/mlb/story/_/id/50575245/ripple-effects-skubal-signing-dodgers-padres-blue-jays",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:16 AM",
-     "headline": "Biggest questions on Aaron Rodgers benching: Why did Steelers make abrupt quarterback change?",
-     "summary": "Pittsburgh made a difficult decision while setting in motion their plans for the QB position moving forward",
+     "time": "5:42 PM",
+     "headline": "Dortmund draw shows that the jury is still out on Gyökeres",
+     "summary": "Brought in to provide the cutting edge that Arsenal needed up front, it's games like Tuesday's draw with Dortmund that show why Viktor Gyökeres continues to divide opinion.",
      "sources": [
       {
-       "outlet": "CBS Sports",
-       "title": "Biggest questions on Aaron Rodgers benching: Why did Steelers make abrupt quarterback change?",
-       "url": "https://www.cbssports.com/nfl/news/steelers-bench-aaron-rodgers-why-and-what-it-means-mason-rudolph/",
+       "outlet": "ESPN",
+       "title": "Dortmund draw shows that the jury is still out on Gyökeres",
+       "url": "https://www.espn.com/soccer/story/_/id/50586544/arsenal-champions-league-dortmund-jury-viktor-gyokeres",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:08 AM",
-     "headline": "Stockdale back as Ireland make two changes for Australia game",
-     "summary": "Ulster wing Jacob Stockdale is recalled to the Ireland starting team for Friday night's Nations Championship fifth-place play-off match against Australia.",
+     "time": "5:42 PM",
+     "headline": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
+     "summary": "Borussia Dortmund earned a crucial point away at Arsenal, while Real Madrid got an easy win over PSV on the first day of Matchday 5 of the UEFA Champions League.",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Stockdale back as Ireland make two changes for Australia game",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx62p86g7vjgo?at_medium=RSS&at_campaign=rss",
+       "outlet": "ESPN",
+       "title": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
+       "url": "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-25",
-     "time": "11:06 AM",
-     "headline": "Packers vs. Rams odds, first touchdown scorer picks, predictions for NFL Thanksgiving Eve game",
-     "summary": "Here's a look at first touchdown scorer prediction markets available at Kalshi for Packers vs. Rams NFL Week 12 on Thanksgiving Eve",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Packers vs. Rams odds, first touchdown scorer picks, predictions for NFL Thanksgiving Eve game",
-       "url": "https://www.cbssports.com/prediction/news/packers-vs-rams-odds-first-touchdown-scorer-picks-predictions-nfl-thanksgiving-eve-game/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:03 AM",
-     "headline": "College football odds, picks, predictions for Rivalry Week, 2026: Computer likes North Carolina, Arizona",
-     "summary": "SportsLine's model has revealed its 2026 Week 13 college football picks for Rivalry Week matchups such as Ohio State vs. Michigan, USC vs. UCLA and Auburn vs. Alabama",
+     "time": "5:42 PM",
+     "headline": "Champions League contenders ranked: Real Madrid and PSG near top, but who is No. 1?",
+     "summary": "Arsenal are still up there after falling just short in the 2026 final, while key injuries dent PSG's three-peat bid and Jose Mourinho has Real Madrid surging",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "College football odds, picks, predictions for Rivalry Week, 2026: Computer likes North Carolina, Arizona",
-       "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-best-bets-rivalry-week-2026/",
+       "title": "Champions League contenders ranked: Real Madrid and PSG near top, but who is No. 1?",
+       "url": "https://www.cbssports.com/soccer/news/champions-league-contenders-ranked-arsenal-psg-real-madrid-2026/",
        "bias": 0
       }
      ]
