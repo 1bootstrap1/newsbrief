@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:10:53Z",
+ "generated_at": "2026-11-25T17:14:07Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -55,6 +55,20 @@
     },
     {
      "date": "2026-11-25",
+     "time": "12:10 PM",
+     "headline": "Iran denounces U.S. use of AI in war",
+     "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Iran denounces U.S. use of AI in war",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
      "time": "11:59 AM",
      "headline": "Serbia government wants to limit reality TV, adopt 4-day work week",
      "summary": "Serbia's Student List party, which recently ousted the country's Russia-aligned strongman leader, wants to restrict reality TV.",
@@ -78,6 +92,20 @@
        "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
        "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
        "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "11:57 AM",
+     "headline": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
+     "summary": "The Libyan National Army mourns two soldiers who died Tuesday from a Ukrainian drone strike on a Russian warship in Benghazi, vowing retaliation.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
+       "url": "https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers",
+       "bias": 1
       }
      ]
     },
@@ -167,20 +195,6 @@
     },
     {
      "date": "2026-11-25",
-     "time": "11:26 AM",
-     "headline": "Iran denounces U.S. use of AI in war",
-     "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran denounces U.S. use of AI in war",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
      "time": "11:22 AM",
      "headline": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
      "summary": "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant.",
@@ -218,20 +232,6 @@
        "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
        "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:16 AM",
-     "headline": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
-     "summary": "Ábrego García chose to depart from US after previously being deported to El Salvador due to ‘administrative error’ Kilmar Ábrego García, the Salvadoran national whose mistaken deportation turned him into a symbol of Donald Trump’s mass deportation efforts…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
-       "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
-       "bias": -1
       }
      ]
     }
@@ -277,6 +277,34 @@
        "outlet": "PBS NewsHour",
        "title": "What is lead azide? What to know about the chemical detonated at an Iowa Army base",
        "url": "https://www.pbs.org/newshour/science/what-is-lead-azide-what-to-know-about-the-chemical-detonated-at-an-iowa-army-base",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "12:13 PM",
+     "headline": "Maps show how far lead dust from Iowa detonation could travel",
+     "summary": "Maps released by the Army Tuesday show a possible plume of toxic dust after its detonation of munitions in Iowa drifting southwest toward northeast Missouri between 9 a.m. and 5 p.m. Wednesday.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Maps show how far lead dust from Iowa detonation could travel",
+       "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "time": "12:10 PM",
+     "headline": "Iran denounces U.S. use of AI in war",
+     "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Iran denounces U.S. use of AI in war",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
        "bias": 0
       }
      ]
@@ -432,34 +460,6 @@
        "title": "Drone video captures smoke plume after controlled Iowa detonation",
        "url": "https://www.nbcnews.com/video/drone-captures-plume-of-smoke-rising-into-air-after-army-detonated-cache-of-lead-explosives-274171461912",
        "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:26 AM",
-     "headline": "Iran denounces U.S. use of AI in war",
-     "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran denounces U.S. use of AI in war",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "time": "11:18 AM",
-     "headline": "How people use AI agents to handle annoying tasks and save money",
-     "summary": "Shrugging off fears of AI, some consumers say the technology is simplifying their lives and helping them save money.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "How people use AI agents to handle annoying tasks and save money",
-       "url": "https://www.cbsnews.com/news/ai-agents-annoyance-economy/",
-       "bias": 0
       }
      ]
     }
