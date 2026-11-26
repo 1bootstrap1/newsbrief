@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:17:22Z",
+ "generated_at": "2026-11-26T23:04:14Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -15,114 +15,36 @@
    "items": [
     {
      "date": "2026-11-26",
-     "time": "10:56 AM",
+     "time": "5:01 PM",
      "headline": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
      "summary": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.",
      "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Diesel tanker capsizes near Ibiza, killing crew member",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
-       "bias": -1
-      },
       {
        "outlet": "BBC News",
        "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
        "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "12:05 PM",
-     "headline": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
-     "summary": "The army blows up US stockpile of lead azide, a chemical used for explosives, to avoid uncontrollable explosion The US army blew up the nation’s entire stockpile of lead azide, a chemical used to make explosives, saying the first checks show Wednesday’s…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
-       "url": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "12:03 PM",
-     "headline": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-     "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "12:00 PM",
-     "headline": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
-     "summary": "Further deals can be enacted via same legislation, though it excludes rejoining single market, customs union or bloc as a whole A bill to implement the UK-EU deal will grant significant powers for ministers to enact even closer ties with Brussels, though it…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
-       "url": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "12:00 PM",
-     "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
-     "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Oil prices inch back up as Iran and the Houthis escalate threats",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:49 AM",
-     "headline": "How a teen’s death raises questions about Colombia’s security crackdown",
-     "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
-     "sources": [
+      },
       {
        "outlet": "Al Jazeera",
-       "title": "How a teen’s death raises questions about Colombia’s security crackdown",
-       "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+       "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:39 AM",
-     "headline": "Italy says two citizens killed in Iranian strike in Kuwait",
+     "time": "4:17 PM",
+     "headline": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Italy says two citizens killed in Iranian strike in Kuwait",
+       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
        "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:32 AM",
-     "headline": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-     "summary": "The Italians were technicians working at an air-defence surveillance station.",
-     "sources": [
+      },
       {
        "outlet": "Al Jazeera",
        "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
@@ -133,98 +55,188 @@
     },
     {
      "date": "2026-11-26",
-     "time": "11:21 AM",
-     "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
-     "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+     "time": "12:18 PM",
+     "headline": "French actor Gérard Depardieu to stand trial on rape charge",
+     "summary": "A lawyer representing French actor Gérard Depardieu says he has been ordered to stand trial on a charge of raping a young actress at his Paris home in 2018.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
+       "url": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+       "bias": -1
+      },
+      {
+       "outlet": "CBS News",
+       "title": "French actor Gérard Depardieu to stand trial on rape charge",
+       "url": "https://www.cbsnews.com/news/gerard-depardieu-trial-alleged-rape-paris/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "5:49 PM",
+     "headline": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+     "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
      "sources": [
       {
        "outlet": "BBC News",
-       "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-       "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+       "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:20 AM",
-     "headline": "Spanish economist to become new European Central Bank chief",
-     "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos",
+     "time": "5:36 PM",
+     "headline": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+     "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings Institution Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under Bill Clinton and then headed the Brookings…",
      "sources": [
       {
-       "outlet": "Al Jazeera",
-       "title": "Spanish economist to become new European Central Bank chief",
-       "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+       "outlet": "The Guardian",
+       "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+       "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:18 AM",
-     "headline": "Could the Black Sea pull the U.S. into war in Europe?",
-     "summary": "The Russia-Ukraine war is spilling into the Black Sea, where violent incidents have surged, running right up to NATO's doorstep.",
+     "time": "5:06 PM",
+     "headline": "Report: CIA tortured more people with waterboarding than US agency admitted",
+     "summary": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+       "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "5:06 PM",
+     "headline": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+     "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+       "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:33 PM",
+     "headline": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+     "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+       "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:14 PM",
+     "headline": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
+     "summary": "Wes Streeting says the United Kingdom is contacting former service members to update its strategic reserve as Russian sabotage rises across Europe.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
+       "url": "https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:08 PM",
+     "headline": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+     "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+       "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:04 PM",
+     "headline": "Bangladesh garment workers clash with police over low wages",
+     "summary": "Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Bangladesh garment workers clash with police over low wages",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "3:58 PM",
+     "headline": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+     "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "3:35 PM",
+     "headline": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
+     "summary": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Could the Black Sea pull the U.S. into war in Europe?",
-       "url": "https://www.cbsnews.com/news/black-sea-incidents-nato-russia-ukraine-war/",
+       "title": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:13 AM",
-     "headline": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-     "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-       "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:08 AM",
-     "headline": "Georgia judge blocks own order to turn over US election ballot copies to state board",
-     "summary": "Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appeal A judge in Fulton county, Georgia , has blocked her own order to turn over electronic copies of 2020 election ballots seized by the FBI in a raid…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
-       "url": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:59 AM",
-     "headline": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened",
-     "summary": "This blog is now closed The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:57 AM",
-     "headline": "Why is France roiling?",
-     "summary": "Al Jazeera’s Ramy Allahoum looks at how France's financial crisis is shaping next year’s vote.",
+     "time": "3:34 PM",
+     "headline": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+     "summary": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Why is France roiling?",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+       "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+       "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "3:33 PM",
+     "headline": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+     "summary": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
        "bias": -1
       }
      ]
@@ -235,6 +247,138 @@
    "id": "national",
    "name": "Regional & National",
    "items": [
+    {
+     "date": "2026-11-26",
+     "time": "3:16 PM",
+     "headline": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+     "summary": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some…",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+       "url": "https://www.pbs.org/newshour/nation/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical",
+       "bias": 0
+      },
+      {
+       "outlet": "NPR",
+       "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+       "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+       "bias": -1
+      },
+      {
+       "outlet": "ABC News",
+       "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+       "url": "https://abcnews.com/US/wireStory/fcc-spacex-deploy-1-million-satellites-data-centers-138455857",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "2:01 PM",
+     "headline": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+     "summary": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, whose huge pop hits included \"Hungry Like the Wolf,\" \"The Reflex\" and \"Rio\" and were inextricably linked to the launch of MTV, has died. He was 65.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+       "url": "https://www.pbs.org/newshour/arts/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65",
+       "bias": 0
+      },
+      {
+       "outlet": "NPR",
+       "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+       "url": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
+       "bias": -1
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Andy Taylor, longtime Duran Duran guitarist, dies at 65",
+       "url": "https://www.cbsnews.com/news/andy-taylor-guitarist-duran-duran-dies-age-65/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "5:20 PM",
+     "headline": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
+     "summary": "A federal judge on Wednesday sided against Democrats on the federal government's taxpayer-funded ads that promoted partisan messages and President Donald Trump ahead of the midterm elections, declining to extend a temporary ban.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
+       "url": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
+       "bias": 0
+      },
+      {
+       "outlet": "CBS News",
+       "title": "Judge declines to issue long-term ban on tax-funded pro-Trump ads",
+       "url": "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:48 PM",
+     "headline": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+     "summary": "North Korean leader Kim Jong Un visited facilities that produce nuclear ingredients and called for building more nuclear weapons, days after ignoring U.S. President Donald Trump's offer to meet during his recent visit to Asia.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+       "url": "https://www.pbs.org/newshour/world/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+       "bias": 0
+      },
+      {
+       "outlet": "NPR",
+       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+       "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "2:33 PM",
+     "headline": "Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful",
+     "summary": "Just over a year ago, the chief executive officer of an Ohio tech company was forced to resign when he was caught on video embracing an employee at a Coldplay concert.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful",
+       "url": "https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful",
+       "url": "https://abcnews.com/US/wireStory/nvidia-ceos-comeback-fuels-debate-misogyny-impunity-rich-138451682",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "12:52 PM",
+     "headline": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
+     "summary": "President Donald Trump, who has staked his economic policy on growth in the artificial intelligence sector, will travel to Arizona on Dec. 4 to speak at the groundbreaking for a new Taiwan Semiconductor Manufacturing Co.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
+       "url": "https://www.pbs.org/newshour/politics/trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmcs-computer-chip-factories",
+       "bias": 0
+      },
+      {
+       "outlet": "ABC News",
+       "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
+       "url": "https://abcnews.com/US/wireStory/trump-heads-arizona-week-high-stakes-expansion-tsmcs-138455173",
+       "bias": -1
+      }
+     ]
+    },
     {
      "date": "2026-11-26",
      "time": "10:41 AM",
@@ -257,53 +401,97 @@
     },
     {
      "date": "2026-11-26",
-     "time": "7:27 AM",
-     "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-     "summary": "For the first time in its 100-year history, the world-famous Macy’s Thanksgiving Day Parade has been postponed. The unprecedented decision by Macy’s and New York City was made after forecasters warned of potentially dangerous storm conditions.",
+     "time": "5:53 PM",
+     "headline": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+     "summary": "Strobe Talbott, a former Time magazine reporter and deputy secretary of state under President Bill Clinton, has died at 80",
      "sources": [
       {
-       "outlet": "NBC News",
-       "title": "Macy’s Thanksgiving Day Parade Postponed for First Time Ever",
-       "url": "https://www.today.com/video/macy-s-thanksgiving-day-parade-postponed-for-first-time-ever-274220101982",
+       "outlet": "ABC News",
+       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+       "url": "https://abcnews.com/US/wireStory/strobe-talbott-former-time-magazine-reporter-deputy-secretary-138472248",
        "bias": -1
-      },
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "5:53 PM",
+     "headline": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show",
+     "summary": "The black and tan coonhound defeated six other outstanding dogs to claim the 2026 National Dog Show's top honor.",
+     "sources": [
       {
        "outlet": "CBS News",
-       "title": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-       "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
+       "title": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show",
+       "url": "https://www.cbsnews.com/news/2026-national-dog-show-winner-rocker-coonhound/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "1:53 AM",
-     "headline": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-     "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
+     "time": "4:46 PM",
+     "headline": "Trump to visit Arizona manufacturer of semiconductor chips",
+     "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-       "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
-       "bias": -1
-      },
-      {
-       "outlet": "ABC News",
-       "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-       "url": "https://abcnews.com/US/wireStory/fcc-spacex-deploy-1-million-satellites-data-centers-138455857",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "Trump to visit Arizona manufacturer of semiconductor chips",
+       "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "12:00 PM",
-     "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
-     "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
+     "time": "4:36 PM",
+     "headline": "Mexico's most powerful cartels adapt as arrests and leadership battles reshape their ranks",
+     "summary": "The arrest of another Mexican drug lord over the weekend added to a string of actions against cartels as Mexico intensifies its crackdown on organized crime under mounting pressure from U.S. President Donald Trump and with U.S. intelligence support.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Mexico's most powerful cartels adapt as arrests and leadership battles reshape their ranks",
+       "url": "https://www.pbs.org/newshour/world/mexicos-most-powerful-cartels-adapt-as-arrests-and-leadership-battles-reshape-their-ranks",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "3:58 PM",
+     "headline": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US",
+     "summary": "President Donald Trump says only 2% of Minnesota's Somali community should stay, claiming on Truth Social the rest should be thrown out to save the state.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US",
+       "url": "https://www.foxnews.com/politics/trump-takes-somali-welfare-dependency-thanksgiving-message-lays-who-should-stay-us",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "3:44 PM",
+     "headline": "What are king tides? These exceptionally high tides are increasingly flooding coastal communities",
+     "summary": "King tides are the highest tides of the year, and they are increasingly flooding coastal communities as sea levels rise.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "What are king tides? These exceptionally high tides are increasingly flooding coastal communities",
+       "url": "https://www.pbs.org/newshour/nation/what-are-king-tides-these-exceptionally-high-tides-are-increasingly-flooding-coastal-communities",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "3:35 PM",
+     "headline": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
+     "summary": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Oil prices inch back up as Iran and the Houthis escalate threats",
+       "title": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
        "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
        "bias": 0
       }
@@ -311,154 +499,14 @@
     },
     {
      "date": "2026-11-26",
-     "time": "11:53 AM",
-     "headline": "Food banks see influx of families ahead of Thanksgiving",
-     "summary": "Across the U.S., volunteers have noticed more families than usual seeking food assistance as people struggle with higher grocery costs.",
+     "time": "2:49 PM",
+     "headline": "Trump claims \"fake economic numbers\" were released before election",
+     "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Food banks see influx of families ahead of Thanksgiving",
-       "url": "https://www.cbsnews.com/news/thanksgiving-food-bank-demand-meal-costs/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:45 AM",
-     "headline": "ICE detains man in Mass. after he picks up lottery winnings",
-     "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "ICE detains man in Mass. after he picks up lottery winnings",
-       "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:44 AM",
-     "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
-     "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
-       "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:40 AM",
-     "headline": "Maps show where Thanksgiving storms could disrupt holiday",
-     "summary": "Rain, snow and powerful winds were affecting large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Maps show where Thanksgiving storms could disrupt holiday",
-       "url": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:36 AM",
-     "headline": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
-     "summary": "President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections, and said he wants to launch an investigation.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
-       "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:18 AM",
-     "headline": "Could the Black Sea pull the U.S. into war in Europe?",
-     "summary": "The Russia-Ukraine war is spilling into the Black Sea, where violent incidents have surged, running right up to NATO's doorstep.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Could the Black Sea pull the U.S. into war in Europe?",
-       "url": "https://www.cbsnews.com/news/black-sea-incidents-nato-russia-ukraine-war/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:09 AM",
-     "headline": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
-     "summary": "A federal judge on Wednesday blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses, agreeing with the network that the Trump administration was chilling the network's free speech rights.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
-       "url": "https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:00 AM",
-     "headline": "2026's biggest political turkeys: Scandals, gaffes and other memorable unfortunate moments from this year",
-     "summary": "Eric Swalwell's California gubernatorial collapse, Tim Walz's fraud scandal and more: the political figures whose 2026 ended in scandal and defeat.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "2026's biggest political turkeys: Scandals, gaffes and other memorable unfortunate moments from this year",
-       "url": "https://www.foxnews.com/politics/2026-biggest-political-turkeys-scandals-gaffes-memorable-unfortunate-moments-year",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:45 AM",
-     "headline": "Fake online stores may fool AI shopping bots on Black Friday",
-     "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Fake online stores may fool AI shopping bots on Black Friday",
-       "url": "https://www.cbsnews.com/news/ai-shopping-agents-fake-online-stores-black-friday/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:18 AM",
-     "headline": "Thanksgiving holiday plagued by heavy rain, wind and flooding across much of the U.S.",
-     "summary": "Much of the U.S. is facing foul weather for Thanksgiving, with a storm in the East forcing the postponement of Macy's 100th Thanksgiving Day Parade and strong winds and king tides prompting flood warnings and knocking out part of a city pier in the West.",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Thanksgiving holiday plagued by heavy rain, wind and flooding across much of the U.S.",
-       "url": "https://www.pbs.org/newshour/nation/thanksgiving-holiday-plagued-by-heavy-rain-wind-and-flooding-across-much-of-the-u-s",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:04 AM",
-     "headline": "Where to get the latest CBS Mornings Deals",
-     "summary": "It's Day 2 of CBS Mornings Deals' special series, 12 Days of Gifting, where we show viewers even more products at even lower prices. Visit cbsdeals.com to take advantage of these exclusive deals today.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Where to get the latest CBS Mornings Deals",
-       "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112626/",
+       "title": "Trump claims \"fake economic numbers\" were released before election",
+       "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/",
        "bias": 0
       }
      ]
@@ -471,19 +519,19 @@
    "items": [
     {
      "date": "2026-11-26",
-     "time": "8:29 AM",
-     "headline": "Marshville residents lose water on Thanksgiving after main break",
-     "summary": "Officials reported the water main break along Water Plant Road around 4 p.m. Wednesday, Nov. 25.",
+     "time": "1:08 PM",
+     "headline": "Boil water advisory issued for Marshville after water main break",
+     "summary": "Around noon, officials issued a boil water advisory that would remain in effect until the town announces it has been lifted.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Marshville residents lose water on Thanksgiving after main break",
-       "url": "https://www.wbtv.com/2026/11/26/marshville-residents-lose-water-thanksgiving-after-main-break/",
+       "title": "Boil water advisory issued for Marshville after water main break",
+       "url": "https://www.wbtv.com/2026/11/26/boil-water-advisory-issued-marshville-after-water-main-break/",
        "bias": 0
       },
       {
        "outlet": "WSOC",
-       "title": "Water main break leaves Marshville residents without water on Thanksgiving",
+       "title": "Boil water advisory in place after Marshville water main break",
        "url": "https://www.wsoctv.com/news/local/water-main-break-leaves-marshville-residents-without-water-thanksgiving/UX3UJQSSQRBRXDJMTBXB5EVZAI/",
        "bias": 0
       }
@@ -491,119 +539,189 @@
     },
     {
      "date": "2026-11-26",
-     "time": "11:46 AM",
-     "headline": "Your704 Weekender: Here’s what’s happening in Charlotte Nov 27-29",
-     "summary": "Looking for something to do this weekend? Here’s what’s happening around Charlotte.",
+     "time": "6:00 PM",
+     "headline": "South Carolina marching band meets $275K fundraising goal to perform in postponed Macy’s Thanksgiving parade",
+     "summary": "High school band, staff, chaperones able to stay in New York City a few extra days",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "South Carolina marching band meets $275K fundraising goal to perform in postponed Macy’s Thanksgiving parade",
+       "url": "https://www.wbtv.com/2026/11/26/south-carolina-marching-band-meets-275k-fundraising-goal-perform-postponed-macys-thanksgiving-parade/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "5:42 PM",
+     "headline": "Pounding waves tear apart fishing pier in Virginia Beach",
+     "summary": "Pounding waves tore apart a piece of a fishing pier in Virginia Beach, Virginia, Thursday.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Pounding waves tear apart fishing pier in Virginia Beach",
+       "url": "https://www.wbtv.com/2026/11/26/pounding-waves-tear-apart-fishing-pier-virginia-beach/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "5:13 PM",
+     "headline": "FORECAST: Clear shopping weekend ahead",
+     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Your704 Weekender: Here’s what’s happening in Charlotte Nov 27-29",
-       "url": "https://www.wsoctv.com/news/local/your704-weekender-heres-whats-happening-charlotte-nov-27-29/6DGUVSBTWVFMLNYSIRCV3OSUYQ/",
+       "title": "FORECAST: Clear shopping weekend ahead",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-clear-shopping-weekend-ahead/ZTPPJVSENVCZLBM5OTHHIGNCY4/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:17 AM",
-     "headline": "EPA says air monitors detected no lead after Iowa explosives blast; lab results still pending",
-     "summary": "EPA monitors detected no airborne lead after the Army’s lead azide blast in Middletown, Iowa. Lab results for soil, water and dust are pending.",
+     "time": "4:44 PM",
+     "headline": "Multiple snowboarders involved in brawl while waiting in lift line",
+     "summary": "A brawl broke out in a lift line at a ski resort in Vermont over the weekend.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "EPA says air monitors detected no lead after Iowa explosives blast; lab results still pending",
-       "url": "https://www.wbtv.com/2026/11/26/epa-says-air-monitors-detected-no-lead-after-iowa-explosives-blast-lab-results-still-pending/",
+       "title": "Multiple snowboarders involved in brawl while waiting in lift line",
+       "url": "https://www.wbtv.com/2026/11/26/multiple-snowboarders-involved-brawl-while-waiting-line-lift-hill/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "10:38 AM",
-     "headline": "‘So grateful’: Charlotte Rescue Mission serves more than 500 people on Thanksgiving",
-     "summary": "The day began with a prayer and a hearty breakfast before a traditional Thanksgiving feast.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "‘So grateful’: Charlotte Rescue Mission serves more than 500 people on Thanksgiving",
-       "url": "https://www.wbtv.com/2026/11/26/so-grateful-charlotte-rescue-mission-serves-more-than-500-people-thanksgiving/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:09 AM",
-     "headline": "Thanksgiving text mix-up friendship could become Lifetime movie",
-     "summary": "Wanda Dench and Jamal Hinton say Lifetime is working on a movie about their friendship, which began with a wrong-number Thanksgiving invitation in 2016.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Thanksgiving text mix-up friendship could become Lifetime movie",
-       "url": "https://www.wbtv.com/2026/11/26/thanksgiving-text-mix-up-friendship-could-become-lifetime-movie/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:06 AM",
-     "headline": "Naked man arrested after quadruple shooting kills 2 in southeast Charlotte on Thanksgiving Eve",
-     "summary": "Police said that two people died at the scene from gunshot wounds.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Naked man arrested after quadruple shooting kills 2 in southeast Charlotte on Thanksgiving Eve",
-       "url": "https://www.wbtv.com/2026/11/26/naked-man-arrested-after-quadruple-shooting-kills-2-southeast-charlotte-thanksgiving-eve/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:00 AM",
-     "headline": "How to avoid AI scams while holiday shopping",
-     "summary": "Scammers are using AI to make fake emails, texts and voices sound real. A Virginia Credit Union expert shares steps holiday shoppers can take.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "How to avoid AI scams while holiday shopping",
-       "url": "https://www.wbtv.com/2026/11/26/how-avoid-ai-scams-while-holiday-shopping/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "9:38 AM",
-     "headline": "Man charged in deadly east Charlotte quadruple shooting",
-     "summary": "Police have made an arrest in a deadly east Charlotte shooting that left two people dead and two others hurt Wednesday night.",
+     "time": "4:32 PM",
+     "headline": "Drivers spend more on gas for Thanksgiving travel, as end of tax suspension looms in NC",
+     "summary": "This Thanksgiving, drivers are expected to spend nearly a billion dollars more on gas this year.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "Man charged in deadly east Charlotte quadruple shooting",
-       "url": "https://www.wsoctv.com/news/local/medic-2-dead-2-hurt-east-charlotte-shooting/KRTS2NWGF5A2ZGV3NZ7NMXEXFM/",
+       "title": "Drivers spend more on gas for Thanksgiving travel, as end of tax suspension looms in NC",
+       "url": "https://www.wsoctv.com/news/local/drivers-spend-more-gas-thanksgiving-travel-end-tax-suspension-looms-nc/WQBKQCY7MFDN7CHX6AQIPBT5LU/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "9:36 AM",
-     "headline": "Rain eases in Charlotte Thanksgiving afternoon, but gusty winds and mountain snow return",
-     "summary": "Wind gusts of 40-50 mph are possible from Wednesday into Thursday.",
+     "time": "3:30 PM",
+     "headline": "U.S. Botanic Garden opens annual holiday show",
+     "summary": "The U.S. Botanic Garden’s (USBG) 2026 holiday exhibit features 37 models of national parks and historic places, each made entirely of plant parts.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Rain eases in Charlotte Thanksgiving afternoon, but gusty winds and mountain snow return",
-       "url": "https://www.wbtv.com/2026/11/26/wet-start-thanksgiving-windy-black-friday-carolinas-latest-forecast/",
+       "title": "U.S. Botanic Garden opens annual holiday show",
+       "url": "https://www.wbtv.com/2026/11/26/us-botanic-garden-opens-annual-holiday-show/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "9:05 AM",
+     "time": "2:37 PM",
+     "headline": "Sunshine returns after wet Thanksgiving, with more rain possible this weekend",
+     "summary": "Thursday night will be mostly cloudy and damp, with lows in the 30s in Charlotte.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Sunshine returns after wet Thanksgiving, with more rain possible this weekend",
+       "url": "https://www.wbtv.com/2026/11/26/sunshine-returns-after-wet-thanksgiving-with-more-rain-possible-this-weekend/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "2:20 PM",
+     "headline": "Midland students collect coats to help other kids in need",
+     "summary": "Every year, we’re moved by the generosity and kindness of our community, especially when it’s kids helping kids.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Midland students collect coats to help other kids in need",
+       "url": "https://www.wsoctv.com/news/local/midland-students-collect-coats-help-other-kids-need/SRUW6BISSVDULIG7F37VTWG3IE/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "1:35 PM",
+     "headline": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
+     "summary": "‘We need your support like never before,’ band says after annual parade pushed to Saturday",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
+       "url": "https://www.wbtv.com/2026/11/26/south-carolina-high-school-band-seeks-donations-stay-new-york-city-after-thanksgiving-parade-postponed/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "1:28 PM",
+     "headline": "1 killed, 6 others shot during pajama party early on Thanksgiving, sheriff says",
+     "summary": "One person was killed and six others were injured in a shooting at a teenage birthday party at a Davenport, Florida, Airbnb, the sheriff said.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "1 killed, 6 others shot during pajama party early on Thanksgiving, sheriff says",
+       "url": "https://www.wbtv.com/2026/11/26/1-killed-6-others-shot-during-pajama-party-early-thanksgiving-sheriff-says/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "1:27 PM",
+     "headline": "Storms knock out power for thousands across the Carolinas",
+     "summary": "Strong winds, downed trees and traffic accidents from slick roads left thousands of Duke Energy customers without power Thursday morning.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Storms knock out power for thousands across the Carolinas",
+       "url": "https://www.wsoctv.com/news/local/storms-knock-out-power-thousands-across-carolinas/5OCB2D5VF5D7ZP7CPSAEDFLSMI/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "1:00 PM",
+     "headline": "Raising children while caring for aging parents: More Americans find themselves sandwiched in the middle",
+     "summary": "Millions of Americans are finding themselves in the middle of a caregiving squeeze — raising children while also caring for aging parents. The responsibility can bring financial strain, emotional exhaustion and difficult family decisions.",
+     "sources": [
+      {
+       "outlet": "WFAE",
+       "title": "Raising children while caring for aging parents: More Americans find themselves sandwiched in the middle",
+       "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-26/raising-children-while-caring-for-aging-parents-more-americans-find-themselves-sandwiched-in-the-middle",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "12:34 PM",
+     "headline": "‘Helping hand’: Nonprofit provides free laundry services for families in need",
+     "summary": "For about four years, Jennifer Hudson has been busy washing and drying clothes and trying to get the word out about her nonprofit Start Fresh Laundry.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "‘Helping hand’: Nonprofit provides free laundry services for families in need",
+       "url": "https://www.wsoctv.com/news/local/helping-hand-nonprofit-provides-free-laundry-services-families-need/A7OQL3QLKZE2RJTZVL5JEQM2KE/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "12:19 PM",
      "headline": "Charlotte Rescue Mission provides Thanksgiving meals for those in need",
      "summary": "Volunteers with the Charlotte Rescue Mission spent this Thanksgiving providing for others.",
      "sources": [
@@ -612,76 +730,6 @@
        "title": "Charlotte Rescue Mission provides Thanksgiving meals for those in need",
        "url": "https://www.wsoctv.com/news/local/charlotte-rescue-mission-provides-thanksgiving-meals-those-need/ALZNIX5GPNC7LCWOUGWZRTSHUA/",
        "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "9:00 AM",
-     "headline": "Building community in an age of loneliness could start with your neighbors",
-     "summary": "Americans are more digitally connected than ever, yet more often isolated from the people living closest to them. A national survey last year showed only about a quarter of adults know all or most of their neighbors.",
-     "sources": [
-      {
-       "outlet": "WFAE",
-       "title": "Building community in an age of loneliness could start with your neighbors",
-       "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-25/building-community-in-an-age-of-loneliness-could-start-with-your-neighbors",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "8:44 AM",
-     "headline": "Mother, 92, charged in 5-year-old son’s death 57 years after he died",
-     "summary": "Texas police say Harriet Hall, 92, has been charged with murder in the death of her 5-year-old son, Ronald, 57 years after he died.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Mother, 92, charged in 5-year-old son’s death 57 years after he died",
-       "url": "https://www.wbtv.com/2026/11/26/mother-92-charged-5-year-old-sons-death-57-years-after-he-died/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "7:01 AM",
-     "headline": "FORECAST: Showers moving out for a drier, breezy Thanksgiving afternoon",
-     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "FORECAST: Showers moving out for a drier, breezy Thanksgiving afternoon",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-showers-moving-out-drier-breezy-thanksgiving-afternoon/TTPBP7AU5ZDHXO4HBAMXZ5NSFM/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "6:01 AM",
-     "headline": "Golden Girls bills could bring together older and younger roommates",
-     "summary": "Twenty-five-year-old Californian Regnar Madarang wants to own his own home someday. But the Bay Area’s rent of $2,000 and up for a single room wouldn’t allow him to save up for a downpayment, he said.",
-     "sources": [
-      {
-       "outlet": "NC Newsline",
-       "title": "Golden Girls bills could bring together older and younger roommates",
-       "url": "https://ncnewsline.com/2026/11/26/repub/golden-girls-bills-could-bring-together-older-and-younger-roommates/",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "6:00 AM",
-     "headline": "Could a data center’s waste heat warm a North Carolina town?",
-     "summary": "In the Carolinas, Ohio, Texas, and many other states, Democrats routed incumbent Republicans in this month’s elections at least in part because voters fear an onslaught of AI data centers — the massive computer warehouses that threaten to suck up water…",
-     "sources": [
-      {
-       "outlet": "NC Newsline",
-       "title": "Could a data center’s waste heat warm a North Carolina town?",
-       "url": "https://ncnewsline.com/2026/11/26/could-a-data-centers-waste-heat-warm-a-north-carolina-town/",
-       "bias": -1
       }
      ]
     }
@@ -693,203 +741,133 @@
    "items": [
     {
      "date": "2026-11-26",
-     "time": "12:12 PM",
-     "headline": "Germany's Freigang given 16-month ban over drugs test issues",
-     "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+     "time": "6:01 PM",
+     "headline": "Selby faces tough UK Championship opener, with Allen set to feature",
+     "summary": "Mark Selby is to start his defence of the UK Championship title against Matt Selt on Saturday in York.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Germany's Freigang given 16-month ban over drugs test issues",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+       "title": "Selby faces tough UK Championship opener, with Allen set to feature",
+       "url": "https://www.bbc.co.uk/sport/snooker/articles/cwkgmdryrv4ro?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "12:11 PM",
-     "headline": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for NFL Thanksgiving, Bills-Chiefs",
-     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NFL Thanksgiving betting 2026",
+     "time": "5:40 PM",
+     "headline": "Chiefs vs. Bills prediction, odds, time: 2026 NFL Thanksgiving night picks from advanced model",
+     "summary": "SportsLine's model has revealed its Kansas City Chiefs vs. Buffalo Bills picks for Thanksgiving night as the teams vie for the top seed in the conference",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for NFL Thanksgiving, Bills-Chiefs",
-       "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-nfl-thanksgiving-bills-chiefs/",
+       "title": "Chiefs vs. Bills prediction, odds, time: 2026 NFL Thanksgiving night picks from advanced model",
+       "url": "https://www.cbssports.com/betting/news/chiefs-bills-prediction-odds-time-2026-nfl-thanksgiving-night-picks-best-bets/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "12:10 PM",
-     "headline": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for Chiefs-Bills, Cowboys-Eagles, Thanksgiving Day NFL",
-     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Thanksgiving Day NFL games",
+     "time": "5:39 PM",
+     "headline": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 13",
+     "summary": "A closer look at the top games on tap Saturday as college football Week 13 takes center stage",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Best Kalshi promo code CBSSPORTS55: Receive $55 bonus for Chiefs-Bills, Cowboys-Eagles, Thanksgiving Day NFL",
-       "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-receive-55-bonus-chiefs-bills-cowboys-eagles-thanksgiving-day-nfl/",
+       "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 13",
+       "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-13/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "12:09 PM",
-     "headline": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for NFL Thanksgiving, Bears-Lions, Cowboys-Eagles",
-     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL Thanksgiving betting 2026",
+     "time": "5:35 PM",
+     "headline": "USC vs. UCLA prediction, pick, odds, spread: Trojans meet Bruins with Big Ten, CFP stakes in play",
+     "summary": "No. 9 UCLA looks to rebound from its first loss of the season against crosstown rival and No. 15 USC",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for NFL Thanksgiving, Bears-Lions, Cowboys-Eagles",
-       "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nfl-thanksgiving-bears-lions-cowboys-eagles/",
+       "title": "USC vs. UCLA prediction, pick, odds, spread: Trojans meet Bruins with Big Ten, CFP stakes in play",
+       "url": "https://www.cbssports.com/college-football/news/usc-ucla-prediction-picks-odds-spread-where-to-watch-live/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "12:07 PM",
-     "headline": "2026 NFL Thanksgiving odds, picks, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
-     "summary": "Get a $55 bonus with the Kalshi promo code CBSSPORTS55 for Lions-Bears, Cowboys-Eagles and Bills-Chiefs on Thanksgiving.",
+     "time": "5:33 PM",
+     "headline": "NFL Week 12 grades for Thanksgiving: Bears earn 'B' for stunning win over Lions, Packers leave L.A. with 'D'",
+     "summary": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "2026 NFL Thanksgiving odds, picks, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
-       "url": "https://www.cbssports.com/prediction/news/2026-nfl-thanksgiving-odds-picks-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus/",
+       "title": "NFL Week 12 grades for Thanksgiving: Bears earn 'B' for stunning win over Lions, Packers leave L.A. with 'D'",
+       "url": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "12:05 PM",
-     "headline": "Week 12 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for NFL Thanksgiving",
-     "summary": "Top Week 12 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "time": "5:28 PM",
+     "headline": "Alabama vs. Auburn prediction, pick, odds, spread: No. 6 Crimson Tide, Tigers clash in 2026 Iron Bowl",
+     "summary": "A potential College Football Playoff first-round bye is on the line for the Crimson Tide as they host an upset-minded Tigers squad seeking their first Tuscaloosa win since 2010",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Week 12 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for NFL Thanksgiving",
-       "url": "https://www.cbssports.com/betting/news/week-12-nfl-betting-promos-get-nearly-4000-in-bonuses-from-betting-apps-sportsbooks-for-nfl-thanksgiving/",
+       "title": "Alabama vs. Auburn prediction, pick, odds, spread: No. 6 Crimson Tide, Tigers clash in 2026 Iron Bowl",
+       "url": "https://www.cbssports.com/college-football/news/alabama-auburn-prediction-pick-iron-bowl-2026-odds-spread-where-to-watch/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:56 AM",
-     "headline": "What all 32 NFL teams should be thankful for this Thanksgiving",
-     "summary": "From MVP candidates Joe Burrow and Brock Purdy to promising rookies, new coaches and future draft picks, here is one reason each of the NFL's 32 teams can give thanks",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "What all 32 NFL teams should be thankful for this Thanksgiving",
-       "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-grateful/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:47 AM",
-     "headline": "Fofana has apologised for interview - Alonso",
-     "summary": "Chelsea manager Xabi Alonso says defender Wesley Fofana has apologised for his controversial comments in an interview he gave without permission from the club.",
+     "time": "5:27 PM",
+     "headline": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+     "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Fofana has apologised for interview - Alonso",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
+       "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:40 AM",
-     "headline": "Week 12 NFL odds, lines, totals, spreads for every game, including Bears-Lions, Cowboys-Eagles, Bills-Chiefs",
-     "summary": "A look at the latest Week 12 NFL odds, spreads, and totals for all 16 games, including Thanksgiving matchups.",
+     "time": "5:25 PM",
+     "headline": "Ohio State vs. Michigan prediction, pick, odds, spread: Buckeyes, Wolverines battle for bragging rights",
+     "summary": "With both rivals out of the playoff picture, bragging rights and Jeremiah Smith's Heisman campaign take center stage",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Week 12 NFL odds, lines, totals, spreads for every game, including Bears-Lions, Cowboys-Eagles, Bills-Chiefs",
-       "url": "https://www.cbssports.com/betting/news/week-12-nfl-betting-lines-odds-spreads-totals/",
+       "title": "Ohio State vs. Michigan prediction, pick, odds, spread: Buckeyes, Wolverines battle for bragging rights",
+       "url": "https://www.cbssports.com/college-football/news/ohio-state-michigan-prediction-picks-odds-spread-where-to-watch-live/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:39 AM",
-     "headline": "Bears vs. Lions prediction, odds, time: 2026 NFL Thanksgiving Day picks by proven model",
-     "summary": "SportsLine's model has revealed its Chicago Bears vs. Detroit Lions picks for Thursday NFC North matchup as first place will be on the line",
+     "time": "4:44 PM",
+     "headline": "It wouldn't shock me if ... for NFL Week 12: Steelers fall out of playoff picture minus Aaron Rodgers",
+     "summary": "Our five bold calls for Week 12 include a career day for Quinshon Judkins and mounting pressure on the Seahawks to play Drew Lock",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Bears vs. Lions prediction, odds, time: 2026 NFL Thanksgiving Day picks by proven model",
-       "url": "https://www.cbssports.com/betting/news/bears-lions-prediction-odds-time-spread-2026-nfl-thanksgiving-day-picks-best-bets/",
+       "title": "It wouldn't shock me if ... for NFL Week 12: Steelers fall out of playoff picture minus Aaron Rodgers",
+       "url": "https://www.cbssports.com/nfl/news/nfl-week-12-predictions-colston-loveland-thanksgiving/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-26",
-     "time": "11:35 AM",
-     "headline": "College football score predictions for Rivalry Week, 2026: Model backs Wake Forest (-14.5) vs. Duke",
-     "summary": "SportsLine's model has revealed its Week 13 college football score predictions for matchups such as Alabama vs. Auburn, Ohio State vs. Michigan and USC vs. UCLA",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "College football score predictions for Rivalry Week, 2026: Model backs Wake Forest (-14.5) vs. Duke",
-       "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-best-bets-rivalry-week-2026/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:33 AM",
-     "headline": "Michigan State vs. Arkansas prediction, pick, odds: SEC, Big Ten foes meet in CBS Sports Thanksgiving Classic",
-     "summary": "John Calipari's Razorbacks face Tom Izzo's Spartans in a marquee nonconference matchup in Detroit in the CBS Sports Thanksgiving Classic",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "Michigan State vs. Arkansas prediction, pick, odds: SEC, Big Ten foes meet in CBS Sports Thanksgiving Classic",
-       "url": "https://www.cbssports.com/college-basketball/news/michigan-state-arkansas-prediction-pick-odds-spread/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:25 AM",
-     "headline": "College basketball rankings: Arizona's hot streak continues as Wildcats win Maui Invitational",
-     "summary": "After an opening night loss, Arizona is on a seven-game winning streak and is No. 8 in Thursday's Top 25 And 1",
-     "sources": [
-      {
-       "outlet": "CBS Sports",
-       "title": "College basketball rankings: Arizona's hot streak continues as Wildcats win Maui Invitational",
-       "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-arizona-maui-invitationl/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:21 AM",
-     "headline": "India's Pant joins New Zealand club match under false name",
-     "summary": "India wicketkeeper Rishabh Pant unexpectedly joins a club game in Christchurch before the second Test against New Zealand and scores 54 off 21 balls.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "India's Pant joins New Zealand club match under false name",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:18 AM",
+     "time": "4:43 PM",
      "headline": "Fantasy football rankings Week 12: Dave Richard's tough start/sit calls clear up your toughest flex decisions",
      "summary": "Brock Purdy faces a difficult matchup, while Rhamondre Stevenson and Jonathan Taylor present tricky Week 12 start/sit decisions",
      "sources": [
@@ -897,6 +875,76 @@
        "outlet": "CBS Sports",
        "title": "Fantasy football rankings Week 12: Dave Richard's tough start/sit calls clear up your toughest flex decisions",
        "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-12-dave-richards-tough-startsit-calls/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:30 PM",
+     "headline": "Bills vs. Chiefs prediction: Which team wins latest chapter of Josh Allen-Patrick Mahomes saga?",
+     "summary": "Legendary quarterbacks close out the holiday slate in one of the biggest games of the season",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Bills vs. Chiefs prediction: Which team wins latest chapter of Josh Allen-Patrick Mahomes saga?",
+       "url": "https://www.cbssports.com/nfl/news/bills-vs-chiefs-prediction-odds-how-to-watch-thanksgiving/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:25 PM",
+     "headline": "Haaland considers Man City exit - Friday's gossip",
+     "summary": "Erling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Haaland considers Man City exit - Friday's gossip",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:25 PM",
+     "headline": "Fury 'never received' schizophrenia diagnosis",
+     "summary": "Paris Fury, the wife of Tyson Fury, says the boxer has never received a diagnosis of schizophrenia.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Fury 'never received' schizophrenia diagnosis",
+       "url": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:20 PM",
+     "headline": "No post-match drug testing in South Africa v New Zealand series",
+     "summary": "No post-match samples was taken from South Africa and New Zealand players during their four-Test series earlier this year.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "No post-match drug testing in South Africa v New Zealand series",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c69309lz275wo?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "4:15 PM",
+     "headline": "Michigan State vs. Arkansas prediction, pick, odds: SEC, Big Ten foes meet in CBS Sports Thanksgiving Classic",
+     "summary": "John Calipari's Razorbacks face Tom Izzo's Spartans in a marquee nonconference matchup in Detroit in the CBS Sports Thanksgiving Classic",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Michigan State vs. Arkansas prediction, pick, odds: SEC, Big Ten foes meet in CBS Sports Thanksgiving Classic",
+       "url": "https://www.cbssports.com/college-basketball/news/michigan-state-arkansas-prediction-pick-odds-spread/",
        "bias": 0
       }
      ]
