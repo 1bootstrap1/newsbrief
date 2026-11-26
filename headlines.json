@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:04:14Z",
+ "generated_at": "2026-11-26T23:07:50Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -70,6 +70,20 @@
        "title": "French actor Gérard Depardieu to stand trial on rape charge",
        "url": "https://www.cbsnews.com/news/gerard-depardieu-trial-alleged-rape-paris/",
        "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "6:01 PM",
+     "headline": "Chance of snow forecast for northern England and Scotland in next few days",
+     "summary": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettled Parts of England could see snow in the coming days as cold and unsettled weather continues into the weekend, forecasters have said.",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Chance of snow forecast for northern England and Scotland in next few days",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
+       "bias": -1
       }
      ]
     },
@@ -223,20 +237,6 @@
        "outlet": "Al Jazeera",
        "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
        "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "3:33 PM",
-     "headline": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-     "summary": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
        "bias": -1
       }
      ]
@@ -401,6 +401,20 @@
     },
     {
      "date": "2026-11-26",
+     "time": "6:00 PM",
+     "headline": "Universities, schools nationwide use Thanksgiving as chance to promote 'Day of Mourning' and decolonization",
+     "summary": "Campus Thanksgiving events have been reframed as a \"National Day of Mourning\" for Indigenous remembrance, with Salem State and Pratt citing historical harm.",
+     "sources": [
+      {
+       "outlet": "Fox News",
+       "title": "Universities, schools nationwide use Thanksgiving as chance to promote 'Day of Mourning' and decolonization",
+       "url": "https://www.foxnews.com/politics/universities-schools-nationwide-use-thanksgiving-chance-promote-day-mourning-decolonization",
+       "bias": 1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
      "time": "5:53 PM",
      "headline": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
      "summary": "Strobe Talbott, a former Time magazine reporter and deputy secretary of state under President Bill Clinton, has died at 80",
@@ -496,20 +510,6 @@
        "bias": 0
       }
      ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "2:49 PM",
-     "headline": "Trump claims \"fake economic numbers\" were released before election",
-     "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Trump claims \"fake economic numbers\" were released before election",
-       "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -533,6 +533,34 @@
        "outlet": "WSOC",
        "title": "Boil water advisory in place after Marshville water main break",
        "url": "https://www.wsoctv.com/news/local/water-main-break-leaves-marshville-residents-without-water-thanksgiving/UX3UJQSSQRBRXDJMTBXB5EVZAI/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "6:05 PM",
+     "headline": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
+     "summary": "‘We need your support like never before,’ band says after annual parade pushed to Saturday",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
+       "url": "https://www.wbtv.com/2026/11/26/south-carolina-high-school-band-seeks-donations-stay-new-york-city-after-thanksgiving-parade-postponed/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "time": "6:04 PM",
+     "headline": "South Carolina high school band ‘committed’ to performing in now-postponed Macy’s Thanksgiving Day Parade",
+     "summary": "‘We need your support like never before,’ band says after annual parade pushed to Saturday",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "South Carolina high school band ‘committed’ to performing in now-postponed Macy’s Thanksgiving Day Parade",
+       "url": "https://www.wbtv.com/2026/11/26/south-carolina-high-school-band-committed-performing-now-postponed-macys-thanksgiving-day-parade/",
        "bias": 0
       }
      ]
@@ -651,20 +679,6 @@
     },
     {
      "date": "2026-11-26",
-     "time": "1:35 PM",
-     "headline": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
-     "summary": "‘We need your support like never before,’ band says after annual parade pushed to Saturday",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
-       "url": "https://www.wbtv.com/2026/11/26/south-carolina-high-school-band-seeks-donations-stay-new-york-city-after-thanksgiving-parade-postponed/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
      "time": "1:28 PM",
      "headline": "1 killed, 6 others shot during pajama party early on Thanksgiving, sheriff says",
      "summary": "One person was killed and six others were injured in a shooting at a teenage birthday party at a Davenport, Florida, Airbnb, the sheriff said.",
@@ -715,20 +729,6 @@
        "outlet": "WSOC",
        "title": "‘Helping hand’: Nonprofit provides free laundry services for families in need",
        "url": "https://www.wsoctv.com/news/local/helping-hand-nonprofit-provides-free-laundry-services-families-need/A7OQL3QLKZE2RJTZVL5JEQM2KE/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "12:19 PM",
-     "headline": "Charlotte Rescue Mission provides Thanksgiving meals for those in need",
-     "summary": "Volunteers with the Charlotte Rescue Mission spent this Thanksgiving providing for others.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Charlotte Rescue Mission provides Thanksgiving meals for those in need",
-       "url": "https://www.wsoctv.com/news/local/charlotte-rescue-mission-provides-thanksgiving-meals-those-need/ALZNIX5GPNC7LCWOUGWZRTSHUA/",
        "bias": 0
       }
      ]
