@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:16:04Z",
+ "generated_at": "2026-11-26T17:17:22Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -693,6 +693,20 @@
    "items": [
     {
      "date": "2026-11-26",
+     "time": "12:12 PM",
+     "headline": "Germany's Freigang given 16-month ban over drugs test issues",
+     "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Germany's Freigang given 16-month ban over drugs test issues",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
      "time": "12:11 PM",
      "headline": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for NFL Thanksgiving, Bills-Chiefs",
      "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NFL Thanksgiving betting 2026",
@@ -883,20 +897,6 @@
        "outlet": "CBS Sports",
        "title": "Fantasy football rankings Week 12: Dave Richard's tough start/sit calls clear up your toughest flex decisions",
        "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-12-dave-richards-tough-startsit-calls/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "11:10 AM",
-     "headline": "Russell says Verstappen's criticism 'quite amusing'",
-     "summary": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Russell says Verstappen's criticism 'quite amusing'",
-       "url": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
