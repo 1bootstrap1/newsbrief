@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:08:23Z",
+ "generated_at": "2026-11-26T12:11:28Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -263,20 +263,14 @@
     },
     {
      "date": "2026-11-26",
-     "time": "1:26 AM",
-     "headline": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
-     "summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers on Wednesday shortly after he described his head coach Mike McCarthy as “unhealthy” in a critical interview following the Steelers’ decision to deactivate Rodgers for the team’s upcoming game.",
+     "time": "7:07 AM",
+     "headline": "Hundreds of flights canceled on Thanksgiving Day as storms hit and question swirl over Iowa detonation: Morning Rundown",
+     "summary": "Bad weather postpones the Macy’s Thanksgiving Day Parade for the first-time ever.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
-       "url": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers",
-       "bias": -1
-      },
-      {
        "outlet": "NBC News",
-       "title": "Steelers cut Aaron Rodgers after he accuses coach Mike McCarthy of sleeping in meetings",
-       "url": "https://www.nbcnews.com/sports/nfl/aaron-rodgers-blasts-steelers-coach-mike-mccarthy-benching-re-unhealth-rcna611340",
+       "title": "Hundreds of flights canceled on Thanksgiving Day as storms hit and question swirl over Iowa detonation: Morning Rundown",
+       "url": "https://www.nbcnews.com/news/us-news/storms-weather-thanksgiving-iowa-detonation-aftermath-morning-rundown-rcna611416",
        "bias": -1
       }
      ]
@@ -693,6 +687,20 @@
    "items": [
     {
      "date": "2026-11-26",
+     "time": "7:00 AM",
+     "headline": "Serie A Power Rankings: Inter drop positions once again; AC Milan and AS Roma at the top",
+     "summary": "Lazio hold the actual league lead after the international break but both AS Roma and AC Milan are coming back at the top",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Serie A Power Rankings: Inter drop positions once again; AC Milan and AS Roma at the top",
+       "url": "https://www.cbssports.com/soccer/news/serie-a-power-rankings-inter-milan-roma/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
      "time": "6:54 AM",
      "headline": "Norrie holds nerve to beat Struff in Davis Cup quarter-final",
      "summary": "British number two Cameron Norrie gives Great Britain the perfect start to their Davis Cup quarter-final against Germany, as he beats Jan-Lennard Struff in three sets in the opening match of their tie in Bolgona.",
@@ -883,20 +891,6 @@
        "outlet": "BBC Sport",
        "title": "The Portuguese second-tier team hosting Celtic in Europe",
        "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "2:19 AM",
-     "headline": "Knee surgery rules Sinner out of Australian Open",
-     "summary": "Jannik Sinner is ruled out of the Australian Open in January following an operation on his knee.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Knee surgery rules Sinner out of Australian Open",
-       "url": "https://www.bbc.co.uk/sport/tennis/articles/c6x29q88r9v5o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
