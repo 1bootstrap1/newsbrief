@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T12:06:47Z",
+ "generated_at": "2026-11-27T17:16:37Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -15,115 +15,109 @@
    "items": [
     {
      "date": "2026-11-27",
-     "time": "6:51 AM",
-     "headline": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-     "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+     "time": "11:53 AM",
+     "headline": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+     "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing…",
+     "sources": [
+      {
+       "outlet": "BBC News",
+       "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+       "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      },
+      {
+       "outlet": "The Guardian",
+       "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+       "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+       "bias": -1
+      },
+      {
+       "outlet": "Al Jazeera",
+       "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+       "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "12:03 PM",
+     "headline": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+     "summary": "Greenpeace had published report showing tech firm was carrying on building despite ruling on its planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+       "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:55 AM",
+     "headline": "Trump says he's giving Iran \"a chance to be smart\"",
+     "summary": "President Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Trump says he's giving Iran \"a chance to be smart\"",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:54 AM",
+     "headline": "Elon Musk gets the greenlight from the US to launch one million satellites",
+     "summary": "Elon Musk wants to move AI data centres into space, where near-constant sunlight could help power them.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-       "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+       "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
        "bias": -1
-      },
-      {
-       "outlet": "BBC News",
-       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-       "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "1:12 AM",
-     "headline": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-     "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings Institution Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under Bill Clinton and then headed the Brookings…",
+     "time": "11:49 AM",
+     "headline": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
+     "summary": "Trump’s son-in-law and top negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably…",
      "sources": [
-      {
-       "outlet": "NPR World",
-       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-       "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
-       "bias": -1
-      },
       {
        "outlet": "The Guardian",
-       "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
-       "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
+       "title": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
+       "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "12:54 AM",
-     "headline": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
-     "summary": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch Get our breaking news email , free app or daily news podcast Erin Patterson has applied to the high court seeking leave…",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
-       "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      },
-      {
-       "outlet": "The Guardian",
-       "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:49 AM",
-     "headline": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-     "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
-     "sources": [
-      {
-       "outlet": "NPR World",
-       "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-       "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:44 AM",
-     "headline": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-     "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+     "time": "11:47 AM",
+     "headline": "Syria debates citizenship rights for children of foreign fighters",
+     "summary": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-       "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+       "title": "Syria debates citizenship rights for children of foreign fighters",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:44 AM",
-     "headline": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-     "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-     "sources": [
-      {
-       "outlet": "BBC News",
-       "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-       "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:44 AM",
-     "headline": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-     "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
+     "time": "11:33 AM",
+     "headline": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+     "summary": "This blog is now closed, you can read more on this story here According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning.",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+       "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
        "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
        "bias": -1
       }
@@ -131,13 +125,41 @@
     },
     {
      "date": "2026-11-27",
-     "time": "6:41 AM",
-     "headline": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-     "summary": "‘I can’t conceive of us losing,’ the leader said It’s probably a good moment to say that we will be running a special Europe live blog from Madrid on Sunday night to bring you all the latest in the Spanish parliamentary election, including first polls…",
+     "time": "11:33 AM",
+     "headline": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+     "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+       "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:31 AM",
+     "headline": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+     "summary": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+       "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:19 AM",
+     "headline": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+     "summary": "This blog is now closed Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the…",
      "sources": [
       {
        "outlet": "The Guardian",
-       "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+       "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
        "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
        "bias": -1
       }
@@ -145,7 +167,35 @@
     },
     {
      "date": "2026-11-27",
-     "time": "6:37 AM",
+     "time": "11:18 AM",
+     "headline": "Eastern US recovers from storms that snarled Thanksgiving travel as flooding continues",
+     "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia Skies are clearing along the US eastern seaboard, and power was being restored to hundreds of thousands of customers, whose Thanksgiving plans were…",
+     "sources": [
+      {
+       "outlet": "The Guardian",
+       "title": "Eastern US recovers from storms that snarled Thanksgiving travel as flooding continues",
+       "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:13 AM",
+     "headline": "Trump backs Iraqi PM’s oil smuggling crackdown",
+     "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+     "sources": [
+      {
+       "outlet": "Al Jazeera",
+       "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+       "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:12 AM",
      "headline": "U.S. opens hotline for tips about cartels, angering Mexico",
      "summary": "President Claudia Sheinbaum blasted the DEA after it set up anonymous tip lines in the country, accusing American officials of interference.",
      "sources": [
@@ -159,84 +209,28 @@
     },
     {
      "date": "2026-11-27",
-     "time": "6:37 AM",
-     "headline": "Trump says he's giving Iran \"a chance to be smart\"",
-     "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
+     "time": "11:06 AM",
+     "headline": "Kenyan doomsday cult leader convicted over further 123 deaths",
+     "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
      "sources": [
       {
-       "outlet": "CBS News",
-       "title": "Trump says he's giving Iran \"a chance to be smart\"",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+       "outlet": "BBC News",
+       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+       "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:35 AM",
-     "headline": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
-     "summary": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
+     "time": "11:01 AM",
+     "headline": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+     "summary": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness'.",
      "sources": [
       {
        "outlet": "Al Jazeera",
-       "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
-       "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:33 AM",
-     "headline": "What Spain’s election means for Morocco",
-     "summary": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "What Spain’s election means for Morocco",
-       "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:18 AM",
-     "headline": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
-     "summary": "Judge says officers should be banned from screens and phones while on shift after the 33-year-old’s death at Silverwater • Warning: This article contains references to Indigenous Australians who have died The NSW coroner has found the death of an Aboriginal…",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
-       "url": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:15 AM",
-     "headline": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-     "summary": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
-     "sources": [
-      {
-       "outlet": "Al Jazeera",
-       "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-       "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:14 AM",
-     "headline": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-     "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outage UK politics live – latest updates Almost all pensions and benefits systems in the UK are unavailable following a “cyber incident”.",
-     "sources": [
-      {
-       "outlet": "The Guardian",
-       "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-       "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+       "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
        "bias": -1
       }
      ]
@@ -249,89 +243,139 @@
    "items": [
     {
      "date": "2026-11-27",
-     "time": "6:49 AM",
-     "headline": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-     "summary": "Gérard Depardieu, for decades one of France's most celebrated actors, has been ordered to stand trial on charges of raping and sexually assaulting a young actress, authorities said Thursday, less than two weeks after the cinema star abandoned his appeal of a…",
+     "time": "11:17 AM",
+     "headline": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals",
+     "summary": "Black Friday produces more foot traffic at physical stores than any other day despite growing competition from e-commerce and brands rolling out steep holiday discounts online weeks in advance, according to retail technology company Sensormatic Solutions.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-       "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+       "outlet": "ABC News",
+       "title": "Before sunrise at Macy’s, a familiar Black Friday ritual returns despite weeks of online deals",
+       "url": "https://abcnews.com/US/wireStory/sunrise-macys-familiar-black-friday-ritual-returns-despite-138476606",
        "bias": -1
       },
       {
        "outlet": "PBS NewsHour",
-       "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-       "url": "https://www.pbs.org/newshour/world/french-cinema-star-gerard-depardieu-ordered-to-stand-trial-for-rape-and-sexual-assault",
+       "title": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals",
+       "url": "https://www.pbs.org/newshour/economy/before-sunrise-at-macys-a-familiar-black-friday-ritual-returns-despite-weeks-of-online-deals",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "1:12 AM",
-     "headline": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-     "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
+     "time": "12:03 PM",
+     "headline": "NFL's Thanksgiving tripleheader has impressive comebacks and fantastic finishes",
+     "summary": "Caleb Williams put the Chicago Bears in first place. Joe Milton III put a dagger in his former team's season. Tyler Bass put the Buffalo Bills in position for a No. 1 seed.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-       "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
-       "bias": -1
-      },
+       "outlet": "PBS NewsHour",
+       "title": "NFL's Thanksgiving tripleheader has impressive comebacks and fantastic finishes",
+       "url": "https://www.pbs.org/newshour/nation/nfls-thanksgiving-tripleheader-has-impressive-comebacks-and-fantastic-finishes",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "12:01 PM",
+     "headline": "Pizza Hut cofounder Dan Carney dies, nearly seven decades after launching business",
+     "summary": "Dan Carney, who co-founded Pizza Hut with his brother nearly seven decades ago, has died",
+     "sources": [
       {
        "outlet": "ABC News",
-       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-       "url": "https://abcnews.com/US/wireStory/strobe-talbott-former-time-magazine-reporter-deputy-secretary-138472248",
+       "title": "Pizza Hut cofounder Dan Carney dies, nearly seven decades after launching business",
+       "url": "https://abcnews.com/US/wireStory/pizza-hut-cofounder-dan-carney-dies-decades-after-138483035",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:59 AM",
-     "headline": "Performers and marching bands scramble after Macy’s Thanksgiving Day Parade delay",
-     "summary": "After the historic decision to postpone the 100th Macy’s Thanksgiving Day Parade, performers and entire marching bands were forced to scramble to find ways to stay in the New York City area in order to perform during the new parade date on Saturday.",
+     "time": "11:58 AM",
+     "headline": "Black Friday shoppers head to brick-and-mortar stores across the U.S.",
+     "summary": "The tradition of Black Friday bargain-hunting was alive and well this year as shoppers headed to malls around the country to scrounge for deals.",
      "sources": [
       {
        "outlet": "NBC News",
-       "title": "Performers and marching bands scramble after Macy’s Thanksgiving Day Parade delay",
-       "url": "https://www.nbcnews.com/nightly-news/video/performers-and-marching-bands-scramble-after-macy-s-thanksgiving-day-parade-delay-274245189694",
+       "title": "Black Friday shoppers head to brick-and-mortar stores across the U.S.",
+       "url": "https://www.nbcnews.com/news/us-news/black-friday-shoppers-head-brick-mortar-stores-us-rcna611564",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:59 AM",
-     "headline": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
-     "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+     "time": "11:55 AM",
+     "headline": "Trump says he's giving Iran \"a chance to be smart\"",
+     "summary": "President Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
      "sources": [
       {
-       "outlet": "NPR",
-       "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
-       "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
-       "bias": -1
+       "outlet": "CBS News",
+       "title": "Trump says he's giving Iran \"a chance to be smart\"",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+       "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:47 AM",
-     "headline": "Why Advent calendars are thriving in the ‘little treat’ economy",
-     "summary": "Creators on TikTok and Instagram are helping to fuel the advent calendar craze, one review video at a time.",
+     "time": "11:53 AM",
+     "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
+     "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
      "sources": [
       {
-       "outlet": "NBC News",
-       "title": "Why Advent calendars are thriving in the ‘little treat’ economy",
-       "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/advent-calendars-popularity-little-treat-economy-social-media-unboxing-rcna609923",
+       "outlet": "CBS News",
+       "title": "Powerful Thanksgiving Day storm causes flooding, power outages",
+       "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:51 AM",
+     "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+     "summary": "After devastating election losses that centered on rising costs, many Republicans said they're open to reconsidering some of the levies that have become a central plank of Trump's global trade agenda.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+       "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:26 AM",
+     "headline": "Sales for Biden memoir fall far short of books by Obama, Clinton",
+     "summary": "Former President Joe Biden’s memoir “Promise Me, America” has sold around 21,000 copies during its first week on sale, according to Circana, a firm which tracks the physical book sales market",
+     "sources": [
+      {
+       "outlet": "ABC News",
+       "title": "Sales for Biden memoir fall far short of books by Obama, Clinton",
+       "url": "https://abcnews.com/US/wireStory/sales-biden-memoir-fall-short-books-obama-clinton-138481837",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:37 AM",
+     "time": "11:20 AM",
+     "headline": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
+     "summary": "The LA district, which enrolls half a million students, has made no formal announcement, and the move caught parents and students by surprise, said Bridie Lee, a leader of Schools Beyond Screens LA.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
+       "url": "https://www.pbs.org/newshour/education/as-google-threatens-to-cut-schools-search-access-los-angeles-blocks-ai-features",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:12 AM",
      "headline": "U.S. opens hotline for tips about cartels, angering Mexico",
      "summary": "President Claudia Sheinbaum blasted the DEA after it set up anonymous tip lines in the country, accusing American officials of interference.",
      "sources": [
@@ -345,126 +389,70 @@
     },
     {
      "date": "2026-11-27",
-     "time": "6:37 AM",
-     "headline": "Trump says he's giving Iran \"a chance to be smart\"",
-     "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
+     "time": "11:02 AM",
+     "headline": "Pregnant inmate escapes in prison SUV after stop at Whataburger",
+     "summary": "Rebecca Taylor, who was not restrained because of her pregnancy, slid into the front seat of the transport vehicle and drove away.",
      "sources": [
       {
        "outlet": "CBS News",
-       "title": "Trump says he's giving Iran \"a chance to be smart\"",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+       "title": "Pregnant inmate escapes in prison SUV after stop at Whataburger",
+       "url": "https://www.cbsnews.com/news/pregnant-prisoner-escapes-corrections-vehicle-new-mexico/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:30 AM",
-     "headline": "Luka Dončić is a scoring machine. The NBA has rarely seen anything like it.",
-     "summary": "Most NBA teams wouldn’t choose to let a player considered perhaps the greatest ever walk away in free agency.",
+     "time": "10:51 AM",
+     "headline": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot",
+     "summary": "The presidential vote comes after the student movement defeated former President Aleksandar Vucic's right-wing Serbian Progressive Party in an early parliamentary ballot on Oct. 25.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot",
+       "url": "https://www.pbs.org/newshour/world/serbias-student-movement-proposes-a-chemistry-professor-for-presidency-ahead-of-dec-27-ballot",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:32 AM",
+     "headline": "Zelenskyy: Trump calling Putin a friend like calling Hitler a friend",
+     "summary": "Volodymyr Zelenskyy described President Trump calling Vladimir Putin \"my friend\" as \"strange\" because the Russian leader is \"an aggressor and a killer.\"",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Zelenskyy: Trump calling Putin a friend like calling Hitler a friend",
+       "url": "https://www.cbsnews.com/news/zelenskyy-trump-calling-putin-friend-like-hitler-viewed-friend-wwii/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:31 AM",
+     "headline": "Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange",
+     "summary": "\"He can't be a friend,\" Zelenskyy told the BBC in Kyiv, likening it to someone calling Adolf Hitler a friend during World War II.",
+     "sources": [
+      {
+       "outlet": "PBS NewsHour",
+       "title": "Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange",
+       "url": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:28 AM",
+     "headline": "Hackers attack and penetrate Air Force’s computing platform",
+     "summary": "Hackers penetrated the Air Force’s cloud computing platform in a breach that could have exposed sensitive military information, a U.S. official said Friday.",
      "sources": [
       {
        "outlet": "NBC News",
-       "title": "Luka Dončić is a scoring machine. The NBA has rarely seen anything like it.",
-       "url": "https://www.nbcnews.com/sports/nba/luka-doncc-scoring-machine-nba-rarely-seen-anything-rcna610109",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:23 AM",
-     "headline": "Every Black Friday streaming deal worth grabbing this year",
-     "summary": "Looking for Black Friday streaming deals? Get discounts from Peacock, Hulu, YouTube and more.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "Every Black Friday streaming deal worth grabbing this year",
-       "url": "https://www.nbcnews.com/select/shopping/black-friday-subscription-deals-2026-rcna610969",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:02 AM",
-     "headline": "The Oura Ring 5 is $100 off for Black Friday — it’s at its lowest price ever",
-     "summary": "Act now on this Oura Ring deal for Black Friday! The brand’s newest smart ring is at its lowest price ever.",
-     "sources": [
-      {
-       "outlet": "NBC News",
-       "title": "The Oura Ring 5 is $100 off for Black Friday — it’s at its lowest price ever",
-       "url": "https://www.nbcnews.com/select/shopping/oura-ring-5-black-friday-deal-2026-rcna611130",
-       "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:00 AM",
-     "headline": "How to spot real Black Friday savings this holiday season amid the affordability squeeze",
-     "summary": "A marketing professor warns that Black Friday deals aren't always real discounts, citing shrinkflation and inflation as factors that obscure true savings.",
-     "sources": [
-      {
-       "outlet": "Fox News",
-       "title": "How to spot real Black Friday savings this holiday season amid the affordability squeeze",
-       "url": "https://www.foxnews.com/politics/how-spot-real-black-friday-savings-holiday-season-amid-affordability-squeeze",
-       "bias": 1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:00 AM",
-     "headline": "Here's how GLP-1 drugs are changing people's shopping habits",
-     "summary": "More than 60 million Americans could be using the drugs by 2030, double the number that currently use them, according to a new forecast.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Here's how GLP-1 drugs are changing people's shopping habits",
-       "url": "https://www.cbsnews.com/news/glp-1-drugs-food-apparel-shopping-habits/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:00 AM",
-     "headline": "Credit card mistakes to avoid this holiday season",
-     "summary": "With the potential to spend more than usual this holiday season, credit card users should avoid making these mistakes.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Credit card mistakes to avoid this holiday season",
-       "url": "https://www.cbsnews.com/news/credit-card-mistakes-to-avoid-holiday-season/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:00 AM",
-     "headline": "Anchoring on DayQuil, hiding from JLO and losing Bruce Springsteen | Straight Up with Vlad and Kelly",
-     "summary": "This week, Vlad and Kelly hand over the producer's chair to you. In a special mailbag episode, they answer listener questions about everything from their most chaotic moments in live television and what it's really like to report from a war zone, to the…",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Anchoring on DayQuil, hiding from JLO and losing Bruce Springsteen | Straight Up with Vlad and Kelly",
-       "url": "https://www.cbsnews.com/video/anchoring-on-dayquil-hiding-from-jlo-and-losing-bruce-springsteen-straight-up-with-vlad-and-kelly/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "5:59 AM",
-     "headline": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-     "summary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade.",
-     "sources": [
-      {
-       "outlet": "NPR",
-       "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-       "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+       "title": "Hackers attack and penetrate Air Force’s computing platform",
+       "url": "https://www.nbcnews.com/news/us-news/hackers-attack-penetrate-air-forces-computing-platform-rcna611559",
        "bias": -1
       }
      ]
@@ -477,49 +465,35 @@
    "items": [
     {
      "date": "2026-11-27",
-     "time": "6:58 AM",
-     "headline": "FORECAST: Chilly start, breezy day",
-     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
+     "time": "11:37 AM",
+     "headline": "Recall alert: Ibuprofen 800mg tablets recalled over potential contamination",
+     "summary": "Is your ibuprofen safe? FDA recalls 800 mg tablets due to potential metal contamination. Find details.",
      "sources": [
       {
        "outlet": "WSOC",
-       "title": "FORECAST: Chilly start, breezy day",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-chilly-start-breezy-day/RZGVYZFY2FE5RJLYLRFFU43XE4/",
+       "title": "Recall alert: Ibuprofen 800mg tablets recalled over potential contamination",
+       "url": "https://www.wsoctv.com/news/trending/recall-alert-ibuprofen-800mg-tablets-recalled-over-potential-contamination/7RIUITMMWFALDER7VUSY7MAVO4/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:55 AM",
-     "headline": "12-year-old on track to graduate high school this year, start college in the fall",
-     "summary": "While most 12-year-olds are focused on middle school, one Horry County student is getting ready for life on a college campus.",
+     "time": "11:28 AM",
+     "headline": "Catawba County child’s positive measles test linked to vaccination, officials say",
+     "summary": "Public health officials received the results of a specialized follow-up test Wednesday, Thanksgiving Eve.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "12-year-old on track to graduate high school this year, start college in the fall",
-       "url": "https://www.wbtv.com/2026/11/27/12-year-old-track-graduate-high-school-this-year-start-college-fall/",
+       "title": "Catawba County child’s positive measles test linked to vaccination, officials say",
+       "url": "https://www.wbtv.com/2026/11/27/catawba-county-childs-positive-measles-test-linked-vaccination-officials-say/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:26 AM",
-     "headline": "Sheriff: Toddler drowned while family was busy with Thanksgiving dinner",
-     "summary": "The victim was a young boy who was found unresponsive on top of a pool cover that had collected water.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Sheriff: Toddler drowned while family was busy with Thanksgiving dinner",
-       "url": "https://www.wbtv.com/2026/11/27/boy-drowned-after-leaving-home-while-family-was-busy-with-thanksgiving-dinner-sheriff-says/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:26 AM",
+     "time": "11:24 AM",
      "headline": "Deadly crash under investigation in south Charlotte",
      "summary": "Charlotte-Mecklenburg Police Department is investigating a deadly crash in south Charlotte early Friday.",
      "sources": [
@@ -533,160 +507,168 @@
     },
     {
      "date": "2026-11-27",
-     "time": "6:05 AM",
-     "headline": "Cold and breezy weather for Black Friday shoppers in Carolinas",
-     "summary": "Wind gusts of 40-50 mph are possible from Wednesday into Thursday.",
+     "time": "11:16 AM",
+     "headline": "Black Friday shoppers brave cold temperatures to cash in on holiday deals",
+     "summary": "Despite weeks of online deals, shoppers lined up as early as 3 a.m. at the Charlotte Premium Outlets.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Cold and breezy weather for Black Friday shoppers in Carolinas",
-       "url": "https://www.wbtv.com/2026/11/27/cold-breezy-black-friday-shoppers-charlotte-forecast/",
+       "title": "Black Friday shoppers brave cold temperatures to cash in on holiday deals",
+       "url": "https://www.wbtv.com/2026/11/27/black-friday-shoppers-brave-cold-temperatures-cash-holiday-deals/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "6:00 AM",
-     "headline": "Afghan family in NC faces immigration and medical uncertainty over federal delays",
-     "summary": "Sahar Amir’s wife, daughter and son spoke little after they loaded bags into a van and set off into the night. Inside the vehicle headed from Kabul, Afghanistan, to the Pakistan border, the atmosphere was grim.",
+     "time": "11:05 AM",
+     "headline": "Macy’s 100th Thanksgiving Parade delay: What shows will go on?",
+     "summary": "Discover how marching bands and performers are adapting to the rescheduled Macy's Thanksgiving Parade.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Macy’s 100th Thanksgiving Parade delay: What shows will go on?",
+       "url": "https://www.wsoctv.com/news/trending/macys-100th-thanksgiving-parade-delay-what-shows-will-go/7EGMSYMA3BH2JOULCNII5FFT3A/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:51 AM",
+     "headline": "Home destroyed on Thanksgiving Day after turkey fryers catch fire on deck, officials say",
+     "summary": "A home in Nebraska is considered to be a total loss following a Thanksgiving Day fire.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Home destroyed on Thanksgiving Day after turkey fryers catch fire on deck, officials say",
+       "url": "https://www.wbtv.com/2026/11/27/home-destroyed-thanksgiving-day-after-turkey-fryers-catch-fire-deck-officials-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:51 AM",
+     "headline": "Mooresville man wins $200K top prize on digital instant game",
+     "summary": "Timothy O’Connor of Mooresville won a $200,000 top prize after trying his luck on a $5 Digital Instant game on a Friday.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Mooresville man wins $200K top prize on digital instant game",
+       "url": "https://www.wsoctv.com/news/local/mooresville-man-wins-200k-top-prize-digital-instant-game/KPI3PVLZE5GBPPTQHMHEYDH53I/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:43 AM",
+     "headline": "Morning 3: 1 killed in crash near college campus in Charlotte -- and other news",
+     "summary": "Here are the top stories for the morning of Nov. 27, 2026",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Morning 3: 1 killed in crash near college campus in Charlotte -- and other news",
+       "url": "https://www.wbtv.com/2026/11/27/morning-3-1-killed-crash-near-college-campus-charlotte-other-news/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:40 AM",
+     "headline": "Black Friday still draws crowds in the age of online shopping",
+     "summary": "Black Friday remains one of the busiest shopping days of the year.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Black Friday still draws crowds in the age of online shopping",
+       "url": "https://www.wsoctv.com/news/local/black-friday-still-draws-crowds-age-online-shopping/FP5YIPUPXVCGRPG2ILABMFX75U/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:08 AM",
+     "headline": "Report: Charlotte-area homebuyers need more than $160K to afford a median-priced home",
+     "summary": "Report estimates that 75% of regional households can’t afford to buy such a home",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Report: Charlotte-area homebuyers need more than $160K to afford a median-priced home",
+       "url": "https://www.wbtv.com/2026/11/27/report-charlotte-area-homebuyers-need-more-than-160k-afford-median-priced-home/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:04 AM",
+     "headline": "Hickory child cleared of measles",
+     "summary": "A suspected measles case involving a Catawba County child was caused by a recent vaccination and was not an actual infection, public health officials announced.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "Hickory child cleared of measles",
+       "url": "https://www.wsoctv.com/news/local/hickory-child-cleared-measles/XVEHJ62EDFBDZPXD5IBK6C5D34/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:03 AM",
+     "headline": "Man killed on Thanksgiving after stopping to help another driver on interstate, police say",
+     "summary": "A man who stopped to help another motorist on Thanksgiving afternoon has died after being hit by a vehicle.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Man killed on Thanksgiving after stopping to help another driver on interstate, police say",
+       "url": "https://www.wbtv.com/2026/11/27/man-killed-thanksgiving-after-stopping-help-another-driver-interstate-police-say/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:01 AM",
+     "headline": "Winter weather advisory issued in North Carolina mountains: What to know",
+     "summary": "The advisory was issued for Ashe and Watauga counties.",
+     "sources": [
+      {
+       "outlet": "WBTV",
+       "title": "Winter weather advisory issued in North Carolina mountains: What to know",
+       "url": "https://www.wbtv.com/2026/11/27/winter-weather-advisory-issued-north-carolina-mountains-what-know/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "10:00 AM",
+     "headline": "Federal court blocks second Trump order on birthright citizenship",
+     "summary": "WASHINGTON — A federal judge in the District of Columbia Wednesday issued a classwide injunction to prevent the Trump administration from implementing its second attempt at redefining the constitutional right to birthright citizenship.",
      "sources": [
       {
        "outlet": "NC Newsline",
-       "title": "Afghan family in NC faces immigration and medical uncertainty over federal delays",
-       "url": "https://ncnewsline.com/2026/11/27/afghan-family-faces-immigration-and-medical-uncertainty/",
+       "title": "Federal court blocks second Trump order on birthright citizenship",
+       "url": "https://ncnewsline.com/2026/11/27/repub/federal-court-blocks-second-trump-order-on-birthright-citizenship/",
        "bias": -1
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "1:46 AM",
-     "headline": "Trump addresses death of detective killed in Thanksgiving Day wrong-way crash",
-     "summary": "A detective was killed Thanksgiving Day in a wrong-way crash in Florida.",
+     "time": "9:56 AM",
+     "headline": "Semitruck jackknifes on interstate, leaving it straddling overpass and exit ramp",
+     "summary": "Slick road conditions are believed to have caused a semitruck to jackknife between two parts of an interstate overpass in Ohio Thanksgiving Day.",
      "sources": [
       {
        "outlet": "WBTV",
-       "title": "Trump addresses death of detective killed in Thanksgiving Day wrong-way crash",
-       "url": "https://www.wbtv.com/2026/11/27/trump-addresses-death-detective-killed-thanksgiving-day-wrong-way-crash/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "1:08 PM",
-     "headline": "Boil water advisory issued for Marshville after water main break",
-     "summary": "Around noon, officials issued a boil water advisory that would remain in effect until the town announces it has been lifted.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Boil water advisory issued for Marshville after water main break",
-       "url": "https://www.wbtv.com/2026/11/26/boil-water-advisory-issued-marshville-after-water-main-break/",
-       "bias": 0
-      },
-      {
-       "outlet": "WSOC",
-       "title": "Boil water advisory in place after Marshville water main break",
-       "url": "https://www.wsoctv.com/news/local/water-main-break-leaves-marshville-residents-without-water-thanksgiving/UX3UJQSSQRBRXDJMTBXB5EVZAI/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "10:21 PM",
-     "headline": "Ice rink roof collapses during winter storm",
-     "summary": "A section of an ice rink in Missouri collapsed during an overnight winter storm, leaving the building uninhabitable.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Ice rink roof collapses during winter storm",
-       "url": "https://www.wbtv.com/2026/11/27/ice-rinks-roof-collapses-during-winter-storm/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "8:44 PM",
-     "headline": "Police investigating deadly crash in west Charlotte",
-     "summary": "The Charlotte-Mecklenburg Police Department says at least one person was killed in a crash Thursday night near Interstate 85 in west Charlotte.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "Police investigating deadly crash in west Charlotte",
-       "url": "https://www.wsoctv.com/news/local/police-investigating-deadly-crash-west-charlotte/DSCBKFDZYBDABB6ZS4Z53X2E5M/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "8:29 PM",
-     "headline": "1 killed, 6 others shot during pajama party early on Thanksgiving, sheriff says",
-     "summary": "One person was killed and six others were injured in a shooting at a teenage birthday party at a Davenport, Florida, Airbnb, the sheriff said.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "1 killed, 6 others shot during pajama party early on Thanksgiving, sheriff says",
-       "url": "https://www.wbtv.com/2026/11/26/1-killed-6-others-shot-during-pajama-party-early-thanksgiving-sheriff-says/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "6:05 PM",
-     "headline": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
-     "summary": "‘We need your support like never before,’ band says after annual parade pushed to Saturday",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "South Carolina high school band seeks donations to stay in New York City after Thanksgiving parade postponed",
-       "url": "https://www.wbtv.com/2026/11/26/south-carolina-high-school-band-seeks-donations-stay-new-york-city-after-thanksgiving-parade-postponed/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "6:04 PM",
-     "headline": "South Carolina high school band ‘committed’ to performing in now-postponed Macy’s Thanksgiving Day Parade",
-     "summary": "‘We need your support like never before,’ band says after annual parade pushed to Saturday",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "South Carolina high school band ‘committed’ to performing in now-postponed Macy’s Thanksgiving Day Parade",
-       "url": "https://www.wbtv.com/2026/11/26/south-carolina-high-school-band-committed-performing-now-postponed-macys-thanksgiving-day-parade/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "6:00 PM",
-     "headline": "South Carolina marching band meets $275K fundraising goal to perform in postponed Macy’s Thanksgiving parade",
-     "summary": "High school band, staff, chaperones able to stay in New York City a few extra days",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "South Carolina marching band meets $275K fundraising goal to perform in postponed Macy’s Thanksgiving parade",
-       "url": "https://www.wbtv.com/2026/11/26/south-carolina-marching-band-meets-275k-fundraising-goal-perform-postponed-macys-thanksgiving-parade/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "5:42 PM",
-     "headline": "Pounding waves tear apart fishing pier in Virginia Beach",
-     "summary": "Pounding waves tore apart a piece of a fishing pier in Virginia Beach, Virginia, Thursday.",
-     "sources": [
-      {
-       "outlet": "WBTV",
-       "title": "Pounding waves tear apart fishing pier in Virginia Beach",
-       "url": "https://www.wbtv.com/2026/11/26/pounding-waves-tear-apart-fishing-pier-virginia-beach/",
+       "title": "Semitruck jackknifes on interstate, leaving it straddling overpass and exit ramp",
+       "url": "https://www.wbtv.com/2026/11/27/semitruck-jackknifes-interstate-leaving-it-straddling-overpass-exit-ramp/",
        "bias": 0
       }
      ]
@@ -699,210 +681,210 @@
    "items": [
     {
      "date": "2026-11-27",
-     "time": "6:57 AM",
-     "headline": "McInnes tempers 'anxiety' factor as Rangers seek top spot",
-     "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as the Ibrox side look to extend their winning run, says Derek McInnes.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "McInnes tempers 'anxiety' factor as Rangers seek top spot",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:45 AM",
-     "headline": "England outclass Aussies again to take series lead",
-     "summary": "England reaffirm their advantage over a struggling Australia in white-ball cricket with a seven-wicket thrashing in the third T20 at The Gabba.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "England outclass Aussies again to take series lead",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/cm9d704g26z4o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:37 AM",
-     "headline": "Watch the moment Marc Marquez announced his retirement from Moto GP",
-     "summary": "Watch Marc Marquez announce his retirement retire days after clinching a record-equalling eighth title.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Watch the moment Marc Marquez announced his retirement from Moto GP",
-       "url": "https://www.bbc.co.uk/sport/motorsport/videos/c5n4e3pxnengo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:17 AM",
-     "headline": "Twickenham set to be half empty for Nations Championship finals opening night",
-     "summary": "The 82,000-capacity Allianz Stadium is set to be half-empty for the opening night of the Nations Championship on Friday.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Twickenham set to be half empty for Nations Championship finals opening night",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c65y1k8428qdo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:14 AM",
-     "headline": "Eight-time champion Marquez to retire from MotoGP",
-     "summary": "MotoGP champion Marc Marquez says he will retire - days after clinching a record-equalling eighth title.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Eight-time champion Marquez to retire from MotoGP",
-       "url": "https://www.bbc.co.uk/sport/motorsport/articles/c539gd3r3mk2o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:03 AM",
-     "headline": "EFL preview: Happy Potters and the deathly Hammers",
-     "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "EFL preview: Happy Potters and the deathly Hammers",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "6:02 AM",
-     "headline": "'What a picture!' - Incredible airborne touchdown in NFL best plays",
-     "summary": "Watch the best plays from the Thanksgiving games in the NFL featuring an incredible airborne touchdown from Dallas Cowboys quarterback Dak Prescott.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "'What a picture!' - Incredible airborne touchdown in NFL best plays",
-       "url": "https://www.bbc.co.uk/sport/american-football/videos/cr782zlgq61eo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "5:34 AM",
-     "headline": "Botman banned from driving for using phone at wheel",
-     "summary": "The Newcastle United defender was given a six-month ban at Newcastle Magistrates' Court.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Botman banned from driving for using phone at wheel",
-       "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "5:24 AM",
-     "headline": "Clashes mar European games as Macron condemns violence",
-     "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Clashes mar European games as Macron condemns violence",
-       "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "5:11 AM",
-     "headline": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
-     "summary": "Southampton and Middlesbrough prepare to re-ignite their rivalry as they meet for the first time since the Spygate scandal unfolded.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
-       "url": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "3:26 AM",
-     "headline": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
-     "summary": "Controversy, a near-mega collapse, Rick Pitino vs. his old school and a 3-pointer for the win: Everything to know about what happened in Vegas after dark",
+     "time": "12:04 PM",
+     "headline": "Jaguars lose WR Parker Washington to shoulder injury as playoffs draw near",
+     "summary": "Jacksonville's top target is evaluated week-to-week with a shoulder issue, while leading rusher Bhayshul Tuten is also banged-up",
      "sources": [
       {
        "outlet": "CBS Sports",
-       "title": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
-       "url": "https://www.cbssports.com/college-basketball/news/louisville-buzzer-beater-st-johns-comeback-players-era-16/",
+       "title": "Jaguars lose WR Parker Washington to shoulder injury as playoffs draw near",
+       "url": "https://www.cbssports.com/nfl/news/jaguars-wr-parker-washington-out-week-12-considered-week-to-week-shoulder-injury-playoffs/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "3:08 AM",
-     "headline": "Familiar faces and surprise chances as Ireland face Wallabies",
-     "summary": "Ireland aim to round out a successful November with victory over Australia in what Andy Farrell is treating as a dry-run before next year's World Cup.",
+     "time": "12:00 PM",
+     "headline": "Why snooker could be the most mentally challenging sport",
+     "summary": "With Mark Allen the latest snooker player to talk about his mental health struggles, BBC Sport looks at why the sport is so mentally challenging - and what is being done to help.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Familiar faces and surprise chances as Ireland face Wallabies",
-       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwq6e88p619qo?at_medium=RSS&at_campaign=rss",
+       "title": "Why snooker could be the most mentally challenging sport",
+       "url": "https://www.bbc.co.uk/sport/snooker/articles/cm174wqxk8lpo?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "2:47 AM",
-     "headline": "Australia's sandpapergate probe to also include 2017-18 Ashes",
-     "summary": "Cricket Australia's fresh independent probe into the sandpapergate scandal has been widened to include the 2017-18 Ashes series against England.",
+     "time": "11:59 AM",
+     "headline": "Fantasy football rankings, projections, lineup advice, sleeper picks for Week 12 from proven model",
+     "summary": "SportsLine's model reveals its Week 12 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "Australia's sandpapergate probe to also include 2017-18 Ashes",
-       "url": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "Fantasy football rankings, projections, lineup advice, sleeper picks for Week 12 from proven model",
+       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineups-sleeper-picks-start-sit-advice-for-week-12-2026/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "2:17 AM",
-     "headline": "What makes or breaks a high press?",
-     "summary": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?",
+     "time": "11:55 AM",
+     "headline": "SportsLine Newsletter Friday, November 27, 2026",
+     "summary": "Today's best bets + Parlay of the Day + Aaron Rodgers fallout + USC-UCLA Saturday on CBS",
      "sources": [
       {
-       "outlet": "BBC Sport",
-       "title": "What makes or breaks a high press?",
-       "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
+       "outlet": "CBS Sports",
+       "title": "SportsLine Newsletter Friday, November 27, 2026",
+       "url": "https://www.cbssports.com/",
        "bias": 0
       }
      ]
     },
     {
      "date": "2026-11-27",
-     "time": "1:59 AM",
-     "headline": "Who am I? Plus today's other quizzes",
-     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+     "time": "11:51 AM",
+     "headline": "NFL DFS, Steelers vs. Broncos: Top daily Fantasy picks, lineups for the 2026 Black Friday game",
+     "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for Steelers vs. Broncos in the NFL Black Friday game",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "NFL DFS, Steelers vs. Broncos: Top daily Fantasy picks, lineups for the 2026 Black Friday game",
+       "url": "https://www.cbssports.com/betting/news/nfl-dfs-steelers-broncos-top-daily-fantasy-picks-lineups-fanduel-draftkings-2026-black-friday-game/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:45 AM",
+     "headline": "Golazo 11/27/2026",
+     "summary": "Elsewhere on the Golazo Starting XI newsletter",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Golazo 11/27/2026",
+       "url": "https://www.cbssports.com/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:45 AM",
+     "headline": "Nebraska vs. Iowa prediction, pick, odds, spread: No. 25 Huskers look to knock No. 13 Hawkeyes from CFP race",
+     "summary": "The Hawkeyes have Big Ten title game and playoff hopes on the line, while the Cornhuskers try to snap an 18-game road skid against ranked opponents",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Nebraska vs. Iowa prediction, pick, odds, spread: No. 25 Huskers look to knock No. 13 Hawkeyes from CFP race",
+       "url": "https://www.cbssports.com/college-football/news/nebraska-iowa-prediction-pick-odds-spread-where-to-watch/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:38 AM",
+     "headline": "Week 12 NFL score predictions, best picks today: Expert reveals exact scores for every game",
+     "summary": "SportsLine expert Eric Cohen reveals his score predictions for every remaining game on the Week 12 NFL schedule",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Week 12 NFL score predictions, best picks today: Expert reveals exact scores for every game",
+       "url": "https://www.cbssports.com/betting/news/nfl-score-predictions-picks-expert-best-bets-today-week-12-2026/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:30 AM",
+     "headline": "Tracking FBS conference championship scenarios: Big Ten, SEC still unsettled entering Week 13",
+     "summary": "It should be a chaotic weekend as conference title races come down to the wire",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Tracking FBS conference championship scenarios: Big Ten, SEC still unsettled entering Week 13",
+       "url": "https://www.cbssports.com/college-football/news/conference-championship-scenarios-2026-big-ten-sec-acc-big-12/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:29 AM",
+     "headline": "Broncos vs. Steelers prediction, odds, time: 2026 NFL Black Friday game picks by proven model",
+     "summary": "SportsLine's model reveals its Broncos vs. Steelers picks for Black Friday as Pittsburgh starts Mason Rudolph in place of the released Aaron Rodgers",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Broncos vs. Steelers prediction, odds, time: 2026 NFL Black Friday game picks by proven model",
+       "url": "https://www.cbssports.com/betting/news/broncos-steelers-prediction-odds-time-2026-nfl-black-friday-game-picks-bets/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:22 AM",
+     "headline": "Mike Brown downplays Knicks' win streak amid offensive struggles: 'Our s--- still does stink'",
+     "summary": "The Knicks rank just 13th in offensive rating, yet are riding a six-game win streak",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Mike Brown downplays Knicks' win streak amid offensive struggles: 'Our s--- still does stink'",
+       "url": "https://www.cbssports.com/nba/news/mike-brown-downplays-knicks-win-streak/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:22 AM",
+     "headline": "Week 12 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for NFL Black Friday",
+     "summary": "Top Week 12 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Week 12 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for NFL Black Friday",
+       "url": "https://www.cbssports.com/betting/news/week-12-nfl-betting-promos-get-nearly-4000-in-bonuses-from-betting-apps-sportsbooks-for-nfl-black-friday/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:15 AM",
+     "headline": "Week 12 NFL odds, lines, totals, spreads for every game, including Broncos-Steelers, 49ers-Seahawks",
+     "summary": "A look at the latest Week 12 NFL odds, spreads, and totals for all 16 games, including Steelers vs. Broncos on Black Friday",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Week 12 NFL odds, lines, totals, spreads for every game, including Broncos-Steelers, 49ers-Seahawks",
+       "url": "https://www.cbssports.com/betting/news/week-12-nfl-betting-lines-spreads-odds-totals/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:14 AM",
+     "headline": "Arsenal head coach Slegers leaves by mutual consent",
+     "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "Who am I? Plus today's other quizzes",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cwm251yne77ko?at_medium=RSS&at_campaign=rss",
+       "title": "Arsenal head coach Slegers leaves by mutual consent",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "time": "11:11 AM",
+     "headline": "Scoring each round of the Draymond Green vs. Eddie Johnson beef, which goes back further than you think",
+     "summary": "We're going round by round, and it's not looking good for one side in this ongoing public spat",
+     "sources": [
+      {
+       "outlet": "CBS Sports",
+       "title": "Scoring each round of the Draymond Green vs. Eddie Johnson beef, which goes back further than you think",
+       "url": "https://www.cbssports.com/nba/news/draymond-green-eddie-johnson-beef-scoring-each-round/",
        "bias": 0
       }
      ]
