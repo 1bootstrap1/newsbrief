@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:03:22Z",
+ "generated_at": "2026-11-27T23:06:51Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -257,6 +257,20 @@
     },
     {
      "date": "2026-11-27",
+     "time": "6:04 PM",
+     "headline": "Power being slowly restored as heavy Thanksgiving storm eases",
+     "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+     "sources": [
+      {
+       "outlet": "CBS News",
+       "title": "Power being slowly restored as heavy Thanksgiving storm eases",
+       "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
      "time": "5:50 PM",
      "headline": "\"Face the Nation with Margaret Brennan\" guests for Nov. 29, 2026",
      "summary": "This week's guests include Democratic Sen. Chris Van Hollen of Maryland and Kevin Hassett, director of the White House National Economic Council.",
@@ -434,20 +448,6 @@
        "title": "Lottery winner arrested by ICE days after claiming $1 million prize",
        "url": "https://www.nbcnews.com/video/lottery-winner-arrested-by-ice-days-after-claiming-1-million-prize-274280517581",
        "bias": -1
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "3:25 PM",
-     "headline": "Army deems lead azide detonation a success but criticism lingers over notification",
-     "summary": "So far, the EPA said there has continued to be \"zero\" airborne lead detected in the region since Wednesday's controlled detonation. While that's reassuring, residents and some elected officials have criticized the Army for not being more transparent and…",
-     "sources": [
-      {
-       "outlet": "PBS NewsHour",
-       "title": "Army deems lead azide detonation a success but criticism lingers over notification",
-       "url": "https://www.pbs.org/newshour/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification",
-       "bias": 0
       }
      ]
     }
@@ -864,12 +864,12 @@
     {
      "date": "2026-11-27",
      "time": "4:31 PM",
-     "headline": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+     "headline": "'You're not welcome here' - Chelsea fans turn on Fofana",
      "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
      "sources": [
       {
        "outlet": "BBC Sport",
-       "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+       "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
        "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
