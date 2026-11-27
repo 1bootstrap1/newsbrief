@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T12:02:29Z",
+ "generated_at": "2026-11-27T12:06:47Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -303,6 +303,20 @@
     },
     {
      "date": "2026-11-27",
+     "time": "6:59 AM",
+     "headline": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+     "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+     "sources": [
+      {
+       "outlet": "NPR",
+       "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+       "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+       "bias": -1
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
      "time": "6:47 AM",
      "headline": "Why Advent calendars are thriving in the ‘little treat’ economy",
      "summary": "Creators on TikTok and Instagram are helping to fuel the advent calendar craze, one review video at a time.",
@@ -454,20 +468,6 @@
        "bias": -1
       }
      ]
-    },
-    {
-     "date": "2026-11-27",
-     "time": "5:07 AM",
-     "headline": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
-     "summary": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
-     "sources": [
-      {
-       "outlet": "CBS News",
-       "title": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
-       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-       "bias": 0
-      }
-     ]
     }
    ]
   },
@@ -475,6 +475,20 @@
    "id": "local",
    "name": "Local: Cabarrus County & North Carolina",
    "items": [
+    {
+     "date": "2026-11-27",
+     "time": "6:58 AM",
+     "headline": "FORECAST: Chilly start, breezy day",
+     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
+     "sources": [
+      {
+       "outlet": "WSOC",
+       "title": "FORECAST: Chilly start, breezy day",
+       "url": "https://www.wsoctv.com/weather/forecasts/forecast-chilly-start-breezy-day/RZGVYZFY2FE5RJLYLRFFU43XE4/",
+       "bias": 0
+      }
+     ]
+    },
     {
      "date": "2026-11-27",
      "time": "6:55 AM",
@@ -673,20 +687,6 @@
        "outlet": "WBTV",
        "title": "Pounding waves tear apart fishing pier in Virginia Beach",
        "url": "https://www.wbtv.com/2026/11/26/pounding-waves-tear-apart-fishing-pier-virginia-beach/",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "time": "5:13 PM",
-     "headline": "FORECAST: Clear shopping weekend ahead",
-     "summary": "To stay on top of changing weather conditions be sure to download our free WSOC-TV Weather app.",
-     "sources": [
-      {
-       "outlet": "WSOC",
-       "title": "FORECAST: Clear shopping weekend ahead",
-       "url": "https://www.wsoctv.com/weather/forecasts/forecast-clear-shopping-weekend-ahead/ZTPPJVSENVCZLBM5OTHHIGNCY4/",
        "bias": 0
       }
      ]
