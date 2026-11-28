@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T11:54:29Z",
+ "generated_at": "2026-11-28T11:56:49Z",
  "window_days": 3,
  "feed_status": {
   "ok": 19,
@@ -669,6 +669,20 @@
    "items": [
     {
      "date": "2026-11-28",
+     "time": "6:53 AM",
+     "headline": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+     "summary": "Cole Palmer's dip in form mirrors Chelsea's recent slump and his frustration was evident after his side's recent defeat against Leeds - but will he ever get back to his best?",
+     "sources": [
+      {
+       "outlet": "BBC Sport",
+       "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
+       "bias": 0
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
      "time": "6:43 AM",
      "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
      "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
@@ -859,20 +873,6 @@
        "outlet": "BBC Sport",
        "title": "How a football team rebuilt after 19 players died in plane crash",
        "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
-       "bias": 0
-      }
-     ]
-    },
-    {
-     "date": "2026-11-28",
-     "time": "1:17 AM",
-     "headline": "Are these three brothers British skiing's next family dynasty?",
-     "summary": "With their Olympian mum and ski instructor dad as their coaches, Freddy, Zak and Luca Carrick-Smith are tipped as British skiing's next big things.",
-     "sources": [
-      {
-       "outlet": "BBC Sport",
-       "title": "Are these three brothers British skiing's next family dynasty?",
-       "url": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss",
        "bias": 0
       }
      ]
